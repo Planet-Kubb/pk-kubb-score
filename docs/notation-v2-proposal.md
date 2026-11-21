@@ -26,11 +26,12 @@ review.
 - **The turn line says what happened, and does not change.** A scorer who writes nothing else has
   recorded the game.
 - **Positions go on lines of their own under the turn line**, one question to a line. The line
-  people write is the pitch line: `@b 5x40 03p 20p` is Team B's half with five kubbs in cell 40
-  and a punishment kubb in each of cells 03 and 20. Three more kinds of line are for programs:
+  people write is the pitch line: `@b 5x4,0 0,3p 2,0p` is Team B's half with five kubbs in cell
+  4,0 and a punishment kubb in each of cells 0,3 and 2,0. Three more kinds of line are for
+  programs:
   where each kubb lay, where each thrower stood, and which kubbs each baton felled.
-- **A cell is two digits, across then depth. A point is two numbers with two decimals each.**
-  Dropping the decimals of a point gives its cell.
+- **A position is across, a comma, depth.** Whole numbers are a one-metre cell (`4,1`); two
+  decimals each are a point (`4.31,1.42`). Dropping the decimals of a point gives its cell.
 - **One frame for the whole game**: across from the centre-line stake on Team A's left, 0 to 5;
   depth from the centre line, 0 to 4; `a` or `b` for the half, written once at the start of each
   position line.
@@ -175,18 +176,19 @@ Across is what the engine already writes as x. Only its y changes, into a side a
 
 - A **whole number is a cell**, one metre square. Across cell `2` covers 2 up to but not
   including 3. Depth cell `0` is the metre next to the centre line. There are 5 cells across
-  (`0` to `4`) and 4 deep on each side (`0` to `3`). A cell is written as its two digits, across
-  then depth, like a map reference: `40` is the cell at across 4 beside the centre line, and `03`
-  is the back corner at across 0. The king stands in the middle of across cell 2, on the line
-  between cell `20` of one half and cell `20` of the other.
-- A **number with two decimals is a point**, written across, a comma, depth: `1.32,1.87`. Always
-  exactly two decimals, in both forms. Across runs `0.00` to `5.00`, depth `0.00` to `4.00`.
+  (`0` to `4`) and 4 deep on each side (`0` to `3`). A cell is written across, a comma, depth:
+  `4,0` is the cell at across 4 beside the centre line, and `0,3` is the back corner at across
+  0. The king stands in the middle of across cell 2, on the line between cell `2,0` of one half
+  and cell `2,0` of the other.
+- A **number with two decimals is a point**, written the same way: `1.32,1.87`. Always exactly
+  two decimals, in both forms. Across runs `0.00` to `5.00`, depth `0.00` to `4.00`. A cell and
+  a point have one shape, so a person's line and a program's line read alike.
 - **Rounding**: a writer rounds to the nearest centimetre, and a value exactly half way goes to
   the even centimetre (`1.125` is written `1.12`, `1.375` is `1.38`). That is what C's and Lua's
   `%.2f` give. JavaScript's `toFixed` gives `1.13` for the first, so a JavaScript writer cannot
   use it as it stands. A zero never has a minus sign.
-- **Coarsening**: a point's cell is the point with its decimals and its comma dropped, so
-  `4.61,0.12` is in cell `40`. The two far edges belong to the last cell: across `5.00` is in
+- **Coarsening**: a point's cell is the point with its decimals dropped, so `4.61,0.12` is in
+  cell `4,0`. The two far edges belong to the last cell: across `5.00` is in
   cell 4 and depth `4.00` is in cell 3. So a base kubb, which stands on its baseline at depth
   `4.00`, is in depth cell 3. Coarsening works on the written point, so a file's cells depend on
   the file alone.
@@ -196,8 +198,8 @@ Across is what the engine already writes as x. Only its y changes, into a side a
 - A cell is an area. A program that needs somewhere to draw it may use its centre, but must not
   write that centre back as a point.
 
-The grammar enforces the ranges. `50`, `24`, `1.3,2.0` and `6.20,1.00` are errors on a pitch
-line.
+The grammar enforces the ranges. `5,0`, `2,4`, `1.3,2.0`, `4.31,1` and `6.20,1.00` are errors
+on a pitch line.
 
 ## Position lines
 
@@ -222,14 +224,14 @@ StanceLine  = "^" Half (" " (StancePoint / "-"))+
 FelledLine  = "*" Half (" " (Felled ("+" Felled)* / "-"))+
 Felled      = (Count "x")? Cell  /  Point
 Half        = "a" / "b"
-Cell        = [0-4] [0-3]
+Cell        = [0-4] "," [0-3]
 Point       = Across "," Depth
 Across      = [0-4] "." [0-9] [0-9]  /  "5.00"
 Depth       = [0-3] "." [0-9] [0-9]  /  "4.00"
 ```
 
-A position is spelled one way wherever it appears: a cell as two digits, a point as two numbers
-and a comma. The half is never part of a position. It is written once, at the start of the line,
+A position is spelled one way wherever it appears: across, a comma, depth. The half is never
+part of a position. It is written once, at the start of the line,
 and it is always written: no line's half is left to be worked out from whose turn it is, because
 16 archived games had that wrong on the wiki.
 
@@ -240,14 +242,14 @@ and reads the rest exactly as notation 1.
 
 ```
 9. a:7I2R2P d:3F d:2F a:F a:- y:F c:B
-@b 5x40 03p 20p
+@b 5x4,0 0,3p 2,0p
 ```
 
 - It lists **every field kubb standing in that half** when the first baton is thrown: the kubbs
   thrown in this turn, the punishment kubbs, and any left standing from earlier turns. It is what
   the batons face. Write the whole half or leave the line out; a half with no field kubbs has no
   line.
-- **Kubbs that share a cell are a count**: `5x40` is five kubbs in cell 40. Counts run from 2 to
+- **Kubbs that share a cell are a count**: `5x4,0` is five kubbs in cell 4,0. Counts run from 2 to
   10, and a count of one is not written. Points take no count, since each kubb has its own.
 - **A letter after an entry says how the kubb came to be there.** No letter: thrown in this
   turn. `p`: placed this turn as a punishment kubb. `s`: standing since an earlier turn. Most
@@ -322,7 +324,7 @@ kubb, not notation.
 **The felled line, `*`.** One word for each baton token, in order: where each kubb that baton
 felled stood, joined by `+`, or `-`. Field kubbs come first and base kubbs after, as in the
 token. A word gives all of its token's kubbs or is `-`. A base kubb stands at depth `4.00`. The
-king has no position. In cells, kubbs from one cell take a count: `3x40`.
+king has no position. In cells, kubbs from one cell take a count: `3x4,0`.
 
 ```
 *b 4.48,0.11+4.52,0.34+4.63,0.22 4.60,0.03+4.97,0.14 2.50,0.35 - 0.40,3.80 1.50,4.00
@@ -351,7 +353,7 @@ centre-line coordinates. In the canonical form parentheses are not allowed at al
 In the other direction, today's grammar rejects a position line at its first character (checked
 for all four marks), so a notation 1 parser fails on a notation 2 file instead of misreading it.
 Today's `kubb.js` is tolerant and does not fail: it takes a position line for an extra turn,
-reads `03p` as three punishment kubbs, and hands every later turn to the wrong team. The grammar
+reads `0,3p` as kubbs thrown in, and hands every later turn to the wrong team. The grammar
 is the gate, as it is now. Stage two replaces this repository's `kubb.js`, and the three places
 that vendor it must sync before they are given a notation 2 file.
 
@@ -366,14 +368,14 @@ that vendor it must sync before they are given a notation 2 file.
 ## On paper
 
 A scorer writes the turn line as they always have. To record the pitch they add a line under it:
-`@`, the half, and two digits for each kubb or group of kubbs. "Five in the corner cell on the
+`@`, the half, and a cell for each kubb or group of kubbs. "Five in the corner cell on the
 centre line, a punishment kubb in the back corner and another behind the king" is
-`@b 5x40 03p 20p`.
+`@b 5x4,0 0,3p 2,0p`.
 Nobody measures centimetres with a clipboard, so paper uses cells.
 
 A future scoresheet can print a small 5 by 8 grid beside each turn, marked with the origin stake
 and the two halves. The scorer puts a dot where each kubb stands, and typing the dots in is
-reading off two digits a dot. The scoresheet is a separate piece of work.
+reading off a cell a dot. The scoresheet is a separate piece of work.
 
 ## Worked examples
 
@@ -397,7 +399,7 @@ left it means, which the note never did:
 
 ```
 9. a:7I2R2P d:3F d:2F a:F a:- y:F c:B
-@b 5x40 03p 20p
+@b 5x4,0 0,3p 2,0p
 ```
 
 **The same seven kubbs to the centimetre**, as a program would write them (made up for
@@ -408,7 +410,7 @@ illustration):
 @b 4.48,0.11 4.52,0.34 4.60,0.03 4.63,0.22 4.97,0.14 0.40,3.80p 2.50,0.35p
 ```
 
-Dropping the decimals gives back `@b 5x40 03p 20p`.
+Dropping the decimals gives back `@b 5x4,0 0,3p 2,0p`.
 
 **With every program line.** The third kubb lay over the centre line and the fifth over the
 sideline. The last thrower stood a quarter of a metre behind the baseline:
@@ -425,8 +427,8 @@ Coarsened to cells, the pitch line and the felled line stay and the other two go
 
 ```
 9. a:7I2R2P d:3F d:2F a:F a:- y:F c:B
-@b 5x40 03p 20p
-*b 3x40 2x40 20 - 03 13
+@b 5x4,0 0,3p 2,0p
+*b 3x4,0 2x4,0 2,0 - 0,3 1,3
 ```
 
 For comparison, the first draft wrote the pitch line's facts inside the turn line, as one word:
@@ -450,9 +452,9 @@ Coarsened, with the stance line gone:
 
 ```
 4. k:2I A s:2F s:- k:B k:- s:- k:-
-@a 10 21
-@b 31s
-*a 10+21 - 23 - - -
+@a 1,0 2,1
+@b 3,1s
+*a 1,0+2,1 - 2,3 - - -
 ```
 
 **What the engine writes today, and the same turn in notation 2** (from the engine's own notes):
@@ -503,13 +505,12 @@ that making its output canonical changes nothing.
    batons face, what sets an advantage line, and the only meaning that fits a punishment kubb or
    a toppled kubb. That is the pitch line. Where it lay is the lay line, which only a program
    writes.
-4. **Whole number against decimal.** A whole number is the one-metre cell, and a cell is two
-   digits; two decimals are a point; drop the decimals to coarsen, with the far edges in the
-   last cell.
+4. **Whole number against decimal.** Whole numbers are the one-metre cell (`4,1`); two decimals
+   are a point (`4.31,1.42`); drop the decimals to coarsen, with the far edges in the last cell.
 5. **Syntax.** Its own: lines of positions under an unchanged turn line, each starting with a
    mark and the half. Old `(@ ...)` is a plain comment in the lenient form and not allowed in
    the canonical one.
-6. **On paper.** The turn line as always, and under it `@`, the half and two digits a kubb. The
+6. **On paper.** The turn line as always, and under it `@`, the half and a cell a kubb. The
    marks parse as written.
 
 ## Issue 5, requirement by requirement
@@ -666,7 +667,8 @@ repair is never mistaken for valid notation.
    thrown from, `*` felled. This is the part hardest to change later.
 2. **The pitch line is the whole half**: every field kubb, with no letter for a kubb thrown this
    turn, `p` for a punishment kubb and `s` for one left from an earlier turn.
-3. **A cell is two digits and a point is two numbers with a comma**, the half written once at
+3. **A position is across, a comma, depth**, whole numbers for a cell and two decimals for a
+   point (Jamie, 2026-11-21: `4,1`, not `41`), the half written once at
    the start of the line and never left out.
 4. **The canonical form drops the number on `A`**, and an advantage line's place is read off the
    pitch line for the attacker's own half.
