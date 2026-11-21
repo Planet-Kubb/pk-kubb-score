@@ -1,0 +1,22 @@
+[Event "2015 U.S. National Kubb Championship"]
+[Location "Eau Claire"]
+[Start "2015-07-11"]
+[Team A "King Pin"]
+[Team A Players "JP (jp), Pat (pat), Jeremiah (jeremiah)"]
+[Team B "Damage Inc"]
+[Team B Players "Grant Scott (grant_scott), Gregg (gregg), Darren (darren)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "jimbernard"]
+[Entered by "garrickvanburen"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2015_U.S._National_Kubb_Championship_Quarterfinals_Game_2_King_Pin_vs_Damage_Inc"]
+
+1. jp:1B jeremiah:1B
+2. darren:2I grant_scott:2F grant_scott:1B gregg:- darren:1B
+3. pat:4I1R pat:2F pat:- jp:1F jp:1F jeremiah:- jeremiah:-
+4. darren:4I2R grant_scott:3F grant_scott:1F gregg:1B gregg:- darren:1B darren:-
+5. pat:6I1R pat:2F pat:- jp:2F jp:2F jeremiah:1B jeremiah:1B
+6. darren:8I grant_scott:2F grant_scott:4F gregg:1F gregg:1F darren:- darren:1B
+7. pat:9I pat:2F pat:1F jp:3F jp:2F jeremiah:- jeremiah:-
+8. darren:8I1R grant_scott:3F gregg:2F gregg:2F grant_scott:1F darren:K

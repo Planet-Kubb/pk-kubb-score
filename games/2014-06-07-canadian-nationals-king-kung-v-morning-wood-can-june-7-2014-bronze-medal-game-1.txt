@@ -1,0 +1,31 @@
+[Event "Canadian National Kubb Championship 2014"]
+[Location "Ottawa, ON, Canada"]
+[Start "2014-06-07"]
+[Surface "Grass"]
+[Team A "Morning Wood CAN"]
+[Team A Players "Mark Simmons (m), Nick Hannah (n)"]
+[Team B "King Kung"]
+[Team B Players "Steve McDiarmid (s), Chris McDiarmid (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Shane Hultquist"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Canadian_Nationals,_King_Kung_v._Morning_Wood_(CAN)_,_June_7_2014_Bronze_Medal_Game_1"]
+
+1. m:0I m:- m:- m:- n:- n:B n:-
+2. s:1I s:F s:- s:B c:B c:B c:-
+3. m:4I n:- n:- n:- m:F m:2F m:F
+4. s:4I s:- s:2F s:2F c:- c:- c:-
+5. m:4I m:- m:3F m:F n:- n:B n:B
+6. s:6I2R1P s:F s:F s:- c:F c:- c:-
+7. m:3I A n:F n:F n:F m:- m:- m:-
+8. s:3I s:F s:F s:F c:- c:F c:-
+9. m:4I A n:F n:F n:F m:F m:- m:-
+10. s:4I s:F s:F s:F c:F c:- c:-
+11. m:4I A m:- m:F m:F n:F n:F n:-
+12. s:4I s:2F s:2F s:- c:- c:- c:-
+13. m:4I m:2F m:F m:F n:- n:B n:-
+14. s:5I s:F s:F s:- c:- c:2F c:-
+15. m:4I1R A n:F n:F n:- m:F m:F m:B
+16. s:5I1R1Q s:F s:F s:- c:F c:F c:-
+17. m:4I1R n:F n:F n:F m:F m:K -

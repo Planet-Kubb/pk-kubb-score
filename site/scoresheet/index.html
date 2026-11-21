@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Planet Kubb Scoresheet</title>
+<meta name="description" content="Download the printable Planet Kubb Scoresheet (v11) for scoring kubb games throw by throw, with on-pitch stats. Earlier versions are here too.">
+<meta name="theme-color" content="#fbf7ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17140f" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='3' y='1' width='6' height='14' rx='1' fill='%235c3a21'/%3E%3Crect x='10' y='5' width='4' height='10' rx='1' fill='%232f6b3a'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="site-head"><div class="wrap">
+  <a class="brand" href="/">Planet Kubb <span>Score</span></a>
+  <nav><a href="/notation/">Notation</a><a href="/spec/">Grammar</a><a href="/scoresheet/" aria-current="page">Scoresheet</a><a href="/stats/">Stats</a></nav>
+</div></header>
+
+<main><div class="wrap wide">
+  <h1>Planet Kubb Scoresheet</h1>
+  <p class="lede">One landscape page for one game, with a row per turn and a box per baton, written in the <a href="/notation/">notation</a>.</p>
+  <p><a class="button" href="/scoresheet/planet-kubb-scoresheet-v11.pdf" download>Download the scoresheet (PDF, v11)</a></p>
+  <div class="sheet"><a href="/scoresheet/planet-kubb-scoresheet-v11.pdf"><img src="/scoresheet/planet-kubb-scoresheet-v11.png" width="1600" height="1173" alt="The Planet Kubb Scoresheet, version 11: team rosters on the left, twenty turn rows split between the opening and answering teams, and a stats section along the bottom."></a></div>
+
+  <div class="wrap" style="padding:0;margin:0;max-width:760px">
+  <h2>Using it</h2>
+  <ul>
+    <li>Fill in both teams on the left: each player's name and the identifier you'll use for them. Tick which team opened and which won the king toss.</li>
+    <li>The opening team's turns go in the left column and the answering team's in the right. Each row has a box for the advantage line, a box for the inkast, and six boxes for batons.</li>
+    <li>When a team clears its last field kubb and moves on to the baseline, connect the small gaps between the boxes with a thick line. That makes batons to clear (BTC) easy to see.</li>
+    <li>The numbers above each row (T6, T12, T18 and so on) are the throw count at the end of that turn, so you don't have to count batons to find a throw number.</li>
+    <li>The legend in the bottom left lists every code. The <a href="/notation/">notation page</a> has the details.</li>
+  </ul>
+
+  <h2>The stats at the bottom</h2>
+  <p>Garrick and Jamie picked three numbers in 2013 that capture most of a team's game, and the scoresheet has room to work them out on the pitch:</p>
+  <dl class="codes">
+    <dt>Efficiency %</dt><dd>First-baton efficiency: <code>sum(F@1) / sum(I)</code>, the share of a team's thrown-in kubbs that its first baton of each turn knocks down. High numbers mean the inkaster and blaster work well together.</dd>
+    <dt>0B@T#</dt><dd>Zero base kubbs at throw number: the team's throw count when the other team's last base kubb falls. It shows how quickly a team gets through the field to the baseline. Five is the best possible.</dd>
+    <dt>Hit %</dt><dd><code>(T - sum(-)) / T</code>: the share of a team's batons that knock something over. Elite teams are above 50%.</dd>
+  </dl>
+  <p>The <a href="/stats/">Stats</a> page works all three out for you, along with batons to clear and the rest.</p>
+
+  <h2>Earlier versions</h2>
+  <p>Each year of championship scoring turned up improvements. Version 10 was dramatically cleaned up, and v10 with stats turned the sheet sideways and added the stats section.</p>
+  <ul class="versions">
+    <li><a href="/scoresheet/planet-kubb-scoresheet-v10-stats.pdf"><img src="/scoresheet/planet-kubb-scoresheet-v10-stats.png" alt="Scoresheet version 10 with stats" loading="lazy"><b>v10 + stats</b>October 2013. The PDF planetkubb.com links to.</a></li>
+    <li><a href="/scoresheet/planet-kubb-scoresheet-v10.pdf"><img src="/scoresheet/planet-kubb-scoresheet-v10.png" alt="Scoresheet version 10" loading="lazy"><b>v10</b>February 2013</a></li>
+    <li><a href="/scoresheet/planet-kubb-scoresheet-v3.pdf"><img src="/scoresheet/planet-kubb-scoresheet-v3.png" alt="Scoresheet version 3" loading="lazy"><b>v3</b>July 2012</a></li>
+    <li><a href="/scoresheet/planet-kubb-scoresheet-v2.pdf"><img src="/scoresheet/planet-kubb-scoresheet-v2.png" alt="Scoresheet version 2" loading="lazy"><b>v2</b>July 2012</a></li>
+  </ul>
+  </div>
+</div></main>
+
+<footer class="site-foot"><div class="wrap">
+  <p>Planet Kubb Scoresheet by Jamie Thingelstad and Garrick van Buren, licensed CC BY-SA. The OmniGraffle source for v11 is in the <a href="https://github.com/Planet-Kubb/scoring">Planet-Kubb/scoring</a> repository.</p>
+</div></footer>
+</body>
+</html>

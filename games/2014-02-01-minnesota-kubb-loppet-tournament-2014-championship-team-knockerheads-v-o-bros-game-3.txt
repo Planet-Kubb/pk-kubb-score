@@ -1,0 +1,25 @@
+[Event "Minnesota Kubb Loppet Tournament 2014"]
+[Location "Minneapolis, MN"]
+[Start "2014-02-01"]
+[Surface "Snow"]
+[Team A "O Bros"]
+[Team A Players "John Oman (o), Mark Oman (m)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Josh Feathers (j), Grant Scott (g), Evan Fitzgerald (e), Chris Hodges (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=fnotQYAdjYg&feature=youtube_gdata"]
+[Video offset "13:14"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Minnesota_Kubb_Loppet_Tournament_2014_Championship_Team_Knockerheads_v._O_Bros/Game_3"]
+
+1. 0I o:- o:- o:- m:B m:B m:-
+2. j:2I j:2F e:B e:- g:- g:- g:B
+3. o:4I o:2F o:F o:F m:- m:B m:-
+4. j:5IR j:4F c:F g:- e:- e:- g:-
+5. o:5I o:2F o:2F o:F m:- m:- m:-
+6. j:5I j:2F j:2F c:- c:F g:B g:-
+7. o:6I o:2F o:3F o:F m:- m:B m:-
+8. j:7I j:4F c:- e:2F e:F g:B g:-
+9. o:8IR o:4F o:2F o:F m:F m:B m:K

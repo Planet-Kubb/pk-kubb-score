@@ -1,0 +1,20 @@
+[Event "Madison Midsommar Kubb Tournament"]
+[Location "Madison, WI"]
+[Start "2012-06-09"]
+[Team A "The Ringers"]
+[Team A Players "Dave Ellringer (de), Eric Anderson (ea), Aaron Ellringer (ae)"]
+[Team B "Kubb Snipers"]
+[Team B Players "Chad Bevers (cb), Chad Parsons (cp)"]
+[First "Team A"]
+[Win "Team B"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Madison_Midsommar_Kubb_Tournament_2012_Final/Game_1"]
+
+1. 0I de:- de:B ea:- ea:- ae:B ae:B
+2. 3I cp:F cp:2F cp:- cb:B cb:B cb:B
+3. 6I de:2F de:F ea:F ea:F ae:F ae:B
+4. 7I cb:4F cp:- cp:- cp:2F cb:- cb:F
+5. 7I de:2F de:3F ea:- ea:F ae:F ae:B # Clear Pitch
+6. 8I cp:3F cp:3F cp:2F cb:F cb:B cb:-
+7. 9I de:4F de:2F ea:F ea:F ae:- ae:-
+8. 8I A cb:4F cb:3F cp:F cp:B cb:K X # Kubb Snipers win Game One

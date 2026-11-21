@@ -1,0 +1,239 @@
+<!-- Notation | last edited 2012-08-14T21:54:12Z | 85 revisions | wiki.planetkubb.com -->
+__NOTOC__This notation system is intended to allow people to record the actions of a Kubb game to archive the game, share the action as it happens or afterwards with others and to calculate game statistics.
+
+The goals of this scoring system for Kubb include:
+# An easy notation system using nothing but standard text.
+# The notation should be scalable so it works for games tracking player by player details, or simple for games with less detail.
+# Envision something that could be sent over Twitter so people could virtually watch a game turn by turn, tweet by tweet.
+# It should be language neutral so Kubb games can easily be shared globally.
+
+=== Structure ===
+
+An example of the basic anatomy of the Kubb notation is shown below.
+
+[[Image:Kubb notation diagram.png]]
+
+=== Notation Keys ===
+
+{| cellpadding=5 |
+! valign=top width=100px |n.
+|Indicates the turn number of the move. Must be the first thing in the turn. This is an optional item but must be the first thing in the notation, and it '''must''' be followed by a period.
+|}
+
+'''Inkast'''
+{| cellpadding=5 |
+|-
+! valign=top  width=100px |I
+|Indicates the number of kubbs inkast
+|-
+! valign=top |R
+|Indicates the number of kubbs rethrown because they landed out of bounds.
+|-
+! valign=top |P
+|Indicates the number of [[punishment kubb|punishment kubbs]] thrown (kubbs thrown out of bounds twice). If during the process of rethrowing a kubb another kubb is knocked out and requires a rethrow the rethrow number should just be adjusted to reflect the additional kubb knocked out.
+|-
+! valign=top |Q
+|Indicates the number of previously established field kubbs (i.e. field kubbs in play not previously thrown this turn) purposely knocked out of bounds by the inkastare with intention of rethrowing for better placement.
+|}
+'''Advantage Line'''
+{| cellpadding=5 |
+|-
+! valign=top  width=100px |A
+|Indicates the team is throwing from an advantage line. This should only be indicated in the beginning of the turn notation, following the number of kubbs thrown. Optional: denote approximately where the advantage line is on the field; BA = closer to the baseline, MA = closer to midfield (~2 meters), CA = closer to the centerline.
+|-
+|}
+
+'''Batons'''
+{| cellpadding=5 |
+|-
+! valign=top  width=100px | -
+|Miss, baton did not knock anything down.
+|-
+! valign=top |B
+|Base kubb knocked down. An integer can be placed in front of this to indicate multiple base kubbs knocked down. For example, 2b indicates two base kubbs down.
+|-
+! valign=top |F
+|Knocking a field kubb down. An integer can be placed in front of this to indicate multiple kubbs knocked down. For example, 3F indicates three field kubbs down.
+|-
+! valign=top |K
+|King hit. Attacking team has now won the game.
+|-
+! valign=top |=
+|Missed King Shot. Attacking team threw at the king but missed.
+|-
+! valign=top |X
+|Unthrown baton. If the team wins or loses the game in mid turn any unthrown batons are marked so statistics are not impacted by unthrown batons.
+|-
+! valign=top |!
+|Illegal King hit, attacking team loses.
+|-
+! valign=top |Z
+|Illegal throw. This could be called for a "helicopter" throw, foot over the line or any other reason that makes a baton illegal.
+|-
+! valign=top |#
+|Indicates a note for the turn being described.  Everything after this character should be treated as a pure description of what happened. This is optional and must be the last item in the string.
+|-
+! valign=top |(space)
+|Separator between actions.
+|}
+
+A number before the notation indicates multiple. So one baton hitting three field kubbs is "3F". Combinations are also possible, for example a field kubb that then takes a base kubb down is "FB". If there were two field kubbs that then take a base kubb that would be "2FB". Only F and B have a number applied to them.
+
+It is legal to separate the fields in the notation using a space (" "), comma (",") or a forward-slash ("/"). It is best to be consistent throughout the notation, but not required.
+
+It is recommended, but not required, to use lowercase letters to denote players and uppercase letters to denote their actions.
+
+=== Examples ===
+
+Here we will look at a number of sample turn notations and describe what they reflect.
+
+Let's first start with a mythical game that only has one turn, a perfect game.
+
+B B B B B K
+
+This is the simplest notation possible for this perfect game. Here are a number of other ways to express this that all mean the exact same thing, but show some variety in notation.
+
+ 0 B B B B B K
+
+ 1. B B B B B K
+
+ 1. 0 B B B B B K # Perfect game!
+
+ 1. jt:B jt:B gv:B gv:B jt:B gv:K # Perfect game, Garrick takes the king!
+
+ 0 jt:B jt:B gv:B gv:B jt:B gv:K # Perfect game, Garrick takes the king!
+
+ 0 jtB jtB gvB gvB jtB gvK # Perfect game, Garrick takes the king!
+
+All of these examples are exactly the same thing as the very first perfect game above. There are some differences in information though.
+
+* The very first example just clarifies that this team threw 0 kubbs in before the turn.
+* The 2nd, 3rd and 4th examples clarify that this if the very first turn of the game.
+* The 3rd example clarifies there were 0 kubbs thrown in before the turn, and adds a note exclaiming the perfect game!
+* The 4th and 5th examples add player identification so we know who threw what.
+* The 6th example also uses player identification but omits the optional separator in the notation. This is valid, but harder to parse for both people and computers.
+
+Let's look at some other examples.
+
+ 7. 3 2F F - B B = # Missed king shot!
+
+Here we know that it is the 7th turn of the game. The team attacking threw 3 Kubbs in. They are throwing from the baseline. They hit 2 field Kubbs in the first throw and cleaned the 3rd Kubb up in the second throw. They then missed a throw. After that, on the 4th baton, they hit a base Kubb followed by another base Kubb hit in the 5th baton. At this point they have a shot at the King, and they miss. We do not know what players threw what batons, there is no player notation here.
+
+ 14. jt:2I A jt:2F jt:B gv:= gv:K X X # Missed king shot but batons left over to win. Two batons spare!
+
+Here we know it is the 14th turn of the game. JT on the attacking team threw 2 kubbs to start and they are throwing from an advantage line (the defending team left field kubbs). The first throw from JT knocks the 2 field kubbs that he threw to start with. JT then hits a baseline Kubb. At this point GV takes a king shot and they miss. They still have three batons, so GV shoots at the king again and hits this time, winning the game. They still had two batons left that go unused.
+
+ 5. i - - Q X X X # OMG! They hit the king!
+
+Here we know it is the 5th turn of the game and the attacking team threw in 1 kubb. They are throwing from the baseline. They miss on batons 1 and 2. They then throw the 3rd baton and have a disaster, they accidentally knock the King over and lose. Game over. They do not throw the last three Kubbs. "OMG! They hit the king!" is added as a note for this turn.
+
+=== Game Example ===
+
+Now let's look at an entire game and break it down.
+
+<pre>
+1. 0I jt:- jt:- g:B g:- jt:- g:-
+2. d:I d:- d:- d:- jf:- jf:- jf:F
+3. j:I g:F g:- jt:- jt:- g:- jt:-
+4. d:I d:F d:- d:B jf:- jf:- jf:-
+5. j:2I jt:- jt:- g:F g:- jt:- g:-
+6. d:I BA jf:- d:- d:- d:F jf:B jf:-
+7. g:2I g:- g:- jt:F jt:F g:F jt:-
+8. d:3I jf:- d:- jf:- d:- jf:2F d:-
+9. j:2I MA jt:F jt:F g:B g:- g:- jt:B
+10. d:4I d:3F d:F jf:- d:F jf:- jf:B
+11. g:6I g:4F g:- jt:F jt:- g:F jt:- # Great grouping by Garrick.
+12. d:6I d:F jf:- d:F d:3F jf:F jf:-
+13. j:6I jt:4F jt:F g:- g:- jt:- g:- # nice blast on t1
+14. d:5I A d:F d:F jf:F d:2F jf:- jf:B
+15. g:6I g:F g:3F jt:F jt:F g:- jt:-
+16. d:6I A d:3F jf:F d:F d:F jf:- jf:B
+17. j:7I jt:2F jt:2F g:F g:F jt:- g:F
+18. d:7I BA d:6F d:F jf:= jf:K X X # great grouping From Dobbie.
+</pre>
+
+Before we look at the turns we know a few things right away. The game had 18 turns, or 9 rounds. This game is using player notation so I can see that there are four players in the game (g, jt, d, jf). Now, let's look at the game turn by turn. It might be helpful to align two copies of this so you can read the notation above and then read the text description below, line by line.
+
+# First turn G knocks one base kubb down.
+# Team throws one Kubb. They barely escape a bad situation with JF finally picking up the field kubb on the last baton, avoiding an early advantage line for the other team.
+# Single kubb in play is thrown in. G knocks it over on the first baton, they start attacking baseline but they miss on all 5 batons.
+# Single kubb thrown. D hits it on the first baton. D also takes a baseline on third baton. JF misses all three batons.
+# Two kubbs in play now. Team has a bad turn. G knocks one field kubb down but team leaves 1 field kubb out there, leaving advantage line.
+# Single kubb thrown and team is throwing from an advantage line, but little advantage taken. Takes 4 batons before D knocks field kubb over, and JF follows with a base kubb and a miss.
+# Two kubbs are thrown, team still has a field Kubb they left from previous turn. G misses first two batons. JT hits two fields in next two batons. G clears third field kubb. JT misses an attack on baseline.
+# Three field kubbs thrown, advantage line is gone. Only one baton hits, JF's last throw taking two field kubbs. Advantage line left.
+# Team throws two kubbs and has an advantage line. JT takes two fields out with first two batons. G takes a baseline and then misses next two batons. JT takes another baseline on final baton.
+# Team throws 4 kubbs in play. D hits three fields on first baton, nicely done. D clears 4th field on 2nd baton. One field remains from the advantage line that D clears in third baton. JF misses two throws and takes a base on final baton.
+# Team throws 6 kubbs and is attacking from baseline. G gets four fields on first baton, noting the great grouping from the notes. G misses and JT then takes a field and misses. G takes a final field. JT goes for base kubb but misses.
+# Team throws 6 kubbs. D takes a single field kubb. JF misses. D takes another single field kubb. D then takes 3 fields in one baton. JF cleans with a final field and misses a baseline shot on final baton.
+# Team throws 6 kubbs. JT hits a quad on first throw (noting the "nice blast on throw 1"). JT follows with another field kubb. The team then goes dry and misses 4 batons in a row, leaving an advantage line. Critical blow.
+# Team throws 5 kubbs and has an advantage line. D takes a field on baton 1, and another on baton 2. JF takes a field. D takes a double leaving JF to attack the baseline. JF takes a baseline on the final baton.
+# Team throws 6 kubbs in, but left one from last round as well. G takes a field and on 2nd baton takes a triple, three fields. JT takes a field and another field. Team misses final two batons.
+# Team throws 6 kubbs and has another advantage line. D takes a triple on first baton. JF takes a single field, as does D on next two batons. JF is free to attack base and takes final baseline out on last baton.
+# Team throws 7 kubbs. JT hits two doubles in first two batons, taking 4 field kubbs. G takes a single and a single. JT misses on 3rd baton. G takes a field but advantage line is left.
+# Team throws 7 kubbs and has an advantage line. D hits a stunning six fields on first baton (note great grouping). Then D takes a single. Field is left for a King attach. JF attacks king on baton 4 but misses! No worries with three batons left. JF takes king on 4th baton and wins the game. Final two batons are unused in this turn.
+
+Note that this would all be valid without player notation as well. One could remove "d:", "jf:", "g:" and "jt:" from all of the moves and you would have the same game. However, if player notation is not included there is no way to determine individual player statistics.
+
+The game shown above is a real game, and you can reference the [[media:Friendly, Garrick and Jamie v. Dobbie and Jaime (July 10, 2012) Scoresheet.pdf|handwritten scoresheet]] that was recorded during the game for comparison.
+
+=== Metadata ===
+
+Games could easily be stored in a simple text file. It is worthwhile to have metadata for the game as well. Any metadata can be attached to the game using the format shown here. There are no limitations here, put whatever you want in.
+
+<pre>
+[Event "Twin Cities Winter Tournament 2012"]
+[Location "Minneapolis, MN, USA"]
+[Start "1/20/2012 1:23 pm"]
+[End "1/20/2012 2:05 pm"]
+[Duration "42m"]
+[Team A "Kubbchucks"]
+[Team B "Settlers of Baton"]
+[First "Team A"]
+[Win "Team A"]
+[Temperature "13 F"]
+</pre>
+
+=== Parsing Notation ===
+
+''This is not current after recent changes to the notation style. It needs to be updated.''
+
+Regular expressions can be used to parse this notation. This pattern will grab the elements desired:
+
+ ((?:\d+)\.|(?:(?:\w+?:?(?:(?:\d?[fbipr])+|(?:[xk\-\=])))|A)|\#.*)
+
+Here is an example Python application that parses through the notation.
+
+<pre>
+#!/usr/bin/python
+
+import re
+
+game = """
+j6IR g2IRP gF j- j2FB gX d= dK
+3. j:6IR g:2IRP g:2F j:- j:2FB g:X d:= d:K # Test comment
+8. j:6IR g:2IRP a g:F j:- j:FB g:X d:= d:K
+11. j:6IR g:2IRP A g:2F j:- j:2FB g:X d:= d:K
+6IR g:F j:- j:2FB g:X d:= d:K # Cool stuff happened
+2I2RP g:2F j:- j:2FB g:X d:= d:K
+8. j:6I2R g:2IRP a g:F j:- j:FB g:X d:= d:K
+11. j:6IR g:2IRP A g:2F j:- j:2FB g:X d:= d:K
+"""
+
+for turn in re.findall(r".*", game):
+    if turn:
+        print "-> " + turn.strip()
+        print "<- ",
+        print re.findall(
+            r"((?:\d+)\.|(?:(?:\w+?:?(?:(?:\d?[fbipr])+|(?:[xk\-\=])))|A)|\#.*)",
+            turn.strip(),
+            re.I | re.M)
+        print
+</pre>
+
+=== Related ===
+
+* [[wikipedia:Portable Game Notation|Portable Game Notation]]
+* [http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm PGN Complete Specification]
+
+[[Category:Kubb]]

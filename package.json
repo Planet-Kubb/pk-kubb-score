@@ -1,0 +1,14 @@
+{
+  "name": "pk-kubb-score",
+  "private": true,
+  "type": "module",
+  "description": "Planet Kubb Notation: grammar, parser and website",
+  "scripts": {
+    "grammar": "node tools/build-grammar.mjs",
+    "test": "node tools/test-grammar.mjs && node tools/check-parser.mjs"
+  },
+  "devDependencies": {
+    "peggy": "^5.1.0",
+    "peggy-tracks": "^3.2.2"
+  }
+}

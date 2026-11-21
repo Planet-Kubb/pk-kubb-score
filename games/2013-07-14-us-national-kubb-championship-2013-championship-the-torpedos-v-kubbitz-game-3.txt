@@ -1,0 +1,27 @@
+[Event "US National Kubb Championship 2013"]
+[Location "Eau Claire, WI"]
+[Start "2013-07-14 09:00"]
+[End "2013-07-14 09:27"]
+[Duration "27m"]
+[Surface "Grass"]
+[Team A "The Torpedos"]
+[Team A Players "Rob (r), Tim (t), Jason (j)"]
+[Team B "Kubbitz"]
+[Team B Players "Dan (d), Riley (y), Jeff (f)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbitz-Torpedos-Game-3.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_The_Torpedos_v._Kubbitz/Game_3"]
+
+1. 0I j:- j:- t:- t:- r:- r:-
+2. 0I y:- y:- d:- d:B f:- f:B
+3. j:2I t:- t:F j:F j:- r:- r:-
+4. d:2IRP d:F d:- f:- f:- y:- y:- # penalty placed on baseline
+5. j:I A j:- j:- t:F t:- r:- r:-
+6. d:I d:F d:- y:- y:F f:- f:B
+7. j:3I t:F t:F j:F j:- r:- r:B
+8. d:4IR f:2F f:F d:- d:F y:- y:-
+9. j:4IR j:- j:F t:F t:- r:- r:-
+10. d:2I A y:2F f:B f:B d:= d:= y:K

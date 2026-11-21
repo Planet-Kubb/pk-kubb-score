@@ -1,0 +1,25 @@
+[Event "US National Kubb Championship 2013"]
+[Location "Eau Claire, WI"]
+[Start "2013-08-13 13:53"]
+[End "2013-08-13 14:18"]
+[Duration "25m"]
+[Surface "Grass"]
+[Team A "Pitch Slap"]
+[Team A Players "Tony Hansen (t), Mike Pedersen (m), Jake Freeberg (j)"]
+[Team B "Pack of Snipers"]
+[Team B Players "Joe Pendleton (j), Nate Olson (n), Chad Bevers (b), Chad Parsons (p)"]
+[First "Team B"]
+[Win "Team B"]
+[Scored by "Tony Hansen"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2013_(Round_of_32),_Pitch_Slap_vs._Pack_of_Snipers,_July_17,_2013_(Game_1)"]
+
+1. b:0I p:- b:- b:- j:B j:- n:-
+2. t:I j:- t:F t:- m:- m:- j:-
+3. b:I p:F j:B j:B b:- b:- n:-
+4. t:3IR t:F t:F m:- m:- j:- j:F
+5. b:3I p:F p:F b:F j:B j:- n:-
+6. t:4I t:4F t:- j:- j:- m:- m:-
+7. b:4IR p:F p:3F j:- j:- n:- b:B
+8. t:5IR t:F j:F j:F t:- m:F m:F
+9. b:5I p:3F p:F b:F n:K - -

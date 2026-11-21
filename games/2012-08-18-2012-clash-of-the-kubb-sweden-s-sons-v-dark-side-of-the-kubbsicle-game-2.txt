@@ -1,0 +1,22 @@
+[Event "2012 Clash of the Kubb"]
+[Start "2012-08-18"]
+[Surface "Grass"]
+[Team A "Sweden's Sons"]
+[Team B "Dark Side of the Kubbsicle"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=vSaUzsbj4BU"]
+[Video offset "10:37"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2012_Clash_of_the_Kubb_-_Sweden's_Sons_v._Dark_Side_of_the_Kubbsicle/Game_2"]
+
+1. 0I B B - B B -
+2. 4I 3F F - - B -
+3. 5I 3F - - 2F - -
+4. 5I3R 3F 2F - - - -
+5. 5IR 3F - - F - - # an unfortunate advantage line remains
+6. 4I2R A 2F 2F B - B B # great conversion by DSotK
+7. 7IR F 2F - F - 2F # another ugly advantage line remains
+8. 5I2R A 3F 2F B K X X

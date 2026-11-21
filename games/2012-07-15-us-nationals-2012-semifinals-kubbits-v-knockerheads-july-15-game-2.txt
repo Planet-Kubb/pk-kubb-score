@@ -1,0 +1,23 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 11:08"]
+[End "2012-07-15 11:19"]
+[Duration "11m"]
+[Team A "Knockerheads"]
+[Team A Players "Josh Feathers (j), Grant Scott (g), Dwayne Ballmer (d)"]
+[Team B "Kubbitz"]
+[Team B Players "Scott Forster (s), Jeff Gibson (n), Dan Drumm (m)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=GV7sMoZmc98"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbitz-v-knockerheads-game2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Semifinals,_Kubbits_v._Knockerheads,_July_15/Game_2"]
+
+1. 0I j:B j:- g:- g:B d:- d:B
+2. s:3I n:- n:2F m:- m:F s:- s:B # scott inkast
+3. j:4I j:3F j:F g:- g:B d:- d:B
+4. s:6I n:2F n:F m:- m:2F s:F s:B # good group, throw 3 pin hit
+5. j:7I j:4F g:3F d:= d:K X X

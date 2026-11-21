@@ -1,0 +1,19 @@
+[Event "Canadian National Kubb Championship 2014"]
+[Location "Ottawa, ON, Canada"]
+[Start "2014-06-07"]
+[Surface "Grass"]
+[Team A "Goofy Kubbers 1.6"]
+[Team A Players "Evan Fitzgerald (e), Michelle Fitzgerald (m)"]
+[Team B "King Kung"]
+[Team B Players "Steve McDiarmid (s), Chris McDiarmid (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Stephane Lebeau"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Canadian_Nationals,_Goofy_Kubbers_1.6_v._King_Kung,_June_7_2014_Semi-Final_Game_1"]
+
+1. e:0I e:- e:- e:- m:- m:- m:-
+2. s:0I s:- s:B s:- c:- c:- c:-
+3. e:1I m:- m:F e:B e:B e:B m:-
+4. s:4I s:2F s:- s:F c:- c:- c:-
+5. e:3I1R A e:3F e:B e:B m:K - -

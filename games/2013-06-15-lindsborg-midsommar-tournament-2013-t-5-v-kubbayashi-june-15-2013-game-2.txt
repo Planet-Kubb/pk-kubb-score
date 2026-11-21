@@ -1,0 +1,21 @@
+[Event "Lindsborg Midsommar Tournament 2013"]
+[Start "2013-06-15"]
+[Surface "Grass"]
+[Team A "T-5"]
+[Team A Players "Sue Feathers (f), Steve Feathers (s), Josh Feathers (j), Evan Fitzgerald (e)"]
+[Team B "Kubbayashi"]
+[Team B Players "Hornsdown (h), Adam Lackey (v), Third Player (x)"]
+[First "Team B"]
+[Win "Team A"]
+[Scored by "joshfeathers"]
+[Video "http://www.youtube.com/watch?v=fvfQWLSC7aY"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Lindsborg_Midsommar_Tournament_2013,_T-5_v._Kubbayashi,_June_15,_2013_(Game_2)"]
+[Player note "v: viking looking dude"]
+
+1. 0I h:B h:- x:- x:- v:B v:-
+2. e:2I e:2F e:- s:B s:- j:B j:-
+3. h:4I h:F h:F x:- x:F v:- v:F
+4. e:4IR e:3F e:F s:B s:- j:B j:B
+5. 6I h:F v:F x:- h:1F x:- v:- # 3 inkastares in this turn: h 3i2r v 2i x 1i
+6. e:3I A e:F e:F s:- s:F j:K j:X

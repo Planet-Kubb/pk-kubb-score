@@ -1,0 +1,15 @@
+<!-- Scoresheet | last edited 2013-09-03T20:27:08Z | 21 revisions | wiki.planetkubb.com -->
+Intended to be a quick and easy way to get player stats within a game. If you are wondering how to use the scoresheet there is extensive information about the [[Notation]] to review. You may also want to see [[:Category:Game|games saved on the wiki]].
+
+=== Első Magyar Kubb Egyesület ===
+
+Below is version 10 of the Scoresheet. Consider this ready for friendly or tournament play.
+
+Once you've scored a game, we encourage you to enter the stats as a '''[[Form:Game| new game]]'''.
+
+====[[Media:Planet_Kubb_Scoresheet.pdf|Download PDF version of Scoresheet]]====
+
+[[Image:Planet_Kubb_Scoresheet.png|700px|]]
+
+
+[[Media:Planet Kubb Scoresheet.graffle.zip|Download OmniGraffle v5.4 Source file]]

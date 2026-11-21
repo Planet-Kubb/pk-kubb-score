@@ -1,0 +1,25 @@
+[Event "Nordic Fest Kubb Tournament 2012"]
+[Location "Decorah, IA (43° 18' 12' N, 91° 47' 9' W)"]
+[Start "2012-07-28"]
+[Team A "Kubby Doo"]
+[Team A Players "Mark Blazel (m), Zach Brown (z), Luke Peikert (l)"]
+[Team B "Baton Death March"]
+[Team B Players "Chris Hodges (c), Mike Larson (ml)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=Vlg-Cy-WaIY&feature=youtu.be"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Nordic_Fest_Kubb_Tournament_2012_Finals_Kubby_Doo_v._Baton_Death_March/Game_3"]
+[Player note "m: Inkastare, member of reigning National Champion Kubbsicles"]
+[Player note "z: Member of reigning National Champion Kubbsicles"]
+[Player note "c: Inkastare"]
+
+1. m:0I m:B m:- z:- z:- l:B l:B
+2. c:3I c:F c:F c:F ml:B ml:- ml:-
+3. m:4I z:2F z:2F m:- m:- l:- l:-
+4. c:4I1R c:3F c:- c:F ml:- ml:B ml:-
+5. m:5I1R z:F z:F m:F m:F l:F l:B
+6. c:6I c:- c:2F c:- ml:F ml:F ml:F- # Maybe my best group of the day - unfortunately the only time I hit it with batons was to gut the middle two out of it...
+7. m:5I A z:3F z:2F m:B l:K X X

@@ -1,0 +1,20 @@
+[Event "Kubb Open"]
+[Location "Rostock, Germany"]
+[Start "2012-06-03"]
+[Surface "Grass"]
+[Team A "Fortschritt99 Blue"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=xRK1nCUWhtY&feature=g-u-u"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kubb_Open_2012,_Finals,_Kubb'Ings_vs_Fortschritt99_Blue/Game_4"]
+
+1. 0I B - B B - -
+2. 3I F - 2F B - B
+3. 5I 4F F B - - -
+4. 6IR 5F F B - B B # A Quint plus 75% at 8 meters to clear the pitch? Fantastic round!
+5. 9IR 5F 2F F - F -
+6. 9I 2F 4F F F F K

@@ -1,0 +1,26 @@
+[Event "Rockford Swedish Historical Society Tournament 2012"]
+[Location "Rockford, IL"]
+[Start "2012-05-09 16:00"]
+[End "2012-05-09 16:08"]
+[Duration "8m"]
+[Team A "Head Slap"]
+[Team A Players "Josh Feathers (d), Tony Hansen (t)"]
+[Team B "Tad Kubbler"]
+[Team B Players "Eric Goplin (e), Cole Vryens (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Video "http://www.youtube.com/watch?v=DZC0CUrx_TA"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler/Game_3"]
+
+1. 0I d:B d:- d:- t:- t:- t:-
+2. e:I c:F c:- c:- e:- e:- e:B
+3. d:2I d:F d:- t:F t:- t:- d:-
+4. e:2I c:F c:- e:F e:- e:B c:-
+5. d:3I t:F t:2F t:B d:- d:- d:B
+6. e:5I c:- c:2F c:- e:F e:F e:F
+7. d:5I t:3F t:2F t:- d:- d:- d:B
+8. e:6I c:F c:- c:F e:- e:F e:F
+9. d:4I A d:2F d:F d:F t:B t:K X

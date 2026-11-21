@@ -1,0 +1,24 @@
+[Event "US National Kubb Championship 2013"]
+[Event date "2013-07-13"]
+[Surface "Grass"]
+[Team A "Kubbitz"]
+[Team A Players "Dan (d), Riley (y), Jeff (f)"]
+[Team B "Kubbsicles"]
+[Team B Players "Mark Blazel (b), Max Sebesta (m), Zachary Brown (z)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbsicles-Kubbitz-Game-1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_Kubbitz_v._Kubbsicles/Game_1"]
+
+1. 0I y:- y:- d:- d:- f:- f:-
+2. 0I m:- m:B z:- z:- b:B b:-
+3. d:2I d:F d:F f:- f:- y:- y:-
+4. b:2I z:F m:F m:- b:- b:B z:-
+5. d:3IRP f:F f:- y:F d:- d:F y:-
+6. b:3I m:F m:- z:- z:- b:2F b:-
+7. d:3I f:F f:F d:- d:F y:- y:-
+8. b:3IR z:2F m:- m:F b:B b:- z:-
+9. d:4I f:F f:2F d:F d:- y:- y:-
+10. b:4I z:3F z:F b:- b:- m:B m:K

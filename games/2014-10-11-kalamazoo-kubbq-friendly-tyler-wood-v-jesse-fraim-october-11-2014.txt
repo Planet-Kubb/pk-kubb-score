@@ -1,0 +1,23 @@
+[Event "Kalamazoo KUBBQ 2014"]
+[Location "Kalamazoo, MI"]
+[Start "2014-10-11"]
+[Surface "Grass"]
+[Team A "Tyler Wood"]
+[Team A Players "Tyler Wood (w)"]
+[Team B "Jesse Fraim"]
+[Team B Players "Jesse Fraim (f)"]
+[First "Team A"]
+[Win "Team B"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kalamazoo_KUBBQ,_Friendly,_Tyler_Wood_v._Jesse_Fraim,_October_11_2014"]
+
+1. w:0I w:B w:B w:- w:- w:- w:-
+2. f:2I f:F f:F f:- f:B f:- f:B
+3. w:4I1R w:F w:- w:F w:- w:F w:-
+4. f:3I A f:2F f:F f:B f:- f:- f:-
+5. w:4I1R w:- w:- w:2F w:- w:F w:F
+6. f:4I A f:F f:- f:F f:- f:F f:F
+7. w:4I1R w:F w:F w:- w:F w:F w:-
+8. f:4I1R A f:3F f:F f:- f:B f:- f:-
+9. w:5I w:- w:- w:- w:- w:- w:2F
+10. f:2I A f:F f:F f:- f:- f:B f:K # Finally ends the game

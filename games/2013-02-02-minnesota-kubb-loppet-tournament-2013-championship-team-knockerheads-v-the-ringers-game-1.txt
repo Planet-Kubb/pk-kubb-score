@@ -1,0 +1,24 @@
+[Event "Minnesota Kubb Loppet Tournament 2013"]
+[Location "Lake Calhoun, Minneapolis, MN"]
+[Start "2013-02-02"]
+[Surface "Snow"]
+[Team A "The Ringers"]
+[Team A Players "Aaron Ellringer (a), Dave Ellringer (d)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Josh Feathers (j), Chris Hodges (c), Grant Scott (g)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Stats "No"]
+[Scoresheet "scoresheets/Minnesota_Kubb_Loppet_Tournament_2013,_Finals,_Team_Knockerheads_v._The_Ringers,_Game_1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Minnesota_Kubb_Loppet_Tournament_2013_Championship_Team_Knockerheads_v._The_Ringers/Game_1"]
+
+1. 0I d:- d:- d:- a:- a:B a:-
+2. j:I j:F c:- c:- g:B g:B g:-
+3. a:3I d:F d:2F d:B a:B a:B a:-
+4. j:6I j:5F j:F c:B c:- g:B g:B
+5. a:9I4R d:4F d:- d:2F a:F a:F a:F
+6. j:9I3R j:2F j:3F c:F c:F g:F g:F # t2 pushed kubb out, requiring kubb reset
+7. a:9I2RP d:4F d:- d:- a:F a:F a:F
+8. j:7IR A j:4F j:F c:F c:- g:F g:K

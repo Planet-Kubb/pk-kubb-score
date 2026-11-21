@@ -1,0 +1,26 @@
+[Event "Twin Cities Winter Tournament 2012"]
+[Location "Theodore Wirth Park, Theodore Wirth Parkway, Minneapolis, MN (44° 58' 39' N, 93° 19' 27' W)"]
+[Start "2012-02-04"]
+[Team A "2 Pump Chumps"]
+[Team B "Kubb Snipers"]
+[First "Team B"]
+[Win "Team B"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=pUAGzgA91d4&feature=g-user-u"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Twin_Cities_Winter_Tournament_2012_Final/Game_1"]
+
+1. 0I B - B B - B
+2. 4I 2F F F - - B
+3. 5I F 2F - 2F - -
+4. 5I 2F F F - F -
+5. 5I - 2F - - F -
+6. 3I A 2F F - B - B
+7. 5I 2F 2F F F - -
+8. 6I A 3F F F F B B # Clear Pitch
+9. 8I 2F 5F - F F - # Quint brings them back into the game!
+10. 9I 2F 2F 2F - F - # Bevers drops a gorgeous group, but they just don't fall the way they are supposed to. 2 fields left standing near midfield. *BUT* Too many beers and too many hours on the pitches have 2 Pump Chumps picking up a standing field kubb (24:29 in the video) which then has to be thrown back into play!
+11. 8I A 2F 3F 2F F - B # All 10 in play!
+12. 9I2R 3F 2F F - F 2F
+13. 9I 3F 3F F F F K

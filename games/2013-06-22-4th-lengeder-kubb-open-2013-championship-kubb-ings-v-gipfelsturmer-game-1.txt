@@ -1,0 +1,19 @@
+[Event "4th Lengeder Kubb Open 2013"]
+[Location "Lengede, germany"]
+[Start "2013-06-22"]
+[Surface "Grass"]
+[Team A "Gipfelstürmer"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=zw0EwXCrizc"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:4th_Lengeder_Kubb_Open_2013_Championship_Kubb'Ings_v._Gipfelstürmer/Game_1"]
+
+1. 0I - B - - B -
+2. 2I F FB B B B -
+3. 6IRP 2F - F F F F # penalty kubb placed deep on the opposite back corner, inches from the baseline.
+4. 5I F F F F F B # this turn seems to be cut from the video. the notation is a guess.
+5. 6I F 3F F - F -
+6. 6IR 3F 2F F - - K # the first 3 batons for this turn are also missing from the video.

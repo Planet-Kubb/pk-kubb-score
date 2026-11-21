@@ -1,0 +1,25 @@
+[Event "Rockford Swedish Historical Society Tournament 2012"]
+[Location "Rockford, IL"]
+[Start "2012-05-09 16:00"]
+[End "2012-05-09 16:08"]
+[Duration "8m"]
+[Team A "Head Slap"]
+[Team A Players "Josh Feathers (d), Tony Hansen (t)"]
+[Team B "Tad Kubbler"]
+[Team B Players "Eric Goplin (e), Cole Vryens (c)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Video "http://www.youtube.com/watch?v=DZC0CUrx_TA"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler/Game_1"]
+
+1. 0I d:B d:B d:B t:- t:B t:- # Dobbie goes 3 for 3.
+2. e:4I c:- c:2F c:2F e:B e:- e:-
+3. d:5I d:3F d:F d:F t:- t:- t:-
+4. e:5I c:F c:2F c:F e:F e:- e:B
+5. d:6I d:F d:F d:- t:- t:- t:-
+6. e:2I A c:F c:- c:F e:- e:B e:B
+7. d:4IR d:F d:F d:2F t:F t:F t:F # One field kubb that was thrown in previous drill was determined to be out of bounds and was rethrown.
+8. e:7I A c:5F c:- c:F e:F e:B e:K # Tad Kubbler wins.

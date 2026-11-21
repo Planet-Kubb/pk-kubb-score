@@ -1,0 +1,22 @@
+[Event "Des Moines Fall Kubb Klassic 2013"]
+[Location "Des Moines, IA"]
+[Start "2013-09-21"]
+[Surface "Grass"]
+[Team A "Derringer"]
+[Team A Players "Evan Fitzgerald (e), Nate Olson (n), Pat Rupp (p)"]
+[Team B "Dos Padres"]
+[Team B Players "Grant Scott (g), Josh Feathers (j)"]
+[First "Team A"]
+[Win "Team B"]
+[Video "http://www.youtube.com/watch?v=pUBMB-3QxGo"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Des_Moines_Fall_Kubb_Klassic_2013,_Dos_Padres_vs._Derringer,_September_21_2013_(Game_2)"]
+
+1. e:0I e:- e:B n:- n:- n:- p:-
+2. j:I j:F j:- j:- g:B g:- g:B
+3. e:3I p:F p:F p:F e:- e:- e:B
+4. j:4I j:F j:F j:2F g:B g:- g:-
+5. e:5I p:2F p:F e:F e:F e:B n:-
+6. j:6I2R j:3F j:2F j:F g:B g:- g:-
+7. e:7I p:3F p:2F e:F e:- e:F n:-
+8. j:7IR j:5F j:2F g:- g:B j:K g:X

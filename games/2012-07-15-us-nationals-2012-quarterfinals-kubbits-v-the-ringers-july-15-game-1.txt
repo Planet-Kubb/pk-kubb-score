@@ -1,0 +1,20 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Park, Eldorado Boulevard, Eau Claire, WI"]
+[Start "2012-07-15 09:10"]
+[End "2012-07-15 09:15"]
+[Duration "5m"]
+[Team A "Kubbitz"]
+[Team A Players "Scott Forster (s), Jeff Gibson (n), Dan Drumm (m)"]
+[Team B "The Ringers"]
+[Team B Players "Aaron Ellringer (a), Dave Ellringer (d), Sy Ellringer (y), Colton (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbitz-v-ringers-game1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Quarterfinals,_Kubbits_v._The_Ringers,_July_15/Game_1"]
+
+1. 0I n:B n:- m:B m:- s:- s:B
+2. a:3I d:F d:F y:F c:- a:- a:-
+3. 3I n:3F n:B m:B s:K X X

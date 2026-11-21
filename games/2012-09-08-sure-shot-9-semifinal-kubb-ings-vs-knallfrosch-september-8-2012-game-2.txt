@@ -1,0 +1,24 @@
+[Event "Sure Shot 9 (Basler Kubbmeisterschaft 2012)"]
+[Start "2012-09-08"]
+[Surface "Grass"]
+[Team A "Kubb'Ings"]
+[Team B "Knallfrösch"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=lty3wcJ93hs&feature=plcp"]
+[Video offset "20:40"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Sure_Shot_9_Semifinal:_Kubb'Ings_vs_Knallfrösch,_September_8,_2012/Game_2"]
+
+1. 0I - B - - B -
+2. 2I F F B - - -
+3. 3I 2F F - - - B
+4. 4I - - 2F F - F
+5. 4IR 2F F F - - -
+6. 4IR 3F F B - B B
+7. 7I2R 4F F F F B B
+8. 9I2RP 4F 2F 2F - F B # penalty kubb placed ~7.5m opposite basket
+9. 10I6R 2F 2F F 2F F -
+10. 8IR A 3F 3F F F - K

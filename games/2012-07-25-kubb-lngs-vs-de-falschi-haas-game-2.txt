@@ -1,0 +1,15 @@
+[Start "2012-07-25"]
+[Team A "Kubb'Ings"]
+[Team B "De falschi Haas"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=-wWNpN65ybA&feature=plcp"]
+[Video offset "12:41"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kubb'lngs_vs_De_falschi_Haas/Game_2"]
+
+1. 0I - - B B B B
+2. 4I 3F F - - B B
+3. 6IR 4F F F B K X

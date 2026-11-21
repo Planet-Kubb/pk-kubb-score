@@ -1,0 +1,20 @@
+[Event "2012 Madison Midsommar Kubb Tournament"]
+[Location "Madison, WI"]
+[Start "2012-06-09"]
+[Team A "The Ringers"]
+[Team A Players "Dave Ellringer (de), Eric Anderson (ea), Aaron Ellringer (ae)"]
+[Team B "Kubb Snipers"]
+[Team B Players "Chad Bevers (cb), Chad Parsons (cp)"]
+[First "Team A"]
+[Win "Team B"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Madison_Midsommar_Kubb_Tournament_2012_Final/Game_3"]
+
+1. 0I de:- de:B ea:- ea:- ae:B ae:-
+2. 2I cp:- cp:F cp:F cb:B cb:- cb:-
+3. 3I de:- de:F ea:F ea:F ae:B ae:-
+4. 4I cp:2F cp:F cp:F cb:B cb:- cb:B
+5. 6I de:2F de:F ea:F ea:- ae:- ae:- # A rare bad group from Anderson coupled with an O-fer-2 from Aaron sees The Ringers leave two fields behind.
+6. 4I A cp:2F cp:F cp:F cb:- cb:- cb:B
+7. 5I de:F de:2F ea:- ea:F ae:- ae:F # With 7 now in play and still reeling from the prior round The Ringers once again leave 2 standing
+8. 5I A cb:2F cp:3F cp:B cp:= cb:K X

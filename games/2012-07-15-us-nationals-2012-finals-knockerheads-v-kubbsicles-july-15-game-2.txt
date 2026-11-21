@@ -1,0 +1,31 @@
+[Event "U.S National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 00:30"]
+[End "2012-07-15 00:50"]
+[Duration "20m"]
+[Surface "Grass"]
+[Team A "Kubbsicles"]
+[Team A Players "Zach Brown (z), Mark Blazel (k), Max Sebesta (x)"]
+[Team B "Knockerheads"]
+[Team B Players "Josh Feathers (j), Grant Scott (g), Dwayne Ballmer (d)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Video "http://www.youtube.com/watch?v=Ien_RS9bvYY"]
+[Video offset "22:55"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbsicles-knockerheads-game2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Finals,_Knockerheads_v._Kubbsicles,_July_15/Game_2"]
+
+1. 0I x:- x:B z:- z:- k:- k:B
+2. j:2IR j:F j:- g:F g:- d:- d:-
+3. k:2IR z:F k:F z:B k:- x:- x:-
+4. j:3I j:F j:F g:F g:- d:- d:B
+5. k:4I z:F k:2F x:F z:- x:B k:-
+6. j:5I2R j:2F j:F g:- g:F d:F d:-
+7. k:5I x:- x:2F k:2F k:F z:- z:-
+8. j:5I j:3F j:F g:- g:F d:B d:-
+9. k:6IR z:F z:2F k:F k:F x:F x:B
+10. j:7I j:4F j:2F g:F g:B d:- d:-
+11. k:8I z:3F z:3F x:F x:F k:K X

@@ -1,0 +1,21 @@
+[Start "2011-08-15"]
+[Surface "Grass"]
+[Team A "Ménage à trois"]
+[Team B "Team Ekeby"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=7VipjpNvZYk"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Semi_Final_-_Ménage_à_trois_v._Team_Ekeby,_August_15,_2011/Game_1"]
+
+1. 0I - B B - - -
+2. 2I - F F - - -
+3. 2I - - F F - -
+4. 2IR F - - F - -
+5. IR I F F B - B -
+6. I I - 2F - 2F B -
+7. 5IR 2F F F F - -
+8. 3IRP 2I F - F F F F # penalty kubb placed 1 baton behind king. not a very good grouping either.
+9. 2I 3I 3F F F B K X

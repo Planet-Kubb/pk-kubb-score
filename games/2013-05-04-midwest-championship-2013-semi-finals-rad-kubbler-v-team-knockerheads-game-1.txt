@@ -1,0 +1,23 @@
+[Event "US Midwest Kubb Championship 2013"]
+[Location "Rockford, Ill"]
+[Start "2013-05-04"]
+[Surface "Grass"]
+[Team A "Team Knockerheads"]
+[Team A Players "Chris Hodges (c), Grant Scott (g), Josh Feathers (jf)"]
+[Team B "Rad Kubbler"]
+[Team B Players "Eric Goplin (e), Anders Thorstenson (a), Cole Vryens (v), Josh Dibley (jd)"]
+[First "Team B"]
+[Win "Team B"]
+[Video "https://www.youtube.com/watch?v=CR1EFWYe4-U&feature=youtube_gdata"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Midwest_Championship_2013_Semi_Finals_-_Rad_Kubbler_v._Team_Knockerheads_(Game_1)"]
+
+1. 0I jf:- jf:B c:B c:- g:- g:-
+2. e:2I v:- v:F a:- a:F jd:- e:B
+3. jf:3I jf:F jf:F c:F c:- g:- g:-
+4. e:3IR v:F a:F jd:- jd:F e:- e:-
+5. jf:3I jf:F jf:- c:F c:F g:B g:-
+6. e:4IRP v:- v:2F a:- jd:- jd:F e:FB # Penalty placed in a horrible position. Not sure about that one, but great baseline double for Eric G.
+7. jf:5I jf:F jf:2F c:2F c:B g:- g:B
+8. e:7I2R v:3F v:F a:F e:2F jd:- e:B
+9. jf:8I3R jf:3F jf:3F c:F c:F g:K g:X

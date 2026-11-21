@@ -1,0 +1,18 @@
+[Event "Twin Cities Winter Tournament 2012"]
+[Location "Theodore Wirth Park, Theodore Wirth Parkway, Minneapolis, MN (44° 58' 39' N, 93° 19' 27' W)"]
+[Start "2012-02-04"]
+[Team A "Kubb Snipers"]
+[Team B "2 Pump Chumps"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=pUAGzgA91d4&feature=g-user-u"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Twin_Cities_Winter_Tournament_2012_Final/Game_2"]
+
+1. 0I - - - - - -
+2. 0I - - - - - -
+3. 0I B - B - - B
+4. 3I - F F - - -
+5. 2IR A F F B - B K

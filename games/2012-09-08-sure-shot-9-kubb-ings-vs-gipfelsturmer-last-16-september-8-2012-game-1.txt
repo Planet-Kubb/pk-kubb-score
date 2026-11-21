@@ -1,0 +1,18 @@
+[Event "Sure Shot 9 (Basler Kubbmeisterschaft 2012)"]
+[Start "2012-09-08"]
+[Surface "Grass"]
+[Team A "Kubb'Ings"]
+[Team B "Gipfelstürmer"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=qzRkxkxtsMw&feature=context-cha"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Sure_Shot_9:_Kubb'Ings_vs_Gipfelstürmer_Last_16,_September_8,_2012/Game_1"]
+
+1. 0I B - - - B -
+2. 2I F - - - - F
+3. 2I 2F - B B B =
+4. 5I 2F F F - F -
+5. 5IR 2F 3F K X X X

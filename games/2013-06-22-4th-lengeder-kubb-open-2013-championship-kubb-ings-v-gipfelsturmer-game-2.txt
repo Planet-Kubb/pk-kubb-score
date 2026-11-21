@@ -1,0 +1,19 @@
+[Event "4th Lengeder Kubb Open 2013"]
+[Location "Lengede, germany"]
+[Start "2013-06-22"]
+[Surface "Grass"]
+[Team A "Kubb'Ings"]
+[Team B "Gipfelstürmer"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=zw0EwXCrizc"]
+[Video offset "11:12"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:4th_Lengeder_Kubb_Open_2013_Championship_Kubb'Ings_v._Gipfelstürmer/Game_2"]
+
+1. 0I - B - - - -
+2. I FB - - - - -
+3. 2IR F F - - B -
+4. 3IR 3F - B B - -
+5. 5IR 5F B B B K X

@@ -1,0 +1,29 @@
+[Event "Kalamazoo KUBBQ 2014"]
+[Location "Kalamazoo, MI"]
+[Start "2014-10-11"]
+[Surface "Grass"]
+[Team A "Jesse Fraim"]
+[Team A Players "Jesse Fraim (f)"]
+[Team B "Joey Wood"]
+[Team B Players "Joey Wood (w)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Tyler Wood"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kalamazoo_KUBBQ,_Jesse_Fraim_v._Joey_Wood,_October_11_2014_(Game_2)"]
+[Player note "w: Joe won Game 1"]
+
+1. f:0I f:B f:- f:- f:- f:B f:-
+2. w:2I w:- w:F w:F w:- w:- w:-
+3. f:2I f:F f:- f:- f:- f:F f:-
+4. w:2I w:F w:F w:- w:- w:B w:-
+5. f:3I1R1P f:F f:- f:F f:- f:- f:F # Playing with fire this rounds. Punishment and down to the last baton to clear the field.
+6. w:3I w:2F w:F w:- w:- w:B w:-
+7. f:4I1R f:F f:2F f:F f:- f:B f:-
+8. w:5I w:3F w:2F w:- w:- w:- w:B
+9. f:6I2R f:F f:2F f:- f:- f:- f:F
+10. w:4I1R1P A w:2F w:F w:- w:F w:B w:B
+11. f:6I1R f:2F f:2F f:2F f:F f:F f:-
+12. w:8I1R w:F w:3F w:2F w:F w:F w:= # Answers Jesse's strong response with a great round of his own.
+13. f:8I2R f:3F f:- f:F f:- f:2F f:- # Left another advantage line.
+14. w:6I A w:3F w:2F w:F w:K X X # Joey takes over the #1 Spot in Kalamazoo Kubb.

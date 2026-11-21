@@ -1,0 +1,34 @@
+[Event "training"]
+[Location "OCN, Waregem, Belgium"]
+[Start "2013-05-04 17:15"]
+[End "2013-05-04 17:42"]
+[Duration "27m"]
+[Surface "Grass"]
+[Team A "De Mirakelkubbers I"]
+[Team A Players "Fre Timmerman (f)"]
+[Team B "De Mirakelkubbers III"]
+[Team B Players "Klaas VKB (k), Pieter L (p)"]
+[First "Team A"]
+[Win "Team A"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:OCN_Training_-_May_2013"]
+
+1. f:0I f:- f:- f:- f:- f:B f:-
+2. 1IR k:- k:F p:- k:- p:- p:-
+3. f:1I f:F f:- f:B f:- f:- f:-
+4. 2I p:F k:- k:F p:- k:- p:-
+5. f:2I f:F f:- f:F f:- f:- f:-
+6. 2IP k:- p:- k:- p:- k:- p:F
+7. f:I A f:F f:- f:- f:- f:- f:-
+8. I k:- k:- k:2F p:B p:- p:-
+9. f:3IR f:F f:- f:F f:- f:- f:-
+10. 2I A k:- k:F k:- p:- p:- p:F
+11. f:2I f:- f:- f:F f:- f:F f:-
+12. 2I A p:F k:F p:- k:- p:- k:-
+13. f:2I f:2F f:- f:- f:- f:- f:-
+14. 2IP A k:F p:- k:- p:F k:- p:-
+15. f:2I f:2F f:- f:- f:F f:- f:-
+16. 3IR p:2F k:- k:- k:F p:- p:-
+17. f:3I f:3F f:- f:B f:B f:- f:-
+18. 5IR k:F k:F p:F k:- p:F p:-
+19. f:4I A f:2F f:2F f:- f:B f:K f:X

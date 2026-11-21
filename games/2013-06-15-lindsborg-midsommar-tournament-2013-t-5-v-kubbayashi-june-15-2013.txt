@@ -1,0 +1,19 @@
+[Event "Lindsborg Midsommar Tournament 2013"]
+[Start "2013-06-15"]
+[Surface "Grass"]
+[Team A "T-5"]
+[Team A Players "Steve Feathers (s), Sue Feathers (f), Josh Feathers (j), Evan Fitzgerald (e)"]
+[Team B "Kubbayashi"]
+[Team B Players "VikingMan (v), Hornsdown (h), Player Three (x)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "joshfeathers"]
+[Video "http://www.youtube.com/watch?v=fvfQWLSC7aY"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Lindsborg_Midsommar_Tournament_2013,_T-5_v._Kubbayashi,_June_15,_2013"]
+
+1. 0I j:- j:B s:B s:- e:B e:B
+2. h:4I h:2F h:- v:F v:F x:- x:-
+3. e:4I e:2F e:1F s:- s:- j:1F j:1B
+4. h:5I h:3F h:2F x:- x:- v:- v:-
+5. e:5IR e:2F e:2F j:F j:- s:K X

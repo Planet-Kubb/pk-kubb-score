@@ -1,0 +1,31 @@
+[Event "US Nationals 2012 - Round Robin"]
+[Location "Eau Claire Soccer Park, Eldorado Boulevard, Eau Claire, WI"]
+[Start "2012-07-14 13:00"]
+[Team A "Kubbchucks IDP"]
+[Team A Players "Ira Mitchell (m), Dan Grigsby (g), Pete Schwamb (s)"]
+[Team B "Shenanigans"]
+[Team B Players "Mark Pucci (p), Eric Rehn (e), Justin Rhode (j), Brett Leitl (l)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbchucks-shenanigans-game1.pdf"]
+[Source "sources/deleted/us-nationals-2012-kubbchucks-idp-v-shenanigans-game-1.wiki (deleted 2013-02-06)"]
+
+1. m:0I g:- s:- m:- m:B s:- s:-
+2. I p:- p:F e:- e:- j:B j:-
+3. m:2IRP m:F m:F g:- g:- s:- s:-
+4. 2I p:F p:- l:F l:- e:- j:B
+5. m:3IR g:- g:- m:- m:F s:- s:-
+6. I A l:F p:B e:- e:- j:- j:-
+7. m:2I s:- s:F g:- g:- m:- m:- # nice inkasting group
+8. I A l:F e:- p:- p:- j:- j:- # failed to convert
+9. m:I m:- m:F s:F s:F g:- g:- # left 1 in the field
+10. 3IR A p:F l:F e:F e:- j:B j:-
+11. m:4I s:2F s:- m:- m:- g:F g:-
+12. 3I A e:F p:2F p:- j:- l:- l:B # double tapped base kubb - didn't fall
+13. m:4I m:2F m:2F s:- s:- g:F g:- # double double!
+14. 4I A l:F e:- e:- j:F j:F p:F
+15. m:4I s:- s:- g:- g:- m:F m:-
+16. I A l:F l:K X X X X # win.

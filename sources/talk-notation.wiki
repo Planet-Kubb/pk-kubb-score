@@ -1,0 +1,29 @@
+<!-- Talk:Notation | last edited 2012-08-24T19:16:13Z | 13 revisions | wiki.planetkubb.com -->
+== Rescue Notation (Q) ==
+
+I think it's important to define a "rescue" (Q) as a kubb that was already in play. You can knock a kubb out that was thrown earlier in the round that you didn't like the placement of, but that would be an R not a Q. [[User:ChrisHodges]]
+
+: Why not simply use the term rescue kubb in the definition and then make sure to define it in the glossary? It seems to me the notation should just say "Q is a rescue kubb", with a link to the glossary to go into great, great detail about what a rescue kubb is. [[User:Thingles|Jamie]] ([http://thingelstad.com/ blog] | [http://jjt.me/ hello]) 21:10, August 15, 2012 (CDT)
+
+== Turn Number or Round Number? ==
+
+I'm wondering a bit if the turn number shouldn't be changed to round number, with the team throwing indicated. So, right now we would have
+
+ 1, 2, 3, 4, 5, 6
+
+maybe have
+
+ 1a, 1b, 2a, 2b, 3a, 3b
+
+The a and b would represent the "Team A" or "Team B" that is throwing.
+
+Thoughts? [[User:Thingles|Jamie]] ([http://thingelstad.com/ blog] | [http://jjt.me/ hello]) 21:51, August 15, 2012 (CDT)
+
+== Notation (X)  ==
+
+Why not X have a modifikcator?
+
+Two batons spare = 2X
+
+
+[[User:Bastor|Bastor]] ([[User talk:Bastor|talk]])

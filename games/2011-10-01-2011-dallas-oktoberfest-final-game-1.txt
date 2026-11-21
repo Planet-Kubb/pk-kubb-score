@@ -1,0 +1,16 @@
+[Event "Dallas, WI Oktoberfest 2011"]
+[Location "Dallas, WI"]
+[Start "2011-10-01"]
+[Team A "Tad Kubbler"]
+[Team B "Dead Rabbits"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=WOGuIenW0eE&feature=g-user-u"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2011_Dallas_Oktoberfest_Final/Game_1"]
+
+1. 0I B B - - B -
+2. 3IR 2F F - - - -
+3. 3I 3F B B K X X

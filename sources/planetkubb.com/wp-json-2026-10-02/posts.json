@@ -1,0 +1,2210 @@
+[
+ {
+  "id": 4278,
+  "date": "2012-02-24T18:00:00",
+  "modified": "2017-02-22T15:56:04",
+  "slug": "vole-killer",
+  "link": "https://planetkubb.com/post/vole-killer/",
+  "title": {
+   "rendered": "Vole killer"
+  },
+  "content": {
+   "rendered": "<p>a [[kastpinnar]] that slides a long way down the pitch</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4250,
+  "date": "2012-02-24T18:00:00",
+  "modified": "2017-02-22T15:46:07",
+  "slug": "franchise-player",
+  "link": "https://planetkubb.com/post/franchise-player/",
+  "title": {
+   "rendered": "Franchise player"
+  },
+  "content": {
+   "rendered": "<p>The best player on the kubb team, the one throwing the most important.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 4243,
+  "date": "2012-02-24T18:00:00",
+  "modified": "2017-02-22T15:35:14",
+  "slug": "upfield",
+  "link": "https://planetkubb.com/post/upfield/",
+  "title": {
+   "rendered": "Upfield"
+  },
+  "content": {
+   "rendered": "<p>The far half of the opponent’s side of the pitch. Alternately, the opponent&#8217;s upfield is the near half of the pitch. Generally, kubbs are thrown into this area so they come to rest in a manner that they can be stood in bounds.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4277,
+  "date": "2012-02-25T18:00:00",
+  "modified": "2017-02-22T15:56:01",
+  "slug": "tickle",
+  "link": "https://planetkubb.com/post/tickle/",
+  "title": {
+   "rendered": "Tickle"
+  },
+  "content": {
+   "rendered": "<p>Striking a kubb (or king) without toppling it. &#8220;Damn, I only tickled it.&#8221;</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4270,
+  "date": "2012-02-25T18:00:00",
+  "modified": "2017-02-22T15:56:02",
+  "slug": "short-porch",
+  "link": "https://planetkubb.com/post/short-porch/",
+  "title": {
+   "rendered": "Short porch"
+  },
+  "content": {
+   "rendered": "<p>[[Madison Kubb]] slag for leaving an advantage line, as in &#8220;You can&#8217;t leave them a short porch.&#8221;</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4242,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:10",
+  "slug": "turn",
+  "link": "https://planetkubb.com/post/turn/",
+  "title": {
+   "rendered": "Turn"
+  },
+  "content": {
+   "rendered": "<p>A game turn is a combination of the kubb tossing phase and the baton tossing phase by a single team.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4239,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:09",
+  "slug": "throwing-line",
+  "link": "https://planetkubb.com/post/throwing-line/",
+  "title": {
+   "rendered": "Throwing line"
+  },
+  "content": {
+   "rendered": "<p>The line behind which a player throws their batons – either the baseline or an advantage line</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4236,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:35:12",
+  "slug": "sideline",
+  "link": "https://planetkubb.com/post/sideline/",
+  "title": {
+   "rendered": "Sideline"
+  },
+  "content": {
+   "rendered": "<p>The long sides of the rectangular pitch or field of play. Regulation size is 8m, and the boundary is measured by the corner stakes.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4235,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:35:12",
+  "slug": "round",
+  "link": "https://planetkubb.com/post/round/",
+  "title": {
+   "rendered": "Round"
+  },
+  "content": {
+   "rendered": "<p>A game round is a set of two turns, each team attacking once and defending once.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4233,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:35:13",
+  "slug": "pitch",
+  "link": "https://planetkubb.com/post/pitch/",
+  "title": {
+   "rendered": "Pitch"
+  },
+  "content": {
+   "rendered": "<p>The kubb field of play; a 5m by 8m rectangle including surface such as grass, sand, or any measurable amount of snow.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4231,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:35:13",
+  "slug": "obstruction",
+  "link": "https://planetkubb.com/post/obstruction/",
+  "title": {
+   "rendered": "Obstruction"
+  },
+  "content": {
+   "rendered": "<p>A game component that interferes with raising field kubbs including kubbs, the king, center and corner stakes.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4230,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:08",
+  "slug": "match",
+  "link": "https://planetkubb.com/post/match/",
+  "title": {
+   "rendered": "Match"
+  },
+  "content": {
+   "rendered": "<p>Best of three games.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4229,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:06",
+  "slug": "kubb",
+  "link": "https://planetkubb.com/post/kubb/",
+  "title": {
+   "rendered": "Kubb"
+  },
+  "content": {
+   "rendered": "<p>The eponymous game piece. A game of kubb requires 10.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4228,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:05",
+  "slug": "king",
+  "link": "https://planetkubb.com/post/king/",
+  "title": {
+   "rendered": "King"
+  },
+  "content": {
+   "rendered": "<p>The centerpiece of the game and of the Kubb set. Be the first to topple him and win, but do it out of order and lose. Hail him!</p>\n<p>[[File:Kubb King by the Untrained Eye.jpg]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4226,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:04",
+  "slug": "game",
+  "link": "https://planetkubb.com/post/game/",
+  "title": {
+   "rendered": "Game"
+  },
+  "content": {
+   "rendered": "<p>The play of Kubb between the setup and the king being toppled.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4223,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:10",
+  "slug": "field-kubb",
+  "link": "https://planetkubb.com/post/field-kubb/",
+  "title": {
+   "rendered": "Field kubb"
+  },
+  "content": {
+   "rendered": "<p>A [[base kubb]] which has been [[toppled]] and, having been thrown back onto the field, has &#8220;joined the game&#8221;. All field kubbs must be [[toppled]] before base kubbs can legally be attacked.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4222,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:02",
+  "slug": "defending-team",
+  "link": "https://planetkubb.com/post/defending-team/",
+  "title": {
+   "rendered": "Defending team"
+  },
+  "content": {
+   "rendered": "<p>The team raising kubbs (not throwing) in a given turn.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4221,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:38:24",
+  "slug": "corner-stakes",
+  "link": "https://planetkubb.com/post/corner-stakes/",
+  "title": {
+   "rendered": "Corner stakes"
+  },
+  "content": {
+   "rendered": "<p>Used to mark the 4 corners of the Kubb pitch.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4220,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:56:16",
+  "slug": "centerline",
+  "link": "https://planetkubb.com/post/centerline/",
+  "title": {
+   "rendered": "Centerline"
+  },
+  "content": {
+   "rendered": "<p>A line parallel to the baselines running through the center of the king. This line demarcates the two halves of the pitch, and the boundary is measured by the center stakes.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   112
+  ]
+ },
+ {
+  "id": 4219,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:36:00",
+  "slug": "center-stakes",
+  "link": "https://planetkubb.com/post/center-stakes/",
+  "title": {
+   "rendered": "Center stakes"
+  },
+  "content": {
+   "rendered": "<p>Pins staked into the ground used to mark the centerline. These pins are to be placed on the sidelines so they can be used to determine sidelines as well as the centerline.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4217,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:35:58",
+  "slug": "baton",
+  "link": "https://planetkubb.com/post/baton/",
+  "title": {
+   "rendered": "Baton"
+  },
+  "content": {
+   "rendered": "<p>The throwing pin. A game requires 6.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4216,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:38:28",
+  "slug": "baseline",
+  "link": "https://planetkubb.com/post/baseline/",
+  "title": {
+   "rendered": "Baseline"
+  },
+  "content": {
+   "rendered": "<p>The short sides of the rectangular pitch or field of play. This is the side you are defending, and your opponent&#8217;s baseline is the side you are attacking. All field kubb throws and attacks at the king must be done from behind the baseline. Regulation size is 5m, and the boundary is measured by the corner stakes.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4214,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:38:26",
+  "slug": "attacking-team",
+  "link": "https://planetkubb.com/post/attacking-team/",
+  "title": {
+   "rendered": "Attacking team"
+  },
+  "content": {
+   "rendered": "<p>The team throwing in a given turn.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4213,
+  "date": "2012-02-26T18:00:00",
+  "modified": "2017-02-22T15:38:25",
+  "slug": "advantage-line-2",
+  "link": "https://planetkubb.com/post/advantage-line-2/",
+  "title": {
+   "rendered": "Advantage line"
+  },
+  "content": {
+   "rendered": "<p>If the Attacking Team throws all 6 batons and does not topple all of the field kubbs in the defending teams’ half of the pitch, then an advantage line is created running parallel to the baselines and through the center of the field kubb closest to the centerline. Batons may be thrown from anywhere on the advantage line, but all field kubb throws as well as all attacks at the king must be done from behind the baseline.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4281,
+  "date": "2012-03-04T18:00:00",
+  "modified": "2017-02-22T15:55:07",
+  "slug": "woodpile",
+  "link": "https://planetkubb.com/post/woodpile/",
+  "title": {
+   "rendered": "Woodpile"
+  },
+  "content": {
+   "rendered": "<p>A tight grouping of [[Field Kubb]]s.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4279,
+  "date": "2012-03-04T18:00:00",
+  "modified": "2017-02-22T15:55:06",
+  "slug": "weaving-the-basket",
+  "link": "https://planetkubb.com/post/weaving-the-basket/",
+  "title": {
+   "rendered": "Weaving the basket"
+  },
+  "content": {
+   "rendered": "<p>Adding a field [[Kubb]] to an empty space in the [[basket]].</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4274,
+  "date": "2012-03-19T19:00:00",
+  "modified": "2017-02-22T15:55:05",
+  "slug": "the-hard-way",
+  "link": "https://planetkubb.com/post/the-hard-way/",
+  "title": {
+   "rendered": "The hard way"
+  },
+  "content": {
+   "rendered": "<p>Drilling a kubb so that it is thrown clearly out of bounds, and successfully cuts to an in-bounds position.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4273,
+  "date": "2012-03-24T19:00:00",
+  "modified": "2017-02-22T15:55:03",
+  "slug": "switch",
+  "link": "https://planetkubb.com/post/switch/",
+  "title": {
+   "rendered": "Switch"
+  },
+  "content": {
+   "rendered": "<p>Throwing a Kubb or baton with your off-hand. For drilling, a right handed player throwing with their left hand, sometimes seen to get a certain cut. For example, if a player cannot throw [[Goofy cut|goofy cuts]], they may opt for a switch [[Regular cut|regular cut.]]</p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4271,
+  "date": "2012-03-24T19:00:00",
+  "modified": "2017-02-22T15:55:02",
+  "slug": "short-side",
+  "link": "https://planetkubb.com/post/short-side/",
+  "title": {
+   "rendered": "Short Side"
+  },
+  "content": {
+   "rendered": "<p>Drilling a kubb from the corner of the baseline, where your throwing arm is closest to the corner pin. </p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4262,
+  "date": "2012-03-24T19:00:00",
+  "modified": "2017-02-22T15:55:00",
+  "slug": "nudge",
+  "link": "https://planetkubb.com/post/nudge/",
+  "title": {
+   "rendered": "Nudge"
+  },
+  "content": {
+   "rendered": "<p>The act of using a kubb to impact a previously thrown kubb that landed short of the centerline. Also referred to as &#8216;forcing it in&#8217;.</p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4246,
+  "date": "2012-03-24T19:00:00",
+  "modified": "2017-02-22T15:54:59",
+  "slug": "early-cut",
+  "link": "https://planetkubb.com/post/early-cut/",
+  "title": {
+   "rendered": "Early Cut"
+  },
+  "content": {
+   "rendered": "<p>Drilling a Kubb that impacts the ground before reaching the centerline. </p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4248,
+  "date": "2012-03-25T19:00:00",
+  "modified": "2017-02-22T15:54:57",
+  "slug": "fence",
+  "link": "https://planetkubb.com/post/fence/",
+  "title": {
+   "rendered": "Fence"
+  },
+  "content": {
+   "rendered": "<p>A group of thrown kubbs that, when raised, create a horizontal line.  Fenced kubbs are an unfavorable kubb [[woodpile]], because the opportunity for doubles (or more) is significantly reduced. </p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4241,
+  "date": "2012-03-25T19:00:00",
+  "modified": "2017-02-22T15:35:57",
+  "slug": "toppled",
+  "link": "https://planetkubb.com/post/toppled/",
+  "title": {
+   "rendered": "Toppled"
+  },
+  "content": {
+   "rendered": "<p>A piece that has been struck by another piece as the result of a throw and becomes parallel to the ground. It is possible for a toppled kubb to be knocked over, then through the course of motion, to come to rest standing on one end. In this case, the [[kubb]] is still considered toppled, and is customary to put a [[token]] (ex. grass clippings) on the toppled kubb. Pieces that fall over due to wind, uneven ground, or being jostled by a player are &#8221;&#8217;not&#8221;&#8217; considered Toppled, and should be righted as close as possible to their previous location and orientation as can be determined.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4240,
+  "date": "2012-03-25T19:00:00",
+  "modified": "2017-02-22T15:35:57",
+  "slug": "token",
+  "link": "https://planetkubb.com/post/token/",
+  "title": {
+   "rendered": "Token"
+  },
+  "content": {
+   "rendered": "<p>A natural marker used to note a [[toppled]] kubb that may have come to rest righted, or to denote a [[field kubb]] that was placed on the [[baseline]] (ex. Grass clippings, twig, or a rock)</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4215,
+  "date": "2012-03-25T19:00:00",
+  "modified": "2017-02-22T15:35:58",
+  "slug": "base-kubb",
+  "link": "https://planetkubb.com/post/base-kubb/",
+  "title": {
+   "rendered": "Base kubb"
+  },
+  "content": {
+   "rendered": "<p>A kubb which is still in its original position on the [[baseline]]. During the course of play a field kubb may come to be placed on the baseline, but it remains a field kubb. All base kubbs must be [[toppled]] before the [[king]] can legally be attacked.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4272,
+  "date": "2012-04-09T19:00:00",
+  "modified": "2017-02-22T15:54:57",
+  "slug": "steamroller",
+  "link": "https://planetkubb.com/post/steamroller/",
+  "title": {
+   "rendered": "Steamroller"
+  },
+  "content": {
+   "rendered": "<p>A steamroller is when a baton is thrown with a legal, end-over-end toss, but after hitting the pitch, turns sideways and rolls into a kubb (or kubbs) knocking them over.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4254,
+  "date": "2012-04-09T19:00:00",
+  "modified": "2017-02-22T15:54:56",
+  "slug": "kite",
+  "link": "https://planetkubb.com/post/kite/",
+  "title": {
+   "rendered": "KITE"
+  },
+  "content": {
+   "rendered": "<pre style=\"white-space: pre-wrap\">Current status: KITE v0.3 is in a spreadsheet form to get test data for populating the application's database.  An alpha version is forthcoming.</pre>\n<p>KITE is an application that is currently being developed for tracking certain aspects of any given kubb game for later analysis.  KITE stands for Kubb Interactive Tracking Engine.  It will allow a player to track relevant data from a game quickly and easily.  When the game is finished, the data will be analyzed and game statistics presented to the user for that game as well as adding to that user&#8217;s cumulative stats.</p>\n<p>===== Planned Statistics =====<br />\n* Average length of match<br />\n* Baton hit percentage vs. wasted batons<br />\n* Long hit percentage vs. hit percentage with a line<br />\n* Win/loss percentage<br />\n* Penalty kubbs thrown<br />\n* King hits/king misses<br />\n* Baseline percentage<br />\n* &#8221;more coming soon&#8221;</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4225,
+  "date": "2012-05-28T19:00:00",
+  "modified": "2017-02-22T15:35:46",
+  "slug": "footprint",
+  "link": "https://planetkubb.com/post/footprint/",
+  "title": {
+   "rendered": "Footprint"
+  },
+  "content": {
+   "rendered": "<p>The potential area of the ground that a kubb will take up when raised. The footprint of the kubb is important when determining which end a kubb is forced to be raised on due to in bounds/out bounds, obstructions, or kubb raising strategies.<br />\n[[File:Kubb_footprint_example.jpg]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4257,
+  "date": "2012-07-10T19:00:00",
+  "modified": "2017-02-22T15:54:44",
+  "slug": "long-side",
+  "link": "https://planetkubb.com/post/long-side/",
+  "title": {
+   "rendered": "Long side"
+  },
+  "content": {
+   "rendered": "<p>Drilling a Kubb from the corner of the baseline, where the throwing arm is further from the corner pin.</p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4247,
+  "date": "2012-07-10T19:00:00",
+  "modified": "2017-02-22T15:54:54",
+  "slug": "far-side",
+  "link": "https://planetkubb.com/post/far-side/",
+  "title": {
+   "rendered": "Far side"
+  },
+  "content": {
+   "rendered": "<p>Drilling a Kubb from the middle of the baseline with the throwing arm on the opposite side of the pitch from where the kubb lands. </p>\n<p>This is [[User:Garrickvanburen|Garrick]]&#8217;s preferred method as of 2012</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4275,
+  "date": "2012-07-19T19:00:00",
+  "modified": "2017-02-22T15:56:10",
+  "slug": "the-house",
+  "link": "https://planetkubb.com/post/the-house/",
+  "title": {
+   "rendered": "The House"
+  },
+  "content": {
+   "rendered": "<p>A location on the pitch, square in form, 2 batons wide and 2 batons  deep, measured from the centerline pins, in the [[upfield]]. The location is used in practice for [[drilling]] kubbs, and success is determined by having all the kubbs touching the same house after being raised. The term was taken from the game of Curling. </p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 4267,
+  "date": "2012-07-19T19:00:00",
+  "modified": "2017-02-22T15:54:12",
+  "slug": "regular-cut",
+  "link": "https://planetkubb.com/post/regular-cut/",
+  "title": {
+   "rendered": "Regular cut"
+  },
+  "content": {
+   "rendered": "<p>The act of [[drilling]] a kubb so that it cuts from left to right, for a right handed player.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 4251,
+  "date": "2012-07-19T19:00:00",
+  "modified": "2017-02-22T15:54:44",
+  "slug": "goofy-cut",
+  "link": "https://planetkubb.com/post/goofy-cut/",
+  "title": {
+   "rendered": "Goofy cut"
+  },
+  "content": {
+   "rendered": "<p>The act of [[drilling]] a [[kubb]] so that it cuts from right to left, for a right handed player.<br />\n[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4249,
+  "date": "2012-07-19T19:00:00",
+  "modified": "2017-02-22T15:53:43",
+  "slug": "flat-drill",
+  "link": "https://planetkubb.com/post/flat-drill/",
+  "title": {
+   "rendered": "Flat drill"
+  },
+  "content": {
+   "rendered": "<p>The act of [[drilling]] a Kubb in a fashion where the Kubb does not cut or move after impact. A flat Kubb is said to &#8216;die&#8221; on impact. </p>\n<p>[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4234,
+  "date": "2012-07-19T19:00:00",
+  "modified": "2017-02-22T15:35:44",
+  "slug": "punishment-kubb",
+  "link": "https://planetkubb.com/post/punishment-kubb/",
+  "title": {
+   "rendered": "Punishment Kubb"
+  },
+  "content": {
+   "rendered": "<p>Teams are allowed one fault per kubb while throwing [[field kubb]]s (the kubb comes to rest in such a manner that it cannot be raised in bounds). If the second throw of the kubb is also judged to be a fault then the kubb is referred to as a punishment kubb and the defending team can place it anywhere in their half of the pitch provided that it is no closer than one baton length to the king or any field marking pin.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4232,
+  "date": "2012-07-24T19:00:00",
+  "modified": "2017-02-22T15:35:43",
+  "slug": "phase",
+  "link": "https://planetkubb.com/post/phase/",
+  "title": {
+   "rendered": "Phase"
+  },
+  "content": {
+   "rendered": "<p>Common sections of a given turn, there are four phases of a game; the beginning throw phase, the kubb tossing phase, the kubb raising phase, and the baton tossing phase.</p>\n<p>[[Image:Kubb phase illustration.png]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4265,
+  "date": "2012-08-08T19:00:00",
+  "modified": "2017-02-22T15:53:42",
+  "slug": "real-kubb-game",
+  "link": "https://planetkubb.com/post/real-kubb-game/",
+  "title": {
+   "rendered": "Real Kubb game"
+  },
+  "content": {
+   "rendered": "<p>Sometimes Kubb players will indicate that there is a &#8220;real Kubb game&#8221; when all the baseline kubbs are cleared, leaving 10 field kubbs in play.</p>\n<p>[[Category: Slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 65,
+  "date": "2012-10-11T21:25:21",
+  "modified": "2012-11-09T21:13:29",
+  "slug": "new-planet-kubb-site",
+  "link": "https://planetkubb.com/post/new-planet-kubb-site/",
+  "title": {
+   "rendered": "New Planet Kubb Site!"
+  },
+  "content": {
+   "rendered": "<p>Planet Kubb was launched on Feb. 14, 2012 by taking a river of news Kubb feed that I had made for me and some friends and putting it on the Planet Kubb domain name.  The very first site just took a bunch of RSS feeds and aggregated them together. Planet Kubb quickly added <a href=\"http://ask.planetkubb.com/\">Ask Planet Kubb</a> for Kubb Q&amp;A and the <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a>. In the last eight months there has been a lot of developments with Ask Planet Kubb and the Planet Kubb Wiki, but aside from some minor tweaks the main Planet Kubb site stayed the same.</p>\n<p>Planet Kubb was not a great experience for the first time visitor. It was confusing and didn&#8217;t even do a good job of highlighting Ask Planet Kubb or the Planet Kubb Wiki. There was just a big barrage of Kubb stuff aggregated. This week that changed, and Planet Kubb now has a much more approachable front door!</p>\n<p><a href=\"http://planetkubb.wpengine.com/post/new-planet-kubb-site/planet-kubb-screenshot-20121011/\" rel=\"attachment wp-att-66\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-66\" title=\"Planet Kubb Screenshot 20121011\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/10/Planet-Kubb-Screenshot-20121011-683x1024.png\" alt=\"\" width=\"550\" height=\"824\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/10/Planet-Kubb-Screenshot-20121011-683x1024.png 683w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/10/Planet-Kubb-Screenshot-20121011-200x300.png 200w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/10/Planet-Kubb-Screenshot-20121011-768x1151.png 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/10/Planet-Kubb-Screenshot-20121011.png 972w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a></p>\n<p>The Planet Kubb front page still highlights the most recent things from Planet Kubb World, the aggregator of Kubb content from all over the web. But it now gives special display to the activity stream from Ask Planet Kubb as well as recent items from Planet Kubb Pitch.</p>\n<p>I think this is going to be a much more friendly look. It also made a bunch of changes on the backend that is going to allow us to launch a new Planet Kubb capability in a couple of days that I am very excited about, stay tuned for that.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 70,
+  "date": "2012-10-13T09:05:35",
+  "modified": "2012-11-09T21:13:33",
+  "slug": "announcing-planet-kubb-network",
+  "link": "https://planetkubb.com/post/announcing-planet-kubb-network/",
+  "title": {
+   "rendered": "Announcing Planet Kubb Network!"
+  },
+  "content": {
+   "rendered": "<p>Would you like a website for your Kubb team? Need a blog for your Kubb club or tournament? <a href=\"http://planetkubb.wpengine.com/\">Planet Kubb</a> is now able to host sites for any Kubb team, club, tournament or individual Kubb blogger! Want one? Go to the <a href=\"http://planetkubb.wpengine.com/sites/\"><strong>site request form</strong></a>!</p>\n<p>For a while now I have wanted to make it easier for people to create blogs about Kubb, particularly around their Kubb teams. I thought about writing up something on the <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a>, sort of a &#8220;How To&#8221; but nothing seemed easy enough. On the way back from the <a href=\"http://www.wisconsinkubb.com/dallas-wi-tournament.php\">Dallas Kubb Tournament</a> I wondered if this is something Planet Kubb could do.</p>\n<p>The first place to start was my own team, the Kubbchucks. We had our own website using WordPress. <a href=\"http://pitch.planetkubb.wpengine.com/\">Planet Kubb Pitch</a> also was a standalone <a href=\"http://wordpress.org\">WordPress</a> site. WordPress supports networks of sites so I changed how Planet Kubb is setup to take advantage of this network capability.  We&#8217;ve already got <a href=\"http://kubbchucks.planetkubb.wpengine.com/\">Kubbchucks</a>, <a href=\"http://swedenssons.planetkubb.wpengine.com/\">Sweden&#8217;s Sons</a> and the <a href=\"http://crookedlaketrolls.planetkubb.wpengine.com/\">Crooked Lake Trolls</a> on the network with sites! I also reached out to the last three <a href=\"http://www.usakubb.org\">US National Champions</a>, teams with their names on the <a href=\"http://wiki.planetkubb.com/wiki/Stapp_King\">Stapp King</a>, and they are setting up sites as well! <a href=\"http://ringers.planetkubb.wpengine.com/\">The Ringers</a> are up and running and <a href=\"http://teamknockerheads.planetkubb.com/\">Team Knockerheads</a> and <a href=\"http://kubbsicles.planetkubb.wpengine.com/\">Kubbsicles</a> are getting setup as well!</p>\n<p>Why is Planet Kubb doing this? A big reason is so to make it easier for people to share information about Kubb on the web. We want to get more exposure for the great Kubb teams, clubs and events on the web. To that end, all the Planet Kubb Network sites will be added to the <a href=\"http://world.planetkubb.com/\">Planet Kubb World</a> feed and distributed via <a href=\"http://twitter.com/planetkubb\">@PlanetKubb</a> and the <a href=\"https://www.facebook.com/PlanetKubb\">Planet Kubb Facebook page</a>.</p>\n<p>I also think that there <strong>is something</strong> to Kubb teams. <a href=\"http://wiki.planetkubb.com/wiki/Eric_Anderson\">Eric Anderson</a> recently blogged on <a href=\"http://www.wisconsinkubb.com/blog/what-s-in-a-team-name\">What&#8217;s in a Team Name?</a>. We have an entire <a href=\"http://wiki.planetkubb.com/wiki/Category:Team\">section of the Planet Kubb Wiki for teams</a>. Having teams have a presence off the pitch is a great way to develop teams and the sport as a whole.</p>\n<p>Some details about the network:</p>\n<ol>\n<li>The Planet Kubb Network is run using WordPress. If you are familiar with WordPress you will be right at home. If not, it&#8217;s pretty easy to learn to use. You can even use WordPress apps on iOS and Android to blog from your mobile.</li>\n<li>Planet Kubb hosts all of the sites, and the site URL must be <em>pickyourname</em>.planetkubb.com.</li>\n<li>All of Planet Kubb is backed up nightly and weekly.</li>\n<li>You have the ability to export from your site. If in the future you would like to move it somewhere else, you are able to do that with ease.</li>\n<li>All Planet Kubb sites have sitemaps and proper indexes for search engines. This is managed by me for the whole network. See <a href=\"http://planetkubb.wpengine.com/robots.txt\">Planet Kubb&#8217;s robots.txt</a>.</li>\n<li>All Planet Kubb sites use Piwik for site analytics. <a href=\"http://piwik.org\">Piwik</a> is hosted by me for the network (running at stats.thingelstad.com). You can see traffic stats right in the dashboard, and if you want full stats I can setup a Piwik account for you as well. This way Google doesn&#8217;t get to spy on visitors to all the sites.</li>\n</ol>\n<p>Would you like to start a site for your team? Would you like to start a site for your event? Would you like to start a site for your club? There is a <a href=\"http://planetkubb.wpengine.com/sites/\"><strong>site request form</strong></a> that will get you started!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7,
+   28
+  ]
+ },
+ {
+  "id": 115,
+  "date": "2012-10-16T22:08:48",
+  "modified": "2012-11-09T21:13:40",
+  "slug": "planet-kubb-sites",
+  "link": "https://planetkubb.com/post/planet-kubb-sites/",
+  "title": {
+   "rendered": "Planet Kubb Sites"
+  },
+  "content": {
+   "rendered": "<p>It was just a couple of days ago that I <a href=\"http://planetkubb.wpengine.com/post/announcing-planet-kubb-network/\">announced the Planet Kubb Network</a> capability to host Kubb sites for teams, clubs and events. A number of people have requested sites and we already have a great cadre of teams with sites setup or in the process of getting setup!</p>\n<ul>\n<li><a href=\"http://kubbchucks.planetkubb.wpengine.com/\">Kubbchucks</a></li>\n<li><a href=\"http://kubbernard.planetkubb.wpengine.com/\">KubBernard</a></li>\n<li><a href=\"http://ringers.planetkubb.wpengine.com/\">The Ringers</a></li>\n<li><a href=\"http://swedenssons.planetkubb.wpengine.com/\">Sweden&#8217;s Sons</a></li>\n<li><a href=\"http://teamknockerheads.planetkubb.com/\">Team Knockerheads</a></li>\n<li><a href=\"http://crookedlaketrolls.planetkubb.wpengine.com/\">Crooked Lake Trolls</a></li>\n<li><a href=\"http://kubbsicles.planetkubb.wpengine.com/\">Kubbsicles</a></li>\n<li><a href=\"http://goofykubbers.planetkubb.wpengine.com/\">Goofy Kubbers</a></li>\n<li><a href=\"http://kubbsnipers.planetkubb.wpengine.com/\">Kubb Snipers</a></li>\n<li><a href=\"http://pitchslap.planetkubb.com/\">Pitch Slap</a></li>\n<li><a href=\"http://tadkubbler.planetkubb.wpengine.com/\">Tad Kubbler</a></li>\n</ul>\n<p>In addition to great adoption I have also installed language packs for Swedish and Dutch. If any teams, clubs or events outside of the US would like to try a Planet Kubb site I&#8217;d love to set one up!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   28
+  ]
+ },
+ {
+  "id": 4260,
+  "date": "2012-10-21T19:00:00",
+  "modified": "2017-02-22T15:53:41",
+  "slug": "minnesota-slide",
+  "link": "https://planetkubb.com/post/minnesota-slide/",
+  "title": {
+   "rendered": "Minnesota slide"
+  },
+  "content": {
+   "rendered": "<p>This is an alternative method of [[drilling]], or throwing the kubbs back into play, that is used on ice or frozen ground. Whereas the typical drill attempts to spike a kubb edge into the dirt to stop it, the slide focuses on dropping the Kubb side on the ice so that it slides predictably instead of bouncing off the ice.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4280,
+  "date": "2012-11-05T18:00:00",
+  "modified": "2017-02-22T15:53:40",
+  "slug": "wisconsin-style",
+  "link": "https://planetkubb.com/post/wisconsin-style/",
+  "title": {
+   "rendered": "Wisconsin style"
+  },
+  "content": {
+   "rendered": "<p>Playing kubb before dawn.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4263,
+  "date": "2012-11-06T18:00:00",
+  "modified": "2017-02-22T15:53:40",
+  "slug": "opening-team",
+  "link": "https://planetkubb.com/post/opening-team/",
+  "title": {
+   "rendered": "Opening team"
+  },
+  "content": {
+   "rendered": "<p>The team that throws first in a game.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 170,
+  "date": "2012-11-08T21:03:31",
+  "modified": "2012-11-09T20:37:34",
+  "slug": "game-videos-embedded-on-the-planet-kubb-wiki",
+  "link": "https://planetkubb.com/post/game-videos-embedded-on-the-planet-kubb-wiki/",
+  "title": {
+   "rendered": "Game Videos Embedded on the Planet Kubb Wiki"
+  },
+  "content": {
+   "rendered": "<p>A little tweak today on the Planet Kubb Games on the wiki. Now YouTube videos of the games are not just a link, but are embedded and playable right in the scoresheet. You can now watch the video and follow along with the notation.</p>\n<p>See <a href=\"http://wiki.planetkubb.com/wiki/Dallas,_WI_Oktoberfest_2012_Finals_-_Game_1\">Dallas 2012 Finals Game 1</a> and <a href=\"http://wiki.planetkubb.com/wiki/Dallas,_WI_Oktoberfest_2012_Finals_-_Game_2\">Dallas 2012 Finals Game 2</a> for examples.</p>\n<p>Additionally, there is a category for all the <a href=\"http://wiki.planetkubb.com/wiki/Category:Game_with_video\">games that have video</a> so you can use that if you just want to watch some Kubb games this winter.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 173,
+  "date": "2012-11-09T20:37:19",
+  "modified": "2012-11-09T20:37:19",
+  "slug": "improved-kubbs-in-play-graphs",
+  "link": "https://planetkubb.com/post/improved-kubbs-in-play-graphs/",
+  "title": {
+   "rendered": "Improved Kubbs in Play Graphs"
+  },
+  "content": {
+   "rendered": "<p>The Kubbs in Play by Turn graphs is one of my favorite kubb game visualizations and every <a href=\"http://wiki.planetkubb.com/wiki/Category:Game\">game on the Planet Kubb Wiki</a> has one. I was recently thinking that it could do a much better job of telling a story. Sure it&#8217;s interesting to see the number of kubbs in play, but it would be more interesting to see the remaining baseline kubbs as well. This is what we started with:</p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/Friendly,_Garrick_and_Jamie_v._Dobbie_and_Jaime_(July_10,_2012)\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-175\" title=\"Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012.png\" alt=\"\" width=\"450\" height=\"150\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012.png 450w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012-300x100.png 300w\" sizes=\"auto, (max-width: 450px) 85vw, 450px\" /></a></p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Kubbchucks_IDP_v._Shenanigans,_July_14_(Game_2)\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-179\" title=\"US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2.png\" alt=\"\" width=\"350\" height=\"150\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2.png 350w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2-300x129.png 300w\" sizes=\"auto, (max-width: 350px) 85vw, 350px\" /></a></p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Finals,_Knockerheads_v._Kubbsicles,_July_15_(Game_1)\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-177\" title=\"US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1.png\" alt=\"\" width=\"400\" height=\"150\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1.png 400w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1-300x113.png 300w\" sizes=\"auto, (max-width: 400px) 85vw, 400px\" /></a></p>\n<p>Now we have the new and improved ones. You can see at a glance which team has Kubbs left on the baseline. Note that a bug was also fixed that incorrectly didn&#8217;t show a first turn that didn&#8217;t have any hits, that is why the second graph shows 15 turns now instead of 14 like above.</p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/Friendly,_Garrick_and_Jamie_v._Dobbie_and_Jaime_(July_10,_2012)\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-174\" title=\"Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012 v2\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012-v2.png\" alt=\"\" width=\"810\" height=\"200\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012-v2.png 810w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012-v2-300x74.png 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Friendly_Garrick_and_Jamie_v._Dobbie_and_Jaime_July_10_2012-v2-768x190.png 768w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></a></p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Kubbchucks_IDP_v._Shenanigans,_July_14_(Game_2)\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-178\" title=\"US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2 v2\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2-v2.png\" alt=\"\" width=\"705\" height=\"200\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2-v2.png 705w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Kubbchucks_IDP_v._Shenanigans_July_14_Game_2-v2-300x85.png 300w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></a></p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Finals,_Knockerheads_v._Kubbsicles,_July_15_(Game_1)\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-176\" title=\"US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1 v2\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1-v2.png\" alt=\"\" width=\"740\" height=\"200\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1-v2.png 740w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/US_Nationals_2012_Finals_Knockerheads_v._Kubbsicles_July_15_Game_1-v2-300x81.png 300w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></a></p>\n<p>These are a huge improvement!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 247,
+  "date": "2012-11-25T14:51:33",
+  "modified": "2012-11-25T14:51:33",
+  "slug": "announcing-the-planet-kubb-us-kubb-club-championship",
+  "link": "https://planetkubb.com/post/announcing-the-planet-kubb-us-kubb-club-championship/",
+  "title": {
+   "rendered": "Announcing the Planet Kubb US Kubb Club Championship"
+  },
+  "content": {
+   "rendered": "<p>In 2013 Planet Kubb will title the <strong>best Kubb club in the United States</strong>! The US Kubb Club Championship will be determined based on performance during the <a href=\"http://www.usakubb.org\">U.S. National Kubb Championship</a>.</p>\n<p>Kubb continues to grow from a backyard game into tournaments and for the last several years a national tournament. A big part of helping Kubb continue to develop is the <strong>local Kubb club</strong>. <a href=\"http://desmoineskubb.com\">Des Moines Kubb</a> is a great example of a club with a large number of members, regular friendly play and hosting a tournament as well. They play together and cheer each other on at tournaments. However, until now there has been no way for Des Moines Kubb to see how they stack up against <a href=\"http://minnesotakubb.com\">Minnesota Kubb</a> or <a href=\"http://foxvalleykubb.com\">Fox Valley Kubb</a>. The Club Championship is intended to encourage more development in local clubs, more reason for fellow Kubb club teams to root each other on and an opportunity for Kubb club captains to think strategically about the teams that represent them in the tournament.</p>\n<p>Some details on how this will work:</p>\n<ol>\n<li>Kubb club captains will register at Planet Kubb to participate in the championship. You must register to be eligible to win. There will be a fee for entrance.</li>\n<li>Kubb club captains will identify <strong>three</strong> Kubb teams that will collect points for the Kubb club. Kubb clubs must have <em>exactly three</em> teams that represent them.</li>\n<li>The Kubb team captains must agree to represent the Kubb club that picked them (club picks the teams, teams confirm the pick).</li>\n<li>A Kubb team can only represent one Kubb club.</li>\n<li>The Kubb clubs captains and the Kubb team captains must be in the same state (Minnesota Clubs must be represented by Minnesota Teams, Iowa Clubs must be represented by Iowa Teams).</li>\n</ol>\n<p>On July 14, 2013 concurrently with the completion of the U.S. National Kubb Championship we will tally the scores and determine the top US Kubb Club. A trophy will be given to the top club that they will keep for the year until the 2014 Championship! Details regarding the points system and registration fee will be announced in the beginning of 2013.</p>\n<p>Club captains, start thinking through the teams that will represent your club in 2013!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 260,
+  "date": "2012-11-28T07:36:47",
+  "modified": "2012-11-28T07:36:47",
+  "slug": "planet-kubb-youtube-feed-change",
+  "link": "https://planetkubb.com/post/planet-kubb-youtube-feed-change/",
+  "title": {
+   "rendered": "Planet Kubb YouTube Feed Change"
+  },
+  "content": {
+   "rendered": "<p>Over the course of the last couple of months a handful of &#8220;spammy&#8221; YouTube videos have syndicated themselves onto Planet Kubb and then the <a href=\"https://www.facebook.com/PlanetKubb\">Planet Kubb Facebook</a> page and <a href=\"http://twitter.com/planetkubb\">@PlanetKubb Twitter account</a>. These are typically cheesy videos of people selling Kubb sets. All of these videos were picked up by a generic search feed of YouTube for anything containing the words &#8220;kubb&#8221; and &#8220;game&#8221; in the description. I&#8217;ve now <em>disabled</em> that feed.</p>\n<p>Going forward I&#8217;m going to limit YouTube feeds to ones from known users that post Kubb games or other Kubb content (not ads). We are currently pulling in feeds from 12 different users on YouTube. If you are ever curious what feeds are pulled into <a href=\"http://world.planetkubb.com/status-log.html\">Planet Kubb World the status page</a> lists them all (you can also <a href=\"http://world.planetkubb.com/opml.xml\">get it in OPML format</a>).</p>\n<p>This change means that some random person who posts a video with &#8220;kubb&#8221; and &#8220;game&#8221; in the description will not get syndicated. If you know of YouTube users that are not currently included in the feed and do post Kubb content, please comment below and I&#8217;ll get them added right away.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 262,
+  "date": "2012-11-28T07:47:59",
+  "modified": "2012-11-28T07:47:59",
+  "slug": "call-for-2013-kubb-tournaments",
+  "link": "https://planetkubb.com/post/call-for-2013-kubb-tournaments/",
+  "title": {
+   "rendered": "Call for 2013 Kubb Tournaments"
+  },
+  "content": {
+   "rendered": "<p>We&#8217;ve had a great year of Kubb in 2012 and everyone is looking forward to the 2013 season. I would like to get the 2013 Tournament schedule populated on the Planet Kubb Wiki. So far we just have four 2013 tournaments: <a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013\">Minnesota Kubb Loppet Tournament 2013</a>, <a href=\"http://wiki.planetkubb.com/wiki/US_National_Kubb_Championship_2013\">US National Kubb Championship 2013</a>, <a href=\"http://wiki.planetkubb.com/wiki/World_Championship_in_Kubb_2013\">World Championship 2013</a> and <a href=\"http://wiki.planetkubb.com/wiki/Fall_Kubb_Klassic_2013\">Fall Kubb Klassic 2013</a>.</p>\n<p>I expect the tournament directors out there know the weekends they are targeting. Please add your tournaments to the wiki using the <a href=\"http://wiki.planetkubb.com/wiki/Form:Event\">new event form</a> (you must have an account and be logged into the wiki to do this, create an account if you don&#8217;t have one).</p>\n<p>Getting your tournaments in the wiki early will help players schedule their plans for next year. Also, we have some work in progress to share the upcoming tournament schedule from Planet Kubb to any and all Kubb websites that wish to use it so that everyone can use a central copy and not duplicate work. Getting your tournament in the system will insure that you get exposure in a bunch of places!</p>\n<p><em>(If adding the tournament on the wiki is too difficult you could also leave the details in a comment to this post and someone will add it to the wiki for you.)</em></p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 279,
+  "date": "2012-12-08T14:12:55",
+  "modified": "2012-12-08T14:12:55",
+  "slug": "ask-planet-kubb-upgraded-to-question2answer-1-5-4",
+  "link": "https://planetkubb.com/post/ask-planet-kubb-upgraded-to-question2answer-1-5-4/",
+  "title": {
+   "rendered": "Ask Planet Kubb Upgraded to Question2Answer 1.5.4"
+  },
+  "content": {
+   "rendered": "<p>I just upgraded <a href=\"http://www.question2answer.org\">Question2Answer</a> from <a href=\"http://www.question2answer.org/versions.php\">1.5.3 to 1.5.4</a>. This is the software behind <a href=\"http://ask.planetkubb.com/\">Ask Planet Kubb</a>. We are also starting to get some unified styling to the various Planet Kubb sites which you&#8217;ll see on the <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a> and starting to show up on Ask Planet Kubb. If you see anything not working after the upgrade on Ask Planet Kubb post a comment.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   29
+  ]
+ },
+ {
+  "id": 290,
+  "date": "2013-01-13T20:23:22",
+  "modified": "2013-01-13T20:23:22",
+  "slug": "planet-kubb-via-google",
+  "link": "https://planetkubb.com/post/planet-kubb-via-google/",
+  "title": {
+   "rendered": "Planet Kubb via Google+"
+  },
+  "content": {
+   "rendered": "<p>Many of you like to get your Planet Kubb news directly from the Planet Kubb site. There are a bunch of folks that keep up using <a href=\"http://facebook.com/planetkubb\">Planet Kubb&#8217;s Facebook feed</a> or the <a href=\"https://twitter.com/PlanetKubb\">Planet Kubb Twitter feed</a>. And now, those of you that prefer Google+ can keep up-to-date on the world of Kubb as well by following <a href=\"https://plus.google.com/u/0/b/104463024044817603228/104463024044817603228/posts\">Planet Kubb on Google+</a>! Go there and put us in a circle, like some stuff, follow some stuff. Whatever your poison is.</p>\n<p>Remember for those of you that like your content direct, you can bypass all of that liking, circling and following by subscribing directly to the <a href=\"http://world.planetkubb.com/rss20.xml\">Planet Kubb RSS feed</a>.</p>\n<p>I&#8217;ve also been considering an email feed that would drop items right in your mailbox. If that sounds like something you would like leave a comment here.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 296,
+  "date": "2013-01-14T15:27:19",
+  "modified": "2013-01-14T15:27:19",
+  "slug": "2013-kubbnation-magazine-published",
+  "link": "https://planetkubb.com/post/2013-kubbnation-magazine-published/",
+  "title": {
+   "rendered": "2013 Kubbnation Magazine Published"
+  },
+  "content": {
+   "rendered": "<p>The 2013 issue of <a href=\"http://www.wisconsinkubb.com/kubbnation-magazine.php\">Kubbnation Magazine</a> has just been published! Head on over to their website to get your copy! This issue highlights the <strong>Year for US Kubb</strong>.</p>\n<p>There are two articles in this years Kubbnation from Planet Kubb. Their is an Introduction to Planet Kubb (p. 29) that goes over our first year, as well as a article that outlines the Planet Kubb Notation System (p. 31). We are honored and proud to be published in this years Kubbnation!</p>\n<p>Pro tip: Put the PDF for Kubbnation on your iPad or other device. It works great there and makes for a wonderful read on the couch. While your at it, grab the 2011 and 2012 issues as well so you have the full library.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 119,
+  "date": "2013-01-14T16:00:47",
+  "modified": "2013-01-14T16:13:11",
+  "slug": "introducing-planet-kubb",
+  "link": "https://planetkubb.com/post/introducing-planet-kubb/",
+  "title": {
+   "rendered": "Introducing Planet Kubb"
+  },
+  "content": {
+   "rendered": "<p style=\"text-align: right\"><strong><em>This article appears in the <a href=\"http://www.wisconsinkubb.com/kubbnation-magazine.php\">2013 issue of Kubbnation Magazine</a>.</em></strong></p>\n<p>Very late one evening in February of 2012 I sent this email to my friend Garrick:</p>\n<blockquote>\n<pre>Subject: Kubb River\r\nFrom: Jamie Thingelstad &lt;jamie@_____.com&gt;\r\nDate: Tue, 14 Feb 2012 00:15:20 -0600\r\nTo: Garrick Van Buren &lt;email@_____.com&gt;\r\n\r\nGot timestamps working on feeds so it is right now. Just need to move this river to\r\nPlanet Kubb and give it a better HTML.\r\n\r\nhttp://river.thingelstad.com/kubb/index.html\r\n\r\n--\r\nJamie Thingelstad via iPhone</pre>\n</blockquote>\n<p>Three days prior to that I had thought to make a feed of Kubb blog posts, videos and anything else I could find just for my personal use. When I saw that river of Kubb come together I thought it was immediately useful and interesting. I&#8217;ve been an Internet geek since the early 90&#8217;s and knew that there were a number of &#8220;<a href=\"http://en.wikipedia.org/wiki/Planet_(software)\">planet feeds</a>&#8221; out there that aggregated everything they could find on a topic, usually an open source project. I saw my little river of Kubb and thought to myself &#8220;I wonder if there should be a planet feed for Kubb? Planet Kubb?&#8221; And with that and the email above Planet Kubb was created.</p>\n<p>For years I&#8217;ve hosted my own personal and hobby websites. I run several WordPress blogs, several MediaWiki powered wikis. I&#8217;ve been a constant explorer of this type of software for over a decade. I have two virtual servers at Linode to run all of my projects on so after I setup the initial Planet Kubb website I started thinking about more interesting things that could be put up for the Kubb community. I was poking around and discovered an open source package called <a href=\"http://www.question2answer.org\">Question2Answer</a> that can be used to power question and answer websites. Right away I knew this was something that would be interesting for Kubb so I pinged Garrick since I couldn&#8217;t figure out what to call it and he immediately replied…</p>\n<h2>Ask Planet Kubb</h2>\n<p><a href=\"http://ask.planetkubb.com/\">Ask Planet Kubb</a> was launched just 4 days later on February 18th. Today, Ask Planet Kubb has over 300 answers to more than 100 questions. Topics ranging from <a href=\"http://ask.planetkubb.com/83/what-is-your-practice-routine\">how to practice</a> to <a href=\"http://ask.planetkubb.com/355/optimal-placement-of-penalty-kubbs\">optimal placement of penalty kubbs</a> to the more light-hearted question of all the <a href=\"http://ask.planetkubb.com/367/what-is-with-all-the-baton-flipping\">pre-throw baton flipping</a>.</p>\n<p>Ask Planet Kubb has become the &#8220;go to&#8221; place to get input on whatever questions you have about Kubb. There are Kubb players from the US, Sweden, Germany and a number of other countries actively answering and exchanging comments. A major highlight occurred on Ask Planet Kubb on August 7, 2012 when a discussion around the <a href=\"http://ask.planetkubb.com/708/using-the-center-pin-to-stand-a-kubb?show=742#c742\">process of standing Kubbs near the center pin</a> resulted in a rules clarification with US, Swedish and German Kubb players engaging in the discussion.</p>\n<p>Quickly Ask Planet Kubb became a place to discuss some of the more esoteric aspects of competitive kubb &#8211; but where to document the decisions?</p>\n<h2>Planet Kubb Wiki</h2>\n<p>The <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a> started as a directory of vocabulary, tournaments, teams, players, and a <a href=\"http://wiki.planetkubb.com/w/index.php?title=Notation&amp;oldid=212\">nascent page about Kubb notation</a> &#8220;Some ideas on how to keep something like a box score for a Kubb match. The most repeatable action is the baton toss so that is the key to pace the sheet.&#8221;</p>\n<p>A couple months later, Garrick brought a blank piece of paper to a lunchtime game of lunch and we took turns documenting each baton throw. Over the next few weeks, the <a href=\"http://wiki.planetkubb.com/wiki/Notation\">Planet Kubb Game Notation</a> and <a href=\"http://wiki.planetkubb.com/wiki/Scoresheet\">Scoresheet</a> were flushed out. Both got their first real test during the championship bracket at the <a href=\"http://wiki.planetkubb.com/wiki/US_National_Kubb_Championship_2012\">2012 US National Kubb Championshi</a>p where <a href=\"http://wiki.planetkubb.com/wiki/Player:Garrick_van_Buren\">Garrick</a>, <a href=\"http://wiki.planetkubb.com/wiki/Player:Tony_Hansen\">Tony Hansen</a> of <a href=\"http://desmoineskubb.com\">Des Moines Kubb</a>, <a href=\"http://wiki.planetkubb.com/wiki/Player:Chad_Bevers\">Chad Bevers</a> of <a href=\"http://foxvalleykubb.com\">Fox Valley Kubb</a>, and I scored all the championship games. With the notation now baked deep into the wiki with automatically calculated game, teams and player statistics we can start to raise our level of understanding of Kubb to an entirely new level.</p>\n<p>I have great hopes that we will see further adoption of the Planet Kubb Notation system and that it starts to be used as a means of archiving and sharing game results across clubs as well as countries and languages. I truly believe it is the most significant contribution that Planet Kubb has made to the game in our brief time working on stuff. I hope to be able to follow the championship game at the Kubb VM someday by getting Tweets of each turn transmitted using the notation. &#8220;8i3r 4f 3f f b K &#8211; # Team Ekeby wins the Kubb VM!&#8221;. <em>Please see separate article in Kubbnation on the Planet Kubb Notation System.</em></p>\n<p>The Planet Kubb Wiki aims to be the central archive of all Kubb related information available. It is a directory of Kubb clubs, an archive of games played, a place to see the brackets from previous tournaments and the most complete reference of Kubb content on the web. The best part? You can help make it better of course by creating an account and contributing additional content!</p>\n<h2>Planet Kubb Network</h2>\n<p>I have long wished that there were more Kubb teams with blogs. I wish that there was a better option for tournaments and clubs to have a nice website platform. There are a lot of Facebook pages for Kubb clubs, but they lack more depth on the clubs, members and their thoughts on Kubb. After wishing something better would exist it hit me that Planet Kubb could make that something better and on October 20th the <a href=\"http://planetkubb.wpengine.com/post/announcing-planet-kubb-network/\">Planet Kubb Network was launched</a>.</p>\n<p>Using the Planet Kubb Network any Kubb team, club, event or even player can have their own <a href=\"http://wordpress.org\">WordPress</a>-powered website to share whatever Kubb related information they want. You don&#8217;t have to pay anything. The sites are hosted via Planet Kubb. And the content is all yours. If you wish to move it somewhere else later you can export everything and head off to a different website.</p>\n<p>All of the sites in the Planet Kubb Network are automatically included in the distribution feeds we syndicate on Facebook and Twitter so you get an instance tap into Kubb fans around the world. And, the network supports localization into Swedish, German and Dutch right now and other languages are easy to add.</p>\n<p>&nbsp;</p>\n<p>In the past 6 months Planet Kubb has had over 15,000 visits from over 50 different countries around the world. What&#8217;s next for Planet Kubb? In 2013 Planet Kubb will award the <a href=\"http://planetkubb.wpengine.com/post/announcing-the-planet-kubb-us-kubb-club-championship/\">US Kubb Club Championship</a> for the first time. The Kubb Club that collects the most points from it&#8217;s three representative teams in the US National Championship will be named the top Kubb club in the US! Will your club be the one?</p>\n<p>To a large extent thought he future of Planet Kubb is in the Kubb communities hands. Get involved on Ask Planet Kubb and answer some questions. Contribute some content to the Planet Kubb Wiki. Score some games and add them to the corpus of games on the Planet Kubb Wiki. Add your local Kubb clubs and events. <strong>Thank you for helping build out the most vibrant Kubb community on the Internet!</strong></p>\n",
+   "protected": false
+  },
+  "categories": [
+   26
+  ]
+ },
+ {
+  "id": 185,
+  "date": "2013-01-14T17:00:44",
+  "modified": "2013-01-14T17:01:45",
+  "slug": "introduction-to-the-planet-kubb-game-notation-system",
+  "link": "https://planetkubb.com/post/introduction-to-the-planet-kubb-game-notation-system/",
+  "title": {
+   "rendered": "Introduction to the Planet Kubb Game Notation System"
+  },
+  "content": {
+   "rendered": "<p style=\"text-align: right\"><strong><em>This article appears in the <a href=\"http://www.wisconsinkubb.com/kubbnation-magazine.php\">2013 issue of Kubbnation Magazine</a>.</em></strong></p>\n<p>It&#8217;s <a href=\"http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Quarterfinals,_Knockerheads_v._Tad_Kubbler,_July_15_(Game_2)\">game 2 of the 2012 U.S. Nationals&#8217; quarterfinals Knockerheads v. Tad Kubbler</a>. The Knockerheads&#8217; Josh Feathers prepares to throw in 9 kubbs. If Josh and the Knockerheads win this, they move foward to the semifinals.</p>\n<p>Nine field kubbs and six batons. Will the Knockerheads leave Tad Kubbler an advantage line? And if they do &#8211; is their championship quest over?</p>\n<p>With the <a href=\"http://wiki.planetkubb.com/wiki/notation\">Planet Kubb Game Notation</a> it is now possible to start to answer these questions. Just as baseball has the all-telling box score, Kubb now has a simple, fast and effective, method of transcribing and archiving Kubb games for easy sharing and statistical analysis.</p>\n<p>The <a href=\"http://wiki.planetkubb.com/wiki/notation\">Game Notation</a> was developed by <a href=\"http://wiki.planetkubb.com/wiki/Player:Jamie_Thingelstad\">Jamie Thingelstad</a> and <a href=\"http://wiki.planetkubb.com/wiki/Player:Garrick_van_Buren\">Garrick van Buren</a> early in 2012 as a simple way to describe each turn within a Kubb game. It debuted at the 2012 US Championship after being tested on several Kubb games on YouTube as well as field tested in actual game play. The Notation can be learned in a minute and it provides an easy guide to any Kubb game: a &#8216;B&#8217; means a baseline kubb was hit, an &#8216;F&#8217; means a field kubb was hit, and a &#8216;K&#8217; means the king was slain.</p>\n<p>With this we can describe a perfect Kubb games as follows:</p>\n<table>\n<tbody>\n<tr>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td>B</td>\n<td>K</td>\n</tr>\n</tbody>\n</table>\n<p>One &#8216;B&#8217; or baseline kubb hit by each of the first 5 batons with the final baton slaying the king &#8211; &#8216;K&#8217;.</p>\n<p>We can even introduce a letter for each player, to denote who threw each baton. Take this team with players; Josh &#8211; &#8216;j&#8217;, Grant -&#8216;g&#8217;, Dwayne &#8211; &#8216;d&#8217;:</p>\n<table>\n<tbody>\n<tr>\n<td>j:B</td>\n<td>j:B</td>\n<td>g:B</td>\n<td>g:B</td>\n<td>d:B</td>\n<td>d:K</td>\n</tr>\n</tbody>\n</table>\n<p>Of course, a Kubb game is made of more than baseline kubb hits and king shots. There&#8217;s missed shots, advantage lines, and throwing kubbs in. The Notation can capture all aspects of a kubb game and has been used to record nearly 100 tournament games worldwide already &#8211; including the quarterfinals bracket from the 2012 U.S. Nationals.</p>\n<p>Let&#8217;s return to the quarterfinals game where Josh Feathers is about to throw in 9 kubbs. After analyzing the notation of each turns in the recorded games, we know there&#8217;s a <em>48% chance 1 of those 9 kubbs will remain</em> &#8211; leaving an advantage line for the opponent. Additionally, there&#8217;s a 85% chance the opponent will immediately convert that advantage line into a win.</p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/Screen-Shot-2012-11-12-at-3.39.47-PM.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-231\" title=\"Screen Shot 2012-11-12 at 3.39.47 PM\" alt=\"\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2012/11/Screen-Shot-2012-11-12-at-3.39.47-PM.png\" width=\"744\" height=\"559\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Screen-Shot-2012-11-12-at-3.39.47-PM.png 744w, https://planetkubb.com/wp-content/planetkubb/uploads/2012/11/Screen-Shot-2012-11-12-at-3.39.47-PM-300x225.png 300w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></a></p>\n<p>How do the Knockerheads perform?</p>\n<p>Let&#8217;s take a look:</p>\n<table>\n<tbody>\n<tr>\n<td>j:9i3r</td>\n<td>j:5F</td>\n<td>j:2F</td>\n<td>g:F</td>\n<td>g:-</td>\n<td>d:-</td>\n<td>d:F</td>\n</tr>\n</tbody>\n</table>\n<p>Josh throws in 9 kubbs, and had to rethrow 3 (j:9i3r). Then with the very first baton he knocks down 5 field kubbs (j:5f), then 2 more with the 2nd baton (j:2F). Grant then takes care of one more field kubb (g:F), misses (g:-) and steps back for Dwayne. Dwayne also misses (d:-) risking the odds before toppling the final field kubb (d:F).</p>\n<p>Tad Kubbler is now up with Eric Goplin (&#8216;e&#8217;) throwing in 9 kubbs, after 4 rethrows.</p>\n<table>\n<tbody>\n<tr>\n<td>e:9i4r</td>\n<td>c:3F</td>\n<td>c:-</td>\n<td>a:3F</td>\n<td>a:F</td>\n<td>e:-</td>\n<td>e:-</td>\n</tr>\n</tbody>\n</table>\n<p>Cole (&#8216;c&#8217;) immediately topples 3 field kubbs (c:3F) followed by a miss (c:-). Anders (&#8216;a&#8217;) also hits a triple (a:3F) and a single (a:F). Unfortunately, Eric misses twice leaving an advantage line &#8211; just as the statistics predicted would happen with 9 field kubbs.</p>\n<p>Also just as the statistics predicted, the Knockerheads immediately win.</p>\n<table>\n<tbody>\n<tr>\n<td>j:7IR</td>\n<td>A</td>\n<td>j:5F</td>\n<td>j:F</td>\n<td>g:F</td>\n<td>d:K</td>\n<td>X</td>\n<td>X</td>\n</tr>\n</tbody>\n</table>\n<p>Josh now only throws in 7 (and only 1 rethrow). Then he moves up to the advantage line (A) and topples 5 (j:5F) followed by a single (j:F). Grant finishes the last field kubb (g:F) then steps back while Dwayne slays the king (d:K). The Knockerheads move into the semifinals with 2 unthrown batons (X).</p>\n<p>This quarterfinal game between Knockerheads and Tad Kubbler had 20 turns. Across those 20 turns, the Knockerheads hit wood 62% of the time compared to Tad Kubbler&#8217;s 60%. This tells us that these two teams are very evenly matched and both hold up well to the stresses of tournament-level play.</p>\n<p>The notation isn&#8217;t just to tournament play. It&#8217;s easy enough to remember and quick enough to jot down during friendlies or practices to gauge your own skill level and track improvements.</p>\n<p>The downloadable <a href=\"http://wiki.planetkubb.com/wiki/Scoresheet\">Planet Kubb Scoresheet</a> includes the most used notation and supports a 20 turn game. Once the data is on the scoresheet (or even if it&#8217;s not), everyone is welcome to enter their game statistics into the Planet Kubb Wiki. This will automatically calculate hit percentages for the game, each player, and feed into the overall Kubb game statistics.</p>\n<p>Additionally, Kubb players have started scoring games from tournaments (both in person and using YouTube videos) making it possible for us to understand both individual performances, team strengths and overall game dynamics. When game video is available &#8211; as it is for this Knockerheads v. Tad Kubbler game &#8211; the video is embedded into the Planet Kubb game page. This makes is easy to follow along as the game unfolds and revise the game&#8217;s notation as needed.</p>\n<p>The <a href=\"http://wiki.planetkubb.com/wiki/Notation\">Planet Kubb Game Notation</a> is a tremendously exciting innovation for the sport of Kubb. It provides a statistical framework for understanding this simple, yet complex game. It adds the best of chess notation, the excitement of sports statistics and allows kubb teams to compare their play across time, languages and countries!</p>\n<h3>Planet Kubb Game Notation Primer</h3>\n<table>\n<thead>\n<tr>\n<td colspan=\"2\"><strong>Kubb Tossing Phase</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>I</td>\n<td>number of kubbs thrown in.</td>\n</tr>\n<tr>\n<td>R</td>\n<td>number of kubbs rethrown because they landed out of bounds.</td>\n</tr>\n<tr>\n<td>P</td>\n<td>number of punishment kubbs thrown (kubbs thrown out of bounds twice).</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<td colspan=\"2\"><strong>Advantage Line</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A</td>\n<td>indicates the team is throwing from an advantage line. Prepended number indicated estimated distance (in meters) of advantage.</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<td colspan=\"2\"><strong>Baton Tossing Phase</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>&#8211; (dash)</td>\n<td>baton did not knock anything down.</td>\n</tr>\n<tr>\n<td>B</td>\n<td>base kubbs hit.</td>\n</tr>\n<tr>\n<td>F</td>\n<td>number of field kubbs hit, prepended number indicates multiples.</td>\n</tr>\n<tr>\n<td>K</td>\n<td>King hit</td>\n</tr>\n</tbody>\n</table>\n<p>The <a href=\"http://wiki.planetkubb.com/wiki/Notation\">full notation</a> includes indicators for rescue kubbs, missed king shots, illegal throws, and everything else that happens in Kubb.</p>\n<p>Full scoresheet for the game.</p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2.pdf\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-309\" alt=\"pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/01/pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2-789x1024.png\" width=\"550\" height=\"713\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/01/pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2-789x1024.png 789w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/01/pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2-231x300.png 231w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/01/pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2-768x996.png 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/01/pk-scoresheet-us-quarterfinals-tadkubbler-knockerheads-2.png 800w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></p>\n<p></a></p>\n",
+   "protected": false
+  },
+  "categories": [
+   26
+  ]
+ },
+ {
+  "id": 319,
+  "date": "2013-02-03T11:08:08",
+  "modified": "2013-02-03T11:26:07",
+  "slug": "games-from-2013-minnesota-kubb-loppet-tournament",
+  "link": "https://planetkubb.com/post/games-from-2013-minnesota-kubb-loppet-tournament/",
+  "title": {
+   "rendered": "Games from 2013 Minnesota Kubb Loppet Tournament"
+  },
+  "content": {
+   "rendered": "<figure id=\"attachment_323\" aria-describedby=\"caption-attachment-323\" style=\"width: 550px\" class=\"wp-caption alignnone\"><a href=\"http://planetkubb.wpengine.com/post/games-from-2013-minnesota-kubb-loppet-tournament/20130202-094454-14731/\" rel=\"attachment wp-att-323\"><img loading=\"lazy\" decoding=\"async\" class=\"size-large wp-image-323\" alt=\"Chad Bevers of 2012 Champions Kubb Snipers taking some practice throws.\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731-1024x682.jpg\" width=\"550\" height=\"366\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731-1024x682.jpg 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731-300x200.jpg 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731-768x512.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731-1536x1024.jpg 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731-1200x800.jpg 1200w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/20130202-094454-14731.jpg 2000w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a><figcaption id=\"caption-attachment-323\" class=\"wp-caption-text\">Chad Bevers of 2012 Champions Kubb Snipers taking some practice throws.</figcaption></figure>\n<p>Yesterday was the 2013 Minnesota Kubb Loppet Tournament. I withstood an extended stay in the cold with the teams through the championships holding my clipboard, wiping the snow off the scoresheet and writing with lantern light hoping my pen wouldn&#8217;t freeze and stop working. Some great games. Check out the scoresheets on the Planet Kubb Wiki linked below to relive the action!</p>\n<ul>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Quarterfinals,_Knockerheads_v._Kubby_Doo,_Game_1\"><strong>Quarterfinals: Team Knockerheads v. Kubby Doo (Game 1)</strong></a><br />\nHeavyweight Kubb with big groups.</li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Quarterfinals,_Knockerheads_v._Kubby_Doo,_Game_2\"><strong>Quarterfinals: Team Knockerheads v. Kubby Doo (Game 2)</strong></a><br />\nKnockerheads leave an advantage line, you guess what happens next.</li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Quarterfinals,_Knockerheads_v._Kubby_Doo,_Game_3\"><strong>Quarterfinals: Team Knockerheads v. Kubby Doo (Game 3)</strong></a><br />\nCheck out turn 3 of this game.</li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Semifinals,_The_Ringers_v._Kubb_Snipers,_Game_1\"><strong>Semifinals: The Ringers v. Kubb Snipers (Game 1)</strong></a></li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Semifinals,_The_Ringers_v._Kubb_Snipers,_Game_2\"><strong>Semifinals: The Ringers v. Kubb Snipers (Game 2)</strong></a></li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Semifinals,_The_Ringers_v._Kubb_Snipers,_Game_3\"><strong>Semifinals: The Ringers v. Kubb Snipers (Game 3)</strong></a><br />\nAn absolute clinic on how to win a Kubb game by The Ringers. Games is over in three turns! The Kubb Snipers only got to throw batons once.</li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Finals,_Team_Knockerheads_v._The_Ringers,_Game_1\"><strong>Finals: Team Knockerheads v. The Ringers (Game 1)</strong></a></li>\n<li><a href=\"http://wiki.planetkubb.com/wiki/Minnesota_Kubb_Loppet_Tournament_2013,_Finals,_Team_Knockerheads_v._The_Ringers,_Game_2\"><strong>Finals: Team Knockerheads v. The Ringers (Game 2)</strong></a><br />\nKnockerheads throw a <strong>perfect opening</strong> and have to yield there 6th baton to the Ringers. Striking open that is closed quickly in three turns! <a href=\"http://wiki.planetkubb.com/wiki/Player:Chris_Hodges\">Chris Hodges</a> and <a href=\"http://wiki.planetkubb.com/wiki/Player:Grant_Scott\">Grant Scott</a> don&#8217;t miss a single throw in this game!</li>\n</ul>\n<p>Some amazing Kubb in the snow yesterday!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 327,
+  "date": "2013-02-03T13:54:28",
+  "modified": "2013-02-03T13:54:28",
+  "slug": "help-build-list-of-kubb-websites",
+  "link": "https://planetkubb.com/post/help-build-list-of-kubb-websites/",
+  "title": {
+   "rendered": "Help Build List of Kubb Websites"
+  },
+  "content": {
+   "rendered": "<p>On the <a href=\"http://wiki.planetkubb.com/wiki/\">Planet Kubb Wiki</a> I&#8217;ve seeded a <a href=\"http://wiki.planetkubb.com/wiki/List_of_Kubb_Websites\">List of Kubb Websites</a> with a number of sites that are in the Planet Kubb feeds. I think it would be a nice resource if there was a nicely curated list of Kubb websites that people could reference. Here is your chance to get your feet wet in the Planet Kubb wiki:</p>\n<ol>\n<li><span style=\"line-height: 13px;\">Go to the <a href=\"http://wiki.planetkubb.com/wiki/List_of_Kubb_Websites\">List of Kubb Websites</a> page.</span></li>\n<li>If you have an account, login. If you don&#8217;t, register for a new account and check your email to confirm your email address (you have to confirm email before you can edit.)</li>\n<li>Once logged in and confirmed, click the [Edit] link next to any section to add a new website!</li>\n</ol>\n<p>Let&#8217;s make this a great resource for the worldwide Kubb community!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 4266,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:53:38",
+  "slug": "red-zone",
+  "link": "https://planetkubb.com/post/red-zone/",
+  "title": {
+   "rendered": "Red Zone"
+  },
+  "content": {
+   "rendered": "<p>A player is stated to be in the Red Zone when the amount of batons in hand is equal to, or more than, the amount of kubbs in play, plus the king.</p>\n<p>For example, if there 1 baseline kubb to attack, an attacking player with 2 batons to throw would be considered in the Red Zone.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4258,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:53:40",
+  "slug": "meaningful-advantage",
+  "link": "https://planetkubb.com/post/meaningful-advantage/",
+  "title": {
+   "rendered": "Meaningful advantage"
+  },
+  "content": {
+   "rendered": "<p>An advantage line that is at least halfway between the [[Baseline]] and the [[Centerline]]. This includes advantage lines that are 2-4 meters from the baseline, but does not include advantage lines that are 0-1.9 meters from the baseline.</p>\n<p>The term is used when looking at baton hit percentages, and provides a clearer picture of individual statistics and team metrics within the Planet Kubb Scoring System.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4255,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:53:39",
+  "slug": "knockerhead",
+  "link": "https://planetkubb.com/post/knockerhead/",
+  "title": {
+   "rendered": "Knockerhead"
+  },
+  "content": {
+   "rendered": "<p>hitting the top of a kubb with a baton and it remains standing</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4253,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:53:39",
+  "slug": "hornpinnar",
+  "link": "https://planetkubb.com/post/hornpinnar/",
+  "title": {
+   "rendered": "Hornpinnar"
+  },
+  "content": {
+   "rendered": "<p>Corner pins.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4244,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:36:49",
+  "slug": "vertical-plane",
+  "link": "https://planetkubb.com/post/vertical-plane/",
+  "title": {
+   "rendered": "Vertical plane"
+  },
+  "content": {
+   "rendered": "<p>The line that intersects the horizon that the [[Throwing area]] must travel on during a throw.</p>\n<p>[[category:glossary]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4238,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:36:50",
+  "slug": "throwing-area",
+  "link": "https://planetkubb.com/post/throwing-area/",
+  "title": {
+   "rendered": "Throwing area"
+  },
+  "content": {
+   "rendered": "<p>An hourglass shaped area that a baton must stay within during the throw to be considered legal.</p>\n<p>[[Image:Throwing_Area.jpg|300px]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4237,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:36:52",
+  "slug": "supporting-area",
+  "link": "https://planetkubb.com/post/supporting-area/",
+  "title": {
+   "rendered": "Supporting area"
+  },
+  "content": {
+   "rendered": "<p>The area that touches the ground that supports a player. This is generally the surface area of your feet or shoes, but can include medical devices, such as a cane or a wheelchair.</p>\n<p>[[category:Glossary]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 4224,
+  "date": "2013-02-03T18:00:00",
+  "modified": "2017-02-22T15:36:54",
+  "slug": "field-marking-stakes",
+  "link": "https://planetkubb.com/post/field-marking-stakes/",
+  "title": {
+   "rendered": "Field marking stakes"
+  },
+  "content": {
+   "rendered": "<p>Pins staked into the ground used to mark the [[Pitch]] boundaries. There are 4 [[Corner stakes]] denoting the [[Sideline]] and 2 [[Center stakes]] denoting the [[Centerline]].</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 329,
+  "date": "2013-02-04T15:42:06",
+  "modified": "2013-02-04T15:42:06",
+  "slug": "new-planet-kubb-scoresheet-released",
+  "link": "https://planetkubb.com/post/new-planet-kubb-scoresheet-released/",
+  "title": {
+   "rendered": "New Planet Kubb Scoresheet Released"
+  },
+  "content": {
+   "rendered": "<p>Jamie scored <a href=\"http://planetkubb.wpengine.com/post/games-from-2013-minnesota-kubb-loppet-tournament/\">8 amazing championship games at the Loppet</a> and sent over some notes on how to improve the Planet Kubb Scoresheet. Namely, increasing the space for freeform comments and having a proper box to indicate any advantage line.</p>\n<p>I took a good hard look at the overall structure of the page and dramatically cleaned it up. The box to indicate and advantage line (in meters from the baseline) now connects the inkast box and the baton boxes (as it should). The Winning Team designation and Time End line were relocated to the top of the page. These minor adjustments opened up so much vertical space that not only are there 2 full lines for freeform commenting on each turn &#8211; but there&#8217;s now support for 11 rounds (which at ~3 minutes per round means you&#8217;ll probably get called on time before you need a second scoresheet ).</p>\n<p><a href=\"http://wiki.planetkubb.com/w/images/planetkubb/0/02/Planet_Kubb_Scoresheet.pdf\"><img decoding=\"async\" src=\"http://wiki.planetkubb.com/w/images/planetkubb/2/20/Planet_Kubb_Scoresheet.png\" /></a></p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 332,
+  "date": "2013-02-04T20:23:20",
+  "modified": "2013-02-04T20:23:20",
+  "slug": "planet-kubb-wants-your-brackets",
+  "link": "https://planetkubb.com/post/planet-kubb-wants-your-brackets/",
+  "title": {
+   "rendered": "Planet Kubb Wants Your Brackets!"
+  },
+  "content": {
+   "rendered": "<p>We&#8217;ve put a lot of effort into the <a href=\"http://wiki.planetkubb.com/wiki/Notation\">Planet Kubb Notation</a> and <a href=\"http://wiki.planetkubb.com/wiki/Scoresheet\">Scoresheet</a>. <a href=\"http://wiki.planetkubb.com/wiki/Category:Game\">Over 100 games</a> are in the system now and it&#8217;s very exciting stuff. We&#8217;ve also put a little bit of work into displaying brackets. Recently we started working on some great connecting code to tie it all together. One of the missions I envision for the Planet Kubb Wiki is to capture and archive the results of <strong>every</strong> Kubb tournament in the United States, and even the world!</p>\n<p>I fully realize that not everyone is comfortable entering bracket information into forms on the wiki, and we want to make this easy for everyone. We have a new email address just for your brackets!</p>\n<p style=\"text-align: center;\"><big><strong><code>bracket@planetkubb.com</code></strong></big></p>\n<p>That&#8217;s right. Take your fancy smartphone, snap a picture or two of the bracket your looking at and email it to that address. Take a moment right now, and add that address to your phones address book so that you have it handy. Go ahead, we&#8217;ll wait&#8230; Let us know what tournament you&#8217;re at, and be ready that we may send a reply and ask for some followup information. If you need to take multiple pictures, go ahead. Send them all to that address and we&#8217;ll get those brackets on the wiki.</p>\n<p><strong>PS &#8211; This also means your old brackets!</strong> Have a bracket from a year or two ago? Send it to us! We mean all tournaments, not just future ones.</p>\n<p><strong>We can&#8217;t wait to get all these brackets!</strong></p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 346,
+  "date": "2013-02-06T20:01:57",
+  "modified": "2013-02-06T20:01:57",
+  "slug": "upload-and-tag-kubb-photos-on-the-planet-kubb-wiki",
+  "link": "https://planetkubb.com/post/upload-and-tag-kubb-photos-on-the-planet-kubb-wiki/",
+  "title": {
+   "rendered": "Upload and Tag Kubb Photos on the Planet Kubb Wiki!"
+  },
+  "content": {
+   "rendered": "<p>You may have seen that this month there is a lot of refactoring going on in the <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a>. I won&#8217;t go into the details here, but you can see the ongoing dialog about it on the <a href=\"http://wiki.planetkubb.com/wiki/Planet_Kubb_talk:Winter_2013_Cleanup\">Winter 2013 Cleanup</a> page on the wiki.  There is some really great work going on to tie teams, clubs, events, players, matches and games together in a way that is more advanced than ever before.</p>\n<p><strong>Now we are also making it easy to tie in photos as well!</strong> I&#8217;m so excited about it I couldn&#8217;t wait to share this with everyone. You know how you can tag friends on Facebook in photos? You can now tag photos on the wiki with the event, club, team and players represented in the photo and the wiki will then pull those photos wherever appropriate. This is a great way to share and connect your pictures from events. This diagram shows how the connections work.</p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/WIki-photos.png\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone  wp-image-347\" alt=\"WIki photos\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/WIki-photos.png\" width=\"622\" height=\"358\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/WIki-photos.png 777w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/WIki-photos-300x173.png 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/02/WIki-photos-768x442.png 768w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></a></p>\n<p>&nbsp;</p>\n<p>Now when you visit the <a href=\"http://wiki.planetkubb.com/wiki/Event:Minnesota_Kubb_Loppet_Tournament_2013\">Minnesota Kubb Loppet Tournament 2013</a> page, the <a href=\"http://wiki.planetkubb.com/wiki/Club:Fox_Valley_Kubb\">Fox Valley Kubb</a> page, the <a href=\"http://wiki.planetkubb.com/wiki/Team:Kubb_Snipers\">Kubb Snipers</a> or <a href=\"http://wiki.planetkubb.com/wiki/Team:Wolfpack\">Wolfpack</a> page or any of the players: <a href=\"http://wiki.planetkubb.com/wiki/Player:Chad_Parsons\">Chad Parsons</a>, <a href=\"http://wiki.planetkubb.com/wiki/Player:Chad_Bevers\">Chad Bevers</a>, <a href=\"http://wiki.planetkubb.com/wiki/Player:Joe_Pendleton\">Joe Pendleton</a>, <a href=\"http://wiki.planetkubb.com/wiki/Player:Aaron_Mckie\">Aaron Mckie</a> and <a href=\"http://wiki.planetkubb.com/wiki/Player:Nate_Olson\">Nate Olson</a> you will see that photo is connected to them!</p>\n<p>Detailed directions on how to add your photos are on the <a href=\"http://wiki.planetkubb.com/wiki/Planet_Kubb:Uploading_and_tagging_photos\">uploading and tagging photos</a> page. You will need an account on the Planet Kubb Wiki to do this of course.</p>\n<p>Also, if you just want to browse fun Kubb pictures the most recent 180 photos are on the <a href=\"http://wiki.planetkubb.com/wiki/Photographs\">photos page of the wiki</a>.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 361,
+  "date": "2013-02-14T08:00:40",
+  "modified": "2017-02-22T15:53:38",
+  "slug": "happy-birthday-planet-kubb",
+  "link": "https://planetkubb.com/post/happy-birthday-planet-kubb/",
+  "title": {
+   "rendered": "Happy Birthday Planet Kubb!"
+  },
+  "content": {
+   "rendered": "<audio class=\"wp-audio-shortcode\" id=\"audio-361-1\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/Tyler-saying-Happy-Birthday-Planet-Kubb.mp3?_=1\" /><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/Tyler-saying-Happy-Birthday-Planet-Kubb.mp3\">http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/02/Tyler-saying-Happy-Birthday-Planet-Kubb.mp3</a></audio>\n<p>Planet Kubb was started one year ago today as a <em>scrappy</em> looking feed of <a href=\"http://en.wikipedia.org/wiki/RSS\">RSS</a> feeds aggregated from around the Internet. In quick order we&#8217;ve added the most active Kubb Q&amp;A community on the web at <a href=\"http://ask.planetkubb.com/\">Ask Planet Kubb</a>, the largest and most active wiki with Kubb tournaments, teams, matches, games, players and club as well as extensive Kubb resources at <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a> and now a growing and thriving blogging community on the <a href=\"http://planetkubb.wpengine.com/post/announcing-planet-kubb-network/\">Planet Kubb Network</a>. What a year it has been! <em>(For more background read <a href=\"http://planetkubb.wpengine.com/post/introducing-planet-kubb/\">Introducing Planet Kubb</a> from the <a href=\"http://www.wisconsinkubb.com/kubbnation-magazine.php\">2013 Kubbnation Magazine</a>.)</em></p>\n<p>All of the above wouldn&#8217;t be possible without all of <strong>you!</strong> It&#8217;s one thing to setup some websites, and quite another to develop an active and thriving community around them. We have the beginnings of that community on Planet Kubb! A recent example of that community was just highlighted with the addition of <a href=\"http://wiki.planetkubb.com/wiki/Category:Match\">over 1,000 matches</a> to the Planet Kubb Wiki with contributors from multiple states and clubs!</p>\n<p>Thank you again for being part of that community and I can&#8217;t wait to see what the second year brings!</p>\n<p><em>PS: We&#8217;ve got a couple of guest blog posts commemorating the first birthday of Planet Kubb coming tomorrow and the day after. Stay tuned!</em></p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 353,
+  "date": "2013-02-15T08:00:51",
+  "modified": "2013-02-14T23:02:02",
+  "slug": "happy-birthday-ramblings-from-a-kubb-junkie",
+  "link": "https://planetkubb.com/post/happy-birthday-ramblings-from-a-kubb-junkie/",
+  "title": {
+   "rendered": "Happy Birthday Ramblings from a Kubb Junkie"
+  },
+  "content": {
+   "rendered": "<p><em>As part of the Planet Kubb 1st birthday we asked a couple of &#8220;Kubbers&#8221; if they would write a guest post for us. Today&#8217;s post is from <a href=\"http://ask.planetkubb.com/user/Dano\">Dano</a>, who has been particularly active on Ask Planet Kubb from the beginning and is someone that I sincerely hope I get to meet on the pitch at some point soon!</em></p>\n<p>Around three years ago a group of friends had started an organization called the Kubb Collective, based in New York State’s beautiful Finger Lakes region. They held monthly blind draw tournaments with a $10 buy in. The winners got to donate the money to their favorite charity. I immediately fell in love with the game. I liked the low tech aspect of Kubb and the camaraderie. Being a person who loves athletics, and can’t run around anymore due to bad ankles, it satisfied my thirst for competition. I wanted to get better. I started searching the web for anything Kubb related. I’m willing to bet that I have seen every Kubb video produced, starting with “<a href=\"http://www.youtube.com/watch?v=D0TjQqfbTt8\">Hagar the Viking</a>”. Those monthly tournaments became a big part of my life and I looked forward to them while working on my game two or three times a week. Then the Collective disbanded for reasons that probably warrant a post of its own. I was bummed. I was just starting to get good, what now?</p>\n<p>It was Kubb limbo, playing the occasional friendly game at picnics and such, but it was not enough. The casual player had no desire to discuss the finer points of the game, and my family would respond with an eye roll and a good natured groan when I tried to strike up a conversation about Kubb. I stopped practicing and began to move on, but I had been bitten by the Kubb bug and thought about it all the time. I headed back to the web looking for forums on Kubb. The ones I did find had little or no activity. Then one day Planet Kubb came up! Holy cow this was it. I found blogs, video, discussions and more; all in one place. It was one stop shopping! Where else can you discuss the finer points of the game with “<a href=\"http://wiki.planetkubb.com/wiki/Eric_Anderson\">The Father of USA Kubb</a>”, Champions from the Midwest circuit, and Kubb enthusiast from all over the US and the world? Thank you Planet Kubb for welcoming me in the true sprit of the game.</p>\n<p>In honor of the one year anniversary of Planet Kubb I’d like to highlight my favorite moments. First the <a href=\"http://www.usakubb.org/\">USA Kubb</a> interviews. They were fun, informative and I learned a lot from the US players and their European counterparts. <a href=\"http://ask.planetkubb.com/963/what-are-some-of-the-famous-quotes-from-the-world-of-kubb\">My favorite quote</a> is from Lode of <a href=\"http://www.laget.se/SIGNALGATAN\">Team Signalgaton</a> “I’m really good when I’m drunk” that brought a smile to my face for sure. I’m looking forward to more interviews in the coming year. I also enjoyed the charts, graphs, and <a href=\"http://wiki.planetkubb.com/wiki/Category:Player\">player stats</a>. They made me think, and gave me a way to measure my progress against the best players in the country. Another highlight was a call from Eric to explain the “And One” theory, an ancient secret philosophy that has been passed down thru time from Soren, to Eric and now, to me. <em>(ed: we are waiting for a Planet Kubb <a href=\"http://wiki.planetkubb.com/wiki/%22And_one%22_theory\">wiki page on this</a>!)</em> Thanks Eric!! The video of the Dallas tournament blew me away. I had to watch it three times in a row to make sure I saw what I thought I saw. On that day a good player became a great one. Recently I returned home from a weekend trip to the Adirondacks and I rushed to the computer to see <a href=\"http://wiki.planetkubb.com/wiki/Event:Minnesota_Kubb_Loppet_Tournament_2013#tab=Matches\">what happened at the Loppet Tourney</a>. It was all there on Planet Kubb. I enjoyed all the blog posts from the different teams and clubs (<a href=\"http://desmoineskubb.com/blog/endurance-on-thin-ice-2013-winter-kubb-tournament\">this</a>, <a href=\"http://foxvalleykubb.com/1/post/2013/02/loppet-2013.html\">this</a>, <a href=\"http://swedenssons.planetkubb.wpengine.com/post/a-new-kubb-love/\">this</a>, <a href=\"http://teamknockerheads.planetkubb.com/post/recap-team-knockerheads-at-2013-minnesota-kubb-loppet/\">this</a>, <a href=\"http://kubbsnipers.planetkubb.wpengine.com/post/loppet-2013-review/\">this</a>, <a href=\"http://thingelstad.com/2013-minnesota-kubb-tournament-photos/\">this</a> and <a href=\"http://kubbchucks.planetkubb.wpengine.com/post/kubbchucks-2013-minnesota-kubb-loppet-tournament-recap/\">this</a>), and I almost felt like I’d been there, thanks!</p>\n<p>What really impresses me about the Planet Kubb <strong>community</strong> is that even though the competition between teams is intense, you are still willing to share tips and strategy. That is something special! Someday I hope to make the trip out west to compete and to meet you all in person. I’m looking forward to another great year. Thanks Planet Kubb for providing my Kubb fix!</p>\n<p>Dano / Dan Pritchard</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 350,
+  "date": "2013-02-16T08:00:03",
+  "modified": "2013-02-15T05:22:00",
+  "slug": "happy-birthday-planet-kubb-2",
+  "link": "https://planetkubb.com/post/happy-birthday-planet-kubb-2/",
+  "title": {
+   "rendered": "Happy Birthday Planet Kubb"
+  },
+  "content": {
+   "rendered": "<p><em>As part of the Planet Kubb 1st birthday we asked a couple of &#8220;Kubbers&#8221; if they would write a guest post for us. In between publishing the new <a href=\"http://www.wisconsinkubb.com/kubbnation-magazine.php\">Kubbnation</a> magazine and getting the <a href=\"http://www.usakubb.org/\">2013 US National Kubb Championship</a> going <a href=\"http://wiki.planetkubb.com/wiki/Eric_Anderson\">Eric Anderson</a> was kind enough to send us this post.</em></p>\n<p>Hello Planet Kubb,</p>\n<p>First of all, happy birthday/anniversary. What a first year for Planet Kubb. To think that <a href=\"http://ask.planetkubb.com/\">Ask Planet Kubb</a>, all the data for <a href=\"http://wiki.planetkubb.com/wiki/Team:Main_Page\">teams</a>, <a href=\"http://wiki.planetkubb.com/wiki/Category:Player\">players</a>, and <a href=\"http://wiki.planetkubb.com/wiki/Category:Match\">matches</a> didn’t exist one year ago is amazing. If most people are like myself, I have already taken it for granted. Thanks for all of your hard work. I really appreciate it.</p>\n<p>I would like to tell you about a few little girls here in Eau Claire, WI. As you know, your <a href=\"http://planetkubb.wpengine.com/post/announcing-planet-kubb-network/\">Planet Kubb Network</a> website options are super easy to use. For the past year plus, my oldest daughter Maja has said that she wants to have her own kubb team in the future, and that her team name will be Kubbicorns. I know, not the toughest name out there, but then again, her favorite team is not mine, but the <a href=\"http://kubbsicles.planetkubb.wpengine.com/\">Kubbisicles</a>. Anyway, a couple months ago, I asked her if she would like her own website for the Kubbicorns. As you know, I made a Planet Kubb website for my dad’s birthday last October for our team <a href=\"http://crookedlaketrolls.planetkubb.wpengine.com/\">Crooked Lake Trolls</a>. We played together a few times in tournaments, and I thought it would be nice for him to be able to see our team website. I also have one for another team I play on <a href=\"http://swedenssons.planetkubb.wpengine.com/\">Sweden’s Sons</a>. People can read about our team, we can update and blog news, it is really great.</p>\n<p>Ok, back to the few little girls here in Eau Claire. My daughter asked a couple other girls here in the neighborhood if they would like to be on the Kubbicorns. Well, Anna, Elsa, and Clare have said yes. Keep in mind they are all in third grade, except for one who is in fifth. Also, my youngest daughter Cecilia is now thinking of team name for her future team, and she is in kindergarten. So, one night I asked Maja to draw up what she envisioned being her team shield, and she did it, with a lot of bright colors. From there, her and I sat down together to make her a Kubbicorns website on the Planet Kubb website. Less than two hours later, BAM, the <a href=\"http://kubbicorns.planetkubb.wpengine.com/\">Kubbicorns</a> are up and live for the world to see.</p>\n<p>The next day, I sent out the link to the parents of Anna, Elsa, and Clare. Total happiness when the girls saw the website, and from their parents as well. That is <strong>their</strong> team, and their team <strong>has</strong> their own website. They all go to the same school and after school, we have had more than one high-five regarding the Kubbicorns and a lot of smiles. I do believe that kubb unites people and creates peace on Earth. Their school is an international peace site, and we have been to the school several times to introduce kubb. Now we can add Planet Kubb to the mix as being in the connection of, “kubb unites people and creates peace on Earth” at Flynn Elementary School.</p>\n<p>Thanks to Planet Kubb, people can talk all they want about stats, who the best players are, how much this sport will grow, etc., but please know that thanks to Planet Kubb, four little girls (and more in the future) in the Kubb Capital of North America can talk about their kubb website at school with big smiles on their faces. That is what kubb can do.</p>\n<p>Thanks Planet Kubb. Happy Birthday, and here is to many more.</p>\n<p>Eric Anderson<br />\nDirector<br />\n<a href=\"http://www.usakubb.org/\">U.S. National Kubb Championship</a><br />\nEau Claire, WI</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 383,
+  "date": "2013-05-01T18:00:49",
+  "modified": "2013-05-01T15:28:24",
+  "slug": "predictions-for-2013-us-midwest-kubb-championship-rockford",
+  "link": "https://planetkubb.com/post/predictions-for-2013-us-midwest-kubb-championship-rockford/",
+  "title": {
+   "rendered": "Predictions for 2013 US Midwest Kubb Championship (Rockford)"
+  },
+  "content": {
+   "rendered": "<h4>Group A: <em><a href=\"http://wiki.planetkubb.com/wiki/Team:Dark_Side_of_the_Kubbsicles\">Dark Side of the Kubbsicles</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Sjo-Time\">Sjo-Time</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:King_Pin\">King Pin</a>, and <a href=\"http://wiki.planetkubb.com/wiki/Team:Stormkubbers\">Stormkubbers</a></em></h4>\n<p>The teams in this group are known except for Sjo-Time. None of these teams have played each other before. This should be a fight between Dark Side of the Kubbsicles and King Pin. Dark Side of the Kubbsicles are strong, but they have a lot fewer games than King Pin.</p>\n<p><strong>We predict with 80% confidence Dark Side of the Kubbsicles will win Group A.</strong></p>\n<h4>Group B: <em><a href=\"http://wiki.planetkubb.com/wiki/Team:Kubbacca\">Kubbacca</a>, The Deadeye&#8217;s, Ophir Gophers, and <a href=\"http://wiki.planetkubb.com/wiki/Team:Kubb_Scouts\">Kubb Scouts</a></em></h4>\n<p>Kubbacca and Kubb Scouts are known teams. Kubbacca has the strongest record of the two however not strong enough to be certain they will defeat the two unknown teams in this group.</p>\n<p><strong>We predict with 50% confidence Kubbacca will win Group B.</strong></p>\n<h4>Group C: <em><a href=\"http://wiki.planetkubb.com/wiki/Team:The_Ringers\">The Ringers</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Hardwood_Kubbers\">Hardwood Kubbers</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:KUBbAR\">KUBbAR</a>, and <a href=\"http://wiki.planetkubb.com/wiki/Team:The_Mad_Tossers\">The Mad Tossers</a></em></h4>\n<p><a href=\"http://ringers.planetkubb.wpengine.com\">The Ringers</a> and The Mad Tossers are known in this group, the other teams are new. Also, <a href=\"http://wiki.planetkubb.com/wiki/Game:Clash_of_Kubb_2012_Consolation_The_Ringers_v._The_Mad_Tossers\">The Ringers have played The Mad Tossers before in the Clash of Kubb 2012</a> with The Mad Tossers taking the match. However, there is uncertainty about this match as noted:</p>\n<blockquote><p>&#8220;I have excluded this match from statistics due to notes on consolation bracket. Ringers name is crossed out, and I am making an assumption that the match was a forfeit. Please update (if inaccurate) and delete this commentary, uncheck &#8220;Exclude in stats&#8221; and add win count for teams.&#8221;</p></blockquote>\n<p><a href=\"http://ringers.planetkubb.wpengine.com\">The Ringers</a> are a strong team, former <a href=\"http://www.usakubb.org\">National Champions</a>, with a long background.</p>\n<p><strong>We predict The Ringers will win<strong> this group with 100% confidence</strong>.</strong></p>\n<h4>Group D: <em><a href=\"http://wiki.planetkubb.com/wiki/Team:Wolfpack\">Wolfpack</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Chicks_with_Sticks\">Chicks with Sticks</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:King_Kung\">King Kung</a>, and <a href=\"http://wiki.planetkubb.com/wiki/Team:Skelekubbers\">Skelekubbers</a></em></h4>\n<p>Wolfpack and Chicks with Sticks have match history in this group. Wolfpack has a strong and predictable pattern.</p>\n<p><strong>We predict Wolfpack will win this group with 100% confidence.</strong></p>\n<h4>Group E: <em>Team Knockerheads, Kubbtastic, Robert&#8217;s Retreads and Kubb Med</em></h4>\n<p>Obviously we&#8217;ve seen <a href=\"http://www.usakubb.org\">National Champions</a> <a href=\"http://teamknockerheads.planetkubb.com\">Team Knockerheads</a>. They top the <a href=\"http://wiki.planetkubb.com/wiki/Team:Main_Page\">list of all Kubb teams</a> in the United States. The only action in this group will be for positions other than 1st.</p>\n<p><strong>We predict with 100% confidence Team Knockerheads will win Group D.</strong></p>\n<h4>Group F: <em><a href=\"http://wiki.planetkubb.com/wiki/Team:Kubb_Snipers\">Kubb Snipers</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Kubbawokeez\">Kubbawockeez</a>, Sticks, Blocks, and Beer, and <a href=\"http://wiki.planetkubb.com/wiki/Team:Rhymes_with_Tube\">Rhymes With Tube</a></em></h4>\n<p>In this group we&#8217;ve got match history from three of the teams. We don&#8217;t know anything about Sticks, Blocks, and Beer. Our data suggests that <a href=\"http://kubbsnipers.planetkubb.wpengine.com\">Kubb Snipers</a> will dominate this group. They will need to focus on the Rhymes with Tube match. Notably <a href=\"http://wiki.planetkubb.com/wiki/Game:Rockford_Swedish_Historical_Society_Tournament_2012_Championship_Kubbawokeez_v._Rhymes_with_Tube\">Kubbawokeez and Rhymes with Tube have played before in Rockford 2012</a> with Rhymes with Tube taking the match.</p>\n<p><strong>We predict with 100% confidence Kubb Snipers will win Group F.</strong></p>\n<h4>Group G: <em>Gubber Kubbers, <a href=\"http://wiki.planetkubb.com/wiki/Team:Ice_Kubbs_(Rockford,_IL)\">Ice Kubbs</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Goofy_Kubbers_1.2.3\">Goofy Kubbers 1.2.3</a>, and Jesus, Joseph, and Bloody Mary</em></h4>\n<p>In this group we have a reasonably strong team with only a few matches recorded in Ice Kubbs. The <a href=\"http://goofykubbers.planetkubb.wpengine.com\">Goofy Kubbers</a> are going to come strong though we aren&#8217;t completely sure on team makeup. We don&#8217;t have specific data for Goofy Kubbers 1.2.3, but we do for Goofy Kubbers. If there is overlap, they will play on par with Ice Kubbs but be more predictable and should carry the match, and with it the group.</p>\n<p><strong>We predict with 50% confidence Goofy Kubbers 1.2.3 will win Group G.</strong></p>\n<h4>Group H: <em><a href=\"http://wiki.planetkubb.com/wiki/Team:Tad_Kubbler\">Tad Kubbler</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Pitch_Slap\">Pitch Slap</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Team_R.U.K.U.S\">Team R.U.K.U.S</a>, and <a href=\"http://wiki.planetkubb.com/wiki/Team:The_Skipping_Stones\">Skipping Stones</a></em></h4>\n<p>Every team in this group have recorded matches. What a treasure trove! Also Pitch Slap has played The Skipping Stones, twice! <a href=\"http://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2011_Round_Robin_Pitch_Slap_v._The_Skipping_Stones\">First at the 2011 US Nationals</a> and <a href=\"http://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2012_Round_Robin_Pitch_Slap_v._The_Skipping_Stones\">again in the 2012 US Nationals</a> (wonder how often that happens?). Both times Pitch Slap carried the match. Tad Kubbler is bringing some new throwers into the game and potentially playing under a different name of <em>Rad Kubbler</em>. If not for this, this group would be easily called for <a href=\"http://tadkubbler.planetkubb.wpengine.com\">Tad Kubbler</a>. Even with that, Pitch Slap is unlikely to rise to the challenge against them and the other teams shouldn&#8217;t offer any serious problems.</p>\n<p><strong>We predict with 100% confidence Tad Kubbler will win Group with H. We further predict Pitch Slap will take 2nd.</strong></p>\n<h4>Group I: <em><a href=\"http://wiki.planetkubb.com/wiki/Team::Kubb%27d\">Kubb&#8217;d</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:IKubb_(Rockford,_IL)\">iKubb</a>, <a href=\"http://wiki.planetkubb.com/wiki/Team:Team_Kubboom\">Team Kubboom</a>, and <a href=\"http://wiki.planetkubb.com/wiki/Team:Dalsland_KUBBheads\">Dalsland KUBBheads</a></em></h4>\n<p>In this group we have data for everyone except KUBBheads. Kubb&#8217;d should carry this group but will need to bring their top game. iKubb and Team Kubboom could present challenges, but ultimately Kubb&#8217;d should prevail. <a href=\"http://kubboom.com\">Team Kubboom</a> is likely to take 2nd in this group over iKubb.</p>\n<p><strong>We predict with 100% confidence Kubb&#8217;d will win Group I.</strong></p>\n",
+   "protected": false
+  },
+  "categories": [
+   34
+  ]
+ },
+ {
+  "id": 401,
+  "date": "2013-05-08T20:10:53",
+  "modified": "2013-05-08T20:10:53",
+  "slug": "2582-matches-in-planet-kubb-wiki",
+  "link": "https://planetkubb.com/post/2582-matches-in-planet-kubb-wiki/",
+  "title": {
+   "rendered": "2,582 Matches in Planet Kubb Wiki"
+  },
+  "content": {
+   "rendered": "<p>At the beginning of this year we devised a way to record matches in the <a href=\"http://wiki.planetkubb.com/\">Planet Kubb Wiki</a>. This wasn&#8217;t the detailed game scoring play-by-play work we had before. This was just a much simpler way to capture the matches from tournaments and record the outcomes. In the beginning of this year we didn&#8217;t have any of these. As of right now there are <strong>2,582 matches in the wiki</strong>! These matches have been added by several people in multiple countries. Amazing! Thank you to all for contributing to this database. We are building the history of what is happening at Kubb tournaments around the world!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   25
+  ]
+ },
+ {
+  "id": 4259,
+  "date": "2013-05-09T19:00:00",
+  "modified": "2017-02-22T15:53:37",
+  "slug": "minneapolis-step",
+  "link": "https://planetkubb.com/post/minneapolis-step/",
+  "title": {
+   "rendered": "Minneapolis Step"
+  },
+  "content": {
+   "rendered": "<p>The Minneapolis Step is a method used to throw batons that originated at the BFF in Minneapolis. The Minneapolis Step is unique in that a player steps forward with their opposite foot while throwing, similar to bowling stride. The Minneapolis Step contrasts the traditional &#8220;darts&#8221; method of throwing in which a player stands at the line with both their right hand and foot forward, or left hand and foot forward.</p>\n<p>AKA: [http://media.ccomrcdn.com/media/station_content/3377/WATERCOOLER_050913_1368136479_9467.mp3 &#8220;The Hipster Two Step&#8221;]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4269,
+  "date": "2013-05-27T19:00:00",
+  "modified": "2017-02-22T15:52:48",
+  "slug": "short-game",
+  "link": "https://planetkubb.com/post/short-game/",
+  "title": {
+   "rendered": "Short Game"
+  },
+  "content": {
+   "rendered": "<p>Reference to any shot under 8 meters long. A player specializing in these throws is considered a Short Game Specialist, or [[Blaster]]</p>\n<p>Opposite of [[Long Game]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4264,
+  "date": "2013-05-27T19:00:00",
+  "modified": "2017-02-22T15:53:42",
+  "slug": "perfect-answer",
+  "link": "https://planetkubb.com/post/perfect-answer/",
+  "title": {
+   "rendered": "Perfect Answer"
+  },
+  "content": {
+   "rendered": "<p>a 2nd turn win by the team not throwing first in a game. Generally used as a morale booster when the opening team is unable to topple any baselines</p>\n<p>&#8220;Here&#8217;s our chance to win with a perfect answer.&#8221;</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 4256,
+  "date": "2013-05-27T19:00:00",
+  "modified": "2017-02-22T15:53:36",
+  "slug": "long-game",
+  "link": "https://planetkubb.com/post/long-game/",
+  "title": {
+   "rendered": "Long Game"
+  },
+  "content": {
+   "rendered": "<p>Reference to the baseline to baseline 8 meter long shot in kubb. Also called [[8M]]. A player specializing in the 8 meter throws is considered a Long Game Specialist.</p>\n<p>Opposite of [[Short Game]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 336,
+  "date": "2013-06-04T12:00:09",
+  "modified": "2013-06-04T14:28:33",
+  "slug": "scoring-details-for-planet-kubb-us-kubb-club-championship",
+  "link": "https://planetkubb.com/post/scoring-details-for-planet-kubb-us-kubb-club-championship/",
+  "title": {
+   "rendered": "Scoring Details for Planet Kubb US Kubb Club Championship"
+  },
+  "content": {
+   "rendered": "<p>Several months ago we <a href=\"http://planetkubb.wpengine.com/post/announcing-the-planet-kubb-us-kubb-club-championship/\">announced the Planet Kubb US Kubb Club Championship</a>. Just to reiterate the basics of how this will work:</p>\n<ol>\n<li>Kubb <strong>club</strong> captains will register with Planet Kubb to participate in the championship. You must register to be eligible to win.</li>\n<li>Kubb club captains will identify <strong>three</strong> Kubb teams that will collect points for the Kubb club. Kubb clubs <strong>must have <em>exactly three</em> teams</strong> that represent them.</li>\n<li>The Kubb <strong>team</strong> captains must agree to represent the Kubb <strong>club</strong> that picked them (club picks the teams, teams confirm the pick).</li>\n<li>A Kubb team can only represent one Kubb club.</li>\n<li>The Kubb club&#8217;s captains and the Kubb team&#8217;s captain must be in the same state (Minnesota Clubs represented by Minnesota Teams, Iowa Clubs represented by Iowa Teams). <em>It is fine if there are members of a team that are not in the same sate, as long as the captain is.</em></li>\n</ol>\n<p>So, how will the scoring work? Let&#8217;s dive in a bit.</p>\n<p>Clubs will accumulate points through the teams that represent them. A club will get <strong>one point</strong> for each match win, <em>or bye</em>, that a team receives in the championship stage of the tournament. There will be no points rewarded during the round robin, and no points will be awarded in the consolation bracket.</p>\n<p>Let&#8217;s take an example. The Kubbanoids go 3-0 in the round robin, they get a bye into the round of 32 teams in the championship bracket (+1 point). They win the match in the round of 32 (+1 point, total 2 points). They win again in the round of 16 (+1 point, total 3 points). They lose in the round of 8 ending their dreams. The Kubbanoids will deliver 3 points for their club.</p>\n<p>The Kubbaddicts are playing for the same club as the Kubbanoids. They go 1-2 in the round robin and have to play into the championship bracket. They win that match (+1 point, 1 total point) and proceed to the round of 32 where they lose. They bring 1 point to their club, taking the club to a total of 4 points.</p>\n<p>Then the final team for the club, the Kubbicks, win it all! They get a bye (+1 point), win in the round of 32 (+1 point), win in round of 16 (+1 point). They blow away the team in the quarterfinals (+1 point), win the semifinals (+1 point) and win the championship (+1 point)! 6 points for their club.</p>\n<p><strong>Club Metropolis has 10 points in the competition.</strong></p>\n<p>If at the end of the competition multiple clubs have the same number of points, the club with any single team that has gone the furthest in the tournament will receive the win. In the unlikely scenario that a tie remains, the club who&#8217;s teams had the fewest losses will win.</p>\n<p>The trophy will be awarded on Sunday at the US Championship. The trophy will be awarded to the club captain and that club will keep the US Kubb Club Championship trophy until the following US Championship when it is up for grabs again!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 420,
+  "date": "2013-06-15T07:52:04",
+  "modified": "2013-06-16T22:08:28",
+  "slug": "introducing-the-nylnd-sack-trophy",
+  "link": "https://planetkubb.com/post/introducing-the-nylnd-sack-trophy/",
+  "title": {
+   "rendered": "Introducing the Nylund Sack Trophy"
+  },
+  "content": {
+   "rendered": "<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-423\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885-897x1024.jpg\" width=\"550\" height=\"627\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885-897x1024.jpg 897w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885-263x300.jpg 263w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885-768x877.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885-1346x1536.jpg 1346w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885-1200x1370.jpg 1200w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072321-15885.jpg 1752w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a></p>\n<p>The first kubb set I played on was handcrafted by Garry Sack over in <a href=\"http://www.ci.wausau.wi.us\">Wausau, Wisconsin</a>. He&#8217;s been working and turning wood for the multiple decades I&#8217;ve know him. I&#8217;ve long admired his work and have 2 of his gorgeous wooden bowls in my house.</p>\n<p>He was the first person I asked to create the traveling trophy for the Planet Kubb Club Championship. He brought in Lonnie Nylund to assist and they created custom tools to get some of the detailing.</p>\n<p>The stunning result, the <strong>Nylund Sack Trophy</strong>, is a loving cup comprised of cherry, walnut, and maple atop three miniature kubbs representing the three teams from the winning club.</p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072146-15877.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-421\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072146-15877-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p>The trophy is perfectly proportioned with Kubb King.</p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-424\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1024x682.jpg\" width=\"550\" height=\"366\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1024x682.jpg 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-300x200.jpg 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-768x512.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1536x1024.jpg 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1200x800.jpg 1200w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890.jpg 2000w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a></p>\n<p>It is a phenomenal piece with details that you continue to discover long after looking at it. Notice the three bands echoing the three teams of the winning club.</p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072654-15896.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-427\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072654-15896-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072622-15895.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-426\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072622-15895-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072711-15897.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-428\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072711-15897-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p>Supported by three miniature Kubbs. The Kubb Club that wins the Planet Kubb US Kubb Club Championship will get to take this trophy home for the year. It will return each year to the pitches of Eau Claire to be defended, or leave to spend the next year with the new top club. Will your club host the Nyland Sack Trophy for the next year? <a href=\"http://planetkubb.wpengine.com/post/register-for-2013-club-championship-now/\">Register for the 2013 Planet Kubb US Kubb Club Championship!</a></p>\n<p><a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072251-15881.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-422\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072251-15881-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 431,
+  "date": "2013-06-15T07:56:17",
+  "modified": "2013-06-16T22:08:03",
+  "slug": "register-for-2013-club-championship-now",
+  "link": "https://planetkubb.com/post/register-for-2013-club-championship-now/",
+  "title": {
+   "rendered": "Register for 2013 Club Championship Now!"
+  },
+  "content": {
+   "rendered": "<p><a href=\"http://planetkubb.wpengine.com/post/introducing-the-nyland-sack-trophy/20130613-072251-15881/\" rel=\"attachment wp-att-422\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-422\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072251-15881-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p>In approximately a month Kubb players from around the country will be converging on Eau Claire, Wisconsin to participate in the 2013 <a href=\"http://www.usakubb.org\">US National Kubb Championships</a>! For the first time ever, we will also be awarding the <a href=\"http://planetkubb.wpengine.com/post/introducing-the-nylund-sack-trophy/\">Nylund Sack Trophy</a> to the Kubb Club that wins the Planet Kubb US Kubb Club Championship! If you missed the details on how this works see the <a href=\"http://planetkubb.wpengine.com/post/scoring-details-for-planet-kubb-us-kubb-club-championship/\">writeup on the points system</a>.</p>\n<p>Entering your club in the Club Championship is as easy as sending an email! Send an email to</p>\n<p style=\"text-align: center;\"><strong>register@planetkubb.com</strong></p>\n<p>and in it indicate the <strong>name of your club</strong>, the <strong>person who will represent the club</strong> and the <strong>team names of the three Kubb teams</strong> that will represent your club in the championship. There is a <strong>$45 fee</strong> for the club to enter (easily dividable into $15 per team) that is payable in-person at the National Championship (check-in with Garrick or Jamie at the championship). The deadline to register and identify the three teams that are representing your Kubb Club is <strong>July 7, 2013</strong>.</p>\n<p>We can&#8217;t wait to see you all on the pitch and to see who will be the first Kubb Club to host the <a href=\"http://planetkubb.wpengine.com/post/introducing-the-nylund-sack-trophy/\">Nylund Sack Trophy</a>! They will display it with pride, until next year, when it will be up for grabs again!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 452,
+  "date": "2013-06-28T17:13:17",
+  "modified": "2013-06-28T17:13:17",
+  "slug": "fresh-batch-of-unite-people-shirts-just-in-time-for-the-summer-tournament-season",
+  "link": "https://planetkubb.com/post/fresh-batch-of-unite-people-shirts-just-in-time-for-the-summer-tournament-season/",
+  "title": {
+   "rendered": "Fresh Batch of &#8216;Unite People&#8217; Shirts &#8211; Just in Time for the Summer Tournament Season"
+  },
+  "content": {
+   "rendered": "<p><img decoding=\"async\" src=\"http://pitch.planetkubb.wpengine.com/files/2012/09/408751_10151247537335159_46084329_n-225x300.jpg\" /></p>\n<p>Still $15.  Happy to deliver at U.S Nationals for $0. Otherwise &#8211; $5 shipping.  </p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\"><input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\" /><input type=\"hidden\" name=\"hosted_button_id\" value=\"U3AEBG2E7Q94G\" /><input type=\"hidden\" name=\"on0\" value=\"Size\" /><br />\n<select name=\"os0\"><option value=\"Mens - Small\">Mens &#8211; Small </option><option value=\"Mens - Medium\">Mens &#8211; Medium </option><option value=\"Mens - Large\">Mens &#8211; Large </option><option value=\"Mens - XL\">Mens &#8211; XL </option><option value=\"Mens - XXL\">Mens &#8211; XXL </option></select><input type=\"image\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif\" alt=\"PayPal - The safer, easier way to pay online!\" /><br />\n<img loading=\"lazy\" decoding=\"async\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\" /></p>\n</form>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 455,
+  "date": "2013-07-09T11:06:08",
+  "modified": "2013-07-09T11:06:08",
+  "slug": "new-theme-for-ask-planet-kubb",
+  "link": "https://planetkubb.com/post/new-theme-for-ask-planet-kubb/",
+  "title": {
+   "rendered": "New Theme for Ask Planet Kubb"
+  },
+  "content": {
+   "rendered": "<p>Ask Planet Kubb received a good upgrade moving from Question2Answer 1.5 to 1.6. There are a number of improvements, but mostly minor. The bigger change is that we&#8217;ve put a new theme on Ask Planet Kubb that is mobile friendly and has a nicer user experience. If you had tried to use the site before on your phone or tablet it was pretty clunky. Not anymore. I hope you enjoy the new look!</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-456\" alt=\"ask-pk-new-theme\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/07/ask-pk-new-theme.png\" width=\"601\" height=\"403\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/07/ask-pk-new-theme.png 601w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/07/ask-pk-new-theme-300x201.png 300w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></p>\n",
+   "protected": false
+  },
+  "categories": [
+   29
+  ]
+ },
+ {
+  "id": 459,
+  "date": "2013-07-10T20:43:50",
+  "modified": "2013-07-10T20:43:50",
+  "slug": "planetkubblive-tweeting-final-usa-kubb-championship-match",
+  "link": "https://planetkubb.com/post/planetkubblive-tweeting-final-usa-kubb-championship-match/",
+  "title": {
+   "rendered": "@PlanetKubbLive Tweeting Final USA Kubb Championship match!"
+  },
+  "content": {
+   "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignright size-thumbnail wp-image-460\" alt=\"Planet Kubb Live Logo\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/07/Planet-Kubb-Live-Logo-150x150.png\" width=\"150\" height=\"150\" />This Sunday as the top two teams in the country take Pitch 1 in Eau Claire Planet Kubb will do a <em>first-ever</em> live <em>play-by-play</em> broadcast of the match using Twitter! You may already be following <a href=\"https://twitter.com/planetkubb\">@PlanetKubb</a> on Twitter to get updates from around the world about Kubb. We have now created a second <a href=\"https://twitter.com/PlanetKubbLive\">@PlanetKubbLive</a> account that we&#8217;ll be using for this, and possibly future live events. You&#8217;ll need to follow each one separately!</p>\n<p>So, how will we be tweeting live play-by-play? We will be using the <a href=\"http://wiki.planetkubb.com/wiki/Notation\">Planet Kubb Notation system</a>. This is the same system we use to record games on the pitch and with videos. We will be transmitting the text of each turn in real-time from the pitch. Read up on the notation on the Planet Kubb Wiki. You&#8217;ll see tweets that look like</p>\n<pre>4. j:5i2r b:2f b:3f j:- j:b c:b c:-</pre>\n<p>That means it was turn 4. Player &#8220;j&#8221; is the inkastare and he threw in 5 kubbs and had to rethrow 2. Player &#8220;b&#8221; hit 2 fields on the first baton, then 3 fields on second baton. Player &#8220;j&#8221; missed and then hit a baseline. Player &#8220;c&#8221; hit a baseline and then missed. Find more details on the <a href=\"http://wiki.planetkubb.com/wiki/Notation\">notation page</a>.</p>\n<p>To our knowledge this will be the first live broadcast of the play-by-play of a game on Twitter. The notation, and these tweets, will be intended for a global audience so commentary will be kept low so people can follow the game regardless of language.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7,
+   34
+  ]
+ },
+ {
+  "id": 463,
+  "date": "2013-07-10T20:49:08",
+  "modified": "2013-07-10T20:49:08",
+  "slug": "final-call-for-registration-in-2013-planet-kubb-club-competition",
+  "link": "https://planetkubb.com/post/final-call-for-registration-in-2013-planet-kubb-club-competition/",
+  "title": {
+   "rendered": "Final Call for Registration in 2013 Planet Kubb Club Competition"
+  },
+  "content": {
+   "rendered": "<p><a href=\"http://planetkubb.wpengine.com/post/introducing-the-nylnd-sack-trophy/20130613-072430-15890/\" rel=\"attachment wp-att-424\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-large wp-image-424\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1024x682.jpg\" width=\"550\" height=\"366\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1024x682.jpg 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-300x200.jpg 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-768x512.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1536x1024.jpg 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890-1200x800.jpg 1200w, https://planetkubb.com/wp-content/planetkubb/uploads/2013/06/20130613-072430-15890.jpg 2000w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a>We are happy to announce that this weekend we will be crowning the very first winner of the Planet Kubb Club Competition. Berserker Kubb from Eau Claire, <a href=\"http://desmoineskubb.com\">Des Moines Kubb</a> from Iowa and <a href=\"http://minnesotakubb.com\">Minnesota Kubb</a> are already in the running with their three teams identified. We are going to extend the deadline to register your club to this Friday at midnight. Up until then, send an email with your three teams, name of the club to <a href=\"mailto:register@planetkubb.com\">register@planetkubb.com</a> and you can be in the running to be the first ever club to take home the <a href=\"http://wiki.planetkubb.com/wiki/Nylund_Sack_Trophy\">Nylund Sack Trophy</a> for the year!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 466,
+  "date": "2013-07-10T20:57:20",
+  "modified": "2013-07-10T20:57:20",
+  "slug": "call-for-volunteers-to-score-sunday-championship-games",
+  "link": "https://planetkubb.com/post/call-for-volunteers-to-score-sunday-championship-games/",
+  "title": {
+   "rendered": "Call for Volunteers to Score Sunday Championship Games"
+  },
+  "content": {
+   "rendered": "<p>Last year Planet Kubb recorded play-by-play action for every game in the quarterfinals and on at the <a href=\"http://wiki.planetkubb.com/wiki/Event:US_National_Kubb_Championship_2012\">2012 USA Kubb Championship</a>. We want to do that again! If you are going to be at nationals and would be interested in volunteering to score games on Sunday (or, if you want to score games on Saturday too!) please let us know by commenting on this blog post, or emailing us at <a href=\"mailto:volunteer@planetkubb.com\">volunteer@planetkubb.com</a> and we&#8217;ll get in touch. It&#8217;s very easy to do! We will be happy to supply the scoresheets, clipboards and pens. A couple minutes of orientation with the notation and you&#8217;ll be ready to go. It does require that you focus on the game so you see each and every play. You don&#8217;t even have to enter them into the computer, others will happily do that for you.</p>\n<p><a href=\"http://wiki.planetkubb.com/wiki/Player:Garrick_van_Buren\">Garrick</a> and I (<a href=\"http://wiki.planetkubb.com/wiki/Player:Jamie_Thingelstad\">Jamie</a>) will have a bunch of extra scoresheets at the tournament. If you would like to help on Sunday (and Saturday?) please find us and we&#8217;ll get you set up!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 470,
+  "date": "2013-07-17T09:49:19",
+  "modified": "2013-07-17T09:49:22",
+  "slug": "chaska-kubb-club-wins-2013-planet-kubb-us-club-championship",
+  "link": "https://planetkubb.com/post/chaska-kubb-club-wins-2013-planet-kubb-us-club-championship/",
+  "title": {
+   "rendered": "Chaska Kubb Club Wins 2013 Planet Kubb US Club Championship"
+  },
+  "content": {
+   "rendered": "<p>Congratulations to <a href=\"https://sites.google.com/site/nordicfestkubb/cka\">Chaska Kubb Club</a>, the winners of the inaugural 2013 Planet Kubb US Club Championship!</p>\n<p><a href=\"http://planetkubb.wpengine.com/post/chaska-kubb-club-wins-2013-planet-kubb-us-club-championship/chaska-kubb-wins-2013-club-championship/\" rel=\"attachment wp-att-471\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-large wp-image-471\" alt=\"Chaska Kubb wins 2013 Club Championship\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/07/Chaska-Kubb-wins-2013-Club-Championship-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p>Chaska Kubb bested Berserker Kubb, <a href=\"http://desmoineskubb.com\">Des Moines Kubb</a> and <a href=\"http://minnesotakubb.com\">Minnesota Kubb</a> to win the 2013 Planet Kubb US Club Championship.</p>\n<p>Des Moines Kubb and Minnesota Kubb hit hard times early in the club championship. Both clubs entered Sunday with only 4 points, and were mathematically out of the running. Both Des Moines and Minnesota had only one team of their three still in the bracket, and both had mirror records for their other teams with one collecting a single point, and the other collecting no points. To make matters worse, Des Moines&#8217; <a href=\"http://teamknockerheads.planetkubb.com\">Team Knockerheads</a> would face Minnesota&#8217;s <a href=\"http://tadkubbler.planetkubb.wpengine.com\">Tad Kubbler</a> first thing, assuring that one of the clubs would be stopped at 4 points. (<a href=\"http://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_Tad_Kubbler_v._Team_Knockerheads\">see Team Knockerheads v. Tad Kubbler match</a>)</p>\n<p>Meanwhile, the competition was intense between Berserker Kubb and Chaska Kubb Club. Berserker Kubb also only had a single team left, the <a href=\"http://kubbsicles.planetkubb.wpengine.com\">Kubbsicles</a>, but they got more support from the other two teams (<a href=\"http://wiki.planetkubb.com/wiki/Team:Dark_Side_of_the_Kubb\">Dark Side of the Kubb</a> and <a href=\"http://wiki.planetkubb.com/wiki/Team:Team_Kubboom_-_The_Fusillade\">Team Kubboom &#8211; The Fusilade</a>) who contributed 3 points versus the 1 that DMK and Minnesota got. This put them only a single point behind Chaska Kubb, but they would need to win everything and Chaska would have to get the minimum number of points possible for them to win.</p>\n<p>Chaska Kubb Club was the only club to have two teams playing on Sunday, unfortunately for them they were playing each other in a King Pin v. <a href=\"http://wiki.planetkubb.com/wiki/Team:Pack_of_Snipers\">Pack of Snipers</a> battle first thing. (<a href=\"http://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_King_Pin_v._Pack_of_Snipers\">see King Pin v. Pack of Snipers match</a>)</p>\n<p>Sunday morning started with Minnesota and DMK out, and Chaska needing to get 2 wins to clinch it while Kubbsicles would need to win it all and hope Chaska only got a single win. With King Pin facing the imposing Team Knockerheads in the semifinals it was anyone&#8217;s guess, but <a href=\"http://wiki.planetkubb.com/wiki/Team:King_Pin\">King Pin</a> threw amazing batons and struck with deadly accuracy and prevailed. (<a href=\"http://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_King_Pin_v._Team_Knockerheads\">see King Pin v. Team Knockerheads match</a>)</p>\n<p>Congratulations to Chaska Kubb Club who will now host the <a href=\"http://wiki.planetkubb.com/wiki/Nylund_Sack_Trophy\">Nylund-Sack Trophy</a> until it is up for grabs at the <a href=\"http://www.usakubb.org\">2014 US National Championship</a>!</p>\n<p>The final standings for the 2013 Planet Kubb US Kubb Club Championship were: <strong>Chaska Kubb Club 10</strong>, <strong>Berserker Kubb 9</strong>, <strong>Des Moines Kubb 5</strong> and <strong>Minnesota Kubb 4</strong>.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 4227,
+  "date": "2013-09-29T19:00:00",
+  "modified": "2017-06-29T13:22:15",
+  "slug": "inkastare",
+  "link": "https://planetkubb.com/post/inkastare/",
+  "title": {
+   "rendered": "Inkastare"
+  },
+  "content": {
+   "rendered": "<p>This is the player that is throwing a <a href=\"https://planetkubb.com/post/kubb/\">kubb</a> back into play. The kubb then becomes a <a href=\"https://planetkubb.com/post/field-kubb/\">field kubb</a>. Inkastare&#8217;s are allowed two attempts to legally throw the Kubb into play. If they fail to throw the kubb into play on a second attempt it becomes a <a href=\"https://planetkubb.com/post/punishment-kubb/\">penalty kubb</a>.</p>\n<h2><a href=\"http://wiki.planetkubb.com/wiki/Eric_Anderson\">Eric Anderson</a>&#8216;s Inkastare Training Tips</h2>\n<p>* <a href=\"//www.youtube.com/watch?v=S8LDwe2hvXI\">Inkastare Training Tip 1 &#8211; The 3, 4, 3</a><br />\n* <a href=\"//www.youtube.com/watch?v=8RG6qr_G1OE\">Inkastare Training Tip 2 &#8211; Envision and create. The artist and the boxer</a><br />\n* <a href=\"//www.youtube.com/watch?v=Rnssga0AGo8\">Inkastare Training Tip 3 &#8211; Don&#8217;t give up</a><br />\n* <a href=\"//www.youtube.com/watch?v=SyhsKnaqVeA\">Inkastare Training Tip 4 &#8211; Can&#8217;t crash the plane? Start at one meter</a><br />\n* <a href=\"//www.youtube.com/watch?v=5lFgN6X7ii0\">Inkastare Training Tip 5 &#8211; The big mistake</a><br />\n* <a href=\"//www.youtube.com/watch?v=nrpfeWX_I_g\">Inkastare Training Tip 6 &#8211; Cutting the kubbs</a><br />\n* <a href=\"//www.youtube.com/watch?v=e5hj-vV4xp8\">Inkastare Training Tip 7 &#8211; Value your kubbs like a baton</a><br />\n* <a href=\"//www.youtube.com/watch?v=A_zxZEDsUi8\">Inkastare Training Tip 8 &#8211; Don&#8217;t be afraid to throw kubbs deep</a><br />\n* <a href=\"//www.youtube.com/watch?v=sMOkuM_RfdM\">Inkastare Training Tip 9 &#8211; The Save</a><br />\n* <a href=\"//www.youtube.com/watch?v=wWraCvHGljU\">Inkastare Training Tip 10 &#8211; Around the Pitch</a></p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 1656,
+  "date": "2013-10-24T18:00:10",
+  "modified": "2013-10-21T20:26:01",
+  "slug": "announcing-the-kubb-l-mailing-list",
+  "link": "https://planetkubb.com/post/announcing-the-kubb-l-mailing-list/",
+  "title": {
+   "rendered": "Announcing the kubb-l mailing list"
+  },
+  "content": {
+   "rendered": "<p>Using the just announced <a href=\"http://planetkubb.wpengine.com/post/introducing-planet-kubb-mailing-lists/\">Planet Kubb Mailing List</a> service Planet Kubb has setup a generic kubb player mailing list called <strong>kubb-l</strong>. This list is intended to be a general discussion mailing list amongst Kubb players around the world. <strong>You can sign up on the <a href=\"http://lists.planetkubb.com/cgi-bin/mailman/listinfo/kubb-l\">kubb-l mailing list page</a>.</strong> Enjoy!</p>\n<p>While you are at it, there is a <a href=\"http://lists.planetkubb.com/cgi-bin/mailman/listinfo/planetkubb-l\">PlanetKubb-l mailing list</a> as well that is general discussion about Planet Kubb specifically. <a href=\"http://lists.planetkubb.com/cgi-bin/mailman/listinfo/planetkubb-l\">Sign up for that one</a> while you are at it!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 1664,
+  "date": "2013-10-31T20:09:53",
+  "modified": "2015-12-16T22:35:10",
+  "slug": "new-planet-kubb-scoresheet-now-with-on-pitch-stats",
+  "link": "https://planetkubb.com/post/new-planet-kubb-scoresheet-now-with-on-pitch-stats/",
+  "title": {
+   "rendered": "New Planet Kubb Scoresheet Now With On-Pitch Stats"
+  },
+  "content": {
+   "rendered": "<p>Back in the summer of 2012, <a href=\"http://wiki.planetkubb.com/wiki/Player:Jamie_Thingelstad\">Jamie</a> and <a href=\"http://wiki.planetkubb.com/wiki/Player:Garrick_van_Buren\">I</a> developed the first <a href=\"http://wiki.planetkubb.com/wiki/scoresheet\">Planet Kubb Scoresheet</a>, we had just <a href=\"http://wiki.planetkubb.com/wiki/Event:Minnesota_Kubb_Loppet_Tournament_2012\">1 competitive tournament</a> under our belt and were walking into <a href=\"http://wiki.planetkubb.com/wiki/Event:US_National_Kubb_Championship_2012\">our first US Nationals</a>. While we knew the rules of the game (this time!) and a primitive version of the <a href=\"http://wiki.planetkubb.com/wiki/Notation\">Game Notation</a>, we didn&#8217;t yet know what the important statistics were (sure, &#8220;wins&#8221; but those are still pretty scarce for us).</p>\n<p>A year later, with the <a href=\"http://wiki.planetkubb.com/wiki/Event:US_National_Kubb_Championship_2013\">2013 Nationals</a> and a few more tournaments in the rearview mirror, Jamie and I were discussing the key metrics for a Kubb team as well as some revisions to the scoresheet. What numbers separate elite teams from backyard players? What numbers separate elite teams? How can a team measure improvement even if they&#8217;re not yet winning?</p>\n<p>We identified 3 key metrics:</p>\n<ol>\n<ol>\n<li><strong>Efficiency %</strong>: What percentage of the field kubbs are toppled with the first baton throw? <em>(High numbers indicate a strong Inkastare/Blaster relationship)</em></li>\n<li><strong>0B@T#</strong> (Zero Base Kubbs at Throw Number): How many batons are needed to clear the 8m baseline? <em>(Low numbers indicate how aggressively a team clears the field. 5 is the lowest possible number)</em>.</li>\n<li><strong>Hit %</strong>: What percentage of the batons knock over something? <em>(Elite teams are &gt;50% )</em>.</li>\n</ol>\n</ol>\n<p>These 3 metrics effectively capture the significant elements of the game (inkast/blast, 8m, and overall accuracy). Each kubb team has a different mix of these skills. For example, here&#8217;s the numbers for 3 top teams from the 2013 Nationals Final rounds:</p>\n<table>\n<thead>\n<tr>\n<td>Team</td>\n<td>Eff %</td>\n<td>0B@T#</td>\n<td>Hit %</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"http://wiki.planetkubb.com/wiki/Team:Kubbsicles\">Kubbiscles</a></td>\n<td>49</td>\n<td>17</td>\n<td>61</td>\n</tr>\n<tr>\n<td><a href=\"http://wiki.planetkubb.com/wiki/Team:King_Pin\">King Pin</a></td>\n<td>51</td>\n<td>18</td>\n<td>52</td>\n</tr>\n<tr>\n<td><a href=\"http://wiki.planetkubb.com/wiki/Team:Team_Knockerheads\">Team Knockerheads</a></td>\n<td>58</td>\n<td>18</td>\n<td>62</td>\n</tr>\n</tbody>\n</table>\n<p>From this you can see 3 very different kinds of play.</p>\n<p>The Kubbsicles get to 0 Baselines slightly faster on average than the other 2 teams and they&#8217;ve a very strong Hit %. Their lower efficiency suggests a great <a href=\"http://wiki.planetkubb.com/wiki/Blaster\">blaster</a> isn&#8217;t required to become National champs. Contrast that with second place finisher King Pin, their lower Hit % indicates that blasting is what took them deep into the bracket. The Knockerhead&#8217;s numbers really speak to how successful they were at <a href=\"http://teamknockerheads.planetkubb.com/post/2013-the-year-of-the-freight-train/\">all the 2013 tournaments</a> and how a team this strong can still have an off match.</p>\n<p>We&#8217;ve completely reworked the <a href=\"http://wiki.planetkubb.com/wiki/scoresheet\">Planet Kubb Scoresheet</a> (<em>and turned it sideways!</em>), moved team roster to it&#8217;s own section (which removes an always awkward start of match problem with who starts first), and added a section at the bottom to easily calculate these 3 metrics while on the pitch.</p>\n<p>Earlier this week I field tested the Scoresheet+stats in a solitaire match. My performance in those 2 games:</p>\n<table>\n<thead>\n<tr>\n<td>Team</td>\n<td>Eff %</td>\n<td>0B@T#</td>\n<td>Hit %</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>G1</td>\n<td>33</td>\n<td>26</td>\n<td>68</td>\n</tr>\n<tr>\n<td>G2</td>\n<td>58</td>\n<td></td>\n<td>62</td>\n</tr>\n</tbody>\n</table>\n<p>Check out these PDFs to see the stats section in action; <a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/10/field-test-1\">Garrick&#8217;s Field Test #1.pdf</a> and <a href=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/10/field-test-2.pdf\">Garrick&#8217;s Field Test #2.pdf</a>.</p>\n<p>From this you can see the side that cleared baselines won despite not being as efficient at clearing field kubbs. Calculating theses stats provides a sense of completion lacking from the previous <em>9 versions</em> of the Scoresheets. I&#8217;ve always discouraged scoring in practice matches. With this new Scoresheet, I&#8217;ll likely change my position.</p>\n<p><strong><a href=\"http://wiki.planetkubb.com/w/images/planetkubb/0/02/Planet_Kubb_Scoresheet.pdf\">Download the New Planet Kubb Scoresheet with Stats</a></strong></p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 1692,
+  "date": "2013-11-01T09:43:22",
+  "modified": "2013-11-01T09:46:53",
+  "slug": "best-possible-team-stats",
+  "link": "https://planetkubb.com/post/best-possible-team-stats/",
+  "title": {
+   "rendered": "Best Possible Team Stats"
+  },
+  "content": {
+   "rendered": "<p>Inspired by a comment from <a href=\"http://planetkubb.wpengine.com/post/new-planet-kubb-scoresheet-now-with-on-pitch-stats/#comment-772\">Albert62</a>, I quickly sketched out what the best possible team stats would look like. </p>\n<p><strong>US Rules (No Perfect Game)</strong><br />\nThe scenario. Team Alpha opens with 5 base kubbs and forfeits the 6th baton. Team Beta inkasts beautifully and blasts all 5 field kubbs with a single baton. Their remaining 5 batons each take out a base kubb. Team Alpha now inkasts 10, and stuns everyone by knocking over all 10 with a single baton, moving on to the king shot. It&#8217;s interesting that Team Alpha ends up with a lower Hit % because of their forfeited 6th baton. </p>\n<table>\n<thead>\n<tr>\n<td>Team</td>\n<td>Eff %</td>\n<td>0B@T#</td>\n<td>Hit %</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Alpha (win)</td>\n<td>100</td>\n<td>5</td>\n<td>87.5</td>\n</tr>\n<tr>\n<td>Beta</td>\n<td>100</td>\n<td>5</td>\n<td>100</td>\n</tr>\n</tbody>\n</table>\n<p><strong>VM Rules (Perfect Game)</strong><br />\nThe scenario. Team Alpha opens with 5 base kubbs and then topples the king. Game over.</p>\n<table>\n<thead>\n<tr>\n<td>Team</td>\n<td>Eff %</td>\n<td>0B@T#</td>\n<td>Hit %</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Alpha</td>\n<td>0</td>\n<td>5</td>\n<td>100</td>\n</tr>\n</tbody>\n</table>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 4218,
+  "date": "2013-11-08T18:00:00",
+  "modified": "2017-02-22T15:37:56",
+  "slug": "bullet",
+  "link": "https://planetkubb.com/post/bullet/",
+  "title": {
+   "rendered": "Bullet"
+  },
+  "content": {
+   "rendered": "<p>A bullet is a method of throwing a baton in a way that it does not rotate and is thrown in a spear like style directly at kubbs.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   112
+  ]
+ },
+ {
+  "id": 1728,
+  "date": "2014-02-23T19:41:00",
+  "modified": "2014-02-23T19:41:02",
+  "slug": "planet-kubb-tourney-banner",
+  "link": "https://planetkubb.com/post/planet-kubb-tourney-banner/",
+  "title": {
+   "rendered": "Planet Kubb Tourney Banner"
+  },
+  "content": {
+   "rendered": "<p>As the 2014 Kubb season gets started you will start to see the new Planet Kubb banner flying proud at select events throughout the midwest!</p>\n<p><a href=\"http://planetkubb.wpengine.com/post/planet-kubb-tourney-banner/planet-kubb-flag/\" rel=\"attachment wp-att-1729\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-large wp-image-1729\" alt=\"Planet Kubb Flag\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-768x1024.jpg\" width=\"550\" height=\"733\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-768x1024.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-225x300.jpg 225w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-1152x1536.jpg 1152w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-1536x2048.jpg 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-1200x1600.jpg 1200w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-e1393205729385-scaled.jpg 1920w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a></p>\n<p>&nbsp;</p>\n<p>Made by <a href=\"http://thingelstad.com\">Jamie Thingelstad</a>&#8216;s mother, <a href=\"https://www.facebook.com/rosalin.chrest\">Rosalin Chrest</a>, this flag flies over 15 feet in the air. The Planet Kubb logo is boldly emblazoned on both sides and the &#8220;tipped king&#8221; is in bright red!</p>\n<p><a href=\"http://planetkubb.wpengine.com/post/planet-kubb-tourney-banner/planet-kubb-flag-inside/\" rel=\"attachment wp-att-1730\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-large wp-image-1730\" alt=\"Planet Kubb Flag Inside\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-1024x768.jpg\" width=\"550\" height=\"412\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-1024x768.jpg 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-300x225.jpg 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-768x576.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-1536x1152.jpg 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-2048x1536.jpg 2048w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-Inside-1200x900.jpg 1200w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://planetkubb.wpengine.com/post/planet-kubb-tourney-banner/planet-kubb-flag-king/\" rel=\"attachment wp-att-1731\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-large wp-image-1731\" alt=\"Planet Kubb Flag King\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-1024x768.jpg\" width=\"550\" height=\"412\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-1024x768.jpg 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-300x225.jpg 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-768x576.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-1536x1152.jpg 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-2048x1536.jpg 2048w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/02/Planet-Kubb-Flag-King-1200x900.jpg 1200w\" sizes=\"auto, (max-width: 550px) 85vw, 550px\" /></a></p>\n<p>&nbsp;</p>\n<p>It’s gorgeous and I can’t say <strong>Thank You</strong> enough to my awesome Mom for making this! I can’t wait to put this up in July in Eau Claire!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 1735,
+  "date": "2014-06-19T09:25:05",
+  "modified": "2014-06-19T09:35:22",
+  "slug": "planet-kubb-scoresheets-now-available-as-a-book",
+  "link": "https://planetkubb.com/post/planet-kubb-scoresheets-now-available-as-a-book/",
+  "title": {
+   "rendered": "Planet Kubb Scoresheets Now Available as a Book"
+  },
+  "content": {
+   "rendered": "<p><a href=\"http://www.lulu.com/shop/garrick-van-buren/planet-kubb-scoresheet-notepad-2014/paperback/product-21679671.html\"><img loading=\"lazy\" decoding=\"async\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861.png\" alt=\"PK_Front_Cover\" width=\"3375\" height=\"2588\" class=\"alignnone size-full wp-image-1736\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861.png 3375w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861-300x230.png 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861-1024x785.png 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861-768x589.png 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861-1536x1178.png 1536w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861-2048x1570.png 2048w, https://planetkubb.com/wp-content/planetkubb/uploads/2014/06/PK_Front_Cover-e1403187785861-1200x920.png 1200w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px\" /></a> </p>\n<p>Ever since Jamie and I started working on the Planet Kubb Scoresheets we wanted a spiral bound book of them. In addition to keeping the scoresheets together, it&#8217;s a great way to document your team&#8217;s development and become a student of the game.</p>\n<p>In addition to the current scoresheets (with stats), the book also includes the full Planet Kubb Notation and a guide to the game notation and an example from an actual U.S. Championship game. </p>\n<p>Get 15% off by purchasing before the 2014 U.S. Championship is over &#8211; $8.50 <strike>$10.00</strike> plus shipping &#038; tax.</p>\n<p>If you&#8217;ll be attending the 2014 U.S. Championship, find Jamie and me &#8211; we&#8217;ll happily sign your copy. </p>\n<p><a href=\"http://www.lulu.com/commerce/index.php?fBuyContent=14866861\"><img decoding=\"async\" src=\"http://static.lulu.com/images/services/buy_now_buttons/en/gray.gif?20140617080123\" border=\"0\" alt=\"Support independent publishing: Buy this book on Lulu.\"> <strong>Buy the 2104 Planet Kubb Scoresheet Book @ Lulu.com</strong></a></p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 1743,
+  "date": "2014-06-24T13:36:45",
+  "modified": "2014-06-28T20:00:36",
+  "slug": "register-for-the-2014-planet-kubb-club-championship",
+  "link": "https://planetkubb.com/post/register-for-the-2014-planet-kubb-club-championship/",
+  "title": {
+   "rendered": "Register for the 2014 Planet Kubb Club Championship"
+  },
+  "content": {
+   "rendered": "<p>The Nyland Sack Trophy has been living in Chaska for a year. Will it move to Des Moines, Eau Claire, Minneapolis, or will it remain in Chaska?</p>\n<p><a href=\"http://planetkubb.wpengine.com/post/introducing-the-nyland-sack-trophy/20130613-072251-15881/\" rel=\"attachment wp-att-422\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-422\" alt=\"Nyland Sack Trophy\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2013/06/20130613-072251-15881-1024x682.jpg\" width=\"550\" height=\"366\" /></a></p>\n<p>In 18 days Kubb players from around the country will be converging on Eau Claire, Wisconsin to participate in the 2014 <a href=\"http://www.usakubb.org\">US National Kubb Championships</a>! For the second year ever, we will also be awarding the <a href=\"http://planetkubb.wpengine.com/post/introducing-the-nylund-sack-trophy/\">Nylund Sack Trophy</a> to the Kubb Club that wins the Planet Kubb US Kubb Club Championship! If you missed the details on how this works see the <a href=\"http://planetkubb.wpengine.com/post/scoring-details-for-planet-kubb-us-kubb-club-championship/\">writeup on the points system</a>.</p>\n<p>Registering your club for the 2014 Planet Kubb Club Championship is as easy:</p>\n<p>Just Pay Garrick: <a href=\"https://pay.garrickvanburen.com/?d=2014%20Planet%20Kubb%20Club%20Championship&#038;a=30\">Register for the 2014 Planet Kubb Club Championship</a></p>\n<p>In the description field, enter:</p>\n<ul>\n<li>the name of your kubb club</li>\n<li>the teams (minimum of 3) that will represent your club</li>\n</ul>\n<p>The deadline to register and identify the three teams that are representing your Kubb Club is <strong>midnight July 11, 2014</strong>.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 1749,
+  "date": "2014-07-19T20:57:12",
+  "modified": "2015-12-16T22:10:13",
+  "slug": "introducing-y-rescue-kubb-attempt",
+  "link": "https://planetkubb.com/post/introducing-y-rescue-kubb-attempt/",
+  "title": {
+   "rendered": "Introducing Y: Rescue Kubb Attempt"
+  },
+  "content": {
+   "rendered": "<p>For the third consecutive year Planet Kubb was at the <a href=\"http://www.usakubb.org\">US National Kubb Championship</a> and kept throw-by-throw records of the quarterfinals, semifinals and finals matches. This has become a bit of a tradition for us and people now eagerly look forward to getting their hands on the scoresheets after the tournament to look at what happened. Each year that we&#8217;ve done this we&#8217;ve found improvements to make to the scoresheet and notation. This year we had a first in US Kubb Championship play when King Pin attempted to rescue a Kubb.</p>\n<h3>The Scenario</h3>\n<p>Let me describe the situation. <a href=\"http://wiki.planetkubb.com/wiki/Team:King_Pin\">King Pin</a> had left a field Kubb and given <a href=\"http://wiki.planetkubb.com/wiki/Team:X_Kubbed\">X Kubbed</a> an advantage line, about 3 meters in. X Kubbed finished their attack and King Pin was left was 7 kubbs to throw in, along with the previous field Kubb. There were two baseline kubbs remaining. At this point King Pin decided they did not like the placement of the field Kubb that they had left in the previous turn and wanted to rescue it. JP Larson (J) picked up a Kubb and threw it bowling style at the field Kubb and missed. He threw a second and missed. At this point JP stepped aside and Mark Oman (M) threw a Kubb at the field Kubb and missed. He then threw another Kubb (totaling four kubbs) and this time he hit the field Kubb however it did not go out of bounds. King Pin decides to not attempt anything further. I’m not sure they could have anyway since the field was now laying down it would be very difficult to hit. So, they drill the remaining three kubbs, then rethrow the 4 kubbs they attempted rescues with. The field Kubb they were trying to rescue was set back up in it’s new spot.</p>\n<p>That was a complicated set of events and it was pretty exciting to watch. As I wrote this down using Planet Kubb notation I had:</p>\n<pre>j:2i m:2i j:3i4r</pre>\n<p>This is completely accurate. JP (J) threw 2 kubbs, Mark (M) threw 2 kubbs. J threw 3 more kubbs and rethrew 4. There were no penalty kubbs. Accurate it may be but it completely misses the spirit of the action. Part of what made this interesting was the rescue attempt failed! If it would have been successful, let&#8217;s say that that 4th Kubb would have rescued the field Kubb, then we would have had this:</p>\n<pre>j:2i m:2iq j:3i4ri</pre>\n<p>The <em>q</em> would let us know a Kubb was rescued. Personally I stylistically put the rescued Kubb getting thrown back in as a final <em>i</em> by itself to highlight it. The <em>q</em> informs us of what happened with the previous 4 <em>i</em>&#8216;s. But, that didn’t happen so we are left not really knowing what happened. After deliberating this we attempting a rescue of a Kubb deserves it’s own notation.</p>\n<h3>Introducing Y!</h3>\n<p>Y has now been added to the notation system to indicate a rescue Kubb attempt/throw. Using this, we would restate the scenario as:</p>\n<pre>j:2y m:2y j:3i4r</pre>\n<p>Much better! Now I know that those first four throws were not drills. They were special. I also know that since I don&#8217;t see a <em>q</em> they were not successful. Now I can see the notation and actually get a sense of what happened in the game.</p>\n<p>Technically if we are just storing the data of the game Y isn&#8217;t needed. The first notation describes what happens, but it’s devoid of the excitement and emotion. Capturing the spirit of the game is something we are trying to do with the notation. For example, there technically is no reason for <em>=</em>. It’s just a missed throw. You could simply put <em>&#8211;</em> and know that there was nothing else to throw at but the King so it must be a king miss. But that misses the point. It’s exciting to see:</p>\n<pre>3i  3f b b = = K</pre>\n<p>You know what happened at each step! Y solves this problem nicely for rescue attempts and captures the drama of the pitch. We think this closes one of the last areas of a Kubb match that the notation hadn&#8217;t been tested against before.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 1752,
+  "date": "2014-07-19T21:05:18",
+  "modified": "2015-12-16T22:09:45",
+  "slug": "planet-kubb-live-tweets-throw-by-throw-again",
+  "link": "https://planetkubb.com/post/planet-kubb-live-tweets-throw-by-throw-again/",
+  "title": {
+   "rendered": "Planet Kubb Live Tweets Throw-by-Throw Again"
+  },
+  "content": {
+   "rendered": "<p>For the 2nd year in a row Planet Kubb has used it’s notation system to share with the world throw-by-throw action from the finals match of the US National Kubb Championship! People from around the world were able to follow the game in real time, regardless of country or language. Planet Kubb is the first and only venue to ever live tweet throw-by-throw Kubb matches. Here are our tweets archived as they were sent. It would be great to see the <a href=\"http://www.vmkubb.com\">World Championship</a> do this!</p>\n<p><!--more--></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">In a few minutes we&#39;ll be live tweeting the final between Team Knockerhead and Kubbsicles!</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488368049955667968\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Kubbsicles win opening toss.</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488368293187551232\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Kubbsicles: &#8211; &#8211; &#8211; &#8211; &#8211; B “slow opener”</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488368610725740544\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads: i f b b b b &#8211; “great turn”</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488368933901041666\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Kubbsicles: 5i 2f f &#8211; f f &#8211;</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488369478569164800\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads: 5i &#8211; f f f f f “clean up crazy bounce”</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488369973295734787\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Kubbsicles: 5i 3f f f b &#8211; “so close” b</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488370599916339203\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"fi\" dir=\"ltr\">Knockerheads: 7i3r “one Kubb ran down line” 3f 2f f f b K</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488371510801739776\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads take game 1!</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488371560634261505\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Game 2 Knockerheads opening.</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488371822732115969\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads: b b &#8211; b &#8211; &#8211;</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488372173833117697\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Kubbsicles: 3i 2f f b b &#8211; &#8211;</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488372580047257600\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads: 5ir “one stray on centerline” 2f &#8211; 2f f &#8211; b</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488373207532314624\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Kubbsicles: 6i2r f 3f 2f &#8211; b b (restated)</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488374783449366529\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads: 8i2r 2f 4f &quot;great hit&quot; f f &quot;one baseline, 2 batons&quot; b K</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488375499098300416\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" width=\"550\">\n<p lang=\"en\" dir=\"ltr\">Knockerheads sweep Kubbsicles 2-0 to win <a href=\"https://twitter.com/USAKubb\">@USAKubb</a> National Championship!</p>\n<p>&mdash; Planet Kubb Live (@PlanetKubbLive) <a href=\"https://twitter.com/PlanetKubbLive/status/488375730099597313\">July 13, 2014</a></p></blockquote>\n<p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 1754,
+  "date": "2014-07-19T21:15:15",
+  "modified": "2014-07-19T21:15:15",
+  "slug": "scoresheet-updated-to-v11",
+  "link": "https://planetkubb.com/post/scoresheet-updated-to-v11/",
+  "title": {
+   "rendered": "Scoresheet Updated to v11"
+  },
+  "content": {
+   "rendered": "<p>Each year after scoring the US National Kubb Championship Garrick and I have identified improvements for the scoresheet. Real use is where we see big improvements. Scoring games in championship tournaments is super helpful for this. <a href=\"http://planetkubb.wpengine.com/post/new-planet-kubb-scoresheet-now-with-on-pitch-stats/\">Last years change was radical</a>! We flipped the entire scoresheet from portrait to landscape and it is so much better. This years changes are minor but very helpful.</p>\n<ol>\n<li>As I was scoring games on the pitch I started doing something that I really liked. When the throwing team had cleared all the field kubbs and could now move to attacking the baseline, I made a thick vertical line over the grid for that turn. This allowed me to very easily see the Batons to Clear (BTC) for each team. We decided to put this right into the scoresheet and put a blank in between the vertical lines in the score grid. These can be connected to indicate when the field was cleared. Obviously this is easy to calculate, but this visual cue is really nice.</li>\n<li>The throw count numbers were nice but it turns out that they are better not in increments of 10, but instead a the end of each turn. It’s more helpful to know that number so we moved those.</li>\n<li>Added a reference to the new <a href=\"http://planetkubb.wpengine.com/post/introducing-y-rescue-kubb-attempt/\">rescue Kubb attempt</a> (Y) notation.</li>\n</ol>\n<p>The new <a href=\"http://wiki.planetkubb.com/wiki/File:Planet_Kubb_Scoresheet.pdf\">scoresheet is up on the wiki as a PDF</a> to easily download and print. We also for the first time ever have a <a href=\"https://github.com/Planet-Kubb\">Github organization for Planet Kubb</a>, and a <a href=\"https://github.com/Planet-Kubb/scoring\">repository just for the scoring system</a>. Using this, you can create &#8220;issues&#8221; in that repository if you have suggestions for ways the scoring system, including the scoresheet, can be improved.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 1758,
+  "date": "2015-06-12T06:39:52",
+  "modified": "2015-06-12T06:39:52",
+  "slug": "youtube-no-longer-supporting-rss",
+  "link": "https://planetkubb.com/post/youtube-no-longer-supporting-rss/",
+  "title": {
+   "rendered": "YouTube No Longer Supporting RSS"
+  },
+  "content": {
+   "rendered": "<p>Yesterday Planet Kubb&#8217;s <a href=\"https://en.wikipedia.org/wiki/Planet_(software)\">feed aggregator</a> (we use <a href=\"http://offog.org/code/rawdog/\">rawdog</a>) started getting errors when retrieving data from YouTube.</p>\n<blockquote>\n<pre>Feed:        <a href=\"http://gdata.youtube.com/feeds/base/users/wikubb/uploads?orderby=published&amp;v=2\">http://gdata.youtube.com/feeds/base/users/wikubb/uploads?orderby=published&amp;v=2</a>\r\nHTTP Status: 410\r\nThe feed has gone.\r\nYou should remove it from your config file.</pre>\n</blockquote>\n<p>YouTube deprecated v2 of their API and is forcing everyone to use v3. The new version of the <a href=\"https://en.wikipedia.org/wiki/Application_programming_interface\">API</a> requires users to authenticate (no anonymous requests anymore) and only supports retrieval of <a href=\"https://en.wikipedia.org/wiki/JSON\">JSON</a> data. There is no <a href=\"https://en.wikipedia.org/wiki/RSS\">RSS</a> support. The Planet Kubb aggregator is an RSS aggregator, and without RSS support we can no longer retrieve new videos from YouTube. The FAQ for the new API says:</p>\n<blockquote><p><a href=\"https://developers.google.com/youtube/2.0/deprecation_faq#rss\">I rely on using the GData API (v1 or v2) for RSS/Atom feeds of YouTube videos. Do I have any alternative once they’re deprecated?</a></p>\n<p>At this time, there is no direct alternative. We recommend providing your application’s users with the ability to manage and retrieve their YouTube subscriptions using the methods of the YouTube Data API v3’s <a href=\"https://developers.google.com/youtube/v3/docs/subscriptions\">subscriptions</a> service.</p></blockquote>\n<p>This is disappointing. Not supporting RSS is not supporting a more open web. We have no intent to develop a workaround to use the v3 API&#8217;s. If a free service becomes available to turn the v3 APIs into RSS we would gladly use it to add YouTube back to Planet Kubb, but that doesn&#8217;t exist.</p>\n<p>What now? How can you get Kubb videos online and syndicated through Planet Kubb? Use <a href=\"https://vimeo.com/\">Vimeo</a>! <strong>Vimeo supports RSS feeds for channels, and there is a <a href=\"https://vimeo.com/channels/kubb\">Kubb channel</a>.</strong> If you add a video to Vimeo, and put it in this channel we will get it share along. Vimeo has a nicer user experience and you can rid yourself of YouTube comment trolls at the same time.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   7
+  ]
+ },
+ {
+  "id": 1764,
+  "date": "2015-07-04T14:34:38",
+  "modified": "2015-07-04T14:34:38",
+  "slug": "in-2015-the-nylund-sack-trophy-goes-to",
+  "link": "https://planetkubb.com/post/in-2015-the-nylund-sack-trophy-goes-to/",
+  "title": {
+   "rendered": "In 2015 The Nylund Sack Trophy Goes To&#8230;"
+  },
+  "content": {
+   "rendered": "<p><a href=\"http://wiki.planetkubb.com/wiki/Nylund_Sack_Trophy\"><img decoding=\"async\" src=\"http://wiki.planetkubb.com/w/images/planetkubb/thumb/b/b9/Nyland_Sack_Trophy_3.jpg/600px-Nyland_Sack_Trophy_3.jpg\" /></a></p>\n<p>This year, Planet Kubb will again be awarding the Nylund Sack Trophy at the U.S. Kubb National Championship. This year&#8217;s award will go to the team with the highest overall first baton efficiency in the quarter final round.</p>\n<p>What is First Baton Efficiency?<br />\nIt&#8217;s the % of field kubbs toppled by the first baton thrown in a turn. </p>\n<p>To calculate this year&#8217;s winner, we&#8217;ll be scoring each quarter final match using the most recent <a href=\"http://wiki.planetkubb.com/wiki/Scoresheet\">Planet Kubb scoresheet</a> then adding up all the kubbs inkast for each team and dividing by the number toppled by their first baton (see the efficiency equation at the bottom of the scoresheet). The team with the highest percentage wins. </p>\n<p>We will need help scoring matches. If you&#8217;ll be watching the Sunday&#8217;s matches and can help document the game play to calculate the winner &#8211; contact Garrick &#8211; Thanks!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 4276,
+  "date": "2015-07-19T19:00:00",
+  "modified": "2017-02-22T15:52:45",
+  "slug": "throwing-a-q",
+  "link": "https://planetkubb.com/post/throwing-a-q/",
+  "title": {
+   "rendered": "Throwing a Q"
+  },
+  "content": {
+   "rendered": "<p>Another term for the act of a [[rescue kubb]] strategy. This originates from the Planet Kubb scoring notation where &#8220;Q&#8221; references a successful rescue kubb attempt.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4268,
+  "date": "2015-07-19T19:00:00",
+  "modified": "2017-06-25T16:39:17",
+  "slug": "rescue-kubb",
+  "link": "https://planetkubb.com/post/rescue-kubb/",
+  "title": {
+   "rendered": "Rescue kubb"
+  },
+  "content": {
+   "rendered": "<p>The act of hitting previously established <a href=\"https://planetkubb.com/post/field-kubb/\">field kubbs</a> (i.e. field kubbs in play not previously thrown this turn) purposely knocked out of bounds by the <a href=\"https://planetkubb.com/post/inkastare/\">inkastare</a> using a kubb (not a baton) with intention of rethrowing for better placement on the <a href=\"https://planetkubb.com/post/pitch/\">pitch</a>. </p>\n<p>Also called <a href=\"https://planetkubb.com/post/throwing-a-q/\">Throwing a Q</a></p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4261,
+  "date": "2015-07-19T19:00:00",
+  "modified": "2017-02-22T15:52:46",
+  "slug": "mongo",
+  "link": "https://planetkubb.com/post/mongo/",
+  "title": {
+   "rendered": "Mongo"
+  },
+  "content": {
+   "rendered": "<p>Drilling a [[kubb]] from the middle of the [[baseline]] with the throwing arm on the same side of the pitch from where the kubb lands. </p>\n<p>Commonly identified as a high risk, high reward drill. Used in conjunction with a [[regular cut]], it&#8217;s possible to cut the kubb back towards the [[centerline]] pin.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 4252,
+  "date": "2015-07-19T19:00:00",
+  "modified": "2017-02-22T15:52:42",
+  "slug": "goose-kubb",
+  "link": "https://planetkubb.com/post/goose-kubb/",
+  "title": {
+   "rendered": "Goose Kubb"
+  },
+  "content": {
+   "rendered": "<p>The center [[kubb]] of the [[baseline]]. Named after 2015 U.S. National Champion, Dave &#8220;The Goose&#8221; Giese, who prefers to attack this kubb first when throwing [[8M]].<br />\n[[category:slang]]</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27,
+   113
+  ]
+ },
+ {
+  "id": 1767,
+  "date": "2015-07-28T21:29:58",
+  "modified": "2015-08-18T21:25:45",
+  "slug": "planet-kubb-award-2015-1be-kubbitz",
+  "link": "https://planetkubb.com/post/planet-kubb-award-2015-1be-kubbitz/",
+  "title": {
+   "rendered": "Planet Kubb Award 2015: First Baton Efficiency to Kubbitz"
+  },
+  "content": {
+   "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-large wp-image-1768\" src=\"http://planetkubb.wpengine.com/wp-content/planetkubb/uploads/2015/07/2015-07-12-14.09.45-e1438136976593-1024x821.jpg\" alt=\"2015-07-12 14.09.45\" width=\"605\" height=\"485\" srcset=\"https://planetkubb.com/wp-content/planetkubb/uploads/2015/07/2015-07-12-14.09.45-e1438136976593-1024x821.jpg 1024w, https://planetkubb.com/wp-content/planetkubb/uploads/2015/07/2015-07-12-14.09.45-e1438136976593-300x241.jpg 300w, https://planetkubb.com/wp-content/planetkubb/uploads/2015/07/2015-07-12-14.09.45-e1438136976593-768x616.jpg 768w, https://planetkubb.com/wp-content/planetkubb/uploads/2015/07/2015-07-12-14.09.45-e1438136976593-1200x962.jpg 1200w, https://planetkubb.com/wp-content/planetkubb/uploads/2015/07/2015-07-12-14.09.45-e1438136976593.jpg 1308w\" sizes=\"auto, (max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px\" /></p>\n<p>In my book &#8216;Rebuilding Blocks&#8217; I compare the relationship between the Inkastare and the First Blaster as the relationship between the pitcher and catcher in baseball. In kubb, as in baseball, communication between these roles is integral for success. The tighter the Inkastare throws &#8211; and the fewer options they leave for the defenders &#8211; the more field kubbs the First Blaster can topple with a single baton. The more field kubbs toppled with the first baton &#8211; the more progress that can be made on the baseline. This metric &#8211; First Baton Efficiency, the percentage of field kubbs toppled with the first baton &#8211; is a measure of how well the Inkastare and the First Blaster work together.</p>\n<p>At the 2015 U.S. National Kubb Championship we at Planet Kubb wanted to see which of the eight teams playing on Sunday had the highest 1BE &#8211; and if this statistic could be quickly calculated for eight teams in real-time.</p>\n<p>I&#8217;d like to thank Jim Bernard, Jesse Fraim, Brian Ramsey for helping me record every kubb inkast and every baton thrown in the Quarter Final round. As I received the <a href=\"http://wiki.planetkubb.com/wiki/Scoresheet\">scoresheets</a>, I quickly added up the Is and the Fs, double checking and triple checking the math. At the beginning of Sunday&#8217;s award program, I presented the traveling <a href=\"http://wiki.planetkubb.com/wiki/Nylund_Sack_Trophy\">Nyland Sack Trophy</a> to Kubbitz for a 47.12% 1BE. Yes, that means they toppled slightly less than 50% of the available field kubbs with the first baton. Wow.</p>\n<p>But remember, this is the Quarterfinals at the U.S. Nationals.</p>\n<p>1. Kubbitz &#8211; 47.12% (41f/87i)<br />\n2. Furor Celtica &#8211; 45.71% (16f/35i)<br />\n3. Ringers &#8211; 45.45% (30f/66i)<br />\n4. Kubbsicles &#8211; 44.12% (15f/34i)<br />\n5. Damage &#8211; 42.86% (15f/35i)<br />\n6. X-Kubbed &#8211; 40.9% (36f/88i)<br />\n7. Ona Orth &#8211; 38.71% (24f/62i)<br />\n8. King Pin &#8211; 37.93% (11f/29i)</p>\n<p>Yes, just 9.2% separated these eight teams&#8217; performances with their first baton, 3% separate the top 4. That&#8217;s far tighter than I was anticipating. Here&#8217;s where I think the 1BE metric is really interesting &#8211; Kubbitz finished 1.41% ahead of Furor Celtica but did so by inkasting and toppling 2.5x the field kubbs. Kubbitz &amp; X-Kubbed had more kubbs inkast in game 1 (and then again in game 2) than Furor Celtica and Kubbsicles had in their entire match.</p>\n<p>Congrats again to Kubbitz for consistently making progress with the first baton across 3 long games.</p>\n<p>And yes, we&#8217;re now taking suggestions for the kubb statistic Planet Kubb should highlight at the 2016 U.S. National Kubb Championship.</p>\n<p>Special thanks to Dobbie for reviewing game state a few days later and highlighting where clarifications and corrections were needed to more clearly communicate the play.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 3162,
+  "date": "2016-01-16T07:48:45",
+  "modified": "2016-01-16T07:48:50",
+  "slug": "planet-kubb-scoresheets-in-netherlands",
+  "link": "https://planetkubb.com/post/planet-kubb-scoresheets-in-netherlands/",
+  "title": {
+   "rendered": "Planet Kubb Scoresheets in Netherlands"
+  },
+  "content": {
+   "rendered": "<p>Nice to spot <a href=\"http://www.nkkubb.nl\">Nederlands Kubb</a> using the Planet Kubb scoresheets last summer!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ },
+ {
+  "id": 3543,
+  "date": "2017-02-21T15:02:19",
+  "modified": "2017-02-21T15:18:15",
+  "slug": "8m",
+  "link": "https://planetkubb.com/post/8m/",
+  "title": {
+   "rendered": "8M"
+  },
+  "content": {
+   "rendered": "<p>Shortened version of &#8216;Eight Meter&#8217;, referencing the baseline to baseline shot in kubb. Synonym for Long Game</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3544,
+  "date": "2017-02-21T15:03:15",
+  "modified": "2017-02-21T15:18:14",
+  "slug": "answering-team",
+  "link": "https://planetkubb.com/post/answering-team/",
+  "title": {
+   "rendered": "Answering Team"
+  },
+  "content": {
+   "rendered": "<p>The team throwing second at the start of a kubb game.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3545,
+  "date": "2017-02-21T15:04:00",
+  "modified": "2017-02-21T15:18:12",
+  "slug": "basket",
+  "link": "https://planetkubb.com/post/basket/",
+  "title": {
+   "rendered": "Basket"
+  },
+  "content": {
+   "rendered": "<ol>\n<li>The corner of the pitch field kubbs are tossed into.</li>\n<li>Drilling a kubb in a manner that the kubb ends up surrounded by previously thrown kubbs. One might say in this instance &#8220;He put that one right in the basket.&#8221;</li>\n</ol>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3546,
+  "date": "2017-02-21T15:05:55",
+  "modified": "2017-02-21T15:18:10",
+  "slug": "blaster",
+  "link": "https://planetkubb.com/post/blaster/",
+  "title": {
+   "rendered": "Blaster"
+  },
+  "content": {
+   "rendered": "<p>The player throwing at the Field Kubbs in an attempt to topples multiple Kubbs with a single baton. Depending on the arrangement of the Field Kubbs, the Blaster may not always throw the first baton. </p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3547,
+  "date": "2017-02-21T15:08:41",
+  "modified": "2017-02-21T16:28:13",
+  "slug": "chad-style",
+  "link": "https://planetkubb.com/post/chad-style/",
+  "title": {
+   "rendered": "Chad-style"
+  },
+  "content": {
+   "rendered": "<p>Chad-style is a specific cadence for baton throwing used by a team of two. In a Chad-style attack, the first player throws two batons, leaving their third in reserve. The second player then throws two batons, also leaving their third in reserve. Then, the first player throws their final baton followed by the second player throwing their final baton.</p>\n<p>This term was coined at the 2012 MN Kubb Loppet Tournament by the Kubbchucks. It was named after Chad Parsons and Chad Bevers playing as the KubbSnipers.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3548,
+  "date": "2017-02-21T15:09:15",
+  "modified": "2017-02-21T15:18:07",
+  "slug": "chasing-the-dragon",
+  "link": "https://planetkubb.com/post/chasing-the-dragon/",
+  "title": {
+   "rendered": "Chasing the Dragon"
+  },
+  "content": {
+   "rendered": "<p>The act of missing a shot, then consecutively taking higher risk, more powerful shots with longer lines, in an attempt to make up for one or more previous misses. The opposite of &#8216;Playing it Safe&#8217;.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3549,
+  "date": "2017-02-21T15:10:17",
+  "modified": "2017-02-21T15:18:06",
+  "slug": "cherry-picking",
+  "link": "https://planetkubb.com/post/cherry-picking/",
+  "title": {
+   "rendered": "Cherry-Picking"
+  },
+  "content": {
+   "rendered": "<p>Used to describe the toppling of one single Kubb within a tight grouping. Not a good thing.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3550,
+  "date": "2017-02-21T15:10:58",
+  "modified": "2017-02-21T15:18:04",
+  "slug": "clack",
+  "link": "https://planetkubb.com/post/clack/",
+  "title": {
+   "rendered": "Clack"
+  },
+  "content": {
+   "rendered": "<p>The act of inkasting a kubb in the upfield, only to have it impact another kubb, and veer off in a random unfavorable direction and position.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3551,
+  "date": "2017-02-21T15:11:59",
+  "modified": "2017-02-21T15:18:03",
+  "slug": "clutch",
+  "link": "https://planetkubb.com/post/clutch/",
+  "title": {
+   "rendered": "Clutch"
+  },
+  "content": {
+   "rendered": "<p>A player is said to be &#8220;in Clutch&#8221; when their remaining batons left are equal to or less than the remaining field kubbs left.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3552,
+  "date": "2017-02-21T15:13:02",
+  "modified": "2017-02-21T15:18:01",
+  "slug": "deep",
+  "link": "https://planetkubb.com/post/deep/",
+  "title": {
+   "rendered": "Deep"
+  },
+  "content": {
+   "rendered": "<p>The act of inkasting a kubb far into the upfield near the opponent&#8217;s baseline. </p>\n<p>Generally done with the intention of setting up a possible double with a base kubb, but can also be used as a conservative move if the inkastare believes they have more kubbs to throw than their team can topple with six batons, thus mitigating the danger of a close advantage line.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3553,
+  "date": "2017-02-21T15:14:14",
+  "modified": "2017-02-21T15:18:00",
+  "slug": "driller",
+  "link": "https://planetkubb.com/post/driller/",
+  "title": {
+   "rendered": "Driller"
+  },
+  "content": {
+   "rendered": "<p>The player performing the majority of kubb throwing strategy, called drilling. Currently a synonym for Inkastare. </p>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 3554,
+  "date": "2017-02-21T15:16:06",
+  "modified": "2017-02-21T15:17:58",
+  "slug": "drilling",
+  "link": "https://planetkubb.com/post/drilling/",
+  "title": {
+   "rendered": "Drilling"
+  },
+  "content": {
+   "rendered": "<p>Drilling is a specific kubb throwing technique employed to strategically place the field kubbs in such a manner that they land very closely together. </p>\n<p>There are various strategies to drilling, but the majority of drills adhere to these two principles:</p>\n<ol>\n<li>The kubb is spun on its center axis, similar to a spin of a thrown football</li>\n<li>Unlike a football, the nose of the kubb is generally pointed downward during the throwing motion</li>\n</ol>\n<p>Drilled kubbs are generally thrown near the centerpins, for the following reasons:</p>\n<ol>\n<li>Throwing close to the centerline provides a more favorable and closer distance to attack a kubb</li>\n<li>Throwing close to the corner provides the advantage that if kubbs are half in/half out, they are forced in, creating a tighter group</li>\n<li>Kubbs that are off-target, not thrown to technique, or bounce off other previously thrown kubbs have more of a chance to go out of bounds. This allows the inkastare another attempt to throw the kubb without affording a less favorable kubb position if it were to have stayed in bounds.</li>\n<li>Throwing to a position further away from the king decreases the chance of knocking the king over prematurely.</li>\n</ol>\n",
+   "protected": false
+  },
+  "categories": [
+   113
+  ]
+ },
+ {
+  "id": 4541,
+  "date": "2017-06-19T21:02:18",
+  "modified": "2017-06-20T08:28:28",
+  "slug": "always-always-remember-your-kubb-set",
+  "link": "https://planetkubb.com/post/always-always-remember-your-kubb-set/",
+  "title": {
+   "rendered": "Always, Always Remember Your Kubb Set!"
+  },
+  "content": {
+   "rendered": "<p>Around noon on Monday someone, no doubt off to a delightful afternoon of picnicking &#038; kubb along the North Sea, left their kubb set on a bench next to a track at the Hamburg train station. </p>\n<p><a href=\"http://www.bild.de/regional/hamburg/hamburg-hauptbahnhof/bomben-alarm-52241554.bild.html\">Unfortunately, the bomb squad was called in to defuse it</a>. </p>\n<p>Unfortunate that we live in a time where people simply forget kubb sets.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   27
+  ]
+ }
+]

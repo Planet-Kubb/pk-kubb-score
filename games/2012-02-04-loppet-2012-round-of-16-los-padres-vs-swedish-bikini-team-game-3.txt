@@ -1,0 +1,24 @@
+[Event "Minnesota Kubb Loppet Tournament 2012"]
+[Location "Theodore Wirth Park, MNLPS"]
+[Start "2012-02-04"]
+[Surface "Grass"]
+[Team A "Los Padres"]
+[Team A Players "Chris Hodges (c), Grant Scott (g)"]
+[Team B "The Swedish Bikini Team"]
+[Team B Players "Anders Thorstenson (a), Jake Freeberg (j)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Chris Hodges"]
+[Video "http://www.youtube.com/watch?v=4pxtAakBWkw"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Loppet_2012_Round_of_16,_Los_Padres_vs._Swedish_Bikini_Team/Game_3"]
+
+1. c:0I c:B c:- c:- g:- g:- g:B
+2. a:2IR a:F a:- a:F j:- j:- j:-
+3. c:2I c:F c:F c:- g:- g:- g:-
+4. a:2IR a:F a:F a:B j:B j:- j:- # This round was missed in the video
+5. c:4IR c:2F c:F c:F g:B g:B g:B
+6. a:7I j:4F j:F j:F a:- a:- a:F
+7. c:7I2R c:2F c:- g:2F g:F c:F g:F
+8. a:7I a:3F a:F a:F j:F j:F j:B
+9. c:8IR c:2F c:3F c:3F g:K X X

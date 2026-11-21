@@ -1,0 +1,21 @@
+[Event "Nordic Fest 2013"]
+[Location "Decorah, IA"]
+[Start "2013-07-27"]
+[Surface "Grass"]
+[Team A "Dark Side of the Kubbsicles"]
+[Team A Players "Mark Blazel (b), Luke Peikert (l), Miles (m)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Chris Hodges (c), Grant Scott (g), Josh Feathers (j)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "joshfeathers"]
+[Video "http://www.youtube.com/watch?v=LV3ioWBFSKU&feature=c4-overview&list=UUKfSseFYGMJpYgGfeXR991Q"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:NordicFest_2013,_Knockerheads_v._Dark_Side_of_the_Kubbsicles,_July_27_2013_(Game_1)"]
+
+1. m:0I m:- m:B b:- b:- l:- l:-
+2. j:I j:- c:F c:- g:- g:- g:B
+3. b:2I b:F m:- m:F b:- l:- l:-
+4. j:2I j:2F g:- g:- c:B c:- g:B
+5. b:4I b:4F b:- m:- m:B l:- l:-
+6. j:5IR j:4F j:F g:B g:- c:B c:K

@@ -1,0 +1,12 @@
+<!-- Talk:Scoresheet | last edited 2013-02-03T22:48:41Z | 5 revisions | wiki.planetkubb.com -->
+Reference: [[:Category:Filled out scoresheet|Filled out scoresheets]]
+
+== Advantage line checkboxes ==
+
+I think we should consider a different way to indicate the advantage line on the scoresheet. I'm not loving the checkboxes. While scoring, I tend to find that I prefer to right the indicator "3A" and then I draw a box around it to highlight it ([[:File:Minnesota Kubb Loppet Tournament 2013, Finals, Team Knockerheads v. The Ringers, Game 1.pdf|example]], [[:File:Minnesota Kubb Loppet Tournament 2013, Quarterfinals, Knockerheads v. Kubby Doo, Game 2.pdf|example]]). The struggle with the advantage line is that it rarely comes into play but is critical to record. It feels odd to have a reserved spot for it on every turn. Makes me consider a place where "modifier" notation can be indicated for each turn that isn't reserved for a specific action. Not sure. [[User:Thingles|Jamie]] ([http://thingelstad.com/ blog] | [http://jjt.me/ hello]) 20:05, 3 February 2013 (UTC)
+
+== Boxes are small, 1-column? ==
+
+With the inkastare portion of the scoresheet getting bigger, the boxes for the batons seem to be almost too small now.  I'm wondering if it isn't worth considering a single column layout that gives ample room for scribbles while scoring during gameplay. [[User:Thingles|Jamie]] ([http://thingelstad.com/ blog] | [http://jjt.me/ hello]) 20:07, 3 February 2013 (UTC)
+
+: how does this version feel  [[Media:Planet_Kubb_Scoresheet_10.pdf]] ? dramatically cleaned up, with now 2 lines of comments available for each turn. [[User:Garrickvanburen|Garrickvanburen]] ([[User talk:Garrickvanburen|talk]]) 22:48, 3 February 2013 (UTC)

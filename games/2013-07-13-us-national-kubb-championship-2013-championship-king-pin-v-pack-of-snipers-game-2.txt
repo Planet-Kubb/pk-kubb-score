@@ -1,0 +1,21 @@
+[Event "US National Kubb Championship 2013"]
+[Event date "2013-07-13"]
+[Team A "King Pin"]
+[Team A Players "Jason Larson (j), Chris Oman (o), Phil Goetstouwers (g)"]
+[Team B "Pack of Snipers"]
+[Team B Players "Chad Bevers (b), Chad Parsons (c), Joe Pendleton (p), Nate Olson (n)"]
+[First "Team A"]
+[Win "Team A"]
+[Video "http://www.youtube.com/watch?v=pBBrO3T156c"]
+[Video offset "6:53"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-KingPin-PackofSnipers-Game-2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_King_Pin_v._Pack_of_Snipers/Game_2"]
+
+1. 0I j:- j:- o:B o:- g:B g:-
+2. b:2I c:F b:- c:F p:B n:- b:B
+3. g:4I o:2F o:F j:- j:F g:- g:-
+4. b:4I b:4F b:- p:- p:- n:- n:-
+5. g:4IP o:2F g:F j:F j:B o:- g:B
+6. c:6I b:2F c:F c:F b:F p:F p:-
+7. g:6I o:- j:5F j:F o:- g:B g:K

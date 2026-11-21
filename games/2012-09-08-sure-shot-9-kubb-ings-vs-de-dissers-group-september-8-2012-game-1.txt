@@ -1,0 +1,20 @@
+[Event "Sure Shot 9 (Basler Kubbmeisterschaft 2012)"]
+[Start "2012-09-08"]
+[Surface "Grass"]
+[Team A "Kubb'Ings"]
+[Team B "De Dissers Group"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=0VsWGCVk55s&feature=plcp"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Sure_Shot_9:_Kubb'Ings_vs_De_Dissers_Group,_September_8,_2012/Game_1"]
+
+1. 0I - B - - - B
+2. 2I 2F - - - B -
+3. 3IRP 2F F - - - -
+4. 3IRP F F F - - -
+5. 3I2R 2F F - B B -
+6. 5I2R 2F - - - F F
+7. 4I2R A 3F F - B = K

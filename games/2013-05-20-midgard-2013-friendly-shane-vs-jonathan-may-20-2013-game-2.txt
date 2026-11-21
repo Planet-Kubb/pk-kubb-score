@@ -1,0 +1,27 @@
+[Event "Friendly"]
+[Location "Midgard Festival, Ravens Knoll"]
+[Start "2013-05-20"]
+[Surface "Grass"]
+[Team A "Shane"]
+[Team A Players "Shane Hultquist (sh)"]
+[Team B "Jonathan"]
+[Team B Players "Jonathan Dufresne (jd)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Shane"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Midgard_2013_Friendly,_Shane_vs._Jonathan,_May_20,_2013_(Game_2)"]
+
+1. sh:0I sh:- sh:- sh:B sh:- sh:- sh:-
+2. jd:1I jd:F jd:- jd:- jd:- jd:- jd:-
+3. sh:1I sh:F sh:- sh:- sh:B sh:- sh:-
+4. jd:2IR jd:- jd:F jd:- jd:- jd:F jd:-
+5. sh:2I sh:- sh:- sh:- sh:- sh:- sh:-
+6. jd:0I A jd:- jd:- jd:B jd:B jd:- jd:-
+7. sh:2I sh:- sh:- sh:- sh:F sh:- sh:F
+8. jd:2IR A jd:F jd:- jd:F jd:- jd:- jd:-
+9. sh:2I sh:F sh:F sh:F sh:F sh:- sh:B
+10. jd:5I jd:- jd:F jd:- jd:- jd:2F jd:-
+11. sh:3I A sh:F sh:F sh:F sh:B sh:B sh:=
+12. jd:5I jd:F jd:F jd:F jd:F jd:F jd:-
+13. sh:5I A sh:- sh:2F sh:2F sh:F sh:K sh:X

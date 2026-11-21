@@ -1,0 +1,20 @@
+[Event "Pfälzer Kubb Open"]
+[Location "Schindhard, Germany"]
+[Start "2013-05-11"]
+[Surface "Grass"]
+[Team A "Kubb'Ings"]
+[Team B "Checkeletti"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=PdGD1bdO774"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Pfälzer_Kubb_Open_2013_Final_Kubb'Ings_v._Checkeletti_(Game_1)"]
+
+1. 0I - B B - - -
+2. 2I F F - - - -
+3. 2I - F F B - -
+4. 3I - F F - F B
+5. 4I 3F F - - B B
+6. 6I F F F - 3F -
+7. 6IR 4F 2F K X X X

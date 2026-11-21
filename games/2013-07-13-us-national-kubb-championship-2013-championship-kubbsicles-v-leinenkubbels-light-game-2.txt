@@ -1,0 +1,19 @@
+[Event "US National Kubb Championship 2013"]
+[Event date "2013-07-13"]
+[Team A "Kubbsicles"]
+[Team A Players "Mark Blazel (b), Max Sebesta (m), Zachary Brown (z)"]
+[Team B "Leinenkubbels Light"]
+[Team B Players "Scott Forster (s), Gregg Jochimsen (g), Chris Staack (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbsicles-Leinenkubbels-Game-2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_Kubbsicles_v._Leinenkubbels_Light/Game_2"]
+
+1. 0I m:- m:- b:- b:B z:B z:B
+2. s:3I c:F c:F g:F g:- s:- s:-
+3. b:3I m:3F z:- z:- m:- b:B b:-
+4. s:4I c:F c:F g:F g:F s:- s:-
+5. b:4I2R m:2F z:F m:- z:F b:- b:B
+6. s:5IR c:4F g:F g:B s:B s:- c:-
+7. b:7I2RP z:5F m:F z:- m:F b:K X

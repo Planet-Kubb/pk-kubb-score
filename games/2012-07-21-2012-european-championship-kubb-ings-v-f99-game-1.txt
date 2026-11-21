@@ -1,0 +1,22 @@
+[Event "2012 European Championship"]
+[Location "Berlin, Germany"]
+[Start "2012-07-21"]
+[Surface "Grass"]
+[Team A "Fortschritt99"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=xRK1nCUWhtY&feature=related"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2012_European_Championship_-_Kubb'Ings_v._F99/Game_1"]
+
+1. 0I B B - - - B
+2. 3IR - F F F B B
+3. 5I F F F - - F
+4. 4I2R A 3F F - B B B
+5. 8I3RP 5F 2F - 2F B -
+6. 9I3R F - 4F 2F F F # if you need an example of cherry picking - this first baton is it.
+7. 9I2R 2F - 3F F - F
+8. 8I A 3F 2F 2F F K X

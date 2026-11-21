@@ -1,0 +1,23 @@
+[Event "Sure Shot 9 (Basler Kubbmeisterschaft 2012)"]
+[Location "Schützenmattpark, Basel, Switzerland"]
+[Start "2012-09-08"]
+[Surface "Grass"]
+[Team A "Fortschritt99"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=ermOObHtmg0"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Sure_Shot_9:_Kubb'Ings_vs_F99,_September_8,_2012/Game_1"]
+
+1. 0I - - - B - -
+2. 1I F B B - B -
+3. 4I3R F 3F - B - -
+4. 5I3R1P - - 4F - - - # punishment kubb remains standing ~7.5m
+5. 4I1P A 3F F - B - - # punishment kubb placed ~7.5m
+6. 6I5R 2F F 2F - F - # 5 kubbs inkast for a rescue
+7. 6I 4F - F F B B
+8. 8I1R - 4F F 2F F -
+9. 8IR 4F F 2F F K X

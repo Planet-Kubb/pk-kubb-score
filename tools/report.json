@@ -1,0 +1,977 @@
+[
+ {
+  "file": "games/2011-10-01-2011-dallas-oktoberfest-final-game-1.txt",
+  "title": "Game:2011 Dallas Oktoberfest Final/Game 1",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2011-10-01-2011-dallas-oktoberfest-final-game-2.txt",
+  "title": "Game:2011 Dallas Oktoberfest Final/Game 2",
+  "turns": 12,
+  "flags": []
+ },
+ {
+  "file": "games/2011-08-06-2011-vm-kubb-ings-seven-up-vs-chnebuchlepfer-group-4.txt",
+  "title": "Game:2011 VM Kubb'Ings (Seven Up) vs Chnebuchlepfer Group 4",
+  "turns": 13,
+  "flags": []
+ },
+ {
+  "file": "games/2012-08-18-2012-clash-of-the-kubb-semifinals-shin-splitters-v-dark-side-of-the-kubbsicle-game-1.txt",
+  "title": "Game:2012 Clash of the Kubb - Semifinals - Shin Splitters v. Dark Side of the Kubbsicle/Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-08-18-2012-clash-of-the-kubb-semifinals-shin-splitters-v-dark-side-of-the-kubbsicle-game-2.txt",
+  "title": "Game:2012 Clash of the Kubb - Semifinals - Shin Splitters v. Dark Side of the Kubbsicle/Game 2",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2012-08-18-2012-clash-of-the-kubb-sweden-s-sons-v-dark-side-of-the-kubbsicle-game-1.txt",
+  "title": "Game:2012 Clash of the Kubb - Sweden's Sons v. Dark Side of the Kubbsicle/Game 1",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2012-08-18-2012-clash-of-the-kubb-sweden-s-sons-v-dark-side-of-the-kubbsicle-game-2.txt",
+  "title": "Game:2012 Clash of the Kubb - Sweden's Sons v. Dark Side of the Kubbsicle/Game 2",
+  "turns": 8,
+  "flags": [
+   "turn 8: 5 kubbs thrown in, 6 knocked down in turn 7"
+  ]
+ },
+ {
+  "file": "games/2012-07-21-2012-european-championship-kubb-ings-v-f99-game-1.txt",
+  "title": "Game:2012 European Championship - Kubb'Ings v. F99/Game 1",
+  "turns": 8,
+  "flags": [
+   "turn 5: 8 kubbs thrown in, 7 knocked down in turn 4",
+   "turn 6: 9 kubbs thrown in, 10 knocked down in turn 5",
+   "turn 8: 8 kubbs thrown in, 7 knocked down in turn 7"
+  ]
+ },
+ {
+  "file": "games/2012-07-21-2012-european-championship-kubb-ings-v-f99-game-2.txt",
+  "title": "Game:2012 European Championship - Kubb'Ings v. F99/Game 2",
+  "turns": 12,
+  "flags": [
+   "turn 10: 9 kubbs thrown in, 8 knocked down in turn 9"
+  ]
+ },
+ {
+  "file": "games/2012-07-21-2012-european-championship-kubb-ings-v-f99-game-3.txt",
+  "title": "Game:2012 European Championship - Kubb'Ings v. F99/Game 3",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-21-2012-european-championship-kubb-ings-v-f99-game-4.txt",
+  "title": "Game:2012 European Championship - Kubb'Ings v. F99/Game 4",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-21-2012-european-championship-semifinal-kubb-ings-vs-de-falschi-haas-game-1.txt",
+  "title": "Game:2012 European Championship - Semifinal - Kubb'Ings vs De falschi Haas/Game 1",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-21-2012-european-championship-semifinal-kubb-ings-vs-de-falschi-haas-game-2.txt",
+  "title": "Game:2012 European Championship - Semifinal - Kubb'Ings vs De falschi Haas/Game 2",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-27-2013-nordic-fest-semi-finals-throws-with-wood-v-knockerheads-game-1.txt",
+  "title": "Game:2013 Nordic Fest Semi-Finals, Throws With Wood v. Knockerheads (Game 1)",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-27-2013-nordic-fest-semi-finals-throws-with-wood-v-knockerheads-game-2.txt",
+  "title": "Game:2013 Nordic Fest Semi-Finals, Throws With Wood v. Knockerheads (Game 2)",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2015-07-11-2015-u-s-national-kubb-championship-quarterfinals-game-2-king-pin-vs-damage-inc.txt",
+  "title": "Game:2015 U.S. National Kubb Championship Quarterfinals Game 2 King Pin vs Damage Inc",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2015-07-18-2015-u-s-nationals-quarterfinals-damage-inc-vs-king-pin.txt",
+  "title": "Game:2015 U.S. Nationals Quarterfinals Damage Inc vs King Pin",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-06-22-4th-lengeder-kubb-open-2013-championship-kubb-ings-v-gipfelsturmer-game-1.txt",
+  "title": "Game:4th Lengeder Kubb Open 2013 Championship Kubb'Ings v. Gipfelstürmer/Game 1",
+  "turns": 6,
+  "flags": [
+   "turn 4: 5 kubbs thrown in, 6 knocked down in turn 3"
+  ]
+ },
+ {
+  "file": "games/2013-06-22-4th-lengeder-kubb-open-2013-championship-kubb-ings-v-gipfelsturmer-game-2.txt",
+  "title": "Game:4th Lengeder Kubb Open 2013 Championship Kubb'Ings v. Gipfelstürmer/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-goofy-kubbers-1-6-v-king-kung-june-7-2014-semi-final-game-1.txt",
+  "title": "Game:Canadian Nationals, Goofy Kubbers 1.6 v. King Kung, June 7 2014 Semi-Final Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-goofy-kubbers-1-6-v-king-kung-june-7-2014-semi-final-game-2.txt",
+  "title": "Game:Canadian Nationals, Goofy Kubbers 1.6 v. King Kung, June 7 2014 Semi-Final Game 2",
+  "turns": 20,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-gungnir-v-goofy-kubbers-1-6-june-7-2014-gold-medal-game-1.txt",
+  "title": "Game:Canadian Nationals, Gungnir v. Goofy Kubbers 1.6, June 7 2014 Gold Medal Game 1",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-gungnir-v-goofy-kubbers-1-6-june-7-2014-gold-medal-game-2.txt",
+  "title": "Game:Canadian Nationals, Gungnir v. Goofy Kubbers 1.6, June 7 2014 Gold Medal Game 2",
+  "turns": 13,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-gungnir-v-morning-wood-can-june-7-2014-semi-final-game-1.txt",
+  "title": "Game:Canadian Nationals, Gungnir v. Morning Wood (CAN) , June 7 2014 Semi-Final Game 1",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-gungnir-v-morning-wood-can-june-7-2014-semi-final-game-2.txt",
+  "title": "Game:Canadian Nationals, Gungnir v. Morning Wood (CAN), June 7 2014 Semi-Final Game 2",
+  "turns": 10,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-king-kung-v-morning-wood-can-june-7-2014-bronze-medal-game-1.txt",
+  "title": "Game:Canadian Nationals, King Kung v. Morning Wood (CAN) , June 7 2014 Bronze Medal Game 1",
+  "turns": 17,
+  "flags": []
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-king-kung-v-morning-wood-can-june-7-2014-bronze-medal-game-2.txt",
+  "title": "Game:Canadian Nationals, King Kung v. Morning Wood (CAN) , June 7 2014 Bronze Medal Game 2",
+  "turns": 9,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-06-07-canadian-nationals-king-kung-v-morning-wood-can-june-7-2014-bronze-medal-game-3.txt",
+  "title": "Game:Canadian Nationals, King Kung v. Morning Wood (CAN) , June 7 2014 Bronze Medal Game 3",
+  "turns": 5,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2012-10-06-dallas-oktoberfest-2012-finals-game-1.txt",
+  "title": "Game:Dallas Oktoberfest 2012 Finals/Game 1",
+  "turns": 12,
+  "flags": []
+ },
+ {
+  "file": "games/2012-10-06-dallas-oktoberfest-2012-finals-game-2.txt",
+  "title": "Game:Dallas Oktoberfest 2012 Finals/Game 2",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2011-09-24-des-moines-fall-kubb-klassic-2011-quarterfinals-the-ringers-v-team-knockerheads-game-1.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2011 - Quarterfinals - The Ringers v. Team Knockerheads/Game 1",
+  "turns": 13,
+  "flags": [
+   "turn 11: 6 kubbs thrown in, 5 knocked down in turn 10"
+  ]
+ },
+ {
+  "file": "games/2011-09-24-des-moines-fall-kubb-klassic-2011-quarterfinals-the-ringers-v-team-knockerheads-game-2.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2011 - Quarterfinals - The Ringers v. Team Knockerheads/Game 2",
+  "turns": 17,
+  "flags": []
+ },
+ {
+  "file": "games/2011-09-24-des-moines-fall-kubb-klassic-2011-quarterfinals-the-ringers-v-team-knockerheads-game-3.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2011 - Quarterfinals - The Ringers v. Team Knockerheads/Game 3",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-22-des-moines-fall-kubb-klassic-2012-championship-goofy-kubbers-v-sweden-s-sons-game-1.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2012 - Championship - Goofy Kubbers v. Sweden's Sons/Game 1",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-22-des-moines-fall-kubb-klassic-2012-championship-goofy-kubbers-v-sweden-s-sons-game-2.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2012 - Championship - Goofy Kubbers v. Sweden's Sons/Game 2",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-22-des-moines-fall-kubb-klassic-2012-goofy-kubbers-v-kubb-d-game-1.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2012 - Goofy Kubbers v. Kubb'd/Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-08-des-moines-fall-kubb-klassic-2012-goofy-kubbers-v-kubb-d-game-2.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2012 - Goofy Kubbers v. Kubb'd/Game 2",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2013-09-21-des-moines-fall-kubb-klassic-2013-dos-padres-vs-derringer-september-21-2013-game-1.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2013, Dos Padres vs. Derringer, September 21 2013 (Game 1)",
+  "turns": 3,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2013-09-21-des-moines-fall-kubb-klassic-2013-dos-padres-vs-derringer-september-21-2013-game-2.txt",
+  "title": "Game:Des Moines Fall Kubb Klassic 2013, Dos Padres vs. Derringer, September 21 2013 (Game 2)",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-25-dissers-kubb-throphy-final-t-is-gebeurd-vs-kapido-may-25-2013-game-1.txt",
+  "title": "Game:Dissers Kubb Throphy final, 'T is gebeurd vs. Kapido, may 25 2013 (Game 1)",
+  "turns": 4,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-25-dissers-kubb-throphy-final-t-is-gebeurd-vs-kapido-may-25-2013-game-2.txt",
+  "title": "Game:Dissers Kubb Throphy final, 'T is gebeurd vs. Kapido, may 25 2013 (Game 2)",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-25-dissers-kubb-throphy-final-t-is-gebeurd-vs-kapido-may-25-2013-game-3.txt",
+  "title": "Game:Dissers Kubb Throphy final, 'T is gebeurd vs. Kapido, may 25 2013 (Game 3)",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-10-friendly-garrick-and-jamie-v-dobbie-and-jaime-july-10-2012.txt",
+  "title": "Game:Friendly, Garrick and Jamie v. Dobbie and Jaime (July 10, 2012)",
+  "turns": 18,
+  "flags": [
+   "turn 11: 6 kubbs thrown in, 7 knocked down in turn 10"
+  ]
+ },
+ {
+  "file": "games/2014-10-11-kalamazoo-kubbq-friendly-phil-dickinson-v-joey-wood-october-11-2014.txt",
+  "title": "Game:Kalamazoo KUBBQ, Friendly, Phil Dickinson v. Joey Wood, October 11 2014",
+  "turns": 23,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-10-11-kalamazoo-kubbq-friendly-tyler-wood-v-jesse-fraim-october-11-2014.txt",
+  "title": "Game:Kalamazoo KUBBQ, Friendly, Tyler Wood v. Jesse Fraim, October 11 2014",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2014-10-11-kalamazoo-kubbq-friendly-tyler-wood-v-jesse-fraim-october-11-2014-game-2.txt",
+  "title": "Game:Kalamazoo KUBBQ, Friendly, Tyler Wood v. Jesse Fraim, October 11 2014 (Game 2)",
+  "turns": 5,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-10-11-kalamazoo-kubbq-jesse-fraim-v-joey-wood-october-11-2014-game-1.txt",
+  "title": "Game:Kalamazoo KUBBQ, Jesse Fraim v. Joey Wood, October 11 2014 (Game 1)",
+  "turns": 5,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2014-10-11-kalamazoo-kubbq-jesse-fraim-v-joey-wood-october-11-2014-game-2.txt",
+  "title": "Game:Kalamazoo KUBBQ, Jesse Fraim v. Joey Wood, October 11 2014 (Game 2)",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2012-06-03-kubb-open-2012-finals-kubb-ings-vs-fortschritt99-blue-game-1.txt",
+  "title": "Game:Kubb Open 2012, Finals, Kubb'Ings vs Fortschritt99 Blue/Game 1",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2012-06-03-kubb-open-2012-finals-kubb-ings-vs-fortschritt99-blue-game-2.txt",
+  "title": "Game:Kubb Open 2012, Finals, Kubb'Ings vs Fortschritt99 Blue/Game 2",
+  "turns": 12,
+  "flags": []
+ },
+ {
+  "file": "games/2012-06-03-kubb-open-2012-finals-kubb-ings-vs-fortschritt99-blue-game-3.txt",
+  "title": "Game:Kubb Open 2012, Finals, Kubb'Ings vs Fortschritt99 Blue/Game 3",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2012-06-03-kubb-open-2012-finals-kubb-ings-vs-fortschritt99-blue-game-4.txt",
+  "title": "Game:Kubb Open 2012, Finals, Kubb'Ings vs Fortschritt99 Blue/Game 4",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-kubb-ings-vs-rzkkc-final-3-lengeder-kubb-open-game-1.txt",
+  "title": "Game:Kubb'Ings vs RZKKC Final 3. Lengeder Kubb Open/Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-kubb-ings-vs-rzkkc-final-3-lengeder-kubb-open-game-2.txt",
+  "title": "Game:Kubb'Ings vs RZKKC Final 3. Lengeder Kubb Open/Game 2",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-25-kubb-lngs-vs-de-falschi-haas-game-1.txt",
+  "title": "Game:Kubb'lngs vs De falschi Haas/Game 1",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-25-kubb-lngs-vs-de-falschi-haas-game-2.txt",
+  "title": "Game:Kubb'lngs vs De falschi Haas/Game 2",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2013-06-15-lindsborg-midsommar-tournament-2013-t-5-v-kubbayashi-june-15-2013.txt",
+  "title": "Game:Lindsborg Midsommar Tournament 2013, T-5 v. Kubbayashi, June 15, 2013",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2013-06-15-lindsborg-midsommar-tournament-2013-t-5-v-kubbayashi-june-15-2013-game-2.txt",
+  "title": "Game:Lindsborg Midsommar Tournament 2013, T-5 v. Kubbayashi, June 15, 2013 (Game 2)",
+  "turns": 6,
+  "flags": [
+   "turn 5: 6 kubbs thrown in, 7 knocked down in turn 4",
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2012-02-04-loppet-2012-round-of-16-los-padres-vs-swedish-bikini-team-game-3.txt",
+  "title": "Game:Loppet 2012 Round of 16, Los Padres vs. Swedish Bikini Team/Game 3",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2012-02-05-loppet-2012-semi-finals-kubb-snipers-vs-sweden-s-sons-game-1.txt",
+  "title": "Game:Loppet 2012 Semi-Finals, Kubb Snipers vs. Sweden's Sons/Game 1",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2012-02-05-loppet-2012-semi-finals-kubb-snipers-vs-sweden-s-sons-game-2.txt",
+  "title": "Game:Loppet 2012 Semi-Finals, Kubb Snipers vs. Sweden's Sons/Game 2",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2012-06-09-madison-midsommar-kubb-tournament-2012-final-game-1.txt",
+  "title": "Game:Madison Midsommar Kubb Tournament 2012 Final/Game 1",
+  "turns": 8,
+  "flags": [
+   "turn 7: 9 kubbs thrown in, 10 knocked down in turn 6"
+  ]
+ },
+ {
+  "file": "games/2012-06-09-madison-midsommar-kubb-tournament-2012-final-game-2.txt",
+  "title": "Game:Madison Midsommar Kubb Tournament 2012 Final/Game 2",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2012-06-09-madison-midsommar-kubb-tournament-2012-final-game-3.txt",
+  "title": "Game:Madison Midsommar Kubb Tournament 2012 Final/Game 3",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-06-01-madison-midsommar-kubb-tournament-2013-kubbsicles-v-team-fjadrar-june-1-2013-game-1.txt",
+  "title": "Game:Madison Midsommar Kubb Tournament 2013, Kubbsicles v. Team Fjadrar, June 1 2013 (Game 1)",
+  "turns": 13,
+  "flags": []
+ },
+ {
+  "file": "games/2013-06-01-madison-midsommar-kubb-tournament-2013-revolver-v-team-fjadrar-semi-final-game-1.txt",
+  "title": "Game:Madison Midsommar Kubb Tournament 2013, Revolver v. Team Fjadrar, (Semi-Final Game 1)",
+  "turns": 17,
+  "flags": []
+ },
+ {
+  "file": "games/2013-06-01-madison-midsommar-kubb-tournament-2013-revolver-v-team-fjadrar-semi-final-game-2.txt",
+  "title": "Game:Madison Midsommar Kubb Tournament 2013, Revolver v. Team Fjadrar, (Semi-Final Game 2)",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-20-midgard-2013-friendly-shane-vs-jonathan-may-20-2013-game-1.txt",
+  "title": "Game:Midgard 2013 Friendly, Shane vs. Jonathan, May 20, 2013 (Game 1)",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-20-midgard-2013-friendly-shane-vs-jonathan-may-20-2013-game-2.txt",
+  "title": "Game:Midgard 2013 Friendly, Shane vs. Jonathan, May 20, 2013 (Game 2)",
+  "turns": 13,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-20-midgard-2013-friendly-shane-vs-jonathan-may-20-2013-game-3.txt",
+  "title": "Game:Midgard 2013 Friendly, Shane vs. Jonathan, May 20, 2013 (Game 3)",
+  "turns": 19,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2013-05-04-midwest-championship-2013-finals-dark-side-of-the-kubbsicle-v-team-knockerheads-game-1.txt",
+  "title": "Game:Midwest Championship 2013 Finals - Dark Side of the Kubbsicle v. Team Knockerheads (Game 1)",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-04-midwest-championship-2013-finals-dark-side-of-the-kubbsicles-v-team-knockerheads-game-2.txt",
+  "title": "Game:Midwest Championship 2013 Finals - Dark Side of the Kubbsicles v. Team Knockerheads (Game 2)",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-04-midwest-championship-2013-semi-finals-rad-kubbler-v-team-knockerheads-game-1.txt",
+  "title": "Game:Midwest Championship 2013 Semi Finals - Rad Kubbler v. Team Knockerheads (Game 1)",
+  "turns": 9,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2013-05-04-midwest-championship-2013-semi-finals-rad-kubbler-v-team-knockerheads-game-2.txt",
+  "title": "Game:Midwest Championship 2013 Semi Finals - Rad Kubbler v. Team Knockerheads (Game 2)",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-04-midwest-championship-2013-team-knockerheads-v-kingpin.txt",
+  "title": "Game:Midwest Championship 2013 Team Knockerheads v. Kingpin",
+  "turns": 12,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-championship-team-knockerheads-v-the-ringers-game-1.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013 Championship Team Knockerheads v. The Ringers/Game 1",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-championship-team-knockerheads-v-the-ringers-game-2.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013 Championship Team Knockerheads v. The Ringers/Game 2",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-quarterfinals-knockerheads-v-kubby-doo-game-1.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013, Quarterfinals, Knockerheads v. Kubby Doo/Game 1",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-quarterfinals-knockerheads-v-kubby-doo-game-2.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013, Quarterfinals, Knockerheads v. Kubby Doo/Game 2",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-quarterfinals-knockerheads-v-kubby-doo-game-3.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013, Quarterfinals, Knockerheads v. Kubby Doo/Game 3",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-semifinals-the-ringers-v-kubb-snipers-game-1.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013, Semifinals, The Ringers v. Kubb Snipers/Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-semifinals-the-ringers-v-kubb-snipers-game-2.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013, Semifinals, The Ringers v. Kubb Snipers/Game 2",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-02-02-minnesota-kubb-loppet-tournament-2013-semifinals-the-ringers-v-kubb-snipers-game-3.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2013, Semifinals, The Ringers v. Kubb Snipers/Game 3",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2014-02-01-minnesota-kubb-loppet-tournament-2014-championship-team-knockerheads-v-o-bros-game-1.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2014 Championship Team Knockerheads v. O Bros/Game 1",
+  "turns": 7,
+  "flags": [
+   "turn 6: 9 kubbs thrown in, 8 knocked down in turn 5"
+  ]
+ },
+ {
+  "file": "games/2014-02-01-minnesota-kubb-loppet-tournament-2014-championship-team-knockerheads-v-o-bros-game-2.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2014 Championship Team Knockerheads v. O Bros/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2014-02-01-minnesota-kubb-loppet-tournament-2014-championship-team-knockerheads-v-o-bros-game-3.txt",
+  "title": "Game:Minnesota Kubb Loppet Tournament 2014 Championship Team Knockerheads v. O Bros/Game 3",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-28-nordic-fest-kubb-tournament-2012-finals-kubby-doo-v-baton-death-march-game-1.txt",
+  "title": "Game:Nordic Fest Kubb Tournament 2012 Finals Kubby Doo v. Baton Death March/Game 1",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-28-nordic-fest-kubb-tournament-2012-finals-kubby-doo-v-baton-death-march-game-2.txt",
+  "title": "Game:Nordic Fest Kubb Tournament 2012 Finals Kubby Doo v. Baton Death March/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-28-nordic-fest-kubb-tournament-2012-finals-kubby-doo-v-baton-death-march-game-3.txt",
+  "title": "Game:Nordic Fest Kubb Tournament 2012 Finals Kubby Doo v. Baton Death March/Game 3",
+  "turns": 7,
+  "flags": [
+   "turn 6: odd baton 'F-'"
+  ]
+ },
+ {
+  "file": "games/2013-07-27-nordicfest-2013-knockerheads-v-dark-side-of-the-kubbsicles-july-27-2013-game-1.txt",
+  "title": "Game:NordicFest 2013, Knockerheads v. Dark Side of the Kubbsicles, July 27 2013 (Game 1)",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-27-nordicfest-2013-knockerheads-v-dark-side-of-the-kubbsicles-july-27-2013-game-2.txt",
+  "title": "Game:NordicFest 2013, Knockerheads v. Dark Side of the Kubbsicles, July 27 2013 (Game 2)",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-04-ocn-training-may-2013.txt",
+  "title": "Game:OCN Training - May 2013",
+  "turns": 19,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-11-pfalzer-kubb-open-2013-final-kubb-ings-v-checkeletti-game-1.txt",
+  "title": "Game:Pfälzer Kubb Open 2013 Final Kubb'Ings v. Checkeletti (Game 1)",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-05-11-pfalzer-kubb-open-2013-final-kubb-ings-v-checkeletti-game-2.txt",
+  "title": "Game:Pfälzer Kubb Open 2013 Final Kubb'Ings v. Checkeletti (Game 2)",
+  "turns": 12,
+  "flags": []
+ },
+ {
+  "file": "games/2012-05-09-rockford-2012-championship-head-slap-v-tad-kubbler-game-1.txt",
+  "title": "Game:Rockford 2012 Championship Head Slap v. Tad Kubbler/Game 1",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2012-05-09-rockford-2012-championship-head-slap-v-tad-kubbler-game-2.txt",
+  "title": "Game:Rockford 2012 Championship Head Slap v. Tad Kubbler/Game 2",
+  "turns": 16,
+  "flags": []
+ },
+ {
+  "file": "games/2012-05-09-rockford-2012-championship-head-slap-v-tad-kubbler-game-3.txt",
+  "title": "Game:Rockford 2012 Championship Head Slap v. Tad Kubbler/Game 3",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2012-05-19-rockford-2012-semifinals-kubbacca-v-ringers-game-1.txt",
+  "title": "Game:Rockford 2012 Semifinals Kubbacca v. Ringers/Game 1",
+  "turns": 14,
+  "flags": []
+ },
+ {
+  "file": "games/2012-05-19-rockford-2012-semifinals-kubbacca-v-ringers-game-2.txt",
+  "title": "Game:Rockford 2012 Semifinals Kubbacca v. Ringers/Game 2",
+  "turns": 5,
+  "flags": [
+   "turn 4: 6 kubbs thrown in, 5 knocked down in turn 3"
+  ]
+ },
+ {
+  "file": "games/2011-08-15-semi-final-menage-a-trois-v-team-ekeby-august-15-2011-game-1.txt",
+  "title": "Game:Semi Final - Ménage à trois v. Team Ekeby, August 15, 2011/Game 1",
+  "turns": 9,
+  "flags": [
+   "turn 6: 2 kubbs thrown in, 4 knocked down in turn 5"
+  ]
+ },
+ {
+  "file": "games/2012-09-08-sure-shot-9-semifinal-kubb-ings-vs-knallfrosch-september-8-2012-game-1.txt",
+  "title": "Game:Sure Shot 9 Semifinal: Kubb'Ings vs Knallfrösch, September 8, 2012/Game 1",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-08-sure-shot-9-semifinal-kubb-ings-vs-knallfrosch-september-8-2012-game-2.txt",
+  "title": "Game:Sure Shot 9 Semifinal: Kubb'Ings vs Knallfrösch, September 8, 2012/Game 2",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-08-sure-shot-9-kubb-ings-vs-de-dissers-group-september-8-2012-game-1.txt",
+  "title": "Game:Sure Shot 9: Kubb'Ings vs De Dissers Group, September 8, 2012/Game 1",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2012-09-08-sure-shot-9-kubb-ings-vs-f99-september-8-2012-game-1.txt",
+  "title": "Game:Sure Shot 9: Kubb'Ings vs F99, September 8, 2012/Game 1",
+  "turns": 9,
+  "flags": [
+   "turn 6: 6 kubbs thrown in, 5 knocked down in turn 5"
+  ]
+ },
+ {
+  "file": "games/2012-09-08-sure-shot-9-kubb-ings-vs-gipfelsturmer-last-16-september-8-2012-game-1.txt",
+  "title": "Game:Sure Shot 9: Kubb'Ings vs Gipfelstürmer Last 16, September 8, 2012/Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-02-04-twin-cities-winter-tournament-2012-final-game-1.txt",
+  "title": "Game:Twin Cities Winter Tournament 2012 Final/Game 1",
+  "turns": 13,
+  "flags": [
+   "turn 11: 8 kubbs thrown in, 7 knocked down in turn 10",
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2012-02-04-twin-cities-winter-tournament-2012-final-game-2.txt",
+  "title": "Game:Twin Cities Winter Tournament 2012 Final/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-14-us-national-kubb-championship-2012-round-robin-tad-kubbler-v-kubbchucks-game-1.txt",
+  "title": "Game:US National Kubb Championship 2012 Round Robin Tad Kubbler v. Kubbchucks/Game 1",
+  "turns": 3,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-king-pin-v-kubbsicles-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship King Pin v. Kubbsicles/Game 1",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-king-pin-v-kubbsicles-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship King Pin v. Kubbsicles/Game 2",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-king-pin-v-pack-of-snipers-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship King Pin v. Pack of Snipers/Game 1",
+  "turns": 8,
+  "flags": [
+   "turn 6: 4 kubbs thrown in, 5 knocked down in turn 5"
+  ]
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-king-pin-v-pack-of-snipers-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship King Pin v. Pack of Snipers/Game 2",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-king-pin-v-team-knockerheads-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship King Pin v. Team Knockerheads/Game 1",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-king-pin-v-team-knockerheads-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship King Pin v. Team Knockerheads/Game 2",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-kubbitz-v-kubbsicles-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship Kubbitz v. Kubbsicles/Game 1",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-kubbitz-v-kubbsicles-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship Kubbitz v. Kubbsicles/Game 2",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-14-us-national-kubb-championship-2013-championship-kubbsicles-v-leinenkubbels-light-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship Kubbsicles v. Leinenkubbels Light/Game 1",
+  "turns": 10,
+  "flags": [
+   "turn 6: 4 kubbs thrown in, 5 knocked down in turn 5"
+  ]
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-kubbsicles-v-leinenkubbels-light-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship Kubbsicles v. Leinenkubbels Light/Game 2",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-tad-kubbler-v-team-knockerheads-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship Tad Kubbler v. Team Knockerheads/Game 1",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-13-us-national-kubb-championship-2013-championship-tad-kubbler-v-team-knockerheads-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship Tad Kubbler v. Team Knockerheads/Game 2",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-14-us-national-kubb-championship-2013-championship-the-torpedos-v-kubbitz-game-1.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship The Torpedos v. Kubbitz/Game 1",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2013-07-14-us-national-kubb-championship-2013-championship-the-torpedos-v-kubbitz-game-2.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship The Torpedos v. Kubbitz/Game 2",
+  "turns": 16,
+  "flags": [
+   "turn 2: 1 kubbs thrown in, 0 knocked down in turn 1"
+  ]
+ },
+ {
+  "file": "games/2013-07-14-us-national-kubb-championship-2013-championship-the-torpedos-v-kubbitz-game-3.txt",
+  "title": "Game:US National Kubb Championship 2013 Championship The Torpedos v. Kubbitz/Game 3",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2014-07-13-us-national-kubb-championship-2014-finals-team-knockerheads-v-kubbsicles-game-1.txt",
+  "title": "Game:US National Kubb Championship 2014 Finals Team Knockerheads v. Kubbsicles/Game 1",
+  "turns": 6,
+  "flags": []
+ },
+ {
+  "file": "games/2014-07-13-us-national-kubb-championship-2014-finals-team-knockerheads-v-kubbsicles-game-2.txt",
+  "title": "Game:US National Kubb Championship 2014 Finals Team Knockerheads v. Kubbsicles/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2014-07-13-us-national-kubb-championship-2014-quarterfinals-team-knockerheads-v-kubb-snipers-game-1.txt",
+  "title": "Game:US National Kubb Championship 2014 Quarterfinals Team Knockerheads v. Kubb Snipers/Game 1",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2014-07-13-us-national-kubb-championship-2014-quarterfinals-team-knockerheads-v-kubb-snipers-game-2.txt",
+  "title": "Game:US National Kubb Championship 2014 Quarterfinals Team Knockerheads v. Kubb Snipers/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2014-07-13-us-national-kubb-championship-2014-quarterfinals-team-knockerheads-v-kubb-snipers-game-3.txt",
+  "title": "Game:US National Kubb Championship 2014 Quarterfinals Team Knockerheads v. Kubb Snipers/Game 3",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2011-07-09-us-nationals-2011-knockerheads-v-kubbsicles-july-9-2011-game-1.txt",
+  "title": "Game:US Nationals 2011, Knockerheads v. Kubbsicles, July 9 2011/Game 1",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2011-07-09-us-nationals-2011-knockerheads-v-kubbsicles-july-9-2011-game-2.txt",
+  "title": "Game:US Nationals 2011, Knockerheads v. Kubbsicles, July 9 2011/Game 2",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-finals-knockerheads-v-kubbsicles-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Finals, Knockerheads v. Kubbsicles, July 15/Game 1",
+  "turns": 16,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-finals-knockerheads-v-kubbsicles-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Finals, Knockerheads v. Kubbsicles, July 15/Game 2",
+  "turns": 11,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-14-us-nationals-2012-kubbchucks-idp-v-shenanigans-july-14-game-1.txt",
+  "title": "Game:US Nationals 2012, Kubbchucks IDP v. Shenanigans, July 14/Game 1",
+  "turns": 16,
+  "flags": [
+   "turn 14: 4 kubbs thrown in, 5 knocked down in turn 13"
+  ]
+ },
+ {
+  "file": "games/2012-07-14-us-nationals-2012-kubbchucks-idp-v-shenanigans-july-14-game-2.txt",
+  "title": "Game:US Nationals 2012, Kubbchucks IDP v. Shenanigans, July 14/Game 2",
+  "turns": 15,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-knockerheads-v-tad-kubbler-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Knockerheads v. Tad Kubbler, July 15/Game 1",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-knockerheads-v-tad-kubbler-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Knockerheads v. Tad Kubbler, July 15/Game 2",
+  "turns": 20,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-kubb-d-v-kubbsicles-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Kubb'd v. Kubbsicles, July 15/Game 1",
+  "turns": 16,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-kubb-d-v-kubbsicles-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Kubb'd v. Kubbsicles, July 15/Game 2",
+  "turns": 7,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-kubbits-v-the-ringers-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Kubbits v. The Ringers, July 15/Game 1",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-kubbits-v-the-ringers-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Kubbits v. The Ringers, July 15/Game 2",
+  "turns": 16,
+  "flags": [
+   "turn 16: 6 kubbs thrown in, 5 knocked down in turn 15"
+  ]
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-leinenkubbels-v-wolfpack-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Leinenkubbels v. Wolfpack, July 15/Game 1",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-leinenkubbels-v-wolfpack-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Leinenkubbels v. Wolfpack, July 15/Game 2",
+  "turns": 10,
+  "flags": [
+   "turn 2: 3 kubbs thrown in, 2 knocked down in turn 1",
+   "turn 10: 6 kubbs thrown in, 5 knocked down in turn 9"
+  ]
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-quarterfinals-leinenkubbels-v-wolfpack-july-15-game-3.txt",
+  "title": "Game:US Nationals 2012, Quarterfinals, Leinenkubbels v. Wolfpack, July 15/Game 3",
+  "turns": 10,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-semifinals-kubbits-v-knockerheads-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Semifinals, Kubbits v. Knockerheads, July 15/Game 1",
+  "turns": 8,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-semifinals-kubbits-v-knockerheads-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Semifinals, Kubbits v. Knockerheads, July 15/Game 2",
+  "turns": 5,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-semifinals-leinenkubbels-v-kubbsicles-july-15-game-1.txt",
+  "title": "Game:US Nationals 2012, Semifinals, Leinenkubbels v. Kubbsicles, July 15/Game 1",
+  "turns": 9,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-semifinals-leinenkubbels-v-kubbsicles-july-15-game-2.txt",
+  "title": "Game:US Nationals 2012, Semifinals, Leinenkubbels v. Kubbsicles, July 15/Game 2",
+  "turns": 3,
+  "flags": []
+ },
+ {
+  "file": "games/2012-07-15-us-nationals-2012-semifinals-leinenkubbels-v-kubbsicles-july-15-game-3.txt",
+  "title": "Game:US Nationals 2012, Semifinals, Leinenkubbels v. Kubbsicles, July 15/Game 3",
+  "turns": 10,
+  "flags": [
+   "turn 8: 6 kubbs thrown in, 7 knocked down in turn 7"
+  ]
+ },
+ {
+  "file": "games/2013-08-13-us-nationals-2013-round-of-32-pitch-slap-vs-pack-of-snipers-july-17-2013-game-1.txt",
+  "title": "Game:US Nationals 2013 (Round of 32), Pitch Slap vs. Pack of Snipers, July 17, 2013 (Game 1)",
+  "turns": 9,
+  "flags": [
+   "Team B threw first (the wiki assumed Team A); player sides follow the turns"
+  ]
+ },
+ {
+  "file": "games/2013-07-13-us-nationals-2013-round-of-32-pitch-slap-vs-pack-of-snipers-july-17-2013-game-2.txt",
+  "title": "Game:US Nationals 2013 (Round of 32), Pitch Slap vs. Pack of Snipers, July 17, 2013 (Game 2)",
+  "turns": 12,
+  "flags": []
+ }
+]

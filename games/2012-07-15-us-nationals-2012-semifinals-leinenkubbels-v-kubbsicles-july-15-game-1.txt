@@ -1,0 +1,27 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 10:51"]
+[End "2012-07-15 11:07"]
+[Duration "16m"]
+[Surface "Grass"]
+[Team A "Leinenkubbels"]
+[Team A Players "Chris Staack (c), Gregg Jochimsen (g), Sam Barby (s)"]
+[Team B "Kubbsicles"]
+[Team B Players "Zachary Brown (z), Mark Blazel (k), Max Sebesta (x)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "garrickvanburen"]
+[Entered by "garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbsicles-leinenkubbles-game1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Semifinals,_Leinenkubbels_v._Kubbsicles,_July_15/Game_1"]
+
+1. 0I c:- c:- s:- s:B g:- g:-
+2. k:IR k:F k:B z:- z:- x:- x:-
+3. g:2I g:F g:- c:F c:B s:- s:-
+4. k:3I x:F k:2F k:B z:B z:- x:-
+5. g:5I g:3F g:F c:F c:- s:- s:-
+6. k:5IR x:F k:2F k:2F z:- z:- x:-
+7. g:5I g:2F g:F c:F c:F s:- s:B
+8. k:6I3R z:4F k:- x:- x:- z:F k:-
+9. g:5I A s:3F s:2F g:- g:B c:B c:K

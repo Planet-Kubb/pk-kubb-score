@@ -1,0 +1,25 @@
+[Event "Minnesota Kubb Loppet Tournament 2013"]
+[Location "Lake Calhoun, Minneapolis, MN"]
+[Start "2013-02-02"]
+[Surface "Snow"]
+[Team A "Kubby Doo"]
+[Team A Players "Mark Blazel (m), Luke Peikert (l), Zachary Brown (z)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Josh Feathers (j), Chris Hodges (c), Grant Scott (g)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Minnesota_Kubb_Loppet_Tournament_2013,_Quarterfinals,_Knockerheads_v._Kubby_Doo,_Game_2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Minnesota_Kubb_Loppet_Tournament_2013,_Quarterfinals,_Knockerheads_v._Kubby_Doo/Game_2"]
+
+1. 0I z:- z:- m:B m:- l:B l:B
+2. j:3I2R j:2F j:F c:- c:- g:- g:B
+3. m:4I2R m:F z:2F z:- m:F l:- l:B
+4. j:5I2R j:F j:F c:F c:F g:F g:B
+5. m:6I2R z:2F z:3F m:- m:F l:- l:B
+6. j:7IR j:3F j:3F c:F c:- g:B g:B
+7. m:9I3RP z:5F z:- m:F m:F l:F l:-
+8. j:8IR A j:F j:3F c:F c:F g:- g:F
+9. m:7I A z:3F z:3F m:F m:F l:K X

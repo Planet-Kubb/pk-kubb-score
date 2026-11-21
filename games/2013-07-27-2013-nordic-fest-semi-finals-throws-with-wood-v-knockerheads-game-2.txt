@@ -1,0 +1,22 @@
+[Event "Nordic Fest 2013"]
+[Location "Decorah, IA"]
+[Start "2013-07-27"]
+[Surface "Grass"]
+[Team A "Throws With Wood"]
+[Team A Players "Dave Giese (dg), Aaron Berry (ab)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Josh Feathers (jf), Grant Scott (gs), Chris Hodges (ch)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Chris Hodges"]
+[Video "http://www.youtube.com/watch?v=n47UyP0cxic"]
+[Video offset "03:50"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2013_Nordic_Fest_Semi-Finals,_Throws_With_Wood_v._Knockerheads_(Game_2)"]
+
+1. 0I ab:- ab:B ab:- dg:- dg:B dg:-
+2. jf:2I jf:2F gs:B gs:B gs:B ch:B ch:B # Knockerheads Kubb.
+3. dg:7IRP ab:3F ab:- ab:- dg:3F dg:F dg:- # Punishment placed behind the king (after much discussion). Baton 4 AMAZING disconnected triple!
+4. jf:7I2R jf:- jf:2F ch:2F ch:F gs:- gs:- # Baton 2 required a test - supported kubb fell to result in a double. Baton 5 rattled without falling leaving a clutch double, Wasn't picked up.
+5. dg:5I3R A ab:F ab:F ab:F dg:- dg:F dg:F # Ouch.
+6. jf:5IR gs:2F jf:2F ch:2F gs:F jf:K X

@@ -1,0 +1,23 @@
+[Event "Nordic Fest Kubb Tournament 2012"]
+[Location "Decorah, IA (43° 18' 12' N, 91° 47' 9' W)"]
+[Start "2012-07-28"]
+[Team A "Baton Death March"]
+[Team A Players "Chris Hodges (c), Mike Larson (ml)"]
+[Team B "Kubby Doo"]
+[Team B Players "Mark Blezel (m), Zach Brown (z), Luke Peikert (l)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=Vlg-Cy-WaIY&feature=youtu.be"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Nordic_Fest_Kubb_Tournament_2012_Finals_Kubby_Doo_v._Baton_Death_March/Game_2"]
+[Player note "m: Inkastare, member of reigning National Champion Kubbsicles"]
+[Player note "z: Member of reigning National Champion Kubbsicles"]
+[Player note "c: Inkastare"]
+
+1. c:0I ml:- ml:B ml:B c:- c:- c:B
+2. m:3I z:F m:F m:F z:- l:- l:-
+3. c:3I1R c:2F c:F c:- ml:- ml:- ml:B
+4. m:4I z:- z:F m:F m:F l:- l:F
+5. c:4I1R c:F c:2F c:F ml:B ml:K X

@@ -1,0 +1,18 @@
+[Event "Nordic Fest 2013"]
+[Location "Decorah, IA"]
+[Start "2013-07-27"]
+[Surface "Grass"]
+[Team A "Team Knockerheads"]
+[Team A Players "Josh Feathers (jf), Grant Scott (gs), Chris Hodges (ch)"]
+[Team B "Throws With Wood"]
+[Team B Players "Dave Giese (dg), Aaron Berry (ab)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Chris Hodges"]
+[Video "http://www.youtube.com/watch?v=n47UyP0cxic"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2013_Nordic_Fest_Semi-Finals,_Throws_With_Wood_v._Knockerheads_(Game_1)"]
+
+1. 0I gs:- gs:B gs:B ch:- ch:B ch:B
+2. dg:4I ab:- ab:F ab:F dg:F dg:F dg:- # Beautiful group of 4 - achingly bad luck for it to take 5 batons.
+3. jf:4I jf:2F jf:2F gs:- gs:B ch:K X # B1 gutted the group; B2 an amazing hit to save par! Hodges lines up for B3 but concedes the shot to Scott.

@@ -1,0 +1,136 @@
+<!-- pitch.planetkubb.com | Improvements to Planet Kubb Wiki Game System | 2012-08-04 09:36:18 | from wp_planetkubb.sql.gz (wp_2_posts ID 25885) -->
+<h1>Improvements to Planet Kubb Wiki Game System</h1>
+<em>(I originally posted this to the Kubb Nerds mailing list but I decided it was enough of an update I should share it more broadly on Pitch.)</em>
+
+I made a number of <strong>big</strong> changes to the game mechanics on the <a href="http://wiki.planetkubb.com/">Planet Kubb Wiki</a> last night/this morning.
+
+Notably, the game templates now honor the <em>new</em> inkastare features of the <a href="http://wiki.planetkubb.com/wiki/Notation">notation</a>, and do not honor the old. Any games that have the old notation may be wonky.
+
+Check out <a href="http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Finals,_Knockerheads_v._Kubbsicles,_July_15_(Game_1)">US Nationals 2012, Finals, Knockerheads v. Kubbsicles, July 15 (Game 1)</a>.
+
+Note that I refactored the display table so it now shows the potential for three inkastares... It's not ideal to show it all the time, I'll deal with that later.
+
+Most importantly, note the game stats. That's right, not just batons anymore, now Kubbs too!
+<blockquote>
+<h3>Game Stats</h3>
+<div><strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubb_count">kubb_count</a>:</strong> 90
+<strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_count">baton_count</a>:</strong> 95
+<strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubbs_in_play">kubbs_in_play</a>:</strong> 10
+<strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_hit">baton_hit</a>:</strong> 60
+<strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_miss">baton_miss</a>:</strong> 35
+<strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubb_rethrow">kubb_rethrow</a>:</strong> 17
+<strong><a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubb_penalty">kubb_penalty</a>:</strong> 3</div></blockquote>
+The system is now counting kubbs thrown, rethrows, etc. This is also true for players, here is @dobbie:
+<blockquote><strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_hit">baton_hit</a>:</strong> 11
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_hit_base">baton_hit_base</a>:</strong> 10
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#last_baton">last_baton</a>:</strong> miss
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#hot_streak">hot_streak</a>:</strong> 2
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_miss">baton_miss</a>:</strong> 5
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_miss_base">baton_miss_base</a>:</strong> 4
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#cold_streak">cold_streak</a>:</strong> 1
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubb_count">kubb_count</a>:</strong> 43
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#cold_streak_max">cold_streak_max</a>:</strong> 2
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#multifield_2">multifield_2</a>:</strong> 3
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#hot_streak_max">hot_streak_max</a>:</strong> 6
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubb_rethrow">kubb_rethrow</a>:</strong> 7
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#multifield_4">multifield_4</a>:</strong> 1
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#multifield_3">multifield_3</a>:</strong> 1
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#kubb_penalty">kubb_penalty</a>:</strong> 1
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#multifield_6">multifield_6</a>:</strong> 1
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_hit_advantage">baton_hit_advantage</a>:</strong> 1
+<strong>j <a title="Statistics" href="http://wiki.planetkubb.com/wiki/Statistics#baton_miss_advantage">baton_miss_advantage</a>:</strong> 1</blockquote>
+So @dobbie threw 43 kubbs in the game (versus 16 batons!), with 7 rethrows (16% rethrows) and 1 penalty. (aggregating penalty kubb stats and missed king shots is going to be really cool)
+
+Note also the new <strong>multifield</strong> values (open to a better name, maybe group?). So @dobbie hit 3 doubles, 1 triple, 1 quad and 1 amazing "six". Now I simply need to be able to aggregate a subset of these stats across games into @dobbie's player page.
+
+So the magic is that I'm finally parsing the Notation modifiers in the code. Before it was pretty brain dead, but now the system actually knows the full meaning of "4f2b" or "7i3r2p". Coming soon I'll be able to get the game state mechanics working (so that the scoring system knows the state of the pitch at all times). This will also allow the calculation of a baton missing a field or baseline.
+
+I also for the first time have set some game properties... This is where things get really cool. Ready for it? I'm only setting a few basic stats for the games right now, but...
+
+Let's say I want to see <a href="http://wiki.planetkubb.com/w/index.php?title=Special%3AAsk&amp;q=%5B%5BCategory%3AGame%5D%5D&amp;po=%3FStatistic+baton+count%0D%0A%3FStatistic+baton+hit+percent%0D%0A%3FStatistic+kubb+count%0D%0A%3FStatistic+kubb+rethrow+percent%0D%0A&amp;sort_num=&amp;order_num=ASC&amp;sort%5B0%5D=Statistic+baton+hit+percent&amp;order%5B0%5D=DESC&amp;eq=yes&amp;p%5Bformat%5D=broadtable&amp;p%5Blimit%5D=&amp;p%5Bsort%5D=&amp;p%5Boffset%5D=&amp;p%5Bheaders%5D=show&amp;p%5Bmainlabel%5D=&amp;p%5Blink%5D=all&amp;p%5Bsearchlabel%5D=&amp;p%5Bintro%5D=&amp;p%5Boutro%5D=&amp;p%5Bdefault%5D=&amp;p%5Bclass%5D=sortable+wikitable+smwtable&amp;eq=yes">all games sorted by baton hit percent</a>? Simple!
+
+That URL is nasty, here is a sample of the output limiting to 10 games (note that Kubbits v Ringers game isn't using the new inkastare notation, hence the blanks):
+<table width="100%">
+<thead>
+<tr>
+<th></th>
+<th><a title="Property:Statistic baton count" href="http://wiki.planetkubb.com/wiki/Property:Statistic_baton_count">Statistic baton count</a></th>
+<th><a title="Property:Statistic baton hit percent" href="http://wiki.planetkubb.com/wiki/Property:Statistic_baton_hit_percent">Statistic baton hit percent</a></th>
+<th><a title="Property:Statistic kubb count" href="http://wiki.planetkubb.com/wiki/Property:Statistic_kubb_count">Statistic kubb count</a></th>
+<th><a title="Property:Statistic kubb rethrow percent" href="http://wiki.planetkubb.com/wiki/Property:Statistic_kubb_rethrow_percent">Statistic kubb rethrow percent</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a title="US Nationals 2011, Knockerheads v. Kubbsicles, July 9 2011 (Game 2)" href="http://wiki.planetkubb.com/wiki/US_Nationals_2011,_Knockerheads_v._Kubbsicles,_July_9_2011_(Game_2)">US Nationals 2011, Knockerheads v. Kubbsicles, July 9 2011 (Game 2)</a></td>
+<td>66</td>
+<td>77.3</td>
+<td>62</td>
+<td>21</td>
+</tr>
+<tr>
+<td><a title="2012 Madison Midsommar Kubb Tournament Final (Game 1)" href="http://wiki.planetkubb.com/wiki/2012_Madison_Midsommar_Kubb_Tournament_Final_(Game_1)">2012 Madison Midsommar Kubb Tournament Final (Game 1)</a></td>
+<td>47</td>
+<td>76.6</td>
+<td>48</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a title="Twin Cities Winter Tournament 2012 Final Game 1" href="http://wiki.planetkubb.com/wiki/Twin_Cities_Winter_Tournament_2012_Final_Game_1">Twin Cities Winter Tournament 2012 Final Game 1</a></td>
+<td>78</td>
+<td>70.5</td>
+<td>76</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a title="US Nationals 2012, Quarterfinals, Kubbits v. The Ringers, July 15 (Game 2)" href="http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Quarterfinals,_Kubbits_v._The_Ringers,_July_15_(Game_2)">US Nationals 2012, Quarterfinals, Kubbits v. The Ringers, July 15 (Game 2)</a></td>
+<td>96</td>
+<td>69.8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a title="US Nationals 2012, Quarterfinals, Kubb'd v. Kubbsicles, July 15 (Game 1)" href="http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Quarterfinals,_Kubb%27d_v._Kubbsicles,_July_15_(Game_1)">US Nationals 2012, Quarterfinals, Kubb'd v. Kubbsicles, July 15 (Game 1)</a></td>
+<td>96</td>
+<td>67.7</td>
+<td>79</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a title="Rockford 2012 Championship Head Slap v. Tad Kubbler (Game 1)" href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_1)">Rockford 2012 Championship Head Slap v. Tad Kubbler (Game 1)</a></td>
+<td>48</td>
+<td>66.7</td>
+<td>33</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a title="US Nationals 2012, Finals, Knockerheads v. Kubbsicles, July 15 (Game 2)" href="http://wiki.planetkubb.com/wiki/US_Nationals_2012,_Finals,_Knockerheads_v._Kubbsicles,_July_15_(Game_2)">US Nationals 2012, Finals, Knockerheads v. Kubbsicles, July 15 (Game 2)</a></td>
+<td>77</td>
+<td>66.2</td>
+<td>58</td>
+<td>10</td>
+</tr>
+<tr>
+<td><a title="2011 Dallas Oktoberfest Final Game 2" href="http://wiki.planetkubb.com/wiki/2011_Dallas_Oktoberfest_Final_Game_2">2011 Dallas Oktoberfest Final Game 2</a></td>
+<td>72</td>
+<td>65.3</td>
+<td>54</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a title="Nordic Fest Kubb Tournament 2012 Finals Game 3" href="http://wiki.planetkubb.com/wiki/Nordic_Fest_Kubb_Tournament_2012_Finals_Game_3">Nordic Fest Kubb Tournament 2012 Finals Game 3</a></td>
+<td>40</td>
+<td>65</td>
+<td>27</td>
+<td>7</td>
+</tr>
+<tr>
+<td><a title="US Nationals 2011, Knockerheads v. Kubbsicles, July 9 2011 (Game 1)" href="http://wiki.planetkubb.com/wiki/US_Nationals_2011,_Knockerheads_v._Kubbsicles,_July_9_2011_(Game_1)">US Nationals 2011, Knockerheads v. Kubbsicles, July 9 2011 (Game 1)</a></td>
+<td>48</td>
+<td>64.6</td>
+<td>36</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+HAWT! :-)

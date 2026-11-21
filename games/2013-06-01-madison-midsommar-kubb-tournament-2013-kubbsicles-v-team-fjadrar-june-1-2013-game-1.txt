@@ -1,0 +1,28 @@
+[Event "Madison Midsommar Kubb Tournament 2013"]
+[Location "Madison, WI"]
+[Start "2013-06-01"]
+[Surface "Grass"]
+[Team A "Kubbsicles"]
+[Team A Players "Mark Blazel (m), Zachary Brown (z)"]
+[Team B "Team Fjadrar"]
+[Team B Players "Steve Feathers (s), Josh Feathers (j)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "joshfeathers"]
+[Video "http://www.youtube.com/watch?v=dLI-fdZDFHw&feature=youtu.be"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Madison_Midsommar_Kubb_Tournament_2013,_Kubbsicles_v._Team_Fjadrar,_June_1_2013_(Game_1)"]
+
+1. 0I m:- m:B m:- z:B z:- z:-
+2. j:2I j:F j:F j:- s:- s:- s:-
+3. m:2I z:- m:F m:F m:- z:- z:-
+4. j:2IR j:F j:- j:F s:- s:- s:B
+5. m:3I m:2F z:F m:B m:B z:- z:-
+6. j:5I j:2F j:2F j:F s:B s:- s:-
+7. m:6I z:2F m:2F z:- z:- m:F m:F
+8. j:6I j:2F j:2F j:- s:F s:F s:-
+9. m:6I2R z:3F m:F m:F m:F z:- z:-
+10. j:6IR j:F j:2F j:2F s:- s:F s:B
+11. m:7I z:2F m:F z:2F z:2F m:- m:-
+12. j:7I j:3F j:3F j:F s:B s:B s:= # King miss for the win
+13. m:9I2RP z:5F z:3F m:F z:B m:K m:X # From the brink of defeat and overcoming a punishment kubb, the Kubbsicles win the game in one of the best turns of baton throwing I've recorded.

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kubb Game Stats</title>
+<meta name="description" content="Paste a kubb game written in Planet Kubb Notation and get Hit %, first-baton efficiency, zero base at throw number, batons to clear and player stats. Or open one of 150 recorded games.">
+<meta name="theme-color" content="#fbf7ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17140f" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='3' y='1' width='6' height='14' rx='1' fill='%235c3a21'/%3E%3Crect x='10' y='5' width='4' height='10' rx='1' fill='%232f6b3a'/%3E%3C/svg%3E">
+<script type="module" src="/assets/stats.js?v=1"></script>
+</head>
+<body>
+<header class="site-head"><div class="wrap">
+  <a class="brand" href="/">Planet Kubb <span>Score</span></a>
+  <nav><a href="/notation/">Notation</a><a href="/spec/">Grammar</a><a href="/scoresheet/">Scoresheet</a><a href="/stats/" aria-current="page">Stats</a></nav>
+</div></header>
+
+<main><div class="wrap wide">
+  <h1>Game stats</h1>
+  <p class="lede">Paste a game written in <a href="/notation/">Planet Kubb Notation</a>, one turn per line. Headers like <code>[Team A "…"]</code> are optional.</p>
+
+  <div class="entry">
+    <div class="controls">
+      <select id="archive" aria-label="Open a recorded game"><option value="">Loading the archive…</option></select>
+      <button class="button ghost" id="example" type="button">Example</button>
+      <button class="button ghost" id="clear" type="button">Clear</button>
+      <button class="button ghost" id="share" type="button">Copy link</button>
+    </div>
+    <textarea id="notation" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Game notation" placeholder="1. 0I jt:- jt:- g:B g:- jt:- g:-
+2. d:I d:- d:- d:- jf:- jf:- jf:F
+3. jt:I g:F g:- jt:- jt:- g:- jt:-
+…"></textarea>
+  </div>
+
+  <div id="out" aria-live="polite"></div>
+
+  <details class="defs">
+    <summary>How the numbers are worked out</summary>
+    <dl>
+      <dt>Hit %</dt><dd>Batons that knocked over a kubb or legally took the king, divided by batons thrown. A missed king (<code>=</code>), an illegal throw (<code>Z</code>) and an illegal king hit count as misses. Unthrown batons (<code>X</code>) don't count. Neither do batons a scorer wrote down after the game had already ended.</dd>
+      <dt>Efficiency</dt><dd>First-baton efficiency: field kubbs knocked over by each turn's first baton, divided by kubbs thrown in. It's the scoresheet's <code>sum(F@1) / sum(I)</code>.</dd>
+      <dt>0B@T#</dt><dd>The team's throw count, across the whole game, when the other team's last base kubb fell.</dd>
+      <dt>BTC</dt><dd>Batons to clear: in each turn that started with field kubbs, how many batons it took to knock them all down. This is the average over the turns where the field was cleared.</dd>
+      <dt>Targets</dt><dd>Field kubbs and base kubbs on the half being attacked, at the start of the turn. Field kubbs include any the other team failed to clear earlier.</dd>
+      <dt>Who threw first</dt><dd>The <code>First</code> header if there is one. Otherwise it's worked out from <code>Win</code> and the turn that took the king, and if that isn't possible Team A is assumed. Turns then alternate.</dd>
+      <dt>Warnings</dt><dd>The page replays the game kubb by kubb and points out anything that doesn't add up. For example: an inkast that doesn't match the kubbs knocked down the turn before, a missing advantage marker, a base kubb hit while field kubbs were still standing, or a king taken early. The stats still use what was written.</dd>
+    </dl>
+  </details>
+</div></main>
+
+<footer class="site-foot"><div class="wrap">
+  <p>Everything runs in your browser. Nothing you paste is sent anywhere. The recorded games come from the Planet Kubb wiki (2011 to 2015), entered by the volunteers who scored them.</p>
+</div></footer>
+</body>
+</html>

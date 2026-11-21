@@ -1,0 +1,19 @@
+[Event "2012 Clash of the Kubb"]
+[Location "https://www.youtube.com/watch?v=bPuaGyJKmCo&feature=relmfu"]
+[Start "2012-08-18"]
+[Surface "Grass"]
+[Team A "Dark Side of the Kubbsicle"]
+[Team B "Shin Splitters"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=bPuaGyJKmCo&feature=relmfu"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2012_Clash_of_the_Kubb_-_Semifinals_-_Shin_Splitters_v._Dark_Side_of_the_Kubbsicle/Game_1"]
+
+1. 0I B - B - - -
+2. 2I 2F B - - - -
+3. 3IR F F F - - B
+4. 4I 2F - - - F -
+5. 3I A 2F F B B K -

@@ -1,0 +1,21 @@
+[Event "Minnesota Kubb Loppet Tournament 2013"]
+[Location "Lake Calhoun, Minneapolis, MN"]
+[Start "2013-02-02"]
+[Surface "Snow"]
+[Team A "The Ringers"]
+[Team A Players "Aaron Ellringer (a), Dave Ellringer (d)"]
+[Team B "Kubb Snipers"]
+[Team B Players "Chad Bevers (b), Chad Parsons (p)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Stats "No"]
+[Scoresheet "scoresheets/Minnesota_Kubb_Loppet_Tournament_2013,_Semifinals,_The_Ringers_v._Kubb_Snipers,_Game_1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Minnesota_Kubb_Loppet_Tournament_2013,_Semifinals,_The_Ringers_v._Kubb_Snipers/Game_1"]
+
+1. 0I d:- d:B d:- a:- a:- a:B
+2. b:2I p:F p:F b:B b:- p:- b:-
+3. a:3I2R d:F d:F d:F a:B a:- a:B
+4. b:5I2R p:- p:2F p:- b:F b:F b:F
+5. a:5I3R d:- d:2F d:2F a:F a:B a:K

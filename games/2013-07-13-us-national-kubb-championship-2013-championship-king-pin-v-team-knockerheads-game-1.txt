@@ -1,0 +1,11 @@
+[Event "US National Kubb Championship 2013"]
+[Event date "2013-07-13"]
+[Team A Players "Jason Larson (j), Phil Goestowers (p), John Oman (o)"]
+[Team B Players "Josh Feathers (d), Chris Hodges (h), Grant Scott (g)"]
+[First "Team A"]
+[Scoresheet "scoresheets/2013Nationals-Knockerheads-KingPin-Game-1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_King_Pin_v._Team_Knockerheads/Game_1"]
+
+1. 0I j:- j:- o:B o:- p:B p:B
+2. d:3I d:2F d:- h:F h:- g:B g:-
+3. p:4IR j:2F j:2F o:B o:B p:K X

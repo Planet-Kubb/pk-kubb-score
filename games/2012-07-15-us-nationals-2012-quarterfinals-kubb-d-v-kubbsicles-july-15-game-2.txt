@@ -1,0 +1,24 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 09:43"]
+[End "2012-07-15 09:51"]
+[Duration "8m"]
+[Team A "Kubbsicles"]
+[Team A Players "Zachary Brown (z), Mark Blazel (k), Max Sebesta (x)"]
+[Team B "Kubb'd"]
+[Team B Players "Steve Feathers (f), Stephanie Kidder (s), Dana Oredson (d)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Tony Hansen"]
+[Entered by "Garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbsicles-kubbd-game2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Quarterfinals,_Kubb'd_v._Kubbsicles,_July_15/Game_2"]
+
+1. 0I k:- k:B x:- x:- z:- z:-
+2. 1I d:- d:- s:- s:F f:B f:-
+3. 2I k:2F k:- z:- z:- x:B x:-
+4. 3I d:- d:F s:F s:- f:- f:F
+5. 3I z:2F x:- k:F x:- z:B k:-
+6. 4I d:- d:- s:F s:F f:- f:-
+7. 2I A z:F x:F x:B z:B k:K X

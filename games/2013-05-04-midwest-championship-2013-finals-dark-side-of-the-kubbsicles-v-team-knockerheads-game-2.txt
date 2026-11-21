@@ -1,0 +1,20 @@
+[Event "US Midwest Kubb Championship 2013"]
+[Location "Rockford, IL"]
+[Start "2013-05-04"]
+[Surface "Grass"]
+[Team A "Team Knockerheads"]
+[Team A Players "Chris Hodges (c), Grant Scott (g), Josh Feathers (j)"]
+[Team B "Dark Side of the Kubbsicles"]
+[Team B Players "Mark Blazel (b), Luke Peikert (l), Miles (m), Max Sebesta (x)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "joshfeathers"]
+[Video "https://www.youtube.com/watch?v=f0K8HEu2qHM&feature=youtube_gdata"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Midwest_Championship_2013_Finals_-_Dark_Side_of_the_Kubbsicles_v._Team_Knockerheads_(Game_2)"]
+
+1. 0I j:- j:- c:B c:- g:- g:B
+2. b:2I b:2F b:B x:- m:- l:- l:-
+3. j:3IR j:- j:F c:2F c:- g:- g:B
+4. b:4I m:- x:- l:- l:- b:2F b:F
+5. j:3I A j:F j:2F c:B c:B g:K X

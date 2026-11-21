@@ -1,0 +1,28 @@
+[Event "Dallas, WI Oktoberfest 2012"]
+[Location "Dallas, Wi"]
+[Start "2012-10-06"]
+[Surface "Grass"]
+[Team A "Sixpack"]
+[Team A Players "Chris Hodges (h)"]
+[Team B "Kubb Shot J.R."]
+[Team B Players "Eric Goplin (e), Anders Thorstenson (a), Cole Vryens (c)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=c0iwt9Apjxc"]
+[Video offset "19:44"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Dallas_Oktoberfest_2012_Finals/Game_2"]
+
+1. 0I h:- - B - - -
+2. e:I F B a:- e:- c:B -
+3. h:3I F h:2F - - - -
+4. e:3I c:F F - e:F a:- -
+5. h:3IR h:3F B - - - -
+6. e:4IR c:- F 2F e:F a:- -
+7. h:4I h:4F - - - B -
+8. e:5IR c:F - e:3F a:- - -
+9. h:4IR A h:4F - B - - B
+10. e:6I2R c:4F - F a:F e:- -
+11. h:6I2R A h:2F F F F F K

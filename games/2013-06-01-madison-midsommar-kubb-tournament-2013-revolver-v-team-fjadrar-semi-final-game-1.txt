@@ -1,0 +1,30 @@
+[Event "Madison Midsommar Kubb Tournament 2013"]
+[Event date "2013-06-01"]
+[Team A "Team Fjadrar"]
+[Team A Players "Josh Feathers (jf), Steve Feathers (sf)"]
+[Team B "Revolver"]
+[Team B Players "Chad Bevers (cb), Chad Parsons (cp), Joe Pendleton (jp), Nate Olson (no), Evan Fitzgerald (ef), Chris Hodges (ch)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Chris Hodges"]
+[Video "http://www.youtube.com/watch?v=Cf4I2Nr_n8E"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Madison_Midsommar_Kubb_Tournament_2013,_Revolver_v._Team_Fjadrar,_(Semi-Final_Game_1)"]
+
+1. jf:0I jf:- jf:B jf:- sf:- sf:- sf:-
+2. ef:I cp:- no:- ef:F ch:- cb:- jp:B
+3. jf:2I jf:- jf:F jf:F sf:- sf:- sf:-
+4. ef:2I cp:- no:- ef:F ch:F cb:- jp:B
+5. jf:3I jf:F jf:- jf:2F sf:- sf:- sf:-
+6. ef:3I ch:F ef:F cb:F no:- cp:- jp:-
+7. jf:3I2R jf:2F jf:F jf:- sf:B sf:- sf:B
+8. ef:5IR ef:F ch:2F cb:F cp:F no:- jp:-
+9. jf:5I2R jf:F jf:3F jf:F sf:- sf:- sf:B
+10. ef:6IR cp:- ch:3F ef:F no:- cb:F jp:F
+11. jf:6I2RP jf:3F jf:F jf:F sf:- sf:- sf:F
+12. ef:6IR ef:3F ch:2F cb:F jp:- no:- cp:B
+13. jf:7I4R jf:2F jf:F jf:F sf:- sf:F sf:F
+14. ef:6I2R A ef:2F ch:2F cp:F cb:F no:- jp:-
+15. jf:6I jf:3F jf:2F jf:F sf:F sf:- sf:-
+16. ef:7I ef:- ch:4F no:- jp:- cp:F cb:-
+17. jf:5I A sf:2F sf:F sf:F jf:F jf:B jf:K # 21:13 - Haha. HAHAHAHAHA!!!!

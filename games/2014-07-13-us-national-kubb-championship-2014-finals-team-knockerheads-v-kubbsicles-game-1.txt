@@ -1,0 +1,22 @@
+[Event "US National Kubb Championship 2014"]
+[Location "Eau Claire Soccer Park"]
+[Start "2014-07-13 11:00"]
+[End "2014-07-13 11:20"]
+[Duration "20m"]
+[Surface "Grass"]
+[Team A "Kubbsicles"]
+[Team A Players "Zachary Brown (zb), Max Sebesta (ms), Mark Blazel (mb)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Chris Hodges (ch), Josh Feathers (jf), Grant Scott (gs)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrick"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2014_Finals_Team_Knockerheads_v._Kubbsicles/Game_1"]
+
+1. mb:0I zb:- zb:- ms:- ms:- mb:- mb:B
+2. jf:I ch:F ch:B jf:B jf:B gs:B gs:-
+3. mb:5I zb:2F zb:F mb:- mb:F ms:F ms:-
+4. jf:5I ch:- ch:F jf:F jf:F gs:F gs:F
+5. mb:5I zb:3F zb:F ms:F ms:B mb:- mb:B
+6. jf:7I3R ch:3F ch:2F jf:F gs:F gs:B jf:K

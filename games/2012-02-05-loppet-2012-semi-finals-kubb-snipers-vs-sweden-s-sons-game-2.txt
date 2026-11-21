@@ -1,0 +1,22 @@
+[Event "Loppet 2012"]
+[Location "Theodore Wirth Park"]
+[Start "2012-02-05"]
+[Surface "Snow"]
+[Team A "Kubb Snipers"]
+[Team B "Sweden's Sons"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=2Ak_TLeUxHQ&feature=youtube_gdata"]
+[Video offset "6:45"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Loppet_2012_Semi-Finals,_Kubb_Snipers_vs._Sweden's_Sons/Game_2"]
+
+1. 0I B - - - - B
+2. 2I - 2F - - B B # Eric's 3 shots are obscured. Two of them hit Bs - which 2 is hard to see in the video
+3. 4I 3F F B - - B
+4. 6I F F F F F F
+5. 6I3R 4F F F - - B
+6. 7IR 3F F F - F F
+7. 7I F 2F 2F F F K

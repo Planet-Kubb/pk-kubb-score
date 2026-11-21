@@ -1,0 +1,32 @@
+[Event "Des Moines Fall Klassic 2011"]
+[Location "Des Moines, IA"]
+[Start "2011-09-24"]
+[Surface "Grass"]
+[Team A "Team Knockerheads"]
+[Team A Players "Josh Feathers (j), Dwayne Ballmer (b)"]
+[Team B "The Ringers"]
+[Team B Players "Aaron Ellringer (ae), Dave Ellringer (de)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "joshfeathers"]
+[Video "http://www.youtube.com/watch?v=Qxhkn5LZvDc"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Des_Moines_Fall_Kubb_Klassic_2011_-_Quarterfinals_-_The_Ringers_v._Team_Knockerheads/Game_2"]
+
+1. j:0I j:- j:B j:- b:- b:B b:-
+2. ae:2IRP ae:F de:- de:F de:B ae:- ae:- # center pin reset after inkast. Punishment place on baseline
+3. j:3I j:- j:F j:F b:F b:B b:-
+4. ae:4IR ae:2F ae:F ae:F de:- de:- de:B
+5. j:5I j:4F j:- j:- b:- b:- b:F
+6. ae:5I2R ae:F ae:2F ae:F de:F de:- de:-
+7. j:5I j:F j:F j:F b:- b:2F b:-
+8. ae:5I ae:4F ae:F ae:- de:- de:- de:B
+9. j:6I2R j:F j:F j:F b:F b:F b:F
+10. ae:6IR ae:4F ae:F ae:F de:- de:B de:-
+11. j:7IR j:2F j:2F j:2F b:F b:B b:B
+12. ae:9I ae:4F ae:2F ae:2F de:F de:- de:-
+13. j:9IR j:3F j:F j:2F b:- b:F b:F
+14. ae:8IR A de:4F de:2F de:F ae:F ae:B ae:=
+15. j:9IR j:3F j:2F j:2F b:F b:F b:F
+16. ae:10I2R ae:F ae:F ae:2F de:3F de:2F de:F
+17. j:10I2R j:2F j:3F j:2F b:2F b:F b:K # Big double in the field puts Knockerheads in Red Zone

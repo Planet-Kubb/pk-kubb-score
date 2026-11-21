@@ -1,0 +1,26 @@
+[Event "Des Moines Fall Kubb Klassic 2012"]
+[Location "Des Moines, IA"]
+[Start "2012-09-22"]
+[Surface "Grass"]
+[Team A "Sweden's Sons"]
+[Team B "Goofy Kubbers"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=ulKyvmkeGws"]
+[Video offset "11:40"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Des_Moines_Fall_Kubb_Klassic_2012_-_Championship_-_Goofy_Kubbers_v._Sweden's_Sons/Game_2"]
+
+1. 0I B B B - - -
+2. 3I F F - - F -
+3. 3I 2F F - - - -
+4. 3I 3F B - - - -
+5. 4IR 2F F F - B - # another break in the video, another guess on the turn.
+6. 5I - F 2F 2F - B
+7. 6I2R 2F 3F F - - -
+8. 6I 2F F 2F - F -
+9. 6I 3F F F F - -
+10. 6I F F F F F F # the video didn't include the baton portion of the turn. so I'm guessing here.
+11. 6IR 2F 3F F - B K

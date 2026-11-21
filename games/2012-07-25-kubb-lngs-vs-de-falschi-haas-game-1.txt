@@ -1,0 +1,18 @@
+[Start "2012-07-25"]
+[Surface "Grass"]
+[Team A "De falschi Haas"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=-wWNpN65ybA&feature=plcp"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kubb'lngs_vs_De_falschi_Haas/Game_1"]
+
+1. 0I - - - - B -
+2. I - F B B B B
+3. 5IR 4F F B - B B
+4. 8IR 2F F 2F F 2F B
+5. 9I6RP 5F F F - - -
+6. 7IR A 3F 3F F K X X

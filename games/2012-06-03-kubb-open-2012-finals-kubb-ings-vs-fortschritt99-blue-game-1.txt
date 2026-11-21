@@ -1,0 +1,22 @@
+[Event "Kubb Open 2012"]
+[Location "Rostock, Germany"]
+[Start "2012-06-03"]
+[Surface "Grass"]
+[Team A "Fortschritt99 Blue"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=xRK1nCUWhtY"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kubb_Open_2012,_Finals,_Kubb'Ings_vs_Fortschritt99_Blue/Game_1"]
+
+1. 0I B B - - - B
+2. 3IR - F F F B B
+3. 5I F F F - - F
+4. 4I2R A 3F F - B B B
+5. 7IQ2R 5F F - 2F B - # Huge rescue at 8:05!
+6. 9I3R F - 4F 2F F F
+7. 9I2R 2F - 3F F - 2F
+8. 8I A 3F 2F 2F F K X

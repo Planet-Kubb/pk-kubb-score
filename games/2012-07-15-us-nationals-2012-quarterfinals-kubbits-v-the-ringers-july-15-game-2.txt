@@ -1,0 +1,33 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 09:16"]
+[End "2012-07-15 10:00"]
+[Duration "44m"]
+[Team A "The Ringers"]
+[Team A Players "Aaron Ellringer (a), Dave Ellringer (d), Sy Ellringer (y), Colton (c)"]
+[Team B "Kubbitz"]
+[Team B Players "Scott Forster (s), Dan Drumm (m), Jeff Gibson (n)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-ringers-v-kubbitz-game2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Quarterfinals,_Kubbits_v._The_Ringers,_July_15/Game_2"]
+
+1. 0I y:- c:B d:- d:- a:B a:-
+2. s:2I n:F n:F m:- m:B s:B s:-
+3. a:4I d:2F d:F y:- a:F a:- c:-
+4. n:4I n:4F n:- m:B m:B s:- s:B
+5. a:7I d:- d:F y:3F c:F a:F a:F
+6. s:7I n:F n:3F m:- m:F s:F s:-
+7. a:6I A d:2F d:- y:F a:2F a:F c:-
+8. n:6I n:- n:4F m:F m:F s:- s:F
+9. a:7I2R2P d:3F d:2F a:F a:- y:F c:B # penalty kubbs: 1 behind the king and 1 in the back left corner. Young Sy clears the penalty kubb in the corner and young Colton moves the game forward. An amazing turn!
+10. s:8IRP n:F n:3F m:- m:F s:F s:F # penalty kubb on sideline in far left corner 1 baton from baseline
+11. a:7I A d:3F d:2F y:F a:F a:- c:-
+12. s:7IRP n:2F n:F m:- m:F s:- s:F # penalty kubb on left sideline ~12" from centerline
+13. a:5I A d:2F d:2F a:F a:- y:B c:B # this turn puts all 10 kubbs in play
+14. s:7I n:3F n:3F m:F m:- s:F s:F
+15. a:9I A d:F d:3F a:F a:- y:- c:-
+16. s:6I A n:2F n:2F m:F m:F s:F s:K

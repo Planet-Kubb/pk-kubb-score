@@ -1,0 +1,19 @@
+[Event "Des Moines Fall Kubb Klassic 2012"]
+[Location "des Moines, IA"]
+[Start "2012-09-22"]
+[Surface "Grass"]
+[Team A "Goofy Kubbers"]
+[Team B "Kubb'd"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=VlIvgTTqxew&feature=plcp"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Des_Moines_Fall_Kubb_Klassic_2012_-_Goofy_Kubbers_v._Kubb'd/Game_1"]
+
+1. 0I - B B - - B
+2. 3I F - F - - F
+3. 3IR - - 3F - B -
+4. 4I2R - F F - - -
+5. 2I A 2F B K X X X

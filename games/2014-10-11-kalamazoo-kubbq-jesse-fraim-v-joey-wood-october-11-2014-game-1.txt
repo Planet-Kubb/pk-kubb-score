@@ -1,0 +1,19 @@
+[Event "Kalamazoo KUBBQ 2014"]
+[Location "Kalamazoo, MI"]
+[Start "2014-10-11"]
+[Surface "Grass"]
+[Team A "Jesse Fraim"]
+[Team A Players "Jesse Fraim (f)"]
+[Team B "Joey Wood"]
+[Team B Players "Joey Wood (w)"]
+[First "Team B"]
+[Win "Team B"]
+[Scored by "Tyler Wood"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kalamazoo_KUBBQ,_Jesse_Fraim_v._Joey_Wood,_October_11_2014_(Game_1)"]
+
+1. w:0I w:- w:- w:- w:B w:- w:B
+2. f:2I f:F f:F f:- f:- f:B f:-
+3. w:3I w:F w:- w:F w:- w:- w:F
+4. f:3I1R f:F f:- f:- f:F f:- f:- # Left an advantage line.
+5. w:2I A w:2F w:B w:B w:B w:K X # Takes care of business with an advantage line.

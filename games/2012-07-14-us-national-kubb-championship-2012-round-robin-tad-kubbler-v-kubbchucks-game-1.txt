@@ -1,0 +1,19 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-14 13:00"]
+[End "2012-07-14 13:06"]
+[Duration "6m"]
+[Team A "Kubbchucks"]
+[Team A Players "Garrick van Buren (vb), Jamie Thingelstad (t), Jim Bernard (b)"]
+[Team B "Tad Kubbler"]
+[Team B Players "Eric Goplin (g), Cole Vryens (v), Anders Thorstenson (a)"]
+[First "Team B"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2012_Round_Robin_Tad_Kubbler_v._Kubbchucks/Game_1"]
+
+1. 0I v:- v:B a:- a:- g:- g:-
+2. vb:IRP t:- t:- b:- b:- vb:- vb:- # Tad Kubbler placed penalty kubb between the 3rd and 4th base kubbs
+3. 0I A v:B v:B a:- a:B g:B g:K # since the penalty kubb was placed on the baseline - there was no field advantage in this turn.

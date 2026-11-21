@@ -1,0 +1,27 @@
+[Event "US National Kubb Championship 2013"]
+[Location "Eau Claire, WI"]
+[Start "2013-07-14 09:00"]
+[End "2013-07-14 09:27"]
+[Duration "27m"]
+[Surface "Grass"]
+[Team A "The Torpedos"]
+[Team A Players "Rob (r), Tim (t), Jason (j)"]
+[Team B "Kubbitz"]
+[Team B Players "Dan (d), Riley (y), Jeff (f)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbitz-Torpedos-Game-1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_The_Torpedos_v._Kubbitz/Game_1"]
+
+1. 0I j:- j:- t:- t:B r:- r:-
+2. d:I d:F d:- f:- f:- y:- y:-
+3. j:I j:F j:B t:- t:B r:- r:-
+4. d:3IR d:F d:F f:- f:F y:- y:-
+5. j:3I2R j:2F j:- t:- t:- r:F r:B
+6. d:4I2R f:F f:F d:F d:F y:- y:-
+7. j:4I j:F j:2F t:- t:- r:- r:-
+8. d:3I2R A f:2F y:F d:- d:B f:B y:B # 4m advantage
+9. j:6I4R t:F t:- j:- j:- r:2F r:- # wow. super tight grouping and so many remain standing.
+10. d:3I A f:2F y:F d:B d:- f:B y:K # great closing with a 4m advantage

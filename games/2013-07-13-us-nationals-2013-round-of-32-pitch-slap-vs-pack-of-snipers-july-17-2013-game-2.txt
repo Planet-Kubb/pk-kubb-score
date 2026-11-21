@@ -1,0 +1,28 @@
+[Event "US National Kubb Championship 2013"]
+[Location "Eau Claire, WI"]
+[Start "2013-07-13 13:53"]
+[End "2013-07-13 14:18"]
+[Duration "25m"]
+[Surface "Grass"]
+[Team A "Pitch Slap"]
+[Team A Players "Tony Hansen (t), Mike Pedersen (m), Jake Freeberg (j)"]
+[Team B "Pack of Snipers"]
+[Team B Players "Joe Pendleton (j), Nate Olson (n), Chad Bevers (b), Chad Parsons (p)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Tony Hansen"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2013_(Round_of_32),_Pitch_Slap_vs._Pack_of_Snipers,_July_17,_2013_(Game_2)"]
+
+1. 0I j:- j:- t:B t:- m:- m:-
+2. b:I p:- b:F b:- j:B j:- n:-
+3. t:2IR t:F j:- j:- m:- m:F t:-
+4. b:2IR p:F p:- b:F b:- j:B j:-
+5. t:3I j:- j:- t:2F t:F m:B m:B
+6. b:5I p:F p:2F b:- b:F j:F j:B
+7. t:6IR t:2F t:- m:- m:- j:- j:-
+8. b:2I A p:F n:F j:- b:B b:- j:B
+9. t:4IR t:5F t:F j:- m:- m:- j:- # Tony's rethrow was a goofy cut the hard way.
+10. b:6I A p:F p:3F b:F b:F n:= j:= # Nate and Joe both miss the king
+11. t:6I3R t:F j:F j:- m:- m:F t:2F
+12. b:5IR A p:3F p:2F j:= j:K - -

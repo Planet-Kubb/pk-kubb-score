@@ -1,0 +1,33 @@
+[Event "US National Kubb Championship 2013"]
+[Location "Eau Claire, WI"]
+[Start "2013-07-14 09:00"]
+[End "2013-07-14 09:27"]
+[Duration "27m"]
+[Surface "Grass"]
+[Team A "Kubbitz"]
+[Team A Players "Dan (d), Riley (y), Jeff (f)"]
+[Team B "The Torpedos"]
+[Team B Players "Rob (r), Tim (t), Jason (j)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbitz-Torpedos-Game-2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_The_Torpedos_v._Kubbitz/Game_2"]
+
+1. 0I d:- d:- y:- y:- f:- f:-
+2. j:I j:- j:F t:- t:- r:B r:-
+3. d:2I d:- d:- f:F f:F y:- y:-
+4. j:2I j:F j:- t:- t:F r:- r:-
+5. d:2IR f:F f:F y:- y:- d:- d:-
+6. j:2I j:F j:- t:- t:F r:B r:-
+7. d:3IR f:F f:F d:F d:- y:B y:B
+8. j:5I j:F j:2F t:F t:F r:- r:-
+9. d:5IR j:2F j:F d:- d:- r:F r:-
+10. j:4I2R A j:3F j:F t:- t:- r:- r:B # 3m advantage.
+11. d:5IR f:2F f:2F d:- d:F y:- y:-
+12. j:5IR A j:F j:F t:F t:- r:2F r:- # 3m advantage
+13. d:5I f:F f:- d:- d:F y:2F y:-
+14. j:4I A t:2F t:2F j:- j:- r:B r:- # 4m advantage line
+15. d:5IR f:2F d:F d:F f:F y:- y:F
+16. j:6I A j:4F j:F t:F t:- r:B r:K # 3m advantage

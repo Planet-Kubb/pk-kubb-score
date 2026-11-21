@@ -1,0 +1,25 @@
+[Event "US Midwest Kubb Championship"]
+[Location "Rockford, Ill"]
+[Start "2013-05-04"]
+[Surface "Grass"]
+[Team A "King Pin"]
+[Team B "Team Knockerheads"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=mXW5xU73EtQ"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Midwest_Championship_2013_Team_Knockerheads_v._Kingpin"]
+
+1. 0I B - B - - -
+2. 2I 2F - - - B B
+3. 4I - 3F F - - -
+4. 4IR 3F F B - - -
+5. 5I 5F - - - - B
+6. 6I2R 2F F F F F -
+7. 6IR 4F 2F - - - B
+8. 7I2R 4F F - F F B
+9. 8IR 5F 3F - - - -
+10. 8I2R - 2F - F 4F F
+11. 8I4R - 4F 2F - - -
+12. 6I A F 5F B K X X

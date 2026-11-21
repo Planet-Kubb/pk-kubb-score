@@ -1,0 +1,11 @@
+[Event "US National Kubb Championship 2013"]
+[Event date "2013-07-13"]
+[Team A Players "Josh Feathers (j), Grant Scott (g), Chris Hodges (h)"]
+[Team B Players "Cole Vryens (c), Anders Thorstenson (a), Eric Goplin (e)"]
+[First "Team A"]
+[Scoresheet "scoresheets/2013Nationals-Knockerheads-TadKubbler-Game-1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_Tad_Kubbler_v._Team_Knockerheads/Game_1"]
+
+1. 0I j:B j:B h:- h:B g:- g:B # great open
+2. e:4IR c:2F c:2F e:- e:- a:B a:-
+3. j:5I2R j:3F j:F h:F h:B g:K X

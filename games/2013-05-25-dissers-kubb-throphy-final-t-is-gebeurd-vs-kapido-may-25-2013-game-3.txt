@@ -1,0 +1,19 @@
+[Event "Dissers Kubb Trophy"]
+[Start "2013-05-25"]
+[Surface "Grass"]
+[Team A "Kapido"]
+[Team B "'T is gebeurd"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Fre Timmerman"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Dissers_Kubb_Throphy_final,_'T_is_gebeurd_vs._Kapido,_may_25_2013_(Game_3)"]
+
+1. 0I B - - - B -
+2. 2I 2F B - - - -
+3. 3I F F - F - B
+4. 4IR F - F - - 2F # nice but lucky split shot(baton6)
+5. 4I F 2F F - - -
+6. 4I F F 2FB B - - # lucky base kubb (baton3)
+7. 6I F 2F - - F -
+8. 4I A 2F 2F - B B K

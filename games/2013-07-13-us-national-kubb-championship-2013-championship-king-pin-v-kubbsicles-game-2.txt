@@ -1,0 +1,19 @@
+[Event "US National Kubb Championship 2013"]
+[Event date "2013-07-13"]
+[Team A "Kubbsicles"]
+[Team A Players "Max Sebesta (m), Zachary Brown (z), Mark Blazel (b)"]
+[Team B "King Pin"]
+[Team B Players "Jason Larson (j), John Oman (o), Phil Goetstouwers (p)"]
+[First "Team A"]
+[Win "Team A"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbsicles-KingPin-Game-2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_King_Pin_v._Kubbsicles/Game_2"]
+
+1. 0I z:- z:- b:- b:B m:B m:-
+2. p:2I j:F j:- p:F o:B o:- p:-
+3. b:3IR z:2F b:F b:- z:B m:- m:-
+4. p:3I o:I j:2F j:F o:FB o:B p:- p:-
+5. b:6I z:5F m:- m:- b:F z:B b:B
+6. p:8IR o:4F o:F j:- j:- p:F p:F
+7. b:7IR A z:2F z:2F b:2F m:F b:K X # 4m advantage

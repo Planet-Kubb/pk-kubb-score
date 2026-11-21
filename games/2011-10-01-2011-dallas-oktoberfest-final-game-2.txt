@@ -1,0 +1,25 @@
+[Event "Dallas, WI Oktoberfest 2011"]
+[Location "Dallas, WI"]
+[Start "2011-10-01"]
+[Team A "Dead Rabbits"]
+[Team B "Tad Kubbler"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "ChrisHodges"]
+[Entered by "ChrisHodges"]
+[Video "http://www.youtube.com/watch?v=H1s4cHhV44g&feature=g-user-u"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2011_Dallas_Oktoberfest_Final/Game_2"]
+
+1. 0I - B - B B -
+2. 3I F F F - - -
+3. 3I - F - - F -
+4. 2I A F F - B B B
+5. 5IR 2F - - F 2F F # Anderson drops the rethrow perfectly in the basket, and is clutch on batons 5&6 here!
+6. 6IRP 2F F 2F F - - # Penalty kubb placed on far sideline at 7m
+7. 6I F 2F F - F F # Anderson clutch again - two hits needed, two hits delivered
+8. 6I 3F F F F - - # Great group from Goplin but for one runner
+9. 6I 3F F - F F - # Masterful group!
+10. 6I 3F F F F - -
+11. 6I F - 2F - F F # Mullen's 2nd baton hits the stake, leaving 3 fields nearly impossible to clear with 2 batons
+12. 5IR A 2F 3F - B B K

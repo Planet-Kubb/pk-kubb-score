@@ -1,0 +1,28 @@
+[Event "Des Moines Fall Klassic 2011"]
+[Location "Des Moines, IA"]
+[Start "2011-09-24"]
+[Surface "Grass"]
+[Team A "The Ringers"]
+[Team A Players "Aaron Ellringer (ae), Dave Ellringer (de)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Dwayne Ballmer (b), Josh Feathers (j)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "joshfeathers"]
+[Video "http://www.youtube.com/watch?v=ZIQWGR74Zf8"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Des_Moines_Fall_Kubb_Klassic_2011_-_Quarterfinals_-_The_Ringers_v._Team_Knockerheads/Game_1"]
+
+1. ae:0I ae:B ae:- ae:- de:B de:- de:B
+2. j:3I j:2F j:F j:B b:- b:B b:B
+3. ae:6I ae:- ae:F ae:2F de:- de:F de:F
+4. j:5IR A j:2F j:F j:F b:F b:B b:-
+5. ae:6I2R ae:- ae:3F ae:2F de:F de:- de:-
+6. j:6I A j:5F j:- j:F b:- b:- b:-
+7. ae:6I de:3F de:2F de:F ae:F ae:- ae:-
+8. j:7IR j:- j:2F j:2F b:F b:F b:-
+9. ae:6I2R A de:F de:F de:F ae:F ae:F ae:F
+10. j:6I j:2F j:F j:- b:- b:F b:F
+11. ae:6I2R A de:3F de:F de:F ae:F ae:B ae:B
+12. j:8IR j:3F j:2F j:F b:F b:- b:F
+13. ae:8IR A ae:4F ae:3F ae:F de:K de:X de:X

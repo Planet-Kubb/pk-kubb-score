@@ -1,0 +1,21 @@
+[Event "US National Kubb Championship 2014"]
+[Location "Eau Claire Soccer Park"]
+[Start "2014-07-13 09:00"]
+[End "2014-07-13 10:00"]
+[Duration "60m"]
+[Surface "Grass"]
+[Team A "Team Knockerheads"]
+[Team A Players "Chris Hodges (ch), Josh Feathers (jf), Grant Scott (gs)"]
+[Team B "Kubb Snipers"]
+[Team B Players "Chad Parsons (cp), Chad Bevers (cb), Joe Pendleton (jp)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Jim"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2014_Quarterfinals_Team_Knockerheads_v._Kubb_Snipers/Game_1"]
+
+1. jf:0I ch:- ch:- jf:- jf:B gs:B gs:-
+2. cb:2I cp:F cp:F cb:B cb:- jp:B jp:-
+3. jf:4IR ch:3F ch:F jf:B jf:- gs:B gs:B
+4. cb:7I2R cp:3F cp:2F cb:F cb:F jp:B jp:-
+5. jf:8IR ch:7F ch:F gs:= gs:K X X

@@ -1,0 +1,27 @@
+[Event "European Championship 2012"]
+[Location "Berlin, Germany"]
+[Start "2012-07-21"]
+[Surface "Grass"]
+[Team A "Kubb'Ings"]
+[Team B "Fortschritt99"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=xRK1nCUWhtY&feature=related"]
+[Video offset "20:22"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2012_European_Championship_-_Kubb'Ings_v._F99/Game_2"]
+
+1. 0I - - - B B B
+2. 3I 2F F B - B B
+3. 6I3R 2F F - - F 2F # the first 3 throw of this turn are not included in the video
+4. 6IR 2F 3F - F - B
+5. 7I2R 4F F 2F - - -
+6. 7IR 4F F 2F - - -
+7. 7I3R2P 2F 2F F F - F # inkasting for penalty kubb placement
+8. 7I F 3F F - F -
+9. 6I A 5F F B - - B
+10. 9I3RP 2F 2F 2F 2F F -
+11. 9I - 3F 3F F - F
+12. 8IR A 5F F F F B K

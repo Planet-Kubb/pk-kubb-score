@@ -1,0 +1,29 @@
+[Event "Rockford Swedish Historical Society Tournament 2012"]
+[Location "Rockford, IL"]
+[Start "2012-05-19"]
+[Surface "Grass"]
+[Team A "Kubbacca"]
+[Team A Players "Chris Hodges (c)"]
+[Team B "Ringers"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=27Tcwu6gr_8&list=PLB74AA237BC135085&index=26&feature=plpp_video"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Rockford_2012_Semifinals_Kubbacca_v._Ringers/Game_1"]
+
+1. 0I c:B - - - - -
+2. I F - - - - -
+3. c:I c:- - - - F -
+4. I - F B - - -
+5. c:2I - 2F c:B - - -
+6. 3I - F - - F F
+7. c:3I c:F F F - - -
+8. 3I - 2F F - - -
+9. c:3I2R c:2F F - B - -
+10. 4I2R 3F F - - - -
+11. c:4I2R c:2F F F - - B
+12. 5IR F F F F F B
+13. c:6I - c:3F - - F -
+14. 4I A 3F F B B B K

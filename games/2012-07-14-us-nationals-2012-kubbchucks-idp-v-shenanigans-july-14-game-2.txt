@@ -1,0 +1,32 @@
+[Event "US Nationals 2012 - Round Robin"]
+[Location "Eau Claire Soccer Park, Eldorado Boulevard, Eau Claire, WI"]
+[Start "2012-07-14 01:18"]
+[End "2012-07-14 01:39"]
+[Duration "21m"]
+[Team A "Kubbchucks IDP"]
+[Team A Players "Ira Mitchell (m), Dan Grigsby (g), Pete Schwamb (s)"]
+[Team B "Shenanigans"]
+[Team B Players "Mark Pucci (p), Eric Rehn (e), Justin Rhode (j), Brett Leitl (l)"]
+[First "Team B"]
+[Win "Team B"]
+[Scored by "Thingles"]
+[Entered by "Thingles"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-kubbchucks-shenanigans-game2.pdf"]
+[Source "sources/deleted/us-nationals-2012-kubbchucks-idp-v-shenanigans-game-2.wiki (deleted 2013-02-06)"]
+
+1. 0I p:- l:- e:- e:- j:- j:-
+2. m:0I m:B m:- s:- s:- g:- g:-
+3. I j:F e:- p:B p:- l:- l:B
+4. m:3I g:- g:- s:- s:- m:2F m:F # Ira in the clutch
+5. 3I l:- p:- e:- e:F j:F j:-
+6. m:2I A s:F s:- g:F g:- m:- m:-
+7. 2I e:F j:- p:- p:- l:F l:F
+8. m:3I s:F s:F m:FB m:- g:- g:-
+9. 4I l:F e:F e:F p:- j:- j:F
+10. m:4I s:- s:F g:- g:- m:- m:F
+11. 2I A j:F j:F p:- p:B l:- l:-
+12. m:3I s:- s:- g:- g:- m:- m:F # a brutal turn in the game
+13. I A p:F l:- e:- e:- j:B j:B
+14. m:3I m:2F m:F g:- g:- s:F s:F # kubb collision
+15. 5I A e:2F j:F p:F p:F l:= l:K

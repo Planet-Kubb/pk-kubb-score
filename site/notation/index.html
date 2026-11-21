@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Planet Kubb Notation</title>
+<meta name="description" content="How to write down a kubb game throw by throw: every code in the Planet Kubb Notation, with examples and a full game read turn by turn.">
+<meta name="theme-color" content="#fbf7ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17140f" media="(prefers-color-scheme: dark)">
+<link rel="stylesheet" href="/assets/site.css?v=2">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='3' y='1' width='6' height='14' rx='1' fill='%235c3a21'/%3E%3Crect x='10' y='5' width='4' height='10' rx='1' fill='%232f6b3a'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="site-head"><div class="wrap">
+  <a class="brand" href="/">Planet Kubb <span>Score</span></a>
+  <nav><a href="/notation/" aria-current="page">Notation</a><a href="/spec/">Grammar</a><a href="/scoresheet/">Scoresheet</a><a href="/stats/">Stats</a></nav>
+</div></header>
+
+<main><div class="wrap">
+  <h1>Planet Kubb Notation</h1>
+  <p class="lede">A way to record every kubb and every baton in a game, one line per turn, short enough to write on the pitch.</p>
+
+  <nav class="toc" aria-label="On this page">
+    <ol>
+      <li><a href="#structure">Structure</a></li>
+      <li><a href="#turn">Turn number</a></li>
+      <li><a href="#kubbs">Kubb tossing</a></li>
+      <li><a href="#advantage">Advantage line</a></li>
+      <li><a href="#batons">Batons</a></li>
+      <li><a href="#notes">Notes and comments</a></li>
+      <li><a href="#examples">Examples</a></li>
+      <li><a href="#game">A whole game</a></li>
+      <li><a href="#kings">Kubbs hitting kings</a></li>
+      <li><a href="#metadata">Metadata</a></li>
+      <li><a href="#history">Changes over the years</a></li>
+    </ol>
+  </nav>
+
+  <h2 id="structure">Structure</h2>
+  <p>Every action in a game is a single character. <code>F</code> means a field kubb was knocked down. <code>I</code> means a kubb was thrown in. Most actions take a number in front, so <code>2F</code> is two field kubbs with one baton and <code>5I</code> is five kubbs thrown in. Some allow a zero: <code>0I</code> says no kubbs were thrown in.</p>
+  <p>A turn is one line, in the order things happen:</p>
+  <ol>
+    <li>the turn number, then a period (optional),</li>
+    <li>the kubbs thrown in,</li>
+    <li>the advantage line, if there is one,</li>
+    <li>one entry per baton, usually six,</li>
+    <li>a note after <code>#</code> (optional).</li>
+  </ol>
+  <p><img src="/assets/notation-diagram.png" width="610" height="107" alt="Diagram of a turn: the turn number, then the kubbs thrown in, then the baton throws, then a note."></p>
+  <p>To record who threw, put a player token in front of the action: <code>jt:2F</code> means player jt knocked down two field kubbs. A player token is any run of letters. Keep them short so they're quick to write. The colon is optional on the scoresheet.</p>
+  <p>Separate actions with spaces. Commas and slashes work too. The notation ignores case, but lowercase players with uppercase actions (<code>jtB</code>, not <code>JTB</code>) keep things unambiguous when you leave out the colon.</p>
+
+  <h2 id="turn">Turn number</h2>
+  <dl class="codes">
+    <dt>n.</dt><dd>The turn number, followed by a period. It is optional, but when present it must come first. Turns alternate between the teams, starting with the team that opened.</dd>
+  </dl>
+
+  <h2 id="kubbs">Kubb tossing</h2>
+  <p>Each of these takes a count from 0 to 10. Without a number the count is 1.</p>
+  <dl class="codes">
+    <dt>I</dt><dd>Kubbs thrown in (the inkast). <code>6I</code> is six kubbs. A bare number means the same thing, so <code>3</code> is <code>3I</code>.</dd>
+    <dt>R</dt><dd>Kubbs rethrown because they landed out of bounds. <code>5I2R</code> is five kubbs with two rethrows.</dd>
+    <dt>P</dt><dd>Penalty kubbs: kubbs that went out of bounds twice and are placed by the other team. If a rethrow knocks another kubb out, add it to the rethrow count.</dd>
+    <dt>Y</dt><dd>A rescue attempt that failed: a kubb thrown at one of your own field kubbs left standing from an earlier turn, to knock it out and throw it again somewhere better.</dd>
+    <dt>Q</dt><dd>A rescued kubb: the rescue worked. The rescued kubb is thrown back in, so it shows up as one more <code>I</code>.</dd>
+    <dt>N</dt><dd>Neighbor, 0 to 5, no default (provisional). The number of in-bounds kubbs left fully off the ground, resting on another kubb, once the tossing is done.</dd>
+  </dl>
+  <p>Different players can each have their own inkast entry: <code>j:2Y m:2Y j:3I4R</code> is J making two rescue attempts, M making two more, then J throwing three kubbs and rethrowing the four used in the rescue attempts.</p>
+
+  <h2 id="advantage">Advantage line</h2>
+  <dl class="codes">
+    <dt>A</dt><dd>The team is throwing from an advantage line because the other team left field kubbs standing. It goes right after the kubb tossing, before the batons. <span class="mod">0 to 4, no default.</span> The number is how far forward the line is, in whole meters: <code>4A</code> is a line at the center, four meters in. <code>2A</code> is halfway, and <code>0A</code> means the field kubb is on the baseline and gives no advantage.</dd>
+  </dl>
+
+  <h2 id="batons">Batons</h2>
+  <p>One entry for each baton, in the order thrown.</p>
+  <dl class="codes">
+    <dt>-</dt><dd>Miss. The baton knocked nothing down.</dd>
+    <dt>F</dt><dd>Field kubb knocked down. <code>3F</code> is three field kubbs with one baton.</dd>
+    <dt>B</dt><dd>Base kubb knocked down. <code>2B</code> is two base kubbs with one baton.</dd>
+    <dt>K</dt><dd>King. The attacking team wins.</dd>
+    <dt>=</dt><dd>Missed king. The team threw at the king and missed.</dd>
+    <dt>X</dt><dd>Unthrown. When the game ends in the middle of a turn, mark the batons nobody threw, so they don't count against anyone's stats.</dd>
+    <dt>E</dt><dd>Illegal king hit. The king went down early, and the attacking team loses.</dd>
+    <dt>Z</dt><dd>Illegal throw: a helicopter throw, a foot over the line, or anything else that makes the baton illegal.</dd>
+    <dt>W</dt><dd>Win without the king, most often when a tournament director calls a game that has run out of time. Write <code>W</code> in the winning team's turn. If the defending team is declared the winner, mark the attackers' remaining batons <code>X</code> and put the <code>W</code> in the next turn.</dd>
+    <dt>G</dt><dd>Resigned. One side gave the game to the other, for example when a team didn't show up or quit partway through. No king is recorded.</dd>
+  </dl>
+  <h3>Multiples and combinations</h3>
+  <p>A number in front means multiple: one baton taking three field kubbs is <code>3F</code>. Batons can combine, too. A field kubb that falls into a base kubb is <code>FB</code>, and two field kubbs that take a base kubb are <code>2FB</code>. Only <code>F</code> and <code>B</code> take numbers.</p>
+
+  <h2 id="notes">Notes and comments</h2>
+  <dl class="codes">
+    <dt>#</dt><dd>Everything after a <code>#</code> is a note for the turn: <code>11. 6I 4F - F - F - # Great grouping</code>.</dd>
+    <dt>( )</dt><dd>Anything in parentheses is a comment and isn't read as notation. Comments can go anywhere: <code>5FB (Unbelievable hit!)</code>.</dd>
+  </dl>
+
+  <h2 id="examples">Examples</h2>
+  <p>Start with a game that only has one turn: a perfect game.</p>
+  <pre>B B B B B K</pre>
+  <p>That's the simplest way to write it. All of these mean exactly the same thing, with a little more information in each:</p>
+  <pre>0 B B B B B K
+1. B B B B B K
+1. 0 B B B B B K <span class="c"># Perfect game!</span>
+1. jt:B jt:B gv:B gv:B jt:B gv:K <span class="c"># Perfect game, Garrick takes the king!</span>
+0 jt:B jt:B gv:B gv:B jt:B gv:K <span class="c"># Perfect game, Garrick takes the king!</span>
+0 jtB jtB gvB gvB jtB gvK <span class="c"># Perfect game, Garrick takes the king!</span></pre>
+  <ul>
+    <li>The first says no kubbs were thrown in before the turn.</li>
+    <li>The second, third and fourth say it was the first turn of the game.</li>
+    <li>The third adds a note.</li>
+    <li>The fourth and fifth add players, so you know who threw what.</li>
+    <li>The sixth leaves out the colons. That's valid, but harder to read for people and computers.</li>
+  </ul>
+
+  <pre>7. 3 2F F - B B = <span class="c"># Missed king shot!</span></pre>
+  <p>The seventh turn of the game. The attacking team threw three kubbs in and is throwing from the baseline. The first baton takes two field kubbs, and the second cleans up the third. Then a miss, a base kubb on the fourth baton and another on the fifth. That leaves a shot at the king with the last baton, and it misses. There are no player tokens, so we don't know who threw what.</p>
+
+  <pre>14. jt:2I A jt:2F jt:B gv:= gv:K X X <span class="c"># Two batons spare!</span></pre>
+  <p>The fourteenth turn. JT throws in two kubbs, and the team throws from an advantage line because the other team left field kubbs standing. JT's first baton knocks down the two kubbs just thrown in, and the second takes a base kubb. GV shoots at the king and misses, then hits it with the next baton to win the game. Two batons go unthrown.</p>
+
+  <pre>5. i - - E X X X <span class="c"># OMG! They hit the king!</span></pre>
+  <p>The fifth turn, with one kubb thrown in, from the baseline. The first two batons miss. The third knocks the king over by accident, which loses the game, so the last three batons are never thrown.</p>
+
+  <h2 id="game">A whole game</h2>
+  <p>A friendly from July 10, 2012 at Painter Park in Minneapolis: Garrick van Buren (g) and Jamie Thingelstad (jt) against Dobbie (d) and Jaime Feathers (jf).</p>
+<pre id="game-text">1. 0I jt:- jt:- g:B g:- jt:- g:-
+2. d:I d:- d:- d:- jf:- jf:- jf:F
+3. jt:I g:F g:- jt:- jt:- g:- jt:-
+4. d:I d:F d:- d:B jf:- jf:- jf:-
+5. jt:2I jt:- jt:- g:F g:- jt:- g:-
+6. d:I A jf:- d:- d:- d:F jf:B jf:-
+7. g:2I g:- g:- jt:F jt:F g:F jt:-
+8. d:3I jf:- d:- jf:- d:- jf:2F d:-
+9. jt:2I A jt:F jt:F g:B g:- g:- jt:B
+10. d:4I d:3F d:F jf:- d:F jf:- jf:B
+11. g:6I g:4F g:- jt:F jt:- g:F jt:- <span class="c"># Great grouping by Garrick.</span>
+12. d:6I d:F jf:- d:F d:3F jf:F jf:-
+13. jt:6I jt:4F jt:F g:- g:- jt:- g:- <span class="c"># nice blast on t1</span>
+14. d:5I A d:F d:F jf:F d:2F jf:- jf:B
+15. g:6I g:F g:3F jt:F jt:F g:- jt:-
+16. d:6I A d:3F jf:F d:F d:F jf:- jf:B
+17. jt:7I jt:2F jt:2F g:F g:F jt:- g:F
+18. d:7I A d:6F d:F jf:= jf:K X X <span class="c"># great grouping from Dobbie.</span></pre>
+  <p><a class="button ghost" id="open-game" href="/stats/">Open this game in Stats</a></p>
+  <p>Eighteen turns, so nine rounds, and four players. Here it is turn by turn:</p>
+  <ul class="walk">
+    <li><code>1. 0I jt:- jt:- g:B g:- jt:- g:-</code><span>G knocks over a base kubb with the third baton. Everything else misses.</span></li>
+    <li><code>2. d:I d:- d:- d:- jf:- jf:- jf:F</code><span>One kubb thrown in. Five misses, then JF finally takes the field kubb with the last baton, so the other team doesn't get an advantage line this early.</span></li>
+    <li><code>3. jt:I g:F g:- jt:- jt:- g:- jt:-</code><span>One kubb in. G knocks it over with the first baton, then the team misses the baseline five times.</span></li>
+    <li><code>4. d:I d:F d:- d:B jf:- jf:- jf:-</code><span>One kubb in. D takes it with the first baton and a base kubb with the third. JF misses all three.</span></li>
+    <li><code>5. jt:2I jt:- jt:- g:F g:- jt:- g:-</code><span>Two kubbs in and a bad turn. G takes one, but the other is left standing, which gives the other team an advantage line.</span></li>
+    <li><code>6. d:I A jf:- d:- d:- d:F jf:B jf:-</code><span>One kubb in, thrown from the advantage line, but the line doesn't help much. It takes four batons before D knocks the field kubb over. JF follows with a base kubb and a miss.</span></li>
+    <li><code>7. g:2I g:- g:- jt:F jt:F g:F jt:-</code><span>Two kubbs in, plus the one left standing in turn 5, so three field kubbs. G misses twice, JT takes two, and G clears the third. JT misses at the baseline.</span></li>
+    <li><code>8. d:3I jf:- d:- jf:- d:- jf:2F d:-</code><span>Three kubbs in. The advantage line is gone. Only one baton hits, JF's fifth, which takes two field kubbs. One is left standing: another advantage line.</span></li>
+    <li><code>9. jt:2I A jt:F jt:F g:B g:- g:- jt:B</code><span>Two kubbs in, from the advantage line. JT takes both with the first two batons. G takes a base kubb and misses twice, then JT takes another base kubb with the last baton.</span></li>
+    <li><code>10. d:4I d:3F d:F jf:- d:F jf:- jf:B</code><span>Four kubbs in, plus the one left from turn 8: five field kubbs. D takes three with the first baton and a fourth with the second. JF misses, and D clears the last one with the fourth baton. JF misses again, then takes a base kubb with the last baton.</span></li>
+    <li><code>11. g:6I g:4F g:- jt:F jt:- g:F jt:-</code><span>Six kubbs in, from the baseline. G takes four with the first baton, the great grouping in the note. G misses, JT takes one and misses, G takes the last field kubb, and JT misses a base kubb.</span></li>
+    <li><code>12. d:6I d:F jf:- d:F d:3F jf:F jf:-</code><span>Six kubbs in. D takes one, JF misses, D takes another and then three with one baton. JF cleans up the last one and misses a base kubb with the final baton.</span></li>
+    <li><code>13. jt:6I jt:4F jt:F g:- g:- jt:- g:-</code><span>Six kubbs in. JT takes four with the first baton (the "nice blast on t1") and one more with the second. Then four straight misses leave a field kubb standing and give away an advantage line. A critical blow.</span></li>
+    <li><code>14. d:5I A d:F d:F jf:F d:2F jf:- jf:B</code><span>Five kubbs in, from the advantage line. D takes one, then another, JF takes one, and D takes two. JF misses, then takes a base kubb with the last baton.</span></li>
+    <li><code>15. g:6I g:F g:3F jt:F jt:F g:- jt:-</code><span>Six kubbs in, plus the one left from turn 13. G takes one and then three, and JT takes two singles, but the last two batons miss. One field kubb is left standing.</span></li>
+    <li><code>16. d:6I A d:3F jf:F d:F d:F jf:- jf:B</code><span>Six kubbs in, from another advantage line. D takes three with the first baton, and JF and D take one each over the next three. JF can go after the baseline and knocks over the last base kubb with the final baton.</span></li>
+    <li><code>17. jt:7I jt:2F jt:2F g:F g:F jt:- g:F</code><span>Seven kubbs in, plus the one left from turn 15. JT takes two doubles, G takes two singles, JT misses and G takes one more. One field kubb is still standing, so the other team gets an advantage line.</span></li>
+    <li><code>18. d:7I A d:6F d:F jf:= jf:K X X</code><span>Seven kubbs in, from the advantage line. D takes six with the first baton and the seventh with the second, which leaves the king. JF misses the king with the third baton and takes it with the fourth to win the game. The last two batons go unthrown.</span></li>
+  </ul>
+  <p>All of this would still be valid without player tokens: drop every <code>d:</code>, <code>jf:</code>, <code>g:</code> and <code>jt:</code> and you have the same game. You just lose the player stats.</p>
+
+  <h2 id="kings">Kubbs hitting kings</h2>
+  <p>A king can also be knocked over by a kubb, during the kubb tossing or during the batons.</p>
+  <ul>
+    <li>If a kubb being thrown in knocks the king over, mark it as an illegal king hit in the order it happened. If the fourth kubb thrown in topples the king: <code>4IE</code>.</li>
+    <li>If a baton knocks over field kubbs and one of them topples the king (the kubb, not the baton), put the <code>E</code> after the <code>F</code>. Three field kubbs, one of which falls into the king: <code>3FE</code>.</li>
+  </ul>
+
+  <h2 id="metadata">Metadata</h2>
+  <p>A game can be kept in a plain text file. Put any details about it above the turns, one per line, in this form. Use whatever keys you like.</p>
+<pre>[Event "Twin Cities Winter Tournament 2012"]
+[Location "Minneapolis, MN, USA"]
+[Start "1/20/2012 1:23 pm"]
+[End "1/20/2012 2:05 pm"]
+[Duration "42m"]
+[Team A "Kubbchucks"]
+[Team B "Settlers of Baton"]
+[First "Team A"]
+[Win "Team A"]
+[Temperature "13 F"]</pre>
+  <p>The <a href="/stats/">Stats</a> page reads a few of these. <code>Team A</code> and <code>Team B</code> name the teams, <code>First</code> says which team opened, and <code>Win</code> says which won. <code>Team A Players</code> and <code>Team B Players</code> map player tokens to names: <code>[Team A Players "Jamie Thingelstad (jt), Garrick van Buren (g)"]</code>.</p>
+
+  <h2 id="history">Changes over the years</h2>
+  <ul>
+    <li><strong>2012.</strong> The first version, written for scoring the US National Kubb Championship. The advantage line was marked <code>BA</code>, <code>MA</code> or <code>CA</code>, for a line near the baseline, the middle or the center line. <code>!</code> marked an illegal king hit, and <code>Q</code> already meant a rescued kubb.</li>
+    <li><strong>2013.</strong> The scoresheet gained an on-pitch stats section: first-baton efficiency, zero base kubbs at throw number, and Hit %.</li>
+    <li><strong>July 2014.</strong> <code>Y</code> was added for rescue attempts after King Pin made the first rescue attempt seen in US Championship play. Scoresheet v11 added a way to mark batons to clear. By then <code>E</code> had replaced <code>!</code>, and <code>W</code> and <code>G</code> covered called and resigned games.</li>
+    <li><strong>By 2018.</strong> <code>A</code> took a distance in meters.</li>
+    <li><strong>Most recently.</strong> <code>N</code> (neighbor) was added, provisionally.</li>
+  </ul>
+  <p>The Stats page still reads <code>BA</code>, <code>MA</code>, <code>CA</code> and <code>!</code>, so old records work.</p>
+  <p>For the exact rules, down to which characters can go where, see <a href="/spec/">the formal grammar</a>.</p>
+</div></main>
+
+<footer class="site-foot"><div class="wrap">
+  <p>Planet Kubb Notation by Jamie Thingelstad and Garrick van Buren, 2012 to 2014. This page is adapted from the original notation documentation on planetkubb.com and the Planet Kubb wiki.</p>
+</div></footer>
+<script>
+  const t = document.getElementById('game-text').textContent;
+  document.getElementById('open-game').href = '/stats/#n=' + encodeURIComponent(
+    '[Event "Friendly"]\n[Location "Painter Park, Minneapolis, MN"]\n[Start "2012-07-10 17:45"]\n' +
+    '[Team A "Garrick and Jamie"]\n[Team A Players "Jamie Thingelstad (jt), Garrick van Buren (g)"]\n' +
+    '[Team B "Dobbie and Jaime"]\n[Team B Players "Dobbie (d), Jaime Feathers (jf)"]\n[First "Team A"]\n[Win "Team B"]\n\n' + t);
+</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+[Event "US Midwest Kubb Championship 2013"]
+[Location "Rockford, Ill"]
+[Start "2013-05-04"]
+[Surface "Grass"]
+[Team A "Rad Kubbler"]
+[Team A Players "Eric Goplin (e), Anders Thorstenson (a), Josh Dibley (jd), Cole Vryens (v)"]
+[Team B "Team Knockerheads"]
+[Team B Players "Josh Feathers (jf), Chris Hodges (c), Grant Scott (g)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "joshfeathers"]
+[Video "https://www.youtube.com/watch?v=CR1EFWYe4-U&feature=youtube_gdata"]
+[Video offset "10:40"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Midwest_Championship_2013_Semi_Finals_-_Rad_Kubbler_v._Team_Knockerheads_(Game_2)"]
+
+1. 0I jd:- jd:- a:- e:- e:- v:-
+2. 0I jf:- jf:- c:- c:B g:B g:B
+3. e:3IR v:2F a:F jd:- jd:- e:- v:B
+4. jf:4IR jf:F jf:F c:F c:F g:- g:-
+5. e:4I v:2F v:- jd:2F a:B a:- e:-
+6. jf:5I jf:4F jf:F c:- c:B g:B g:K # great inkast. great turn. great game.

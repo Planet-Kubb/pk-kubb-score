@@ -1,0 +1,27 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 09:12"]
+[End "2012-07-15 09:31"]
+[Duration "19m"]
+[Team A "Team Knockerheads"]
+[Team A Players "Josh Feathers (j), Grant Scott (g), Dwayne Ballmer (d)"]
+[Team B "Tad Kubbler"]
+[Team B Players "Eric Goplin (e), Cole Vryens (c), Anders Thorstenson (a)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=HK1XMqXg0YQ"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-tadkubbler-v-knockerheads-game1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Quarterfinals,_Knockerheads_v._Tad_Kubbler,_July_15/Game_1"]
+
+1. 0I j:- j:- g:B g:- d:B d:-
+2. e:2I c:F c:F a:- a:- e:- e:B
+3. j:3I j:F j:2F g:- g:- d:- d:B
+4. e:4I3R c:F c:F a:- a:F e:F e:B
+5. j:5I j:3F j:F g:F g:- d:- d:B # a very complex grouping
+6. e:6I c:F c:2F a:F a:F e:- e:F # eric in the clutch
+7. j:6I j:4F j:F g:F g:- d:- d:-
+8. e:6I c:2F c:F a:F a:- e:- e:-
+9. j:4I A j:3F j:F g:B d:= d:K X # win

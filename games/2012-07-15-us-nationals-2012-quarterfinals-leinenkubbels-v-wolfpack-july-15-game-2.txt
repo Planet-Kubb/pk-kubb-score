@@ -1,0 +1,27 @@
+[Event "US National Kubb Championship 2012"]
+[Location "Eau Claire Soccer Fields"]
+[Start "2012-07-15 09:30"]
+[End "2012-07-15 09:52"]
+[Duration "22m"]
+[Team A "Leinenkubbels"]
+[Team A Players "Chris Staack (c), Gregg Jochimsen (g), Sam Barby (s)"]
+[Team B "Wolfpack"]
+[Team B Players "Aaron McKie (a), Joe Pendleton (j), Nate Olson (n)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Chad Bevers"]
+[Entered by "Garrickvanburen"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/Us2012-wolfpack-leinenkubbles-game2.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_Nationals_2012,_Quarterfinals,_Leinenkubbels_v._Wolfpack,_July_15/Game_2"]
+
+1. 0I c:- c:B s:B s:- g:- g:- # (I think a base kubb hit wasn't denoted in the original scoresheet)
+2. 3I j:F j:F a:- a:- n:F n:-
+3. 3I g:- c:2F c:F s:- s:- g:-
+4. 3I j:F a:F a:F j:B n:- n:-
+5. 4I g:F g:2F c:- c:- s:- s:-
+6. 3I A j:F n:F a:F n:B a:- n:B
+7. 5I g:- s:2F g:- g:2F c:- c:F
+8. 5I A n:2F n:F a:F a:F n:B n:B
+9. 7I g:3F g:F c:F c:- s:- s:-
+10. 6I A a:2F a:2F n:F n:F j:K -

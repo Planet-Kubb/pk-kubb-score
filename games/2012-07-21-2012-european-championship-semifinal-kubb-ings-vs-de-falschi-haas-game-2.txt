@@ -1,0 +1,21 @@
+[Event "European Championship 2012"]
+[Location "Berlin, Germany"]
+[Start "2012-07-21"]
+[Surface "Grass"]
+[Team A "De falschi Haas"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=qG-Mm6a6Sk4&feature=plcp"]
+[Video offset "15:32"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2012_European_Championship_-_Semifinal_-_Kubb'Ings_vs_De_falschi_Haas/Game_2"]
+
+1. 0I B - - B - -
+2. 2I 2F B B - - B
+3. 5IR 2F 2F F - - B
+4. 6IR 3F F F F B -
+5. 7I 3F - F - - 2F
+6. 6I2RP A 2F 2F F F B K # again - inkasting as penalty kubb placement.

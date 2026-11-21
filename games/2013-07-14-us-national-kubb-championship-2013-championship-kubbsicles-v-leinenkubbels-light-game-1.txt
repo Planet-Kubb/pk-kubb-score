@@ -1,0 +1,25 @@
+[Event "US National Kubb Championship 2013"]
+[Start "2013-07-14 09:10"]
+[End "2013-07-14 09:30"]
+[Duration "20m"]
+[Team A "Leinenkubbels Light"]
+[Team A Players "Scott Forster (s), Gregg Jochimsen (g), Chris Staack (c)"]
+[Team B "Kubbsicles"]
+[Team B Players "Mark Blazel (b), Max Sebesta (m), Zachary Brown (z)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "tony hanson"]
+[Stats "Yes"]
+[Scoresheet "scoresheets/2013Nationals-Kubbsicles-Leinenkubbels-Game-1.pdf"]
+[Source "https://wiki.planetkubb.com/wiki/Game:US_National_Kubb_Championship_2013_Championship_Kubbsicles_v._Leinenkubbels_Light/Game_1"]
+
+1. 0I c:B c:B g:- g:- s:- s:-
+2. b:2IR m:F z:- b:F b:- m:- z:-
+3. s:2I c:2F c:- g:- g:- s:B s:B
+4. b:4IR m:- m:F z:F z:2F b:- b:B
+5. s:5I c:2F c:- g:- g:F s:F s:F
+6. b:4I A z:3F m:F m:B z:B b:B b:B # 4m advantage
+7. s:8I5R c:3F c:2F g:F g:F s:- s:F
+8. b:8I2RP z:3F z:F m:F m:F b:F b:F
+9. s:8I2RP c:- c:3F g:2F g:F s:- s:-
+10. b:6I A z:2F z:2F m:2F b:K X X # 4m advantage

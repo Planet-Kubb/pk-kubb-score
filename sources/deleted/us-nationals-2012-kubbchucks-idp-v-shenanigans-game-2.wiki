@@ -1,0 +1,306 @@
+<!-- Game:US Nationals 2012, Kubbchucks IDP v. Shenanigans, July 14/Game 2 | deleted 2013-02-06 | last revision 20130206045200 | recovered from the archive table in mw_planetkubb.sql.gz -->
+{{Game
+|Team A=Kubbchucks IDP
+|Team B=Shenanigans
+|Start date=July 14, 2012 01:18:00 AM
+|End date=July 14, 2012 01:39:00 AM
+|Location=Eau Claire Soccer Park, Eldorado Boulevard, Eau Claire, WI
+|Winner=Team B
+|Event=US Nationals 2012 - Round Robin
+|Include stats=Yes
+|Scored by=Thingles
+|Entered by=Thingles
+|Created date=July 15, 2012 04:33:26 PM
+|Team A Players=Ira Mitchell, Dan Grigsby, Pete Schamb
+|Team B Players=Mark Pucci, Eric Rehn, Justin Rhode, Brett Leitl
+}}
+{{Game player
+|Team=Kubbchucks IDP
+|Player=Ira Mitchell
+|Initial=m
+}}
+{{Game player
+|Team=Kubbchucks IDP
+|Player=Dan Grigsby
+|Initial=g
+}}
+{{Game player
+|Team=Kubbchucks IDP
+|Player=Pete Schwamb
+|Initial=s
+}}
+{{Game player
+|Team=Shenanigans
+|Player=Mark Pucci
+|Initial=p
+}}
+{{Game player
+|Team=Shenanigans
+|Player=Eric Rehn
+|Initial=e
+}}
+{{Game player
+|Team=Shenanigans
+|Player=Justin Rhode
+|Initial=j
+}}
+{{Game player
+|Team=Shenanigans
+|Player=Brett Leitl
+|Initial=l
+}}
+{{Game initialize}}
+{{Game turn
+|Kubb throw 1=0i
+|Advantage line=No
+|Throw 1 player=p
+|Throw 1=-
+|Throw 2 player=l
+|Throw 2=-
+|Throw 3 player=e
+|Throw 3=-
+|Throw 4 player=e
+|Throw 4=-
+|Throw 5 player=j
+|Throw 5=-
+|Throw 6 player=j
+|Throw 6=-
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=0i
+|Advantage line=No
+|Throw 1 player=m
+|Throw 1=B
+|Throw 2 player=m
+|Throw 2=-
+|Throw 3 player=s
+|Throw 3=-
+|Throw 4 player=s
+|Throw 4=-
+|Throw 5 player=g
+|Throw 5=-
+|Throw 6 player=g
+|Throw 6=-
+}}
+{{Game turn
+|Kubb throw 1=i
+|Advantage line=No
+|Throw 1 player=j
+|Throw 1=F
+|Throw 2 player=e
+|Throw 2=-
+|Throw 3 player=p
+|Throw 3=B
+|Throw 4 player=p
+|Throw 4=-
+|Throw 5 player=l
+|Throw 5=-
+|Throw 6 player=l
+|Throw 6=B
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=3i
+|Advantage line=No
+|Throw 1 player=g
+|Throw 1=-
+|Throw 2 player=g
+|Throw 2=-
+|Throw 3 player=s
+|Throw 3=-
+|Throw 4 player=s
+|Throw 4=-
+|Throw 5 player=m
+|Throw 5=2F
+|Throw 6 player=m
+|Throw 6=F
+|Note=Ira in the clutch
+}}
+{{Game turn
+|Kubb throw 1=3i
+|Advantage line=No
+|Throw 1 player=l
+|Throw 1=-
+|Throw 2 player=p
+|Throw 2=-
+|Throw 3 player=e
+|Throw 3=-
+|Throw 4 player=e
+|Throw 4=F
+|Throw 5 player=j
+|Throw 5=F
+|Throw 6 player=j
+|Throw 6=-
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=2i
+|Advantage line=Yes
+|Throw 1 player=s
+|Throw 1=F
+|Throw 2 player=s
+|Throw 2=-
+|Throw 3 player=g
+|Throw 3=F
+|Throw 4 player=g
+|Throw 4=-
+|Throw 5 player=m
+|Throw 5=-
+|Throw 6 player=m
+|Throw 6=-
+}}
+{{Game turn
+|Kubb throw 1=2i
+|Advantage line=No
+|Throw 1 player=e
+|Throw 1=F
+|Throw 2 player=j
+|Throw 2=-
+|Throw 3 player=p
+|Throw 3=-
+|Throw 4 player=p
+|Throw 4=-
+|Throw 5 player=l
+|Throw 5=F
+|Throw 6 player=l
+|Throw 6=F
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=3i
+|Advantage line=No
+|Throw 1 player=s
+|Throw 1=F
+|Throw 2 player=s
+|Throw 2=F
+|Throw 3 player=m
+|Throw 3=FB
+|Throw 4 player=m
+|Throw 4=-
+|Throw 5 player=g
+|Throw 5=-
+|Throw 6 player=g
+|Throw 6=-
+}}
+{{Game turn
+|Kubb throw 1=4i
+|Advantage line=No
+|Throw 1 player=l
+|Throw 1=F
+|Throw 2 player=e
+|Throw 2=F
+|Throw 3 player=e
+|Throw 3=F
+|Throw 4 player=p
+|Throw 4=-
+|Throw 5 player=j
+|Throw 5=-
+|Throw 6 player=j
+|Throw 6=F
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=4i
+|Advantage line=No
+|Throw 1 player=s
+|Throw 1=-
+|Throw 2 player=s
+|Throw 2=F
+|Throw 3 player=g
+|Throw 3=-
+|Throw 4 player=g
+|Throw 4=-
+|Throw 5 player=m
+|Throw 5=-
+|Throw 6 player=m
+|Throw 6=F
+}}
+{{Game turn
+|Kubb throw 1=2i
+|Advantage line=Yes
+|Throw 1 player=j
+|Throw 1=F
+|Throw 2 player=j
+|Throw 2=F
+|Throw 3 player=p
+|Throw 3=-
+|Throw 4 player=p
+|Throw 4=B
+|Throw 5 player=l
+|Throw 5=-
+|Throw 6 player=l
+|Throw 6=-
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=3i
+|Advantage line=No
+|Throw 1 player=s
+|Throw 1=-
+|Throw 2 player=s
+|Throw 2=-
+|Throw 3 player=g
+|Throw 3=-
+|Throw 4 player=g
+|Throw 4=-
+|Throw 5 player=m
+|Throw 5=-
+|Throw 6 player=m
+|Throw 6=F
+|Note=a brutal turn in the game
+}}
+{{Game turn
+|Kubb throw 1=i
+|Advantage line=Yes
+|Throw 1 player=p
+|Throw 1=F
+|Throw 2 player=l
+|Throw 2=-
+|Throw 3 player=e
+|Throw 3=-
+|Throw 4 player=e
+|Throw 4=-
+|Throw 5 player=j
+|Throw 5=B
+|Throw 6 player=j
+|Throw 6=B
+}}
+{{Game turn
+|Kubb throw 1 player=m
+|Kubb throw 1=3i
+|Advantage line=No
+|Throw 1 player=m
+|Throw 1=2F
+|Throw 2 player=m
+|Throw 2=F
+|Throw 3 player=g
+|Throw 3=-
+|Throw 4 player=g
+|Throw 4=-
+|Throw 5 player=s
+|Throw 5=F
+|Throw 6 player=s
+|Throw 6=F
+|Note=kubb collision
+}}
+{{Game turn
+|Kubb throw 1=5i
+|Advantage line=Yes
+|Throw 1 player=e
+|Throw 1=2F
+|Throw 2 player=j
+|Throw 2=F
+|Throw 3 player=p
+|Throw 3=F
+|Throw 4 player=p
+|Throw 4=F
+|Throw 5 player=l
+|Throw 5==
+|Throw 6 player=l
+|Throw 6=K
+}}
+{{Game statistics}}
+[[File:Us2012-kubbchucks-shenanigans-game2.pdf|Download Scoresheet]]
+
+.

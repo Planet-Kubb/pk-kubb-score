@@ -1,0 +1,29 @@
+[Event "Lengeder Kubb Open 2012"]
+[Location "Lengede, germany"]
+[Start "2012-07-15"]
+[Surface "Grass"]
+[Team A "RZKKC"]
+[Team B "Kubb'Ings"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "http://www.youtube.com/watch?v=VoQXF1qi4Tc"]
+[Video offset "6:47"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Kubb'Ings_vs_RZKKC_Final_3._Lengeder_Kubb_Open/Game_2"]
+
+1. 0I - - B - - -
+2. 1I1R - F - - B -
+3. 2I F - F B - B
+4. 4I F - 2F F - B
+5. 5I3R 2F 3F - - B -
+6. 6I1R - 3F 2F - F -
+7. 6I1R 2F F F F - F
+8. 6I2R 4F F F - - B
+9. 7I1R - F 2F F F F
+10. 6I A 3F F F F - -
+11. 6I2R - 2F 2F F F F # dog on pitch!
+12. 7I1R 4F F 2F - - B
+13. 8I 4F F - F F -
+14. 7I A 4F 2F F B K X

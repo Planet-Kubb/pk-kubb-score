@@ -1,0 +1,73 @@
+<!-- pitch.planetkubb.com | Planet Kubb Scoring System (Beta) | 2012-07-08 22:28:16 | from wp_planetkubb.sql.gz (wp_2_posts ID 129) -->
+<h1>Planet Kubb Scoring System (Beta)</h1>
+Most sports have scores and many even have a <a href="http://en.wikipedia.org/wiki/Boxscore">box score</a> that shows the progression of the game. Baseball fans can look at a box score from a game and relive the game just looking at a series of numbers. We've been wanting to be able to do the same thing for Kubb for a long time but there wasn't any standard system for recording a game. No standard notation system. This topic has been discussed here on Planet Kubb before and my goal was to get something that had a number of features:
+
+<ol>
+<li>An easy notation system using nothing but standard text.</li>
+<li>The notation should be scalable so it works for games tracking player by player details, or simple for games with less detail.</li>
+<li>Envision something that could be sent over Twitter so people could virtually watch a game turn by turn, tweet by tweet.</li>
+<li>It should be language neutral so Kubb games can easily be shared globally.</li>
+</ol>
+
+I think we've got that now, and then some!
+
+This weekend I slapped together three things: some clarification on the <a href="http://wiki.planetkubb.com/wiki/Notation">Planet Kubb Notation system</a>, a <a href="http://wiki.planetkubb.com/wiki/Scoresheet">Planet Kubb Scoresheet</a> to use on the Pitch and the Planet Kubb Wiki can <a href="http://wiki.planetkubb.com/wiki/Category:Game">store these games</a> and calculate statistics off of the games.
+
+<h3>Notation</h3>
+
+<code>2f/f/-/b/-/b</code>
+
+That string is a teams turn in a Kubb game. What happened? The first throw hit 2 field kubbs. The second hit a single field kubb. The third baton missed. Fourth hit a baseline kubb. Fifth missed. Sixth hit another baseline kubb.
+
+We can extend this further.
+
+<code>jamie:2f/jamie:f/garrick:-/garrick:b/jamie:-/garrick:b</code>
+
+That is the same series of throws, but here the players name has been added in front of the action so we can generate player by player statistics. You can also see we threw this turn "<a href="http://wiki.planetkubb.com/wiki/Chad_style">Chad style</a>", each throwing 2 batons and reserving a final baton each for the end.
+
+Those names are a bit long to type over and over though, so in real use we would use an initial.
+
+<code>j:2f/j:f/g:-/g:b/j:-/g:b</code>
+
+The notation system proposed here is very simple. The player notation is entirely optional. There are only a few symbols used. It's very fast!
+
+The <a href="http://wiki.planetkubb.com/wiki/Notation">Planet Kubb Notation</a> wiki page has more details. There is even a <a href="http://wiki.planetkubb.com/wiki/Notation#Parsing_Notation">regular expression pattern</a> there that you could use in your own code to read these.
+
+<h3>Scoresheet</h3>
+
+At some point it would be great to score the game in realtime on your iPhone, and we'll get there! For now, a peice of paper and a clipboard is probably the best option.
+
+We've got a <a href="http://wiki.planetkubb.com/wiki/Scoresheet">couple of concepts for the scoresheet</a> up to play with on the Scoresheet page of the Planet Kubb Wiki. Let your thoughts be known with what you like and don't like.
+
+The scoresheet allows for some additional data that the notation system doesn't handle, notably the Kubb drilling locations. The scoresheet has a miniature picture of the pitch and you can put a dot where the Kubbs land.
+
+<h3>Game Statistics and Storage</h3>
+
+If you have a game scoresheet you want to share it with everyone right? Even better, it would be great to know the statistics from the game. The <a href="http://wiki.planetkubb.com/">Planet Kubb Wiki</a> right now has a form that will allow anyone with an account to put a game into the wiki and it will then calculate statistics from the game as well as give a place to forever remember the game.
+
+To really test this I used the video of the championship match at the <a href="http://wiki.planetkubb.com/wiki/Rockford_Swedish_Historical_Society_Tournament_2012">2012 Rockford Tournament</a>. The match was between <a href="http://wiki.planetkubb.com/wiki/Tad_Kubbler">Tad Kubbler</a> (Minneapolis) and <a href="http://wiki.planetkubb.com/wiki/Team:Pitch_Slap">Pitch Slap</a> (Des Moines). You may know who won the match, but forget that for a moment and go relive the games. Click on each link below to see the scoresheet and statistics for each game.
+
+<ol>
+	<li><a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_1)">Rockford 2012 Championship Head Slap v. Tad Kubbler (Game 1)</a></li>
+	<li><a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_2)">Rockford 2012 Championship Head Slap v. Tad Kubbler (Game 2)</a></li>
+	<li><a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_3)">Rockford 2012 Championship Head Slap v. Tad Kubbler (Game 3)</a></li>
+</ol>
+
+I scored these games in realtime using the videos which had all the empty space cut out. This proved that the scoring system was definitely fast enough to score a game as it happens. The form on the wiki can handle an unlimited number of turns, they can be added as long as the game goes. The Planet Kubb Wiki is currently only calculating some very basic statistics for each game, mostly around batons thrown, hits and misses, advantage lines and baseline kubbs.
+
+Putting these three games into the system was interesting. I was curious if the (primitive) statistics being calculated now would be interesting and they were!
+
+<ul>
+<li><a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_1)">Match 1</a> and <a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_2)">2</a> the teams hit kubbs 2 out of 3 throws. In <a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_3)">match 3</a> the ratio drops to 1 in 2 throws.</li>
+<li>In <a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_1)">Match 1</a> Dobbie carries Pitch Slap through the game with Tony not hitting well. In <a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_3)">Match 3</a> the roles flip and <a href="http://wiki.planetkubb.com/wiki/Player:Tony_Hansen">Tony</a> carries Dobbie through the game.</li>
+<li><a href="http://wiki.planetkubb.com/wiki/User:EricGoplin">Eric's</a> missed King shot (=) in turn 9 of <a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_2)">match 2</a> is a heartbreaker!</li>
+<li><a href="http://wiki.planetkubb.com/wiki/User:Joshfeathers">Josh (Dobbie)</a> has a masterful drill followed by a "d:6f" in Turn 14 of <a href="http://wiki.planetkubb.com/wiki/Rockford_2012_Championship_Head_Slap_v._Tad_Kubbler_(Game_2)">Match 2</a>.</li>
+</ul>
+
+The page for each of these games dumps all of it's calculated data points raw. This is still very rough.
+
+All of this work is licensed (like all Planet Kubb content) under Creative Commons BY-SA. Please share your feedback and we can all make this even more awesome!
+
+<strong>It would be great to use these scoresheets on a number of games at Nationals this weekend!</strong>
+
+I really want to hear from you all and what you think about this? What looks odd? What stats for games would you like to see? What do you think of the scoresheets? Does the notation make sense? What do you think?

@@ -1,0 +1,28 @@
+[Event "2012 Clash of the Kubb"]
+[Start "2012-08-18"]
+[Surface "Grass"]
+[Team A "Shin Splitters"]
+[Team B "Dark Side of the Kubbsicle"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Garrickvanburen"]
+[Entered by "Garrickvanburen"]
+[Video "https://www.youtube.com/watch?v=bPuaGyJKmCo&feature=relmfu"]
+[Video offset "3:13"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:2012_Clash_of_the_Kubb_-_Semifinals_-_Shin_Splitters_v._Dark_Side_of_the_Kubbsicle/Game_2"]
+
+1. 0I B - - - - -
+2. I F B - - - - # this turn was edited out.
+3. 2I - - F F - -
+4. 2I 2F B - - - -
+5. 3IR F F - F - B
+6. 4I2R 2F F F - B -
+7. 5IR 3F F F - B -
+8. 6IR 3F F F - - F
+9. 6I2RP 2F 2F - F F -
+10. 6I 2F 2F F F - -
+11. 6IRP 3F F F - F -
+12. 6IR 2F F 2F F - -
+13. 6IR F F F - F -
+14. 4I A 3F F - B B K

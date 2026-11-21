@@ -1,0 +1,25 @@
+[Event "Canadian National Kubb Championship 2014"]
+[Location "Ottawa, ON, Canada"]
+[Start "2014-06-07"]
+[Surface "Grass"]
+[Team A "Gungnir"]
+[Team A Players "Dan Pritchard (d), Eric Yettru (e)"]
+[Team B "Morning Wood (CAN)"]
+[Team B Players "Mark Simmons (m), Nick Hannah (n)"]
+[First "Team A"]
+[Win "Team A"]
+[Scored by "Shane Hultquist"]
+[Stats "Yes"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Canadian_Nationals,_Gungnir_v._Morning_Wood_(CAN)_,_June_7_2014_Semi-Final_Game_1"]
+
+1. d:0I d:B d:- d:- e:B e:- e:-
+2. m:2I n:F n:F n:B m:B m:- m:-
+3. d:2I1R e:2I1R e:F e:F e:F d:- d:F d:-
+4. m:4I n:- n:- n:3F m:F m:- m:-
+5. d:2I1R e:2I1R d:F d:F d:F e:- e:- e:F
+6. m:4I1R n:- n:F n:F m:- m:- m:F
+7. d:3I1R A d:F d:F e:F e:B e:B d:-
+8. m:5I m:- m:- m:F n:- n:- n:-
+9. d:1I A e:F e:- e:- d:- d:B d:= # Just missed the king.
+10. m:2I n:- n:F n:- m:2F m:F m:-
+11. d:4I A d:F d:F d:F e:- e:F e:K

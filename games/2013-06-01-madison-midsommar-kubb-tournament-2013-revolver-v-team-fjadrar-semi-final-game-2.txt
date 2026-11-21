@@ -1,0 +1,20 @@
+[Event "Madison Midsommar Kubb Tournament 2013"]
+[Event date "2013-06-01"]
+[Team A "Revolver"]
+[Team A Players "Chad Bevers (cb), Chad Parsons (cp), Nate Olson (no), Joe Pendleton (jp), Evan Fitzgerald (ef), Chris Hodges (ch)"]
+[Team B "Team Fjadrar"]
+[Team B Players "Josh Feathers (jf), Steve Feathers (sf)"]
+[First "Team A"]
+[Win "Team B"]
+[Scored by "Chris Hodges"]
+[Video "http://www.youtube.com/watch?v=Cf4I2Nr_n8E"]
+[Video offset "21:58"]
+[Stats "No"]
+[Source "https://wiki.planetkubb.com/wiki/Game:Madison_Midsommar_Kubb_Tournament_2013,_Revolver_v._Team_Fjadrar,_(Semi-Final_Game_2)"]
+
+1. ef:0I ch:- no:- cp:- ef:- cb:- jp:- # ...Ouch. Effectively surrendering both the open and the wind. It's a pretty radical strategy--let's stay tuned & see how it works out for them...
+2. jf:0I sf:B sf:B sf:- jf:B jf:- jf:B
+3. ef:4I ef:2F no:F cp:- cb:- jp:- ch:F
+4. jf:4I jf:F jf:2F sf:F sf:- sf:- jf:-
+5. ef:4I ef:2F cp:2F ch:- no:- jp:- cb:-
+6. jf:4I jf:3F jf:F sf:- sf:B sf:K X
