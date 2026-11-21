@@ -31,6 +31,8 @@
       <li><a href="#examples">Examples</a></li>
       <li><a href="#game">A whole game</a></li>
       <li><a href="#kings">Kubbs hitting kings</a></li>
+      <li><a href="#positions">Where the kubbs stood</a></li>
+      <li><a href="#forms">Two forms</a></li>
       <li><a href="#metadata">Metadata</a></li>
       <li><a href="#history">Changes over the years</a></li>
     </ol>
@@ -173,6 +175,60 @@
     <li>If a baton knocks over field kubbs and one of them topples the king (the kubb, not the baton), put the <code>E</code> after the <code>F</code>. Three field kubbs, one of which falls into the king: <code>3FE</code>.</li>
   </ul>
 
+  <h2 id="positions">Where the kubbs stood</h2>
+  <p>Notation 2 can also record where on the pitch things happened. The turn line doesn't change. Positions go on a line of their own under it, and a game scored without them is still complete.</p>
+<pre>9. a:7I2R2P d:3F d:2F a:F a:- y:F c:B
+@b 5x4,0 0,3p 2,0p</pre>
+  <p>That second line is the <strong>pitch line</strong>. It says where every field kubb in Team B's half stood when the first baton was thrown: five in one cell, and two punishment kubbs.</p>
+  <p>The pitch is divided into cells one meter square. A cell is two numbers with a comma: how far across, then how deep.</p>
+<pre>                 Team B's baseline
+        +----+----+----+----+----+
+        | 0,3| 1,3| 2,3| 3,3| 4,3|
+        +----+----+----+----+----+
+        | 0,2| 1,2| 2,2| 3,2| 4,2|      half b
+        +----+----+----+----+----+
+        | 0,1| 1,1| 2,1| 3,1| 4,1|
+        +----+----+----+----+----+
+        | 0,0| 1,0| 2,0| 3,0| 4,0|
+ stake  O----+----+--K-+----+----+      the center line
+        | 0,0| 1,0| 2,0| 3,0| 4,0|
+        +----+----+----+----+----+
+        | 0,1| 1,1| 2,1| 3,1| 4,1|
+        +----+----+----+----+----+
+        | 0,2| 1,2| 2,2| 3,2| 4,2|      half a
+        +----+----+----+----+----+
+        | 0,3| 1,3| 2,3| 3,3| 4,3|
+        +----+----+----+----+----+
+                 Team A's baseline</pre>
+  <p>Across is counted from the center-line stake on Team A's left, as Team A stands on its own baseline facing the king. Depth is counted from the center line toward the baseline, the same way in both halves. The stake doesn't move during a game, so a cell means the same thing on every turn.</p>
+  <dl class="codes">
+    <dt>@a, @b</dt><dd>Starts a pitch line for Team A's half or Team B's half. List every field kubb standing in that half, or leave the line out. Base kubbs aren't listed.</dd>
+    <dt>4,0</dt><dd>A kubb in that cell, thrown in this turn.</dd>
+    <dt>5x4,0</dt><dd>Five kubbs in that cell.</dd>
+    <dt>0,3p</dt><dd>A punishment kubb, placed there this turn.</dd>
+    <dt>4,1s</dt><dd>A kubb that has been standing there since an earlier turn.</dd>
+  </dl>
+  <p>A turn can have a pitch line for each half. The half being attacked holds the kubbs just thrown in. The thrower's own half holds any kubbs the other team left standing, each marked <code>s</code>, and the advantage line runs through the one nearest the center line.</p>
+<pre>5. j:3I A j:3F m:B j:B m:B j:- m:K
+@a 4,1s
+@b 3x4,0</pre>
+  <h3>To the centimeter</h3>
+  <p>A program that knows exactly where everything is writes points in place of cells: the same two numbers, each with two decimals. Dropping the decimals gives the cell. It can add three more lines.</p>
+<pre>9. a:7I2R2P d:3F d:2F a:F a:- y:F c:B
+@b 4.48,0.11 4.52,0.34 4.60,0.03 4.63,0.22 4.97,0.14 0.40,3.80p 2.50,0.35p
+~b 4.45,0.09/4.57,0.18 4.54,0.31/4.45,0.43 4.59,0.06/4.63,-0.08 4.61,0.19/4.70,0.31 4.94,0.13/5.08,0.17
+^a 4.20,4.00 4.20,4.00 2.60,4.00 2.60,4.00 0.80,4.00 1.40,4.25
+*b 4.48,0.11+4.52,0.34+4.63,0.22 4.60,0.03+4.97,0.14 2.50,0.35 - 0.40,3.80 1.50,4.00</pre>
+  <dl class="codes">
+    <dt>~a, ~b</dt><dd>Where each kubb thrown in lay before it was raised, as its two ends. The first end is the one it was stood up on. An end can be a little off the pitch.</dd>
+    <dt>^a, ^b</dt><dd>Where each baton was thrown from, one for each baton on the turn line. <code>-</code> when it wasn't recorded.</dd>
+    <dt>*a, *b</dt><dd>Which kubbs each baton felled, one word for each baton, joined with <code>+</code>. <code>-</code> for a baton that felled none.</dd>
+  </dl>
+
+  <h2 id="forms">Two forms</h2>
+  <p>Everything on this page can be written loosely, the way people score: with or without colons, in upper or lower case, with a comment here and there. That is the <strong>lenient form</strong>, and every old scoresheet is in it.</p>
+  <p>Programs write the <strong>canonical form</strong>: one spelling of each thing, so that two records of the same game are the same text. It starts with <code>[Notation "2"]</code>, numbers every turn, puts a colon after every player, writes actions in capitals with one space between them, and never writes a count of one. The advantage line is a bare <code>A</code>. Any lenient game can be rewritten in the canonical form without changing what it says.</p>
+
   <h2 id="metadata">Metadata</h2>
   <p>A game can be kept in a plain text file. Put any details about it above the turns, one per line, in this form. Use whatever keys you like.</p>
 <pre>[Event "Twin Cities Winter Tournament 2012"]
@@ -187,13 +243,22 @@
 [Temperature "13 F"]</pre>
   <p>The <a href="/stats/">Stats</a> page reads a few of these. <code>Team A</code> and <code>Team B</code> name the teams, <code>First</code> says which team opened, and <code>Win</code> says which won. <code>Team A Players</code> and <code>Team B Players</code> map player tokens to names: <code>[Team A Players "Jamie Thingelstad (jt), Garrick van Buren (g)"]</code>.</p>
 
+  <p>Three keys say what rules the game was played under, for games that differ from the usual five base kubbs a side and six batons a turn:</p>
+  <dl class="codes">
+    <dt>Base kubbs</dt><dd>The base kubbs each side starts with: <code>[Base kubbs "3"]</code>.</dd>
+    <dt>Batons</dt><dd>The batons in a full turn: <code>[Batons "4"]</code>.</dd>
+    <dt>Opening</dt><dd>The batons in the first turns: <code>[Opening "2-4-6"]</code> gives the first turn two and the second four.</dd>
+  </dl>
+  <p><code>[Notation "2"]</code> says the file is in notation 2. A file without it is read the lenient way.</p>
+
   <h2 id="history">Changes over the years</h2>
   <ul>
     <li><strong>2012.</strong> The first version, written for scoring the US National Kubb Championship. The advantage line was marked <code>BA</code>, <code>MA</code> or <code>CA</code>, for a line near the baseline, the middle or the center line. <code>!</code> marked an illegal king hit, and <code>Q</code> already meant a rescued kubb.</li>
     <li><strong>2013.</strong> The scoresheet gained an on-pitch stats section: first-baton efficiency, zero base kubbs at throw number, and Hit %.</li>
     <li><strong>July 2014.</strong> <code>Y</code> was added for rescue attempts after King Pin made the first rescue attempt seen in US Championship play. Scoresheet v11 added a way to mark batons to clear. By then <code>E</code> had replaced <code>!</code>, and <code>W</code> and <code>G</code> covered called and resigned games.</li>
     <li><strong>By 2018.</strong> <code>A</code> took a distance in meters.</li>
-    <li><strong>Most recently.</strong> <code>N</code> (neighbor) was added, provisionally.</li>
+    <li><strong>Later.</strong> <code>N</code> (neighbor) was added, provisionally.</li>
+    <li><strong>2026.</strong> Notation 2: positions on lines of their own under the turn line, a canonical form for programs, and headers for the rules a game was played under. Everything written before still reads the same.</li>
   </ul>
   <p>The Stats page still reads <code>BA</code>, <code>MA</code>, <code>CA</code> and <code>!</code>, so old records work.</p>
   <p>For the exact rules, down to which characters can go where, see <a href="/spec/">the formal grammar</a>.</p>

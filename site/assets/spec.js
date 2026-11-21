@@ -47,6 +47,22 @@ function advantageWords(a) {
   return a.meters === null ? 'throwing from an advantage line' : `throwing from an advantage line ${plural(a.meters, 'meter', 'meters')} in`;
 }
 
+const LINE = { '@': 'Field kubbs standing', '~': 'Where the thrown kubbs lay', '^': 'Thrown from', '*': 'Felled' };
+const at = (p, cells) => p.map(v => (cells ? v : v.toFixed(2))).join(',');
+const HOW = { p: ' (punishment kubb)', s: ' (left from an earlier turn)' };
+
+function lineWords(l) {
+  const cells = l.precision === 'cell';
+  const where = `in ${l.half === 'a' ? "Team A's" : "Team B's"} half`;
+  const one = e => `${e.count > 1 ? e.count + ' at ' : ''}${at(e.at, cells)}`;
+  let list;
+  if (l.mark === '@') list = l.entries.map(e => one(e) + (HOW[e.mark] || ''));
+  else if (l.mark === '~') list = l.entries.map(e => `${at(e.ends[0], false)} to ${at(e.ends[1], false)}`);
+  else if (l.mark === '^') list = l.entries.map((p, i) => `baton ${i + 1}: ${p ? at(p, false) : 'not recorded'}`);
+  else list = l.entries.map((w, i) => `baton ${i + 1}: ${w ? w.map(one).join(' and ') : 'none'}`);
+  return `${LINE[l.mark]} ${where}: ${esc(list.join('; '))}`;
+}
+
 function show() {
   const text = src.value;
   if (!text.trim()) { verdict.innerHTML = ''; reading.innerHTML = ''; return; }
@@ -63,7 +79,11 @@ function show() {
     return;
   }
   const nt = g.turns.length;
-  verdict.innerHTML = `<div class="verdict ok"><b>Valid.</b> ${plural(g.headers.length, 'header', 'headers')}, ${plural(nt, 'turn', 'turns')}.</div>`;
+  // Is it also in the canonical form, the one spelling programs write?
+  let form = ' It is also in the canonical form.';
+  try { parse(text, { startRule: 'CanonicalGame' }); }
+  catch (e) { form = e.location ? ` Not in the canonical form: line ${e.location.start.line}, column ${e.location.start.column}.` : ''; }
+  verdict.innerHTML = `<div class="verdict ok"><b>Valid.</b> ${plural(g.headers.length, 'header', 'headers')}, ${plural(nt, 'turn', 'turns')}.${form}</div>`;
   const rows = [];
   for (const h of g.headers) rows.push(`<tr><td class="l"><code>[${esc(h.key)}]</code></td><td class="l">${esc(h.value)}</td></tr>`);
   g.turns.forEach((t, i) => {
@@ -71,6 +91,8 @@ function show() {
     for (const k of t.inkasts) rows.push(`<tr><td class="l"><code>${esc(k.player ? k.player + ':' : '')}${esc(k.text)}</code></td><td class="l">${who(k)}${inkastWords(k)}</td></tr>`);
     if (t.advantage) rows.push(`<tr><td class="l"><code>${esc(t.advantage.text)}</code></td><td class="l">${advantageWords(t.advantage)}</td></tr>`);
     t.batons.forEach((b, j) => rows.push(`<tr><td class="l"><code>${esc(b.player ? b.player + ':' : '')}${esc(b.text)}</code></td><td class="l">Baton ${j + 1}: ${who(b)}${batonWords(b)}</td></tr>`));
+    for (const l of t.lines) rows.push(`<tr><td class="l"><code>${esc(l.mark + l.half)}</code></td><td class="l">${lineWords(l)}</td></tr>`);
+    for (const issue of t.issues) rows.push(`<tr><td class="l"></td><td class="l"><span class="muted">${esc(issue.message)}</span></td></tr>`);
   });
   const strip = JSON.stringify(g, (k, v) => (k === 'location' ? undefined : v), 1)
     .replace(/\n\s+/g, ' ').replace(/(\{ "number")/g, '\n  $1');
