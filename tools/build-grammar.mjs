@@ -15,6 +15,8 @@ const code = peggy.generate(grammar, {
   output: 'source',
   format: 'es',
   grammarSource: 'planet-kubb-notation.peggy',
+  // The lenient form and the canonical form: parse(text, { startRule }).
+  allowedStartRules: ['Game', 'CanonicalGame'],
 });
 writeFileSync(new URL('site/assets/notation-parser.js', root),
   '// Generated from grammar/planet-kubb-notation.peggy by tools/build-grammar.mjs. Do not edit.\n' + code);
