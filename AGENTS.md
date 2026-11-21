@@ -19,6 +19,10 @@ made, and what is still open. Read both before non-trivial changes.
   `kubb.js` read all 1,328 turns and 7,954 batons the same way.
 - `node tools/check-parser.mjs` reports warnings in 39 games, 0 winner mismatches and 0
   unreadable tokens.
+- Notation 2 (a canonical form, and positions as part of the grammar) is designed in
+  `docs/notation-v2-proposal.md`, written 2026-11-21 against issue 5. It is stage one of three
+  and nothing in it is built: stage two is the grammar, the canonical rules and the conformance
+  suite here; stage three is the Kubb Engine's, against a tagged release.
 
 ## Rules for this repo
 
