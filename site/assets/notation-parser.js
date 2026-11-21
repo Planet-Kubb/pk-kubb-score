@@ -29,10 +29,23 @@
     return byCodePoint(a, b);
   }
 
+  // The comments in parentheses on a turn line, up to its # note.
+  function commentsIn(line) {
+    const found = [];
+    for (let i = 0; i < line.length && line[i] !== '#'; i++) {
+      if (line[i] !== '(') continue;
+      const end = line.indexOf(')', i);
+      found.push(line.slice(i + 1, end).trim());
+      i = end;
+    }
+    return found;
+  }
+
   const LINES = ['@a', '@b', '~a', '~b', '^a', '^b', '*a', '*b'];
   const NAMES = { '@': 'pitch', '~': 'lay', '^': 'stance', '*': 'felled' };
   const HOW = { s: 0, null: 1, p: 2 };
   const kubbsIn = entries => entries.reduce((n, e) => n + e.count, 0);
+  const some = n => `${n} ${n === 1 ? 'kubb' : 'kubbs'}`;
   const place = (a, b) => a.at[0] - b.at[0] || a.at[1] - b.at[1];
 
   // Where the lines of one turn disagree with each other. Each is checked
@@ -64,7 +77,7 @@
         else if (on.precision !== 'point') add(l, `A lay line needs its pitch line in points, not cells.`);
         else {
           const thrown = on.entries.filter(e => e.mark === null).length;
-          if (thrown !== l.entries.length) add(l, `The lay line has ${l.entries.length} kubbs, and its pitch line has ${thrown} thrown in.`);
+          if (thrown !== l.entries.length) add(l, `The lay line has ${some(l.entries.length)}, and its pitch line has ${thrown} thrown in.`);
         }
       }
       if (l.mark === '^' || l.mark === '*') {
@@ -74,7 +87,7 @@
           l.entries.forEach((word, i) => {
             if (word === null) return;
             const b = turn.batons[i], want = (b.field || 0) + (b.base || 0), have = kubbsIn(word);
-            if (have !== want) add(l, `Word ${i + 1} of the felled line has ${have} kubbs, and baton ${i + 1} (${b.text}) felled ${want}.`);
+            if (have !== want) add(l, `Word ${i + 1} of the felled line has ${some(have)}, and baton ${i + 1} (${b.text}) felled ${want}.`);
           });
         }
       }
@@ -506,7 +519,7 @@ function peg$parse(input, options) {
     turn.issues = turnIssues(turn);
     return turn;
   }
-  function peg$f4(number, body, note) {    return { number, ...body, note, location: location() };  }
+  function peg$f4(number, body, note) {    return { number, ...body, note, comments: commentsIn(text()), location: location() };  }
   function peg$f5(digits) {    return parseInt(digits, 10);  }
   function peg$f6(inkasts, advantage, batons) {    return { inkasts, advantage, batons: batons || [] };  }
   function peg$f7(advantage, batons) {    return { inkasts: [], advantage, batons: batons || [] };  }
@@ -589,7 +602,7 @@ function peg$parse(input, options) {
     if (turn.issues.length) error(turn.issues[0].message, turn.issues[0].location);
     return turn;
   }
-  function peg$f60(number, body, note) {    return { number, ...body, note, location: location() };  }
+  function peg$f60(number, body, note) {    return { number, ...body, note, comments: [], location: location() };  }
   function peg$f61(digits) {    return parseInt(digits, 10);  }
   function peg$f62(first, rest, advantage, batons) {    return { inkasts: [first, ...rest], advantage, batons };  }
   function peg$f63(advantage, batons) {    return { inkasts: [], advantage, batons };  }
@@ -2164,18 +2177,16 @@ function peg$parse(input, options) {
     }
     if (s0 === peg$FAILED) {
       s0 = peg$currPos;
-      s1 = peg$currPos;
-      s2 = input.charAt(peg$currPos);
-      if (peg$r12.test(s2)) {
+      s1 = input.charAt(peg$currPos);
+      if (peg$r12.test(s1)) {
         peg$currPos++;
       } else {
-        s2 = peg$FAILED;
+        s1 = peg$FAILED;
         if (peg$silentFails === 0) { peg$fail(peg$e30); }
       }
-      if (s2 === peg$FAILED) {
-        s2 = null;
+      if (s1 === peg$FAILED) {
+        s1 = null;
       }
-      s1 = input.substring(s1, peg$currPos);
       s2 = input.charAt(peg$currPos);
       if (s2.toLowerCase() === peg$c10) {
         peg$currPos++;
@@ -5130,18 +5141,16 @@ function peg$parse(input, options) {
         s5 = null;
       }
       s6 = peg$currPos;
-      s7 = peg$currPos;
-      s8 = input.charAt(peg$currPos);
-      if (peg$r22.test(s8)) {
+      s7 = input.charAt(peg$currPos);
+      if (peg$r22.test(s7)) {
         peg$currPos++;
       } else {
-        s8 = peg$FAILED;
+        s7 = peg$FAILED;
         if (peg$silentFails === 0) { peg$fail(peg$e101); }
       }
-      if (s8 === peg$FAILED) {
-        s8 = null;
+      if (s7 === peg$FAILED) {
+        s7 = null;
       }
-      s7 = input.substring(s7, peg$currPos);
       if (input.charCodeAt(peg$currPos) === 78) {
         s8 = peg$c47;
         peg$currPos++;

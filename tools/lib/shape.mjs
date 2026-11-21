@@ -15,10 +15,14 @@ export function shapeParse(g) {
           field: b.field || 0, base: b.base || 0, E: !!b.illegalKing })),
         note: t.note,
       };
+      if (t.comments && t.comments.length) turn.comments = t.comments;
       // Notation 2: position lines, only when the turn has any.
       if (t.lines && t.lines.length) {
-        turn.lines = t.lines.map(l => ({ mark: l.mark, half: l.half, entries: l.entries }));
+        turn.lines = t.lines.map(l => ({ mark: l.mark, half: l.half, precision: l.precision, entries: l.entries }));
       }
+      // Where a turn's lines disagree with each other (the lenient form reads
+      // such a turn and reports it; the canonical form refuses it).
+      if (t.issues && t.issues.length) turn.issues = t.issues.map(i => i.message);
       return turn;
     }),
   };

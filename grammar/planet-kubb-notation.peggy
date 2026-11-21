@@ -53,10 +53,23 @@
     return byCodePoint(a, b);
   }
 
+  // The comments in parentheses on a turn line, up to its # note.
+  function commentsIn(line) {
+    const found = [];
+    for (let i = 0; i < line.length && line[i] !== '#'; i++) {
+      if (line[i] !== '(') continue;
+      const end = line.indexOf(')', i);
+      found.push(line.slice(i + 1, end).trim());
+      i = end;
+    }
+    return found;
+  }
+
   const LINES = ['@a', '@b', '~a', '~b', '^a', '^b', '*a', '*b'];
   const NAMES = { '@': 'pitch', '~': 'lay', '^': 'stance', '*': 'felled' };
   const HOW = { s: 0, null: 1, p: 2 };
   const kubbsIn = entries => entries.reduce((n, e) => n + e.count, 0);
+  const some = n => `${n} ${n === 1 ? 'kubb' : 'kubbs'}`;
   const place = (a, b) => a.at[0] - b.at[0] || a.at[1] - b.at[1];
 
   // Where the lines of one turn disagree with each other. Each is checked
@@ -88,7 +101,7 @@
         else if (on.precision !== 'point') add(l, `A lay line needs its pitch line in points, not cells.`);
         else {
           const thrown = on.entries.filter(e => e.mark === null).length;
-          if (thrown !== l.entries.length) add(l, `The lay line has ${l.entries.length} kubbs, and its pitch line has ${thrown} thrown in.`);
+          if (thrown !== l.entries.length) add(l, `The lay line has ${some(l.entries.length)}, and its pitch line has ${thrown} thrown in.`);
         }
       }
       if (l.mark === '^' || l.mark === '*') {
@@ -98,7 +111,7 @@
           l.entries.forEach((word, i) => {
             if (word === null) return;
             const b = turn.batons[i], want = (b.field || 0) + (b.base || 0), have = kubbsIn(word);
-            if (have !== want) add(l, `Word ${i + 1} of the felled line has ${have} kubbs, and baton ${i + 1} (${b.text}) felled ${want}.`);
+            if (have !== want) add(l, `Word ${i + 1} of the felled line has ${some(have)}, and baton ${i + 1} (${b.text}) felled ${want}.`);
           });
         }
       }
@@ -214,7 +227,7 @@ Turn
 // 7. 3I 2F F - B B = # Missed king shot!
 TurnLine
   = _ number:TurnNumber? Gap* body:TurnBody Gap* note:Note? (EOL / !.)
-    { return { number, ...body, note, location: location() }; }
+    { return { number, ...body, note, comments: commentsIn(text()), location: location() }; }
 
 TurnNumber
   = digits:$[0-9]+ "."
@@ -293,7 +306,7 @@ InkastBody
 
 InkastPart "kubb tossing code (I R P Y Q N)"
   = n:Count? code:[IRPYQ]i { return [code.toUpperCase(), count(n, 1)]; }
-  / n:$[0-5]? "N"i         { return ['N', count(n, 1)]; }
+  / n:[0-5]? "N"i          { return ['N', count(n, 1)]; }
 
 // A count in front of an action: 0 to 10.
 Count "number (0-10)"
@@ -509,7 +522,7 @@ CTurn
 // The turn number, tokens with one space between them, and an optional note.
 CTurnLine
   = number:CTurnNumber ". " body:CTurnBody note:CNote? "\n"
-    { return { number, ...body, note, location: location() }; }
+    { return { number, ...body, note, comments: [], location: location() }; }
 
 CTurnNumber "turn number"
   = digits:$([1-9] [0-9]*)
@@ -552,7 +565,7 @@ CKubbsBody
     p:(n:CCount? "P" { return count(n, 1); })?
     y:(n:CCount? "Y" { return count(n, 1); })?
     q:(n:CCount? "Q" { return count(n, 1); })?
-    nn:(n:$[2-5]? "N" { return count(n, 1); })?
+    nn:(n:[2-5]? "N" { return count(n, 1); })?
     &{ return [i, r, p, y, q, nn].some(v => v !== null); }
     e:"E"?
     { return { text: text(), I: i || 0, R: r || 0, P: p || 0, Y: y || 0, Q: q || 0, N: nn || 0, illegalKing: !!e }; }

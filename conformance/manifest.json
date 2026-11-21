@@ -1,0 +1,12 @@
+{
+ "notation": 2,
+ "edition": "2026.11",
+ "files": {
+  "archive.json": 150,
+  "lenient.json": 27,
+  "canonical.json": 18,
+  "invalid.json": 122,
+  "canonicalize.json": 22,
+  "reader.json": 31
+ }
+}
