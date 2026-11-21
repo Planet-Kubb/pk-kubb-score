@@ -26,8 +26,9 @@ made, and what is still open. Read both before non-trivial changes.
   conformance suite here; stage three is the Kubb Engine's, against a tagged release.
 - Stage two is built (2026-11-21): the grammar's two start rules (`Game`, `CanonicalGame`),
   `site/assets/canonical.js`, position lines and rule headers in `kubb.js`, `conformance/`, and
-  the description in `docs/notation-2.md` (edition 2026.11). **Not tagged**: the release tag
-  `v2-2026.11` is what the engine pins, and it has not been made.
+  the description in `docs/notation-2.md` (edition 2026.11). Released as the tag `v2-2026.11`
+  (Jamie's go-ahead, 2026-11-21), which is what the Kubb Engine pins for stage three. A tag is
+  never moved: a later edition gets its own tag, named for the month it is tagged.
 
 ## Rules for this repo
 
