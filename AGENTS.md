@@ -21,9 +21,9 @@ made, and what is still open. Read both before non-trivial changes.
   unreadable tokens.
 - Notation 2 (a canonical form, and positions on lines of their own under an unchanged turn
   line) is designed in `docs/notation-v2-proposal.md`, written 2026-11-21 against issue 5 and
-  revised that day after review on pull request 6. It is stage one of three
-  and nothing in it is built: stage two is the grammar, the canonical rules and the conformance
-  suite here; stage three is the Kubb Engine's, against a tagged release.
+  revised that day after review on pull request 6. Jamie approved it on 2026-11-21, with cells
+  written `4,1`. It is stage one of three: stage two is the grammar, the canonical rules and the
+  conformance suite here; stage three is the Kubb Engine's, against a tagged release.
 
 ## Rules for this repo
 

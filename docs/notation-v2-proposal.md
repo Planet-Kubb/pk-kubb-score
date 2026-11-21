@@ -1,9 +1,10 @@
 # Planet Kubb Notation 2: design proposal
 
-Status: proposal for review, 2026-11-21. Stage one of three. Nothing here is built. Stage two
-(the grammar, the canonical-form rules and the conformance suite) starts when this is approved.
-Stage three (the Kubb Engine writing notation 2) belongs to the engine's maintainer, against a
-tagged release of this repository.
+Status: approved by Jamie, 2026-11-21, with cells written `4,1`. Stage one of three. This is the
+design record; stage two builds the grammar, the canonical-form rules and the conformance suite
+from it, and where they come to differ from this page, they are the notation. Stage three (the
+Kubb Engine writing notation 2) belongs to the engine's maintainer, against a tagged release of
+this repository.
 
 It answers [issue 5](https://github.com/Planet-Kubb/pk-kubb-score/issues/5), the engine's
 requirements. Comment on any line.
@@ -71,7 +72,7 @@ bytes, and the canonical form of a canonical file is itself.
 | | Canonical rule |
 |---|---|
 | File | UTF-8, no byte-order mark, `\n` line ends, one at the end of the file. |
-| Headers | `[Key "value"]`, one per line, one space between key and value, no key twice. `[Notation "2"]` is the first; the rest stay in the writer's order. A key the spec does not define is kept as written. Inside a value only `\"` and `\\` are escapes. Then one blank line. |
+| Headers | `[Key "value"]`, one per line, one space between key and value, no key twice. `[Notation "2"]` is the first, then the keys the spec defines in the spec's order, then any others in code-point order, so two writers with the same headers write the same bytes. A key the spec does not define is kept as written. Inside a value only `\"` and `\\` are escapes. Then one blank line. |
 | Turn line | `n. `, then tokens with one space between them, then an optional ` # note`. Turns are numbered from 1 with none skipped. No blank lines or comment lines between turns. |
 | Player | `id:` before the action, with the colon, lowercase letters and `_`. A token may have no player. |
 | Counts | 2 to 10 are written; a count of one is not (`F`, never `1F`). Zero appears only as `0I`. |
@@ -662,6 +663,9 @@ repair is never mistaken for valid notation.
   form.
 
 ## Needs deciding before stage two
+
+Decided: Jamie approved all nine as proposed on 2026-11-21, with the one change to item 3 noted
+there.
 
 1. **Position lines under an unchanged turn line**, and their marks: `@` stands, `~` lay, `^`
    thrown from, `*` felled. This is the part hardest to change later.
