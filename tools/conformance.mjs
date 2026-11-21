@@ -97,10 +97,21 @@ function build() {
     return { name, text, grammar, reading: r };
   });
 
-  const names = Object.values(files).flatMap(f => f.map(c => c.name));
+  // The manifest tells a script what to do with each file: which field of a
+  // case is the input, which check to run on it, and which field holds the
+  // expected result.
+  const entry = (file, check, input, expect, more = {}) => ({ file, cases: files[file] ? files[file].length : 0, check, input, expect, ...more });
   files['manifest.json'] = {
     notation: NOTATION, edition: EDITION,
-    files: { 'archive.json': 0, ...Object.fromEntries(Object.entries(files).map(([f, c]) => [f, c.length])) },
+    startRules: { lenient: 'Game', canonical: 'CanonicalGame' },
+    files: [
+      entry('lenient.json', 'parse', 'text', 'parse', { form: 'lenient' }),
+      entry('canonical.json', 'parse', 'text', 'parse', { form: 'canonical', also: ['same-parse-in-lenient-form', 'canonicalize-leaves-unchanged'] }),
+      entry('invalid.json', 'reject', 'text', null, { formFrom: 'form', hint: ['line', 'column', 'message'] }),
+      entry('canonicalize.json', 'canonicalize', 'lenient', 'canonical', { reports: 'reports', refused: 'cannot' }),
+      entry('reader.json', 'read', 'text', 'reading', { lenientGrammarFrom: 'grammar' }),
+      entry('archive.json', 'archive', 'file', ['grammar', 'reading'], { games: '../games/' }),
+    ],
   };
   for (const [f, c] of Object.entries(files)) {
     if (!Array.isArray(c)) continue;
@@ -142,7 +153,7 @@ function checkArchive() {
 
 const files = build();
 const archive = checkArchive();
-files['manifest.json'].files['archive.json'] = archive.games;
+files['manifest.json'].files.find(f => f.file === 'archive.json').cases = archive.games;
 
 const text = Object.fromEntries(Object.entries(files).map(([f, c]) => [f, Array.isArray(c) ? lines(c) : pretty(c)]));
 
@@ -168,7 +179,7 @@ if (process.argv.includes('--write')) {
   }
 }
 
-const n = files['manifest.json'].files;
+const n = Object.fromEntries(files['manifest.json'].files.map(f => [f.file, f.cases]));
 console.log(`conformance: notation ${NOTATION}, edition ${EDITION}`);
 console.log(`  archive: ${archive.same} of ${archive.games} games read as they did under notation 1; ${archive.written} written in canonical form and read back the same`);
 console.log(`  ${n['lenient.json']} lenient and ${n['canonical.json']} canonical files read, ${n['invalid.json']} refused, ${n['canonicalize.json']} made canonical, ${n['reader.json']} readings`);

@@ -4,7 +4,15 @@ Data for checking a parser, a writer or a reader of the notation, in any languag
 is described in `docs/notation-2.md` and defined by `grammar/planet-kubb-notation.peggy`; this
 is what makes the definition testable.
 
-`manifest.json` names the notation and the edition, and how many cases each file holds.
+`manifest.json` is the suite's index, for a script: the notation and the edition, the grammar's
+two start rules, and for each file how many cases it holds, which `check` to run (`parse`,
+`reject`, `canonicalize`, `read`, `archive`), which field of a case is the `input`, and which
+field is the result to `expect`. `form` is the form to parse in; `formFrom` names the field of
+each case that says it instead. In `invalid.json` a case with `form` `lenient` is refused in
+both forms, and one with `canonical` is valid lenient and refused as canonical. `also` lists
+further checks on `canonical.json`: each text parses the same in the lenient form, and making it
+canonical leaves it unchanged. `lenientGrammarFrom` names the field of a `reader.json` case that
+says whether the lenient grammar `accepts` or `rejects` the text.
 
 | File | What it holds | A conforming implementation |
 |---|---|---|
