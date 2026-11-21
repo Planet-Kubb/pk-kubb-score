@@ -5,7 +5,8 @@
   "description": "Planet Kubb Notation: grammar, parser and website",
   "scripts": {
     "grammar": "node tools/build-grammar.mjs",
-    "test": "node tools/test-grammar.mjs && node tools/check-parser.mjs"
+    "test": "node tools/test-grammar.mjs && node tools/check-parser.mjs && node tools/conformance.mjs",
+    "conformance": "node tools/conformance.mjs"
   },
   "devDependencies": {
     "peggy": "^5.1.0",

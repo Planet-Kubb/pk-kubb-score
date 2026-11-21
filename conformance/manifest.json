@@ -1,0 +1,71 @@
+{
+ "notation": 2,
+ "edition": "2026.11",
+ "startRules": {
+  "lenient": "Game",
+  "canonical": "CanonicalGame"
+ },
+ "files": [
+  {
+   "file": "lenient.json",
+   "cases": 27,
+   "check": "parse",
+   "input": "text",
+   "expect": "parse",
+   "form": "lenient"
+  },
+  {
+   "file": "canonical.json",
+   "cases": 18,
+   "check": "parse",
+   "input": "text",
+   "expect": "parse",
+   "form": "canonical",
+   "also": [
+    "same-parse-in-lenient-form",
+    "canonicalize-leaves-unchanged"
+   ]
+  },
+  {
+   "file": "invalid.json",
+   "cases": 122,
+   "check": "reject",
+   "input": "text",
+   "expect": null,
+   "formFrom": "form",
+   "hint": [
+    "line",
+    "column",
+    "message"
+   ]
+  },
+  {
+   "file": "canonicalize.json",
+   "cases": 24,
+   "check": "canonicalize",
+   "input": "lenient",
+   "expect": "canonical",
+   "reports": "reports",
+   "refused": "cannot"
+  },
+  {
+   "file": "reader.json",
+   "cases": 31,
+   "check": "read",
+   "input": "text",
+   "expect": "reading",
+   "lenientGrammarFrom": "grammar"
+  },
+  {
+   "file": "archive.json",
+   "cases": 150,
+   "check": "archive",
+   "input": "file",
+   "expect": [
+    "grammar",
+    "reading"
+   ],
+   "games": "../games/"
+  }
+ ]
+}

@@ -32,14 +32,34 @@ truth for the notation's syntax. Game logic (does the inkast match the kubbs kno
 should there be an advantage line) is not syntax; `site/assets/kubb.js` checks that by
 replaying the game.
 
+The grammar is Planet Kubb Notation 2, and has two start rules. `Game` is the lenient form:
+everything notation 1 allowed, plus position lines under a turn line. `CanonicalGame` is the
+canonical form, one spelling of each thing, for programs to write. The generated parser takes
+either: `parse(text)` or `parse(text, { startRule: 'CanonicalGame' })`.
+`site/assets/canonical.js` writes any valid file in the canonical form.
+
 - `npm install` once, then `npm run grammar` after editing the grammar. That compiles it into
   `site/assets/notation-parser.js`, copies it to `site/spec/`, and redraws the railroad diagrams
   in `site/spec/index.html` (between the `<!-- diagram:Rule -->` markers).
 - `npm test` checks the grammar against all 150 games, the docs' examples and a list of strings
   that must be rejected. It also checks that the grammar and `kubb.js` read every turn the same
   way. 149 games are valid; the Nordic Fest 2012 final, game 3, turn 6 has a real `F-` slip.
+  Then it runs the conformance suite.
 - `site/spec/` is the Grammar page: what a grammar is, a live checker, the railroad diagrams,
   and the decisions the grammar settles.
+
+## Notation 2
+
+- `docs/notation-2.md` is the notation's description: the two forms, the headers, the pitch
+  frame, and position lines. Its edition is 2026.11.
+- `conformance/` is the conformance suite, data that a parser in any language can be run
+  against: texts that must read a given way, texts that must be refused, lenient texts with
+  their canonical form, what a reader concludes, and `archive.json`, what the notation 1
+  grammar and reader made of all 150 archived games. `conformance/README.md` describes each
+  file. `tools/conformance-cases.mjs` holds the cases, and `node tools/conformance.mjs --write`
+  records what this repository's code gives for them.
+- `docs/notation-v2-proposal.md` is the design record: what was proposed, reviewed and decided,
+  and every difference found between the published page, the grammar and the reader.
 
 ## Layout
 
@@ -118,6 +138,8 @@ n. [p:]KUBBS [A] p:BATON p:BATON ... # note
 - `A`: the attacking team threw from an advantage line.
 - `BATON`: `-` miss, `F`/`nF` field kubbs, `B`/`nB` base kubbs, `FB` combinations, `K` king,
   `=` missed king, `X` unthrown, `!` illegal king hit, `Z` illegal throw.
+- A line under a turn that starts with `@`, `~`, `^` or `*` is a notation 2 position line. No
+  archived game has one.
 - `p:`: the player id, present on 107 of the 150 games. Ids are lowercased, with spaces turned into `_`.
 - Batons are kept as recorded, with action codes uppercased. A turn can have fewer than six:
   the 2015 games use the 2-4-6 opening (2 batons, then 4, then 6).

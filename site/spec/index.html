@@ -9,7 +9,7 @@
 <meta name="theme-color" content="#17140f" media="(prefers-color-scheme: dark)">
 <link rel="stylesheet" href="/assets/site.css?v=2">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='3' y='1' width='6' height='14' rx='1' fill='%235c3a21'/%3E%3Crect x='10' y='5' width='4' height='10' rx='1' fill='%232f6b3a'/%3E%3C/svg%3E">
-<script type="module" src="/assets/spec.js?v=1"></script>
+<script type="module" src="/assets/spec.js?v=2"></script>
 </head>
 <body>
 <header class="site-head"><div class="wrap">
@@ -36,9 +36,107 @@
   <p>Each rule below is drawn as a railroad diagram. Start at the left and follow the track to the right. Whenever the track splits you can take either branch, and loops let you repeat. Any path you can trace spells out something valid. Green boxes are literal characters to type. Brown boxes are other rules, drawn further down the page.</p>
 
   <h3>A turn</h3>
-  <p>One line: an optional turn number, the body, then an optional <code>#</code> note.</p>
+  <p>A turn line, and then any position lines that belong to it.</p>
   <div class="rr"><!-- diagram:Turn -->
-<svg role="img" aria-label="Railroad diagram of the Turn rule" class="railroad-diagram" width="833.5" height="133" viewBox="0 0 833.5 133" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg role="img" aria-label="Railroad diagram of the Turn rule" class="railroad-diagram" width="541" height="128" viewBox="0 0 541 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 62v20m0 -10h20"></path>
+</g>
+<path d="M40 72h10"></path>
+<g class="Group rule">
+<path d="M50 72h0"></path>
+<path d="M491 72h0"></path>
+<rect x="50" y="36" width="441" height="72" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 72h10"></path>
+<path d="M481 72h10"></path>
+<path d="M148 72h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M60 72h0"></path>
+<path d="M148 72h0"></path>
+<rect x="60" y="61" width="88" height="22"></rect>
+<text x="104" y="76">TurnLine</text>
+</g>
+<g class="Choice">
+<path d="M158 72h0"></path>
+<path d="M481 72h0"></path>
+<path d="M158 72a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M178 44h283"></path>
+</g>
+<path d="M461 44a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M158 72h20"></path>
+<g class="OneOrMore">
+<path d="M178 72h0"></path>
+<path d="M461 72h0"></path>
+<path d="M188 72a10 10 0 0 0 -10 10v8a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M188 100h263"></path>
+</g>
+<path d="M451 100a10 10 0 0 0 10 -10v-8a10 10 0 0 0 -10 -10"></path>
+<path d="M178 72h10"></path>
+<path d="M451 72h10"></path>
+<g class="Sequence">
+<path d="M188 72h0"></path>
+<path d="M451 72h0"></path>
+<g class="Choice">
+<path d="M188 72h0"></path>
+<path d="M319 72h0"></path>
+<path d="M188 72a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M208 52h91"></path>
+</g>
+<path d="M299 52a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M188 72h20"></path>
+<g class="OneOrMore">
+<path d="M208 72h0"></path>
+<path d="M299 72h0"></path>
+<path d="M218 72a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M218 92h71"></path>
+</g>
+<path d="M289 92a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M208 72h10"></path>
+<path d="M289 72h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M218 72h0"></path>
+<path d="M289 72h0"></path>
+<rect x="218" y="61" width="71" height="22"></rect>
+<text x="253.5" y="76">Spacer</text>
+</g>
+</g>
+<path d="M299 72h20"></path>
+</g>
+<path d="M319 72h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M329 72h0"></path>
+<path d="M451 72h0"></path>
+<rect x="329" y="61" width="122" height="22"></rect>
+<text x="390" y="76">PositionLine</text>
+</g>
+</g>
+</g>
+<path d="M461 72h20"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M88 28h0"></path>
+<text x="69" y="33" class="comment">Turn</text>
+</g>
+</g>
+<path d="M491 72h10"></path>
+<path class="End" d="M 501 72 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+
+  <h3>The turn line</h3>
+  <p>One line: an optional turn number, the body, then an optional <code>#</code> note.</p>
+  <div class="rr"><!-- diagram:TurnLine -->
+<svg role="img" aria-label="Railroad diagram of the TurnLine rule" class="railroad-diagram" width="833.5" height="133" viewBox="0 0 833.5 133" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g transform="translate(.5 .5)">
 <g class="Start">
 <path d="M20 54v20m0 -10h20"></path>
@@ -191,8 +289,8 @@
 </g>
 <g class="comment">
 <path d="M50 28h0"></path>
-<path d="M88 28h0"></path>
-<text x="69" y="33" class="comment">Turn</text>
+<path d="M116 28h0"></path>
+<text x="83" y="33" class="comment">TurnLine</text>
 </g>
 </g>
 <path d="M783.5 64h10"></path>
@@ -1292,6 +1390,1655 @@
 </svg>
 <!-- /diagram --></div>
 
+  <h2 id="positions">Position lines</h2>
+  <p>Notation 2 adds lines that say where things were on the pitch. Each sits under its turn line and starts with a mark and a half: <code>@</code> for where the field kubbs stand, <code>~</code> for where the thrown kubbs lay, <code>^</code> for where each baton was thrown from, and <code>*</code> for which kubbs each baton felled. The <a href="/notation/#positions">notation page</a> explains them.</p>
+  <div class="rr"><!-- diagram:PositionLine -->
+<svg role="img" aria-label="Railroad diagram of the PositionLine rule" class="railroad-diagram" width="469" height="184" viewBox="0 0 469 184" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M419 55h0"></path>
+<rect x="50" y="36" width="369" height="128" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M409 55h10"></path>
+<path d="M88.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M60 55h0"></path>
+<path d="M88.5 55h0"></path>
+<rect x="60" y="44" width="28.5" height="22"></rect>
+<text x="74.25" y="59">_</text>
+</g>
+<g class="Choice">
+<path d="M98.5 55h0"></path>
+<path d="M243.5 55h0"></path>
+<path d="M98.5 55h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M118.5 55h4.25"></path>
+<path d="M219.25 55h4.25"></path>
+<rect x="122.75" y="44" width="96.5" height="22"></rect>
+<text x="171" y="59">PitchLine</text>
+</g>
+<path d="M223.5 55h20"></path>
+<path d="M98.5 55a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal rule-ref">
+<path d="M118.5 85h12.75"></path>
+<path d="M210.75 85h12.75"></path>
+<rect x="131.25" y="74" width="79.5" height="22"></rect>
+<text x="171" y="89">LayLine</text>
+</g>
+<path d="M223.5 85a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M98.5 55a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="non-terminal rule-ref">
+<path d="M118.5 115h0"></path>
+<path d="M223.5 115h0"></path>
+<rect x="118.5" y="104" width="105" height="22"></rect>
+<text x="171" y="119">StanceLine</text>
+</g>
+<path d="M223.5 115a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M98.5 55a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
+<g class="non-terminal rule-ref">
+<path d="M118.5 145h0"></path>
+<path d="M223.5 145h0"></path>
+<rect x="118.5" y="134" width="105" height="22"></rect>
+<text x="171" y="149">FelledLine</text>
+</g>
+<path d="M223.5 145a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M243.5 55h10"></path>
+<path d="M282 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M253.5 55h0"></path>
+<path d="M282 55h0"></path>
+<rect x="253.5" y="44" width="28.5" height="22"></rect>
+<text x="267.75" y="59">_</text>
+</g>
+<g class="Choice">
+<path d="M292 55h0"></path>
+<path d="M409 55h0"></path>
+<path d="M292 55h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M312 55h15.75"></path>
+<path d="M373.25 55h15.75"></path>
+<rect x="327.75" y="44" width="45.5" height="22"></rect>
+<text x="350.5" y="59">EOL</text>
+</g>
+<path d="M389 55h20"></path>
+<path d="M292 55a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="Sequence">
+<path d="M312 85h0"></path>
+<path d="M389 85h0"></path>
+<path d="M340.5 85h10"></path>
+<g class="decision simple-and">
+<path d="M312 85h0"></path>
+<path d="M340.5 85h0"></path>
+<path d="M312 85v5.5l5.5 5.5h17.5l5.5 -5.5v-11l-5.5 -5.5h-17.5l-5.5 5.5v5.5"></path>
+<text x="326.25" y="89">!</text>
+</g>
+<path d="M350.5 85h10"></path>
+<g class="terminal any">
+<path d="M360.5 85h0"></path>
+<path d="M389 85h0"></path>
+<rect x="360.5" y="74" width="28.5" height="22" rx="10" ry="10"></rect>
+<text x="374.75" y="89">.</text>
+</g>
+</g>
+<path d="M389 85a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M144 28h0"></path>
+<text x="97" y="33" class="comment">PositionLine</text>
+</g>
+</g>
+<path d="M419 55h10"></path>
+<path class="End" d="M 429 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+
+  <h3>The pitch line</h3>
+  <p>Every field kubb standing in one half. Kubbs in the same cell take a count, and a letter says how a kubb came to be there: <code>p</code> for a punishment kubb, <code>s</code> for one left from an earlier turn.</p>
+  <div class="rr"><!-- diagram:PitchLine -->
+<svg role="img" aria-label="Railroad diagram of the PitchLine rule" class="railroad-diagram" width="450" height="103" viewBox="0 0 450 103" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M400 55h0"></path>
+<rect x="50" y="36" width="350" height="47" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M390 55h10"></path>
+<path d="M105.5 55h10"></path>
+<g class="terminal literal">
+<path d="M60 55h0"></path>
+<path d="M105.5 55h0"></path>
+<rect x="60" y="44" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="82.75" y="59">"@"</text>
+</g>
+<path d="M115.5 55h10"></path>
+<path d="M179.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M125.5 55h0"></path>
+<path d="M179.5 55h0"></path>
+<rect x="125.5" y="44" width="54" height="22"></rect>
+<text x="152.5" y="59">Half</text>
+</g>
+<path d="M189.5 55h10"></path>
+<g class="OneOrMore">
+<path d="M199.5 55h0"></path>
+<path d="M390 55h0"></path>
+<path d="M209.5 55a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M209.5 75h170.5"></path>
+</g>
+<path d="M380 75a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M199.5 55h10"></path>
+<path d="M380 55h10"></path>
+<g class="Sequence">
+<path d="M209.5 55h0"></path>
+<path d="M380 55h0"></path>
+<path d="M272 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M209.5 55h0"></path>
+<path d="M272 55h0"></path>
+<rect x="209.5" y="44" width="62.5" height="22"></rect>
+<text x="240.75" y="59">Blank</text>
+</g>
+<path d="M282 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M292 55h0"></path>
+<path d="M380 55h0"></path>
+<rect x="292" y="44" width="88" height="22"></rect>
+<text x="336" y="59">Standing</text>
+</g>
+</g>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M123 28h0"></path>
+<text x="86.5" y="33" class="comment">PitchLine</text>
+</g>
+</g>
+<path d="M400 55h10"></path>
+<path class="End" d="M 410 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:Standing -->
+<svg role="img" aria-label="Railroad diagram of the Standing rule" class="railroad-diagram" width="650.5" height="142" viewBox="0 0 650.5 142" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 54v20m0 -10h20"></path>
+</g>
+<path d="M40 64h10"></path>
+<g class="Group rule">
+<path d="M50 64h0"></path>
+<path d="M600.5 64h0"></path>
+<rect x="50" y="36" width="550.5" height="86" rx="10" ry="10" class="group-box"></rect>
+<g class="Choice">
+<path d="M50 64h0"></path>
+<path d="M600.5 64h0"></path>
+<path d="M50 64h20"></path>
+<g class="Sequence">
+<path d="M70 64h0"></path>
+<path d="M580.5 64h0"></path>
+<g class="Choice">
+<path d="M70 64h0"></path>
+<path d="M289 64h0"></path>
+<path d="M70 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M90 44h179"></path>
+</g>
+<path d="M269 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M70 64h20"></path>
+<g class="Sequence">
+<path d="M90 64h0"></path>
+<path d="M269 64h0"></path>
+<path d="M195 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M90 64h0"></path>
+<path d="M195 64h0"></path>
+<rect x="90" y="53" width="105" height="22"></rect>
+<text x="142.5" y="68">LooseCount</text>
+</g>
+<path d="M205 64h10"></path>
+<g class="terminal literal">
+<path d="M215 64h0"></path>
+<path d="M269 64h0"></path>
+<rect x="215" y="53" width="54" height="22" rx="10" ry="10"></rect>
+<text x="242" y="68">"x"i</text>
+</g>
+</g>
+<path d="M269 64h20"></path>
+</g>
+<path d="M289 64h10"></path>
+<path d="M353 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M299 64h0"></path>
+<path d="M353 64h0"></path>
+<rect x="299" y="53" width="54" height="22"></rect>
+<text x="326" y="68">Cell</text>
+</g>
+<g class="Choice">
+<path d="M363 64h0"></path>
+<path d="M457 64h0"></path>
+<path d="M363 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M383 44h54"></path>
+</g>
+<path d="M437 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M363 64h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M383 64h0"></path>
+<path d="M437 64h0"></path>
+<rect x="383" y="53" width="54" height="22"></rect>
+<text x="410" y="68">Mark</text>
+</g>
+<path d="M437 64h20"></path>
+</g>
+<path d="M457 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M467 64h0"></path>
+<path d="M580.5 64h0"></path>
+<rect x="467" y="53" width="113.5" height="22"></rect>
+<text x="523.75" y="68">PositionEnd</text>
+</g>
+</g>
+<path d="M580.5 64h20"></path>
+<path d="M50 64a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
+<g class="Sequence">
+<path d="M70 103h110.25"></path>
+<path d="M470.25 103h110.25"></path>
+<path d="M242.75 103h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M180.25 103h0"></path>
+<path d="M242.75 103h0"></path>
+<rect x="180.25" y="92" width="62.5" height="22"></rect>
+<text x="211.5" y="107">Point</text>
+</g>
+<g class="Choice">
+<path d="M252.75 103h0"></path>
+<path d="M346.75 103h0"></path>
+<path d="M252.75 103a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M272.75 83h54"></path>
+</g>
+<path d="M326.75 83a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M252.75 103h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M272.75 103h0"></path>
+<path d="M326.75 103h0"></path>
+<rect x="272.75" y="92" width="54" height="22"></rect>
+<text x="299.75" y="107">Mark</text>
+</g>
+<path d="M326.75 103h20"></path>
+</g>
+<path d="M346.75 103h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M356.75 103h0"></path>
+<path d="M470.25 103h0"></path>
+<rect x="356.75" y="92" width="113.5" height="22"></rect>
+<text x="413.5" y="107">PositionEnd</text>
+</g>
+</g>
+<path d="M580.5 103a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M186 28h0"></path>
+<text x="118" y="33" class="comment">Standing(position)</text>
+</g>
+</g>
+<path d="M600.5 64h10"></path>
+<path class="End" d="M 610.5 64 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+
+  <h3>The lay, stance and felled lines</h3>
+  <p>Written by programs. The stance and felled lines have one word for each baton on the turn line.</p>
+  <div class="rr"><!-- diagram:LayLine -->
+<svg role="img" aria-label="Railroad diagram of the LayLine rule" class="railroad-diagram" width="407.5" height="103" viewBox="0 0 407.5 103" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M357.5 55h0"></path>
+<rect x="50" y="36" width="307.5" height="47" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M347.5 55h10"></path>
+<path d="M105.5 55h10"></path>
+<g class="terminal literal">
+<path d="M60 55h0"></path>
+<path d="M105.5 55h0"></path>
+<rect x="60" y="44" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="82.75" y="59">"~"</text>
+</g>
+<path d="M115.5 55h10"></path>
+<path d="M179.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M125.5 55h0"></path>
+<path d="M179.5 55h0"></path>
+<rect x="125.5" y="44" width="54" height="22"></rect>
+<text x="152.5" y="59">Half</text>
+</g>
+<path d="M189.5 55h10"></path>
+<g class="OneOrMore">
+<path d="M199.5 55h0"></path>
+<path d="M347.5 55h0"></path>
+<path d="M209.5 55a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M209.5 75h128"></path>
+</g>
+<path d="M337.5 75a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M199.5 55h10"></path>
+<path d="M337.5 55h10"></path>
+<g class="Sequence">
+<path d="M209.5 55h0"></path>
+<path d="M337.5 55h0"></path>
+<path d="M272 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M209.5 55h0"></path>
+<path d="M272 55h0"></path>
+<rect x="209.5" y="44" width="62.5" height="22"></rect>
+<text x="240.75" y="59">Blank</text>
+</g>
+<path d="M282 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M292 55h0"></path>
+<path d="M337.5 55h0"></path>
+<rect x="292" y="44" width="45.5" height="22"></rect>
+<text x="314.75" y="59">Lay</text>
+</g>
+</g>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M109 28h0"></path>
+<text x="79.5" y="33" class="comment">LayLine</text>
+</g>
+</g>
+<path d="M357.5 55h10"></path>
+<path class="End" d="M 367.5 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:StanceLine -->
+<svg role="img" aria-label="Railroad diagram of the StanceLine rule" class="railroad-diagram" width="639" height="132" viewBox="0 0 639 132" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M589 55h0"></path>
+<rect x="50" y="36" width="539" height="76" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M579 55h10"></path>
+<path d="M105.5 55h10"></path>
+<g class="terminal literal">
+<path d="M60 55h0"></path>
+<path d="M105.5 55h0"></path>
+<rect x="60" y="44" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="82.75" y="59">"^"</text>
+</g>
+<path d="M115.5 55h10"></path>
+<path d="M179.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M125.5 55h0"></path>
+<path d="M179.5 55h0"></path>
+<rect x="125.5" y="44" width="54" height="22"></rect>
+<text x="152.5" y="59">Half</text>
+</g>
+<path d="M189.5 55h10"></path>
+<g class="OneOrMore">
+<path d="M199.5 55h0"></path>
+<path d="M579 55h0"></path>
+<path d="M209.5 55a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M209.5 104h359.5"></path>
+</g>
+<path d="M569 104a10 10 0 0 0 10 -10v-29a10 10 0 0 0 -10 -10"></path>
+<path d="M199.5 55h10"></path>
+<path d="M569 55h10"></path>
+<g class="Sequence">
+<path d="M209.5 55h0"></path>
+<path d="M569 55h0"></path>
+<path d="M272 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M209.5 55h0"></path>
+<path d="M272 55h0"></path>
+<rect x="209.5" y="44" width="62.5" height="22"></rect>
+<text x="240.75" y="59">Blank</text>
+</g>
+<g class="Choice">
+<path d="M282 55h0"></path>
+<path d="M569 55h0"></path>
+<path d="M282 55h20"></path>
+<g class="Sequence">
+<path d="M302 55h0"></path>
+<path d="M549 55h0"></path>
+<path d="M415.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M302 55h0"></path>
+<path d="M415.5 55h0"></path>
+<rect x="302" y="44" width="113.5" height="22"></rect>
+<text x="358.75" y="59">StancePoint</text>
+</g>
+<path d="M425.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M435.5 55h0"></path>
+<path d="M549 55h0"></path>
+<rect x="435.5" y="44" width="113.5" height="22"></rect>
+<text x="492.25" y="59">PositionEnd</text>
+</g>
+</g>
+<path d="M549 55h20"></path>
+<path d="M282 55a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal rule-ref">
+<path d="M302 85h96.5"></path>
+<path d="M452.5 85h96.5"></path>
+<rect x="398.5" y="74" width="54" height="22"></rect>
+<text x="425.5" y="89">Dash</text>
+</g>
+<path d="M549 85a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M130 28h0"></path>
+<text x="90" y="33" class="comment">StanceLine</text>
+</g>
+</g>
+<path d="M589 55h10"></path>
+<path class="End" d="M 599 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:FelledLine -->
+<svg role="img" aria-label="Railroad diagram of the FelledLine rule" class="railroad-diagram" width="497" height="132" viewBox="0 0 497 132" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M447 55h0"></path>
+<rect x="50" y="36" width="397" height="76" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M437 55h10"></path>
+<path d="M105.5 55h10"></path>
+<g class="terminal literal">
+<path d="M60 55h0"></path>
+<path d="M105.5 55h0"></path>
+<rect x="60" y="44" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="82.75" y="59">"*"</text>
+</g>
+<path d="M115.5 55h10"></path>
+<path d="M179.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M125.5 55h0"></path>
+<path d="M179.5 55h0"></path>
+<rect x="125.5" y="44" width="54" height="22"></rect>
+<text x="152.5" y="59">Half</text>
+</g>
+<path d="M189.5 55h10"></path>
+<g class="OneOrMore">
+<path d="M199.5 55h0"></path>
+<path d="M437 55h0"></path>
+<path d="M209.5 55a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M209.5 104h217.5"></path>
+</g>
+<path d="M427 104a10 10 0 0 0 10 -10v-29a10 10 0 0 0 -10 -10"></path>
+<path d="M199.5 55h10"></path>
+<path d="M427 55h10"></path>
+<g class="Sequence">
+<path d="M209.5 55h0"></path>
+<path d="M427 55h0"></path>
+<path d="M272 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M209.5 55h0"></path>
+<path d="M272 55h0"></path>
+<rect x="209.5" y="44" width="62.5" height="22"></rect>
+<text x="240.75" y="59">Blank</text>
+</g>
+<g class="Choice">
+<path d="M282 55h0"></path>
+<path d="M427 55h0"></path>
+<path d="M282 55h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M302 55h0"></path>
+<path d="M407 55h0"></path>
+<rect x="302" y="44" width="105" height="22"></rect>
+<text x="354.5" y="59">FelledWord</text>
+</g>
+<path d="M407 55h20"></path>
+<path d="M282 55a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal rule-ref">
+<path d="M302 85h25.5"></path>
+<path d="M381.5 85h25.5"></path>
+<rect x="327.5" y="74" width="54" height="22"></rect>
+<text x="354.5" y="89">Dash</text>
+</g>
+<path d="M407 85a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M130 28h0"></path>
+<text x="90" y="33" class="comment">FelledLine</text>
+</g>
+</g>
+<path d="M447 55h10"></path>
+<path class="End" d="M 457 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+
+  <h3>A position</h3>
+  <p>Across, a comma, depth. Whole numbers are a one-meter cell. Two decimals each are a point. The grammar holds both to the pitch: across 0 to 5 and depth 0 to 4.</p>
+  <div class="rr"><!-- diagram:Cell -->
+<svg role="img" aria-label="Railroad diagram of the Cell rule" class="railroad-diagram" width="330.5" height="94" viewBox="0 0 330.5 94" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M280.5 55h0"></path>
+<rect x="50" y="36" width="230.5" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M270.5 55h10"></path>
+<path d="M122.5 55h10"></path>
+<g class="terminal class">
+<path d="M60 55h0"></path>
+<path d="M122.5 55h0"></path>
+<rect x="60" y="44" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="91.25" y="59">&#91;0-4&#93;</text>
+</g>
+<path d="M132.5 55h10"></path>
+<path d="M188 55h10"></path>
+<g class="terminal literal">
+<path d="M142.5 55h0"></path>
+<path d="M188 55h0"></path>
+<rect x="142.5" y="44" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="165.25" y="59">","</text>
+</g>
+<path d="M198 55h10"></path>
+<g class="terminal class">
+<path d="M208 55h0"></path>
+<path d="M270.5 55h0"></path>
+<rect x="208" y="44" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="239.25" y="59">&#91;0-3&#93;</text>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M130 28h0"></path>
+<text x="90" y="33" class="comment">Cell(cell)</text>
+</g>
+</g>
+<path d="M280.5 55h10"></path>
+<path class="End" d="M 290.5 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:Point -->
+<svg role="img" aria-label="Railroad diagram of the Point rule" class="railroad-diagram" width="339" height="94" viewBox="0 0 339 94" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M289 55h0"></path>
+<rect x="50" y="36" width="239" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 55h10"></path>
+<path d="M279 55h10"></path>
+<path d="M131 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M60 55h0"></path>
+<path d="M131 55h0"></path>
+<rect x="60" y="44" width="71" height="22"></rect>
+<text x="95.5" y="59">Across</text>
+</g>
+<path d="M141 55h10"></path>
+<path d="M196.5 55h10"></path>
+<g class="terminal literal">
+<path d="M151 55h0"></path>
+<path d="M196.5 55h0"></path>
+<rect x="151" y="44" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="173.75" y="59">","</text>
+</g>
+<path d="M206.5 55h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M216.5 55h0"></path>
+<path d="M279 55h0"></path>
+<rect x="216.5" y="44" width="62.5" height="22"></rect>
+<text x="247.75" y="59">Depth</text>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M144 28h0"></path>
+<text x="97" y="33" class="comment">Point(point)</text>
+</g>
+</g>
+<path d="M289 55h10"></path>
+<path class="End" d="M 299 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+
+  <h2 id="canonical">The canonical form</h2>
+  <p>The rules above are the lenient form, which reads what people write. The grammar has a second start rule, <code>CanonicalGame</code>, for what programs write: one spelling of each thing. A canonical file starts with <code>[Notation "2"]</code>, has its headers in a fixed order, numbers its turns from 1, and puts exactly one space between tokens. Every canonical file is also valid in the lenient form, with the same reading.</p>
+  <div class="rr"><!-- diagram:CanonicalGame -->
+<svg role="img" aria-label="Railroad diagram of the CanonicalGame rule" class="railroad-diagram" width="513" height="112" viewBox="0 0 513 112" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 54v20m0 -10h20"></path>
+</g>
+<path d="M40 64h10"></path>
+<g class="Group rule">
+<path d="M50 64h0"></path>
+<path d="M463 64h0"></path>
+<rect x="50" y="36" width="413" height="56" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 64h10"></path>
+<path d="M453 64h10"></path>
+<path d="M159.5 64h10"></path>
+<g class="OneOrMore">
+<path d="M60 64h0"></path>
+<path d="M159.5 64h0"></path>
+<path d="M70 64a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M70 84h79.5"></path>
+</g>
+<path d="M149.5 84a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M60 64h10"></path>
+<path d="M149.5 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M70 64h0"></path>
+<path d="M149.5 64h0"></path>
+<rect x="70" y="53" width="79.5" height="22"></rect>
+<text x="109.75" y="68">CHeader</text>
+</g>
+</g>
+<g class="Choice">
+<path d="M169.5 64h0"></path>
+<path d="M366 64h0"></path>
+<path d="M169.5 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M189.5 44h156.5"></path>
+</g>
+<path d="M346 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M169.5 64h20"></path>
+<g class="Sequence">
+<path d="M189.5 64h0"></path>
+<path d="M346 64h0"></path>
+<path d="M243.5 64h10"></path>
+<g class="terminal literal">
+<path d="M189.5 64h0"></path>
+<path d="M243.5 64h0"></path>
+<rect x="189.5" y="53" width="54" height="22" rx="10" ry="10"></rect>
+<text x="216.5" y="68">"\n"</text>
+</g>
+<path d="M253.5 64h10"></path>
+<g class="OneOrMore">
+<path d="M263.5 64h0"></path>
+<path d="M346 64h0"></path>
+<path d="M273.5 64a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M273.5 84h62.5"></path>
+</g>
+<path d="M336 84a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M263.5 64h10"></path>
+<path d="M336 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M273.5 64h0"></path>
+<path d="M336 64h0"></path>
+<rect x="273.5" y="53" width="62.5" height="22"></rect>
+<text x="304.75" y="68">CTurn</text>
+</g>
+</g>
+</g>
+<path d="M346 64h20"></path>
+</g>
+<path d="M366 64h10"></path>
+<g class="Sequence">
+<path d="M376 64h0"></path>
+<path d="M453 64h0"></path>
+<path d="M404.5 64h10"></path>
+<g class="decision simple-and">
+<path d="M376 64h0"></path>
+<path d="M404.5 64h0"></path>
+<path d="M376 64v5.5l5.5 5.5h17.5l5.5 -5.5v-11l-5.5 -5.5h-17.5l-5.5 5.5v5.5"></path>
+<text x="390.25" y="68">!</text>
+</g>
+<path d="M414.5 64h10"></path>
+<g class="terminal any">
+<path d="M424.5 64h0"></path>
+<path d="M453 64h0"></path>
+<rect x="424.5" y="53" width="28.5" height="22" rx="10" ry="10"></rect>
+<text x="438.75" y="68">.</text>
+</g>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M151 28h0"></path>
+<text x="100.5" y="33" class="comment">CanonicalGame</text>
+</g>
+</g>
+<path d="M463 64h10"></path>
+<path class="End" d="M 473 64 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:CTurnLine -->
+<svg role="img" aria-label="Railroad diagram of the CTurnLine rule" class="railroad-diagram" width="600.5" height="103" viewBox="0 0 600.5 103" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 54v20m0 -10h20"></path>
+</g>
+<path d="M40 64h10"></path>
+<g class="Group rule">
+<path d="M50 64h0"></path>
+<path d="M550.5 64h0"></path>
+<rect x="50" y="36" width="500.5" height="47" rx="10" ry="10" class="group-box"></rect>
+<g class="Sequence">
+<path d="M50 64h10"></path>
+<path d="M540.5 64h10"></path>
+<path d="M173.5 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M60 64h0"></path>
+<path d="M173.5 64h0"></path>
+<rect x="60" y="53" width="113.5" height="22"></rect>
+<text x="116.75" y="68">CTurnNumber</text>
+</g>
+<path d="M183.5 64h10"></path>
+<path d="M247.5 64h10"></path>
+<g class="terminal literal">
+<path d="M193.5 64h0"></path>
+<path d="M247.5 64h0"></path>
+<rect x="193.5" y="53" width="54" height="22" rx="10" ry="10"></rect>
+<text x="220.5" y="68">". "</text>
+</g>
+<path d="M257.5 64h10"></path>
+<path d="M364 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M267.5 64h0"></path>
+<path d="M364 64h0"></path>
+<rect x="267.5" y="53" width="96.5" height="22"></rect>
+<text x="315.75" y="68">CTurnBody</text>
+</g>
+<g class="Choice">
+<path d="M374 64h0"></path>
+<path d="M476.5 64h0"></path>
+<path d="M374 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M394 44h62.5"></path>
+</g>
+<path d="M456.5 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M374 64h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M394 64h0"></path>
+<path d="M456.5 64h0"></path>
+<rect x="394" y="53" width="62.5" height="22"></rect>
+<text x="425.25" y="68">CNote</text>
+</g>
+<path d="M456.5 64h20"></path>
+</g>
+<path d="M476.5 64h10"></path>
+<g class="terminal literal">
+<path d="M486.5 64h0"></path>
+<path d="M540.5 64h0"></path>
+<rect x="486.5" y="53" width="54" height="22" rx="10" ry="10"></rect>
+<text x="513.5" y="68">"\n"</text>
+</g>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M123 28h0"></path>
+<text x="86.5" y="33" class="comment">CTurnLine</text>
+</g>
+</g>
+<path d="M550.5 64h10"></path>
+<path class="End" d="M 560.5 64 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:CTurnBody -->
+<svg role="img" aria-label="Railroad diagram of the CTurnBody rule" class="railroad-diagram" width="824.5" height="208" viewBox="0 0 824.5 208" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 54v20m0 -10h20"></path>
+</g>
+<path d="M40 64h10"></path>
+<g class="Group rule">
+<path d="M50 64h0"></path>
+<path d="M774.5 64h0"></path>
+<rect x="50" y="36" width="724.5" height="152" rx="10" ry="10" class="group-box"></rect>
+<g class="Choice">
+<path d="M50 64h0"></path>
+<path d="M774.5 64h0"></path>
+<path d="M50 64h20"></path>
+<g class="Sequence">
+<path d="M70 64h0"></path>
+<path d="M754.5 64h0"></path>
+<path d="M141 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M70 64h0"></path>
+<path d="M141 64h0"></path>
+<rect x="70" y="53" width="71" height="22"></rect>
+<text x="105.5" y="68">CKubbs</text>
+</g>
+<g class="Choice">
+<path d="M151 64h0"></path>
+<path d="M347.5 64h0"></path>
+<path d="M151 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M171 44h156.5"></path>
+</g>
+<path d="M327.5 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M151 64h20"></path>
+<g class="OneOrMore">
+<path d="M171 64h0"></path>
+<path d="M327.5 64h0"></path>
+<path d="M181 64a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M181 84h136.5"></path>
+</g>
+<path d="M317.5 84a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M171 64h10"></path>
+<path d="M317.5 64h10"></path>
+<g class="Sequence">
+<path d="M181 64h0"></path>
+<path d="M317.5 64h0"></path>
+<path d="M226.5 64h10"></path>
+<g class="terminal literal">
+<path d="M181 64h0"></path>
+<path d="M226.5 64h0"></path>
+<rect x="181" y="53" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="203.75" y="68">" "</text>
+</g>
+<path d="M236.5 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M246.5 64h0"></path>
+<path d="M317.5 64h0"></path>
+<rect x="246.5" y="53" width="71" height="22"></rect>
+<text x="282" y="68">CKubbs</text>
+</g>
+</g>
+</g>
+<path d="M327.5 64h20"></path>
+</g>
+<g class="Choice">
+<path d="M347.5 64h0"></path>
+<path d="M558 64h0"></path>
+<path d="M347.5 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M367.5 44h170.5"></path>
+</g>
+<path d="M538 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M347.5 64h20"></path>
+<g class="Sequence">
+<path d="M367.5 64h0"></path>
+<path d="M538 64h0"></path>
+<path d="M413 64h10"></path>
+<g class="terminal literal">
+<path d="M367.5 64h0"></path>
+<path d="M413 64h0"></path>
+<rect x="367.5" y="53" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="390.25" y="68">" "</text>
+</g>
+<path d="M423 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M433 64h0"></path>
+<path d="M538 64h0"></path>
+<rect x="433" y="53" width="105" height="22"></rect>
+<text x="485.5" y="68">CAdvantage</text>
+</g>
+</g>
+<path d="M538 64h20"></path>
+</g>
+<g class="Choice">
+<path d="M558 64h0"></path>
+<path d="M754.5 64h0"></path>
+<path d="M558 64a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M578 44h156.5"></path>
+</g>
+<path d="M734.5 44a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M558 64h20"></path>
+<g class="OneOrMore">
+<path d="M578 64h0"></path>
+<path d="M734.5 64h0"></path>
+<path d="M588 64a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M588 84h136.5"></path>
+</g>
+<path d="M724.5 84a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M578 64h10"></path>
+<path d="M724.5 64h10"></path>
+<g class="Sequence">
+<path d="M588 64h0"></path>
+<path d="M724.5 64h0"></path>
+<path d="M633.5 64h10"></path>
+<g class="terminal literal">
+<path d="M588 64h0"></path>
+<path d="M633.5 64h0"></path>
+<rect x="588" y="53" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="610.75" y="68">" "</text>
+</g>
+<path d="M643.5 64h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M653.5 64h0"></path>
+<path d="M724.5 64h0"></path>
+<rect x="653.5" y="53" width="71" height="22"></rect>
+<text x="689" y="68">CBaton</text>
+</g>
+</g>
+</g>
+<path d="M734.5 64h20"></path>
+</g>
+</g>
+<path d="M754.5 64h20"></path>
+<path d="M50 64a10 10 0 0 1 10 10v28a10 10 0 0 0 10 10"></path>
+<g class="Sequence">
+<path d="M70 112h186.5"></path>
+<path d="M568 112h186.5"></path>
+<path d="M361.5 112h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M256.5 112h0"></path>
+<path d="M361.5 112h0"></path>
+<rect x="256.5" y="101" width="105" height="22"></rect>
+<text x="309" y="116">CAdvantage</text>
+</g>
+<g class="Choice">
+<path d="M371.5 112h0"></path>
+<path d="M568 112h0"></path>
+<path d="M371.5 112a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M391.5 92h156.5"></path>
+</g>
+<path d="M548 92a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M371.5 112h20"></path>
+<g class="OneOrMore">
+<path d="M391.5 112h0"></path>
+<path d="M548 112h0"></path>
+<path d="M401.5 112a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M401.5 132h136.5"></path>
+</g>
+<path d="M538 132a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M391.5 112h10"></path>
+<path d="M538 112h10"></path>
+<g class="Sequence">
+<path d="M401.5 112h0"></path>
+<path d="M538 112h0"></path>
+<path d="M447 112h10"></path>
+<g class="terminal literal">
+<path d="M401.5 112h0"></path>
+<path d="M447 112h0"></path>
+<rect x="401.5" y="101" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="424.25" y="116">" "</text>
+</g>
+<path d="M457 112h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M467 112h0"></path>
+<path d="M538 112h0"></path>
+<rect x="467" y="101" width="71" height="22"></rect>
+<text x="502.5" y="116">CBaton</text>
+</g>
+</g>
+</g>
+<path d="M548 112h20"></path>
+</g>
+</g>
+<path d="M754.5 112a10 10 0 0 0 10 -10v-28a10 10 0 0 1 10 -10"></path>
+<path d="M50 64a10 10 0 0 1 10 10v76a10 10 0 0 0 10 10"></path>
+<g class="Sequence">
+<path d="M70 160h203.5"></path>
+<path d="M551 160h203.5"></path>
+<path d="M344.5 160h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M273.5 160h0"></path>
+<path d="M344.5 160h0"></path>
+<rect x="273.5" y="149" width="71" height="22"></rect>
+<text x="309" y="164">CBaton</text>
+</g>
+<g class="Choice">
+<path d="M354.5 160h0"></path>
+<path d="M551 160h0"></path>
+<path d="M354.5 160a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M374.5 140h156.5"></path>
+</g>
+<path d="M531 140a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M354.5 160h20"></path>
+<g class="OneOrMore">
+<path d="M374.5 160h0"></path>
+<path d="M531 160h0"></path>
+<path d="M384.5 160a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="Skip">
+<path d="M384.5 180h136.5"></path>
+</g>
+<path d="M521 180a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M374.5 160h10"></path>
+<path d="M521 160h10"></path>
+<g class="Sequence">
+<path d="M384.5 160h0"></path>
+<path d="M521 160h0"></path>
+<path d="M430 160h10"></path>
+<g class="terminal literal">
+<path d="M384.5 160h0"></path>
+<path d="M430 160h0"></path>
+<rect x="384.5" y="149" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="407.25" y="164">" "</text>
+</g>
+<path d="M440 160h10"></path>
+<g class="non-terminal rule-ref">
+<path d="M450 160h0"></path>
+<path d="M521 160h0"></path>
+<rect x="450" y="149" width="71" height="22"></rect>
+<text x="485.5" y="164">CBaton</text>
+</g>
+</g>
+</g>
+<path d="M531 160h20"></path>
+</g>
+</g>
+<path d="M754.5 160a10 10 0 0 0 10 -10v-76a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M123 28h0"></path>
+<text x="86.5" y="33" class="comment">CTurnBody</text>
+</g>
+</g>
+<path d="M774.5 64h10"></path>
+<path class="End" d="M 784.5 64 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <p>Tokens are stricter too: a player always has its colon, a count of one is never written, and the kubb codes come in one order.</p>
+  <div class="rr"><!-- diagram:CKubbsBody -->
+<svg role="img" aria-label="Railroad diagram of the CKubbsBody rule" class="railroad-diagram" width="1547" height="141" viewBox="0 0 1547 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 45v20m0 -10h20"></path>
+</g>
+<path d="M40 55h10"></path>
+<g class="Group rule">
+<path d="M50 55h0"></path>
+<path d="M1497 55h0"></path>
+<rect x="50" y="36" width="1447" height="85" rx="10" ry="10" class="group-box"></rect>
+<g class="Choice">
+<path d="M50 55h0"></path>
+<path d="M1497 55h0"></path>
+<path d="M50 55h20"></path>
+<g class="terminal literal">
+<path d="M70 55h676.5"></path>
+<path d="M800.5 55h676.5"></path>
+<rect x="746.5" y="44" width="54" height="22" rx="10" ry="10"></rect>
+<text x="773.5" y="59">"0I"</text>
+</g>
+<path d="M1477 55h20"></path>
+<path d="M50 55a10 10 0 0 1 10 10v27a10 10 0 0 0 10 10"></path>
+<g class="Sequence">
+<path d="M70 102h0"></path>
+<path d="M1477 102h0"></path>
+<g class="Choice">
+<path d="M70 102h0"></path>
+<path d="M276.5 102h0"></path>
+<path d="M70 102a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M90 74h166.5"></path>
+</g>
+<path d="M256.5 74a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M70 102h20"></path>
+<g class="Sequence">
+<path d="M90 102h0"></path>
+<path d="M256.5 102h0"></path>
+<g class="Choice">
+<path d="M90 102h0"></path>
+<path d="M201 102h0"></path>
+<path d="M90 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M110 82h71"></path>
+</g>
+<path d="M181 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M90 102h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M110 102h0"></path>
+<path d="M181 102h0"></path>
+<rect x="110" y="91" width="71" height="22"></rect>
+<text x="145.5" y="106">CCount</text>
+</g>
+<path d="M181 102h20"></path>
+</g>
+<path d="M201 102h10"></path>
+<g class="terminal literal">
+<path d="M211 102h0"></path>
+<path d="M256.5 102h0"></path>
+<rect x="211" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="233.75" y="106">"I"</text>
+</g>
+</g>
+<path d="M256.5 102h20"></path>
+</g>
+<g class="Choice">
+<path d="M276.5 102h0"></path>
+<path d="M483 102h0"></path>
+<path d="M276.5 102a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M296.5 74h166.5"></path>
+</g>
+<path d="M463 74a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M276.5 102h20"></path>
+<g class="Sequence">
+<path d="M296.5 102h0"></path>
+<path d="M463 102h0"></path>
+<g class="Choice">
+<path d="M296.5 102h0"></path>
+<path d="M407.5 102h0"></path>
+<path d="M296.5 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M316.5 82h71"></path>
+</g>
+<path d="M387.5 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M296.5 102h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M316.5 102h0"></path>
+<path d="M387.5 102h0"></path>
+<rect x="316.5" y="91" width="71" height="22"></rect>
+<text x="352" y="106">CCount</text>
+</g>
+<path d="M387.5 102h20"></path>
+</g>
+<path d="M407.5 102h10"></path>
+<g class="terminal literal">
+<path d="M417.5 102h0"></path>
+<path d="M463 102h0"></path>
+<rect x="417.5" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="440.25" y="106">"R"</text>
+</g>
+</g>
+<path d="M463 102h20"></path>
+</g>
+<g class="Choice">
+<path d="M483 102h0"></path>
+<path d="M689.5 102h0"></path>
+<path d="M483 102a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M503 74h166.5"></path>
+</g>
+<path d="M669.5 74a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M483 102h20"></path>
+<g class="Sequence">
+<path d="M503 102h0"></path>
+<path d="M669.5 102h0"></path>
+<g class="Choice">
+<path d="M503 102h0"></path>
+<path d="M614 102h0"></path>
+<path d="M503 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M523 82h71"></path>
+</g>
+<path d="M594 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M503 102h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M523 102h0"></path>
+<path d="M594 102h0"></path>
+<rect x="523" y="91" width="71" height="22"></rect>
+<text x="558.5" y="106">CCount</text>
+</g>
+<path d="M594 102h20"></path>
+</g>
+<path d="M614 102h10"></path>
+<g class="terminal literal">
+<path d="M624 102h0"></path>
+<path d="M669.5 102h0"></path>
+<rect x="624" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="646.75" y="106">"P"</text>
+</g>
+</g>
+<path d="M669.5 102h20"></path>
+</g>
+<g class="Choice">
+<path d="M689.5 102h0"></path>
+<path d="M896 102h0"></path>
+<path d="M689.5 102a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M709.5 74h166.5"></path>
+</g>
+<path d="M876 74a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M689.5 102h20"></path>
+<g class="Sequence">
+<path d="M709.5 102h0"></path>
+<path d="M876 102h0"></path>
+<g class="Choice">
+<path d="M709.5 102h0"></path>
+<path d="M820.5 102h0"></path>
+<path d="M709.5 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M729.5 82h71"></path>
+</g>
+<path d="M800.5 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M709.5 102h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M729.5 102h0"></path>
+<path d="M800.5 102h0"></path>
+<rect x="729.5" y="91" width="71" height="22"></rect>
+<text x="765" y="106">CCount</text>
+</g>
+<path d="M800.5 102h20"></path>
+</g>
+<path d="M820.5 102h10"></path>
+<g class="terminal literal">
+<path d="M830.5 102h0"></path>
+<path d="M876 102h0"></path>
+<rect x="830.5" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="853.25" y="106">"Y"</text>
+</g>
+</g>
+<path d="M876 102h20"></path>
+</g>
+<g class="Choice">
+<path d="M896 102h0"></path>
+<path d="M1102.5 102h0"></path>
+<path d="M896 102a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M916 74h166.5"></path>
+</g>
+<path d="M1082.5 74a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M896 102h20"></path>
+<g class="Sequence">
+<path d="M916 102h0"></path>
+<path d="M1082.5 102h0"></path>
+<g class="Choice">
+<path d="M916 102h0"></path>
+<path d="M1027 102h0"></path>
+<path d="M916 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M936 82h71"></path>
+</g>
+<path d="M1007 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M916 102h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M936 102h0"></path>
+<path d="M1007 102h0"></path>
+<rect x="936" y="91" width="71" height="22"></rect>
+<text x="971.5" y="106">CCount</text>
+</g>
+<path d="M1007 102h20"></path>
+</g>
+<path d="M1027 102h10"></path>
+<g class="terminal literal">
+<path d="M1037 102h0"></path>
+<path d="M1082.5 102h0"></path>
+<rect x="1037" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1059.75" y="106">"Q"</text>
+</g>
+</g>
+<path d="M1082.5 102h20"></path>
+</g>
+<g class="Choice">
+<path d="M1102.5 102h0"></path>
+<path d="M1300.5 102h0"></path>
+<path d="M1102.5 102a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M1122.5 74h158"></path>
+</g>
+<path d="M1280.5 74a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M1102.5 102h20"></path>
+<g class="Sequence">
+<path d="M1122.5 102h0"></path>
+<path d="M1280.5 102h0"></path>
+<g class="Choice">
+<path d="M1122.5 102h0"></path>
+<path d="M1225 102h0"></path>
+<path d="M1122.5 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M1142.5 82h62.5"></path>
+</g>
+<path d="M1205 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1122.5 102h20"></path>
+<g class="terminal class">
+<path d="M1142.5 102h0"></path>
+<path d="M1205 102h0"></path>
+<rect x="1142.5" y="91" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="1173.75" y="106">&#91;2-5&#93;</text>
+</g>
+<path d="M1205 102h20"></path>
+</g>
+<path d="M1225 102h10"></path>
+<g class="terminal literal">
+<path d="M1235 102h0"></path>
+<path d="M1280.5 102h0"></path>
+<rect x="1235" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1257.75" y="106">"N"</text>
+</g>
+</g>
+<path d="M1280.5 102h20"></path>
+</g>
+<path d="M1300.5 102h10"></path>
+<path d="M1381.5 102h10"></path>
+<g class="decision semantic-and">
+<path d="M1310.5 102h0"></path>
+<path d="M1381.5 102h0"></path>
+<path d="M1310.5 102v5.5l5.5 5.5h60l5.5 -5.5v-11l-5.5 -5.5h-60l-5.5 5.5v5.5"></path>
+<text x="1346" y="106">&#38;{...}</text>
+<title><![CDATA[return [i, r, p, y, q, nn].some(v => v !== null);]]></title>
+</g>
+<g class="Choice">
+<path d="M1391.5 102h0"></path>
+<path d="M1477 102h0"></path>
+<path d="M1391.5 102a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M1411.5 82h45.5"></path>
+</g>
+<path d="M1457 82a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1391.5 102h20"></path>
+<g class="terminal literal">
+<path d="M1411.5 102h0"></path>
+<path d="M1457 102h0"></path>
+<rect x="1411.5" y="91" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="1434.25" y="106">"E"</text>
+</g>
+<path d="M1457 102h20"></path>
+</g>
+</g>
+<path d="M1477 102a10 10 0 0 0 10 -10v-27a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M130 28h0"></path>
+<text x="90" y="33" class="comment">CKubbsBody</text>
+</g>
+</g>
+<path d="M1497 55h10"></path>
+<path class="End" d="M 1507 55 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+  <div class="rr"><!-- diagram:CBatonBody -->
+<svg role="img" aria-label="Railroad diagram of the CBatonBody rule" class="railroad-diagram" width="608.5" height="390" viewBox="0 0 608.5 390" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g class="Start">
+<path d="M20 62v20m0 -10h20"></path>
+</g>
+<path d="M40 72h10"></path>
+<g class="Group rule">
+<path d="M50 72h0"></path>
+<path d="M558.5 72h0"></path>
+<rect x="50" y="36" width="508.5" height="334" rx="10" ry="10" class="group-box"></rect>
+<g class="Choice">
+<path d="M50 72h0"></path>
+<path d="M558.5 72h0"></path>
+<path d="M50 72h20"></path>
+<g class="Sequence">
+<path d="M70 72h0"></path>
+<path d="M538.5 72h0"></path>
+<path d="M236.5 72h10"></path>
+<g class="Sequence">
+<path d="M70 72h0"></path>
+<path d="M236.5 72h0"></path>
+<g class="Choice">
+<path d="M70 72h0"></path>
+<path d="M181 72h0"></path>
+<path d="M70 72a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M90 52h71"></path>
+</g>
+<path d="M161 52a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M70 72h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M90 72h0"></path>
+<path d="M161 72h0"></path>
+<rect x="90" y="61" width="71" height="22"></rect>
+<text x="125.5" y="76">CCount</text>
+</g>
+<path d="M161 72h20"></path>
+</g>
+<path d="M181 72h10"></path>
+<g class="terminal literal">
+<path d="M191 72h0"></path>
+<path d="M236.5 72h0"></path>
+<rect x="191" y="61" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="213.75" y="76">"F"</text>
+</g>
+</g>
+<g class="Choice">
+<path d="M246.5 72h0"></path>
+<path d="M453 72h0"></path>
+<path d="M246.5 72a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M266.5 44h166.5"></path>
+</g>
+<path d="M433 44a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M246.5 72h20"></path>
+<g class="Sequence">
+<path d="M266.5 72h0"></path>
+<path d="M433 72h0"></path>
+<g class="Choice">
+<path d="M266.5 72h0"></path>
+<path d="M377.5 72h0"></path>
+<path d="M266.5 72a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M286.5 52h71"></path>
+</g>
+<path d="M357.5 52a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M266.5 72h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M286.5 72h0"></path>
+<path d="M357.5 72h0"></path>
+<rect x="286.5" y="61" width="71" height="22"></rect>
+<text x="322" y="76">CCount</text>
+</g>
+<path d="M357.5 72h20"></path>
+</g>
+<path d="M377.5 72h10"></path>
+<g class="terminal literal">
+<path d="M387.5 72h0"></path>
+<path d="M433 72h0"></path>
+<rect x="387.5" y="61" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="410.25" y="76">"B"</text>
+</g>
+</g>
+<path d="M433 72h20"></path>
+</g>
+<g class="Choice">
+<path d="M453 72h0"></path>
+<path d="M538.5 72h0"></path>
+<path d="M453 72a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M473 52h45.5"></path>
+</g>
+<path d="M518.5 52a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M453 72h20"></path>
+<g class="terminal literal">
+<path d="M473 72h0"></path>
+<path d="M518.5 72h0"></path>
+<rect x="473" y="61" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="495.75" y="76">"E"</text>
+</g>
+<path d="M518.5 72h20"></path>
+</g>
+</g>
+<path d="M538.5 72h20"></path>
+<path d="M50 72a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
+<g class="Sequence">
+<path d="M70 111h103.25"></path>
+<path d="M435.25 111h103.25"></path>
+<path d="M339.75 111h10"></path>
+<g class="Sequence">
+<path d="M173.25 111h0"></path>
+<path d="M339.75 111h0"></path>
+<g class="Choice">
+<path d="M173.25 111h0"></path>
+<path d="M284.25 111h0"></path>
+<path d="M173.25 111a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M193.25 91h71"></path>
+</g>
+<path d="M264.25 91a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M173.25 111h20"></path>
+<g class="non-terminal rule-ref">
+<path d="M193.25 111h0"></path>
+<path d="M264.25 111h0"></path>
+<rect x="193.25" y="100" width="71" height="22"></rect>
+<text x="228.75" y="115">CCount</text>
+</g>
+<path d="M264.25 111h20"></path>
+</g>
+<path d="M284.25 111h10"></path>
+<g class="terminal literal">
+<path d="M294.25 111h0"></path>
+<path d="M339.75 111h0"></path>
+<rect x="294.25" y="100" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="317" y="115">"B"</text>
+</g>
+</g>
+<g class="Choice">
+<path d="M349.75 111h0"></path>
+<path d="M435.25 111h0"></path>
+<path d="M349.75 111a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g class="Skip">
+<path d="M369.75 91h45.5"></path>
+</g>
+<path d="M415.25 91a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M349.75 111h20"></path>
+<g class="terminal literal">
+<path d="M369.75 111h0"></path>
+<path d="M415.25 111h0"></path>
+<rect x="369.75" y="100" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="392.5" y="115">"E"</text>
+</g>
+<path d="M415.25 111h20"></path>
+</g>
+</g>
+<path d="M538.5 111a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v49a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 141h211.5"></path>
+<path d="M327 141h211.5"></path>
+<rect x="281.5" y="130" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="145">"-"</text>
+</g>
+<path d="M538.5 141a10 10 0 0 0 10 -10v-49a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v79a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 171h211.5"></path>
+<path d="M327 171h211.5"></path>
+<rect x="281.5" y="160" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="175">"="</text>
+</g>
+<path d="M538.5 171a10 10 0 0 0 10 -10v-79a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v109a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 201h211.5"></path>
+<path d="M327 201h211.5"></path>
+<rect x="281.5" y="190" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="205">"K"</text>
+</g>
+<path d="M538.5 201a10 10 0 0 0 10 -10v-109a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v139a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 231h211.5"></path>
+<path d="M327 231h211.5"></path>
+<rect x="281.5" y="220" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="235">"X"</text>
+</g>
+<path d="M538.5 231a10 10 0 0 0 10 -10v-139a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v169a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 261h211.5"></path>
+<path d="M327 261h211.5"></path>
+<rect x="281.5" y="250" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="265">"E"</text>
+</g>
+<path d="M538.5 261a10 10 0 0 0 10 -10v-169a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v199a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 291h211.5"></path>
+<path d="M327 291h211.5"></path>
+<rect x="281.5" y="280" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="295">"Z"</text>
+</g>
+<path d="M538.5 291a10 10 0 0 0 10 -10v-199a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v229a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 321h211.5"></path>
+<path d="M327 321h211.5"></path>
+<rect x="281.5" y="310" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="325">"W"</text>
+</g>
+<path d="M538.5 321a10 10 0 0 0 10 -10v-229a10 10 0 0 1 10 -10"></path>
+<path d="M50 72a10 10 0 0 1 10 10v259a10 10 0 0 0 10 10"></path>
+<g class="terminal literal">
+<path d="M70 351h211.5"></path>
+<path d="M327 351h211.5"></path>
+<rect x="281.5" y="340" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="304.25" y="355">"G"</text>
+</g>
+<path d="M538.5 351a10 10 0 0 0 10 -10v-259a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M50 28h0"></path>
+<path d="M130 28h0"></path>
+<text x="90" y="33" class="comment">CBatonBody</text>
+</g>
+</g>
+<path d="M558.5 72h10"></path>
+<path class="End" d="M 568.5 72 h 20 m 0 -10 v 20"></path>
+</g>
+
+</svg>
+<!-- /diagram --></div>
+
   <h2 id="decisions">What the grammar settles</h2>
   <p>Writing the notation down this precisely forced some questions the prose never had to answer. Here is how the grammar answers them.</p>
   <ul>
@@ -1302,15 +3049,20 @@
     <li><strong>Every token must end</strong> at a separator, a comment, a note or the end of the line. So <code>32F</code> is not "3, then 2F", and <code>F-</code> is an error, not "F, then a miss".</li>
     <li><strong>Comments don't nest,</strong> and they stay on one line.</li>
     <li><strong>Headers come before the turns</strong>, in PGN style: <code>[Key "value"]</code>, with <code>\"</code> for a quote inside the value.</li>
-    <li><strong>One turn per line.</strong> Blank lines and lines with only a <code>#</code> note can go anywhere.</li>
+    <li><strong>One turn line per turn.</strong> Blank lines and lines with only a <code>#</code> note can go anywhere.</li>
+    <li><strong>A position line is all cells or all points</strong>, and a position off the pitch is rejected. Only the two ends of a lying kubb may run past a line, by up to 0.20 meters.</li>
+    <li><strong>The lines of one turn have to agree.</strong> The kubbs marked <code>p</code> number the turn's <code>P</code>, and a stance or felled line has one word for each baton. The canonical form rejects a turn where they don't. The lenient form reads it and reports it.</li>
+    <li><strong>A file that names a notation the grammar doesn't know is rejected</strong>, so a later notation is never misread as this one.</li>
+    <li><strong>A bare <code>N</code> is one neighbor.</strong></li>
   </ul>
   <p>What the grammar doesn't check is whether a game adds up: the right number of kubbs thrown in, an advantage line when field kubbs were left standing, no king shot while kubbs are still standing. Those depend on everything that came before, so they're checked by replaying the game kubb by kubb. That's what the warnings on the <a href="/stats/">Stats</a> page are.</p>
 
   <h2 id="tested">Tested against every recorded game</h2>
   <p>Of the 150 games recorded on the Planet Kubb wiki, 149 are valid. All 1,328 of their turns and 7,954 batons get exactly the same reading from the grammar as from the Stats page. The one rejected game is a real slip. In turn 6 of game 3 of the 2012 Nordic Fest final, one baton was written <code>F-</code>, and the grammar points at the stray <code>-</code>.</p>
+  <p>Before notation 2 changed anything, the reading of every one of those games was written down. The grammar is still held to it, along with a conformance suite of files that must be read a given way and files that must be rejected. Each of the 149 valid games can also be rewritten in the canonical form and plays out exactly as before.</p>
 
   <h2 id="source">The grammar itself</h2>
-  <p>It's a parsing expression grammar (PEG), written for the <a href="https://peggyjs.org">Peggy</a> parser generator, in about 200 lines including comments. The comments at the top explain how to read it. <a href="/spec/planet-kubb-notation.peggy" download>Download planet-kubb-notation.peggy</a></p>
+  <p>It's a parsing expression grammar (PEG), written for the <a href="https://peggyjs.org">Peggy</a> parser generator, in about 650 lines including comments. The comments at the top explain how to read it. <a href="/spec/planet-kubb-notation.peggy" download>Download planet-kubb-notation.peggy</a></p>
   <details class="src"><summary>Show the grammar</summary><pre id="grammar-src">Loading…</pre></details>
 </div></main>
 

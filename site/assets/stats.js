@@ -77,8 +77,10 @@ function inkastLabel(r) {
   return s;
 }
 
-function dots(n) {
-  return `<span class="dots" aria-label="${n} of 5">${'●'.repeat(n)}<span class="gone">${'●'.repeat(5 - n)}</span></span>`;
+// Base kubbs still standing, out of the number each side started with (five
+// unless the game's Base kubbs header says otherwise).
+function dots(n, of) {
+  return `<span class="dots" aria-label="${n} of ${of}">${'●'.repeat(n)}<span class="gone">${'●'.repeat(Math.max(0, of - n))}</span></span>`;
 }
 
 function chart(g) {
@@ -89,7 +91,8 @@ function chart(g) {
   const maxField = Math.max(5, ...rows.map(r => r.startField));
   const x = i => L + (W - L - R) * (i / n);
   const bw = (W - L - R) / n;
-  const yb = v => T + (H - T - B) * (1 - v / 5);
+  const start = g.rules.baseKubbs;
+  const yb = v => T + (H - T - B) * (1 - v / start);
   const yf = v => T + (H - T - B) * (1 - v / maxField);
   let bars = '', lines = '';
   rows.forEach((r, i) => {
@@ -97,12 +100,12 @@ function chart(g) {
     if (r.startField) bars += `<rect x="${(x(i) + bw * 0.18).toFixed(1)}" y="${yf(r.startField).toFixed(1)}" width="${(bw * 0.64).toFixed(1)}" height="${h.toFixed(1)}" rx="2" fill="var(--${r.team === 'A' ? 'a' : 'b'})" opacity="0.22"><title>Turn ${r.turn}: ${r.startField} field kubbs to clear</title></rect>`;
   });
   for (const s of ['A', 'B']) {
-    let d = `M${x(0).toFixed(1)},${yb(5).toFixed(1)}`;
+    let d = `M${x(0).toFixed(1)},${yb(start).toFixed(1)}`;
     rows.forEach((r, i) => { d += ` H${x(i + 1).toFixed(1)} V${yb(r.base[s]).toFixed(1)}`; });
     lines += `<path d="${d}" fill="none" stroke="var(--${s === 'A' ? 'a' : 'b'})" stroke-width="2.5" stroke-linejoin="round"/>`;
   }
   let grid = '';
-  for (let v = 0; v <= 5; v++) grid += `<line x1="${L}" x2="${W - R}" y1="${yb(v)}" y2="${yb(v)}" stroke="var(--rule)" stroke-width="1"/><text x="${L - 8}" y="${yb(v) + 4}" font-size="11" text-anchor="end" fill="var(--muted)">${v}</text>`;
+  for (let v = 0; v <= start; v++) grid += `<line x1="${L}" x2="${W - R}" y1="${yb(v)}" y2="${yb(v)}" stroke="var(--rule)" stroke-width="1"/><text x="${L - 8}" y="${yb(v) + 4}" font-size="11" text-anchor="end" fill="var(--muted)">${v}</text>`;
   let ticks = '';
   const step = n > 24 ? 4 : n > 12 ? 2 : 1;
   for (let i = 0; i < n; i += step) ticks += `<text x="${(x(i) + bw / 2).toFixed(1)}" y="${H - 8}" font-size="11" text-anchor="middle" fill="var(--muted)">${i + 1}</text>`;
@@ -187,7 +190,7 @@ function turnTable(g) {
         ${r.warnings.map(w => `<span class="flag">⚠ ${esc(w)}</span>`).join('')}</td>
       <td>${r.startField ? (r.btc ?? '') : ''}</td>
       <td>${r.fieldLeft || ''}</td>
-      <td class="l">${dots(r.base.A)}</td><td class="l">${dots(r.base.B)}</td>
+      <td class="l">${dots(r.base.A, g.rules.baseKubbs)}</td><td class="l">${dots(r.base.B, g.rules.baseKubbs)}</td>
     </tr>`).join('')}</tbody></table></div>`;
 }
 
