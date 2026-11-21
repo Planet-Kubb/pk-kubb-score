@@ -1,0 +1,42 @@
+name: validate
+
+# The repo's check: the grammar against every archived game, the docs'
+# examples and the strings it must refuse, and kubb.js against the grammar
+# turn by turn (`npm test`). The job's name is the check a master ruleset
+# would require: rename them together.
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+# A new push to a PR supersedes its running check; master's runs finish.
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+# No default token permissions; the job asks for its own. Actions are pinned
+# to commit SHAs and checkout leaves no token behind.
+permissions: {}
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+      - name: npm ci
+        run: npm ci --no-audit --no-fund
+      - name: npm test
+        run: npm test
+      - name: generated files are current
+        run: |
+          npm run grammar
+          git diff --exit-code -- site/assets/notation-parser.js site/spec/
