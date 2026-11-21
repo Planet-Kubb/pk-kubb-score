@@ -244,6 +244,8 @@ export const canonicalize = [
   ['cannot: a bare count over 10', '1. 12 F'],
   ['cannot: one kind of line twice', '1. 2I F\n@a 1,1\n@a 2,2'],
   ['cannot: a turn whose lines disagree', `${T9}@b 5x4,0 0,3p`],
+  ['cannot: no kubbs thrown, and one took the king', '1. 0IE'],
+  ['cannot: no kubbs felled, and one took the king', '1. 2I 0FE'],
 ];
 
 // What the reader makes of a game. [name, text, grammar]: grammar is

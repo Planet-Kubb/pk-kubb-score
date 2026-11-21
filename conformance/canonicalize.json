@@ -20,5 +20,7 @@
 {"name":"a canonical file is its own canonical form","lenient":"[Notation \"2\"]\n[Opening \"2-4-6\"]\n[Team A \"Ringers\"]\n[Team B \"Kubbitz\"]\n\n1. j:B m:-\n2. k:I k:F s:B s:B k:-\n@a 2,1\n3. j:3I j:2F m:F j:B m:- j:- m:-\n@b 3,1 2x4,0\n4. k:4IRP s:2F k:F s:- k:- s:- k:-\n@a 2x3,0 4,1 1,3p\n5. j:3I A j:3F m:B j:B m:B j:- m:K\n@a 4,1s\n@b 3x4,0\n","canonical":"[Notation \"2\"]\n[Opening \"2-4-6\"]\n[Team A \"Ringers\"]\n[Team B \"Kubbitz\"]\n\n1. j:B m:-\n2. k:I k:F s:B s:B k:-\n@a 2,1\n3. j:3I j:2F m:F j:B m:- j:- m:-\n@b 3,1 2x4,0\n4. k:4IRP s:2F k:F s:- k:- s:- k:-\n@a 2x3,0 4,1 1,3p\n5. j:3I A j:3F m:B j:B m:B j:- m:K\n@a 4,1s\n@b 3x4,0\n","reports":[]},
 {"name":"cannot: a bare count over 10","lenient":"1. 12 F","cannot":"Turn 1: a count before I goes up to 10, and this is 12."},
 {"name":"cannot: one kind of line twice","lenient":"1. 2I F\n@a 1,1\n@a 2,2","cannot":"Turn 1: A turn has one @a line, and this is a second."},
-{"name":"cannot: a turn whose lines disagree","lenient":"1. a:7I2R2P d:3F d:2F a:F a:- y:F c:B\n@b 5x4,0 0,3p","cannot":"Turn 1: The pitch line marks 1 with p, and the turn line has 2P."}
+{"name":"cannot: a turn whose lines disagree","lenient":"1. a:7I2R2P d:3F d:2F a:F a:- y:F c:B\n@b 5x4,0 0,3p","cannot":"Turn 1: The pitch line marks 1 with p, and the turn line has 2P."},
+{"name":"cannot: no kubbs thrown, and one took the king","lenient":"1. 0IE","cannot":"Turn 1: 0IE says a kubb thrown in took the king, and counts no kubbs."},
+{"name":"cannot: no kubbs felled, and one took the king","lenient":"1. 2I 0FE","cannot":"Turn 1: 0FE says a felled kubb took the king, and counts none felled."}
 ]

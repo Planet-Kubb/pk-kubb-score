@@ -50,6 +50,9 @@ function counted(n, code, most, where) {
 
 function kubbs(k, where) {
   let body = ['I', 'R', 'P', 'Y', 'Q'].map(c => counted(k[c], c, 10, where)).join('') + counted(k.N, 'N', 5, where);
+  // No kubbs thrown, and one of them took the king: the canonical form has
+  // no way to say that, and dropping the E would change who won.
+  if (body === '' && k.illegalKing) throw new CannotWrite(`${where}: ${k.text} says a kubb thrown in took the king, and counts no kubbs.`);
   if (body === '') body = '0I';
   else if (k.illegalKing) body += 'E';
   return (k.player ? k.player + ':' : '') + body;
@@ -59,8 +62,10 @@ function baton(b, where) {
   let body;
   if (b.kind === 'hit') {
     body = counted(b.field, 'F', 10, where) + counted(b.base, 'B', 10, where);
-    // 0F is a baton that felled nothing: a miss. With an E it is the king alone.
-    body = body === '' ? (b.illegalKing ? 'E' : '-') : body + (b.illegalKing ? 'E' : '');
+    // 0F is a baton that felled nothing: a miss. With an E it says a felled
+    // kubb took the king and counts none felled, which cannot be carried.
+    if (body === '' && b.illegalKing) throw new CannotWrite(`${where}: ${b.text} says a felled kubb took the king, and counts none felled.`);
+    body = body === '' ? '-' : body + (b.illegalKing ? 'E' : '');
   } else body = CODE[b.kind];
   return (b.player ? b.player + ':' : '') + body;
 }

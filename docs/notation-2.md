@@ -38,8 +38,9 @@ plus position lines. It is the grammar's `Game` rule.
 game the same way write the same bytes. It is the grammar's `CanonicalGame` rule. Every
 canonical file is a lenient file with the same reading.
 
-Any lenient file can be written in the canonical form unless a turn's position lines disagree
-with each other or a count is over the canonical limit. Writing it never merges, splits or
+Any lenient file can be written in the canonical form, with three exceptions: a turn whose
+position lines disagree with each other, a count over the canonical limit, and a token that says
+a kubb took the king while counting no kubbs (`0IE`, `0FE`). Writing it never merges, splits or
 reorders the tokens of a turn line and never invents data. `site/assets/canonical.js` does it.
 
 ## A file

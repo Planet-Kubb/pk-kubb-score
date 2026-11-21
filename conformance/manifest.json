@@ -41,7 +41,7 @@
   },
   {
    "file": "canonicalize.json",
-   "cases": 22,
+   "cases": 24,
    "check": "canonicalize",
    "input": "lenient",
    "expect": "canonical",
