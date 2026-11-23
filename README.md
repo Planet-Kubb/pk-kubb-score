@@ -79,8 +79,8 @@ either: `parse(text)` or `parse(text, { startRule: 'CanonicalGame' })`.
   `tools/report.json`, which lists every game's consistency flags (see below).
   `tools/scoresheets.json` maps scoresheet files to games.
 - `tools/archive/`: helpers from the original dig: `sqlrows.py` reads tables from a gzipped
-  mysqldump without a server, and `tpl.py` parses MediaWiki templates. `AGENTS.md` lists where
-  every source dump lives.
+  mysqldump without a server, and `tpl.py` parses MediaWiki templates. `AGENTS.md` says where
+  the list of source dumps is kept.
 
 ## File format
 
