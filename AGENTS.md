@@ -13,9 +13,12 @@ made, and what is still open. Read both before non-trivial changes.
   2026-11-21). **Not deployed**: hosting, domain and deploying stay Jamie's call.
 - Since 2026-11-12 the Planet Kubb Score gadget on thingelstad.xyz carries public copies of the
   grammar, the generated parser, `kubb.js` and one example game (Jamie: "Approved with everything
-  the way it is now."). `npm run kubb:sync` in thingelstad.xyz copies them; `kubb:check` fails on
-  drift, so a change here needs a sync there. That sync is owed for notation 2: on 2026-11-22
-  the gadget still carried the grammar and `kubb.js` it copied on 2026-11-16.
+  the way it is now."). Since 2026-11-22 it copies a tagged release, as the other clients do, and
+  is at `v2-2026.11` (thingelstad.xyz pull request 180): it reads notation 2's lenient form,
+  position lines and rule headers. `npm run kubb:sync -- --tag <tag>` in thingelstad.xyz copies
+  that tag's own files and names it in `vendor/pk-kubb-score/SOURCE`; `kubb:check` fails when a
+  copy differs from that release, and only says so when a newer tag exists here. So work on
+  `master` never reaches the gadget, and a new release needs a sync there to arrive.
 - `npm test` passes: 149 of 150 games valid (the one failure is a real `F-` slip). The grammar and
   `kubb.js` read all 1,328 turns and 7,954 batons the same way, and the conformance suite passes.
 - `node tools/check-parser.mjs` reports warnings in 39 games, 0 winner mismatches and 0
